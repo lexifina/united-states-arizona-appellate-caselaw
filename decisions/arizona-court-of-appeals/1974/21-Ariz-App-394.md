@@ -1,0 +1,37 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1940"
+decided: "1974-03-14"
+citations: ["21 Ariz. App. 394", "519 P.2d 1159"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and STEVENS, J., concur."]
+parties: ["CITY OF PHOENIX, Appellant, v. Frank KENLY and Zona Kenly, Appellees."]
+source_url: "https://static.case.law/ariz-app/21/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1250993
+cites_cases: ["1 Ariz.App. 102", "10 Ariz.App. 189", "104 Ariz. 513", "105 Ariz. 125", "13 Ariz.App. 571", "14 Ariz.App. 536", "15 Ariz.App. 1", "15 Ariz.App. 495", "17 Ariz.App. 428", "20 Ariz.App. 185", "27 Ariz. 136", "28 Ariz. 315", "30 Ariz. 392", "5 Ariz.App. 299", "55 Ariz. 6", "71 Ariz. 259", "77 Ariz. 359", "80 Ariz. 72", "82 Ariz. 111", "82 Ariz. 192"]
+---
+
+# City of Phoenix v. Kenly
+
+## Majority (OGG, Judge.)
+
+OPINION
+OGG, Judge.
+Plaintiffs in the trial court filed a tort and wrongful death action against the appellant City of Phoenix (City). Subsequently, a similar action was filed by the same plaintiffs against the appellees Frank and Zona Kenly (Kenly). These actions were consolidated for trial and thereafter the City filed a cross-claim against Kenly seeking indemnity.
+The original cause of action arose out of an incident wherein a large tree limb fell or was blown from a tree on the Kenly property and struck a "passing automobile in which the plaintiffs and plaintiffs’ decedents were riding. The free overhung the City’s right-of-way. The City claimed it was entitled to indemnity from Kenly on the theory that Kenly’s negligence was the active primary cause of the accident and that any negligence of the City in failing to maintain a safe public street was only secondary or passive negligence.
+The trial court granted Kenly’s motion to dismiss the City’s cross-claim and this appeal followed. In our opinion the trial court was correct in dismissing the City’s cross-claim against Kenly.
+To properly analyze this case we must look at the respective duties owed the plaintiffs by the City and Kenly. Both complaints alleged that certain trees adjacent to the City right-of-way had branches that overhung the right-of-way, that the trees were defective and dangerous and that the defendants knew or should have known of such condition and failed to take reasonable precautions to protect the traveling public. If the allegations of the complaints are adequately proven, both the City and Kenly owe such a duty to the plaintiffs. Carver v. Salt River Valley Water Users’ Ass’n, 104 Ariz. 513, 456 P.2d 371 (1969); City of Phoenix v. Whiting, 10 Ariz.App. 189, 457 P.2d 729 (1969). A municipality has been held to the duty to exercise reasonable care to see that its streets are safe for use by the traveling public. A breach of this duty arises when a municipality knows — or, in the exercise of reasonable care, should know — that a street is unsafe and dangerous and then negligently fails to remedy the situation, or is negligent in the manner in which it attempts to remedy the situation. Arizona State Highway Department v. Bechtold, 105 Ariz. 125, 460 P.2d 179 (1969); Harlan v. City of Tucson, 82 Ariz. 111, 309 P.2d 244 (1957); City of Phoenix v. Weedon, 71 Ariz. 259, 226 P.2d 157 (1950); Dillow v. City of Yuma, 55 Ariz. 6, 97 P.2d 535 (1940); City of Phoenix v. Clem, 28 Ariz. 315, 237 P. 168 (1925); Vegodsky v. City of Tucson, 1 Ariz.App. 102, 399 P.2d 723 (1965).
+The Arizona Appellate Courts have consistently held that a joint or concurrent tort-feasor who actively participates in the wrong that causes injury to a third party is not entitled to indemnity from another joint or concurrent tort-feasor whose conduct also caused injury to the plaintiff, even though the latter’s conduct may have been more negligent than the conduct of the party seeking indemnity. Blakely Oil v. Crowder, 80 Ariz. 72, 292 P.2d 842 (1956); City of Phoenix v. Whiting, supra; Thornton v. Marsico, 5 Ariz.App. 299, 425 P.2d 869 (1967).
+In our opinion the case of City of Phoenix v. Whiting is directly in point. In that case a tree located on property owned by Salt River Project but subject to an easement by the City fell upon an automobile in the public street. The City filed a third party complaint, alleging that the Project was the one actively and primarily negligent and that the City was only passively or secondarily negligent. The trial court granted the Project’s motion to dismiss this third party complaint. In upholding the ruling of the trial court the Appellate Court stated:
+“At most, the City and Project were joint tort feasors, between whom there is no contribution, and between whom there would at most have been a matter of common' liability.”
+The City relies on the rationale of the Busy Bee Buffet v. Ferrell, 82 Ariz. 192, 310 P.2d 817 (1957) decision to justify the active-passive negligence theory in the claim against Kenly. See also Crouse v. Wilbur-Ellis Co, 77 Ariz. 359, 272 P.2d 352 (1954). In the cases interpreting Busy Bee, the Arizona Appellate Courts have held that there is no indemnity between joint tort-feasors enabling the one who is less negligent to get indemnity from the other for damages caused by the concurring negligent acts of both. Busy Bee and Crouse only permit indemnity when the party seeking indemnity was not personally at fault and did not actively participate in the wrong causing injury to a third party, but was nevertheless liable because of a legal duty to the third party for the conduct of the indemnitor who actively caused the injury. Allison Steel Mfg. Co. v. Superior Court, 20 Ariz.App. 185, 511 P.2d 198 (1973); Transcon Lines v. Barnes, 17 Ariz.App. 428, 498 P.2d 502 (1972); Employers Mutual Liability Insurance Co. of Wis. v. Advance Transformer Co, 15 Ariz.App. 1, 485 P.2d 591 (1971); Chrysler Corporation v. McCarthy, 14 Ariz.App. 536, 484 P.2d 1065 (1971); Pinal County v. Adams, 13 Ariz.App. 571, 479 P.2d 718 (1971); City of Phoenix v. Whiting, supra; Thornton v. Marsico, supra.
+The City raises an additional question relative to the trial court’s award of costs to Kenly on the cross-claim. Kenly filed a statement of costs with the trial court, seeking recovery of those costs incurred after the filing of the cross-claim by the City. The City objected, stating that it was not liable for Kenly’s costs because A.R.S. § 12-345' exempts the City from such costs. The pertinent parts of that statute read:
+“No court costs shall be charged: 1. The state, a county or a political subdivision of a county . . . ”
+Further, the City argues that the costs were referrable to the original action and not to the cross-claim.
+There is a long line of cases in Arizona interpreting A.R.S. § 12-345. Those cases hold that this statute and its predecessors, which exempts the governmental bodies and officials from court costs, refer only to those fees actually paid to the court or to court officers and not to the recovery of taxable costs incurred by a successful litigant against such bodies and officials. Hammons v. Waite, 30 Ariz. 392, 247 P. 799 (1926); Graham County v. Cochran, 27 Ariz. 136, 230 P. 1112 (1924); State v. Juengel, 15 Ariz.App. 495, 489 P.2d 869 (1971).
+We find no error in the decision of the trial court dismissing the cross-claim and fixing the costs.
+Affirmed.
+DONOFRIO, P. J., and STEVENS, J., concur.
