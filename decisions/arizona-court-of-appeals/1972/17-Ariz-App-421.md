@@ -1,0 +1,50 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1109"
+decided: "1972-06-27"
+citations: ["17 Ariz. App. 421", "498 P.2d 495"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOWARD and HATHAWAY, JJ., concur."]
+parties: ["FARMERS INSURANCE EXCHANGE, a branch of the Farmers Insurance Group, Appellant, v. Irving C. LOESCHE, as Administrator of the Estate of Lester Iglehart, Deceased, Appellee."]
+source_url: "https://static.case.law/ariz-app/17/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1228557
+cites_cases: ["1 Ariz.App. 408", "118 Misc. 471", "119 S.E.2d 645", "127 So.2d 220", "15 Ariz.App. 216", "153 N.W.2d 92", "16 Ariz.App. 549", "17 Ariz.App. 193", "176 So.2d 827", "18 A.L.R.2d 719", "194 N.Y.S. 626", "249 So.2d 375", "254 N.C. 651", "254 So.2d 898", "281 Ala. 295", "403 P.2d 555", "459 S.W.2d 702", "8 Ariz.App. 155", "9 Ariz.App. 374"]
+---
+
+# Farmers Insurance Exchange v. Loesche
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+/ The appellee, administrator of the deceased insured’s estate, instituted an action to determine whether a policy issued by appellant-insurer provided coverage for the decedent’s death. The matter was tried to the court on stipulations of fact on August 9, 1971. A judgment in favor of the ap-pellee and against the appellant in the amount of $5,000 was entered. On appel-lee’s motion, the court’s judgment included (pursuant to Rule 52(a), Ariz.R.Civ.P.) Findings of Fact and Conclusions of Law. The court found, inter alia, that the words “commercial automobile” were ambiguous and the policy made no effort to define the term. It concluded that “the exclusion does not apply in this case in that the plaintiff’s decedent was not engaged in duties incident to the operation, loading or unloading of, or as an assistant on a public or livery conveyance or commercial automobile.” The appellant made no objections to these findings.
+The facts, which were not at issue, reflect that the deceased, Lester Iglehart, was employed as a coin collector by Mountain States Telephone and Telegraph Company (hereinafter referred to as Mountain States). While on the job, a one-half ton pick-up truck owned and operated by Mountain States had been furnished decedent for the exclusive purpose of transporting himself between the pay telephones to make the collections. On April 14, 1969, while operating this vehicle, a one-car accident resulting in his death occurred on Charleston Road near Sierra Vista in Cochise County. The accident occurred during his normal working hours and in the territory to which he was assigned. He was performing duties for his employer at the time of the accident and was the sole occupant of the vehicle.
+At the time of the accident Mr. Iglehart was the owner of an insurance policy issued by appellant which provided for coverage for injury or death while, among other things, operating an automobile.
+The only issue before this court is whether the vehicle operated by the deceased was a “commercial automobile” within the exclusionary provisions of the policy issued by appellant.
+The following provisions of the policy are relevant:
+“INSURING AGREEMENTS
+PART 1—-Coverages
+To pay the principal sum stated in the schedule in the event of the death of the insured which shall result directly and independently of all other causes from bodily injury caused by accident and sustained by the insured while in or upon, or while entering into or alighting from, or through being struck by, an automobile, provided death shall occur (1) within ninety days after the date of the acci-( dent, or (2) within fifty-two weeks after the date of the accident and during a period of continuous total disability of the insured for which weekly indemnity is payable under Total Disability Coverage.”
+Under the provisions termed “Additional Definitions” under Part 1 of the Insurance Policy the term automobile is defined as follows:
+“Automobile means any four wheel land motor vehicle designed for use principally upon public roads, except a midget automobile, and includes any trailer designed for use with a private passenger automobile.”
+Under the Automobile Accident Death Indemnity portion, automobile is defined as follows:
+“With respect to this insurance the word automobile means a land motor vehicle, trailer, or semi-trailer not operated on rails or crawler treads, but does not mean (1) a farm type tractor or other equipment designed for use principally off public roads, except while actually upon public roads, or (2) a land motor vehicle or trailer while located for use principally as a residence or premises and not as a vehicle.
+The term 'Commercial Automobile’ shall not include an automobile of the truck type used for farm purposes.
+* * * * * *
+EXCLUSIONS
+This insurance does not apply:
+(a) to bodily injury or death sustained in the course of his occupation by any person while engaged (1) in duties incident to the operation, loading or unloading of, or as an assistant on a public or livery conveyance or commercial automobile, or (2) in duties incident to the repair or servicing of automobiles.”
+The definition of “commercial automobile” is one of first impression in Arizona. In interpreting undefined terms in insurance policies, however, we have oftentimes said that provisions ambiguous or susceptible to more than one reasonable construction will be construed in favor of the insured. Kepner v. Western Fire Ins. Co., 16 Ariz.App. 549, 494 P.2d 749 (1972); Maryland Cas. Co. v. Clements, 15 Ariz.App. 216, 487 P.2d 437 (1971); Paulin v. Fireman’s Fund Ins. Co., 1 Ariz.App. 408, 403 P.2d 555 (1965).
+Where, however, undefined terms are given their ordinary meaning and exclusion of benefits results, language will not be treated as ambiguous. Heard v. Farmer’s Ins. Exch. Co., 17 Ariz.App. 193, 496 P.2d 619 (1972); Hartford Fire Ins. Co. v. Electrical Dist. No. 4 of Pinal County, 9 Ariz.App. 374, 452 P.2d 539 (1969); Lawrence v. Beneficial Fire and Cas. Ins. Co., 8 Ariz.App. 155, 444 P.2d 446 (1968).
+With these well-known principles in mind we turn to other jurisdictions which have considered this problem. A review of the cases on the topic indicate that most courts analyze the character of the use of the vehicle taken into consideration with the form of the car in determining whether there is liability. Bauerle v. State Farm Mut. Auto. Ins. Co., 153 N.W.2d 92 (N.D.1967); Kirk v. Nationwide Mut. Ins. Co., 254 N.C. 651, 119 S.E.2d 645 (1961); Zabriskie v. Law, 118 Misc. 471, 194 N.Y.S. 626 (1922).
+By this test there seems no ambiguity in the failure to define “commercial automobile” and the pick-up seems undoubtedly a commercial vehicle within the exclusions. Appellee argues, however, that the juxtaposition of “livery conveyance” to “commercial automobile” narrows “commercial” to mean only those business-owned vehicles which haul or transport goods or persons. Alternatively, he contends that such is a reasonable construction and that under the familiar principles of insurance law previously stated, the policy should be construed in favor of the insured. While it is perhaps the better practice, gramatically speaking, to separate terms by commas, we think a commonsense reading of the provision “a public or livery conveyance or commercial automobile” suggests a separate and distinct meaning to “commercial automobile.”
+As stated in Lawrence, supra:
+“We will not twist an ordinary, necessary and logical drafting ‘inconsistency’ into an ambiguity. Where words are given standard meanings and a lack of coverage is the result, the language should not be treated so as to create ambiguity which would result in the opposite of what was so expressed.” 8 Ariz. App. at 158, 444 P.2d at 449.
+In Hardee v. Southern Farm Bureau Cas. Ins. Co., 127 So.2d 220 (La.App.1961), a case involving the same exclusion as the one at bar, the court held that a “commercial automobile” is not an ambiguous term but has a meaning readily ascertainable in the plain, ordinary and popular sense of the language used. See Ferguson v. State Farm Mut. Auto. Ins. Co., 281 Ala. 295, 202 So.2d 81 (1967).
+While we agree with appellee that not all business-owned vehicles are commercial, Hendricks v. American Employers Ins. Co., 176 So.2d 827 (La.App.1965) (where the insured had exclusive control of the car), the mere fact that a certain vehicle can be used for personal purposes, or- that the vehicle is not designed or used to. haul for profit, is not conclusive in determining whether a particular vehicle is “commercial.”- It is the character of the use that is crucial. State Farm Mut. Auto. Ins. Co. v. Latham, 249 So.2d 375 (Miss. 1971); Bauerle v. State Farm Mutual Auto. Ins. Co., supra; Hardee v. Southern Farm Bureau Cas. Ins. Co., supra; Note 18 A.L.R.2d 719 (1950). For this reason, reliance on several cases holding vehicles of different types to be “commercial autos” within policy exclusions are of little help because the type vehicles are so clearly commercial. E. g. Bryant v. State Farm Mut. Auto. Ins. Co., 254 So.2d 898 (Miss. 1971) (tandem refrigerated van); Ferguson v. State Farm Mut. Auto. Ins. Co. supra, (caterpillar roadscraping machine); Noland v. Allstate Ins. Co., 459 S.W.2d 702 (Tex.Civ.App.1970) (tractor trailer).
+The test is one of degree and must be examined in each case in light of the particular facts and the terms of the .policy. In this case it is clear that the vehicle was owned and controlled by Mountain States and used exclusively for company business.
+The judgment of the lower court is reversed and the case remanded with directions to the trial court to enter judgment consistent with the findings herein.
+HOWARD and HATHAWAY, JJ., concur.
+. We summarily reject appellee’s argument that appellant by failing to object below, has not waived its right to challenge the trial court’s “finding” that the policy was ambiguous. Rule 52(b), Ariz. R.Civ.P. 16 A.R.S.
