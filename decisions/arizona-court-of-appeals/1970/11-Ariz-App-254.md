@@ -1,0 +1,36 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 822"
+decided: "1970-01-14"
+citations: ["11 Ariz. App. 254", "463 P.2d 838"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and CAMERON, J., concur."]
+parties: ["ARIZONA TITLE INSURANCE AND TRUST COMPANY, an Arizona corporation, Appellant, v. Hugh KELLY and Marion D. Kelly, his wife, H. B. Michelson and Jane Doe Michelson, his wife, and A. P. A. Investments, Inc., an Arizona corporation, Appellees."]
+source_url: "https://static.case.law/ariz-app/11/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1206248
+cites_cases: ["102 Ariz. 248", "105 Ariz. 216", "126 A.L.R. 501", "30 Ariz. 375", "31 Ariz. 201", "44 Ariz. 223", "54 Ariz. 387", "73 Ariz. 203"]
+---
+
+# Arizona Title Insurance & Trust Co. v. Kelly
+
+## Majority (STEVENS, Judge.)
+
+STEVENS, Judge.
+The appellant was the plaintiff in the trial court. The complaint sought judgment on a promissory note and to foreclose the mortgage which secured the note. The note and mortgage were executed prior to Arizona’s enactment of the Uniform Commercial Code. The appellees, along with other parties, were defendants. The appellees signed the note as makers but did not execute the mortgage. There was a single corporate mortgagor which also executed the note as maker and was a party-defendant. The complaint sought the right to establish a deficiency against the mortgagor as well as against the appellees, as makers, if the sheriff’s sale on special execution failed to satisfy the debt.
+The appellees filed their motion to dismiss the complaint insofar as it related to them urging that they were not properly joined as parties-defendant. They urged Civil Rule 12(b), 16 A.R.S. They also urged that the motion was. proper in view of A.R.S. § 33-722 which is as follows:
+“If separate actions are brought on the debt and to foreclose the mortgage given to secure it, the plaintiff shall elect which to prosecute and the other shall be dismissed.”
+The minute entry order of dismissal was reduced to a formal written judgment of dismissal and Civil Rule 54(b), 16 A.R.S., was invoked. The plaintiff appeals urging that it was reversible error to dismiss the action as to the appellees. This limited issue is presented by the appeal.
+At the time of the signing of the judgment of dismissal, which was some period of time after the entry of the minute order granting the motion to dimiss, the trial court’s minutes reflect the fact of the signing. The minutes further recite: “[t]he court having been advised that this case is settled and no final judgment having been entered * * the cause was placed on the inactive list. The appellees urge that this cause is therefore moot. Without more in the record than has been presented to this Court we are unable to-agree.
+The appellees urge that it was proper for the plaintiff to foreclose the mortgage and that if the sheriff’s sale on special execution did not satisfy the debt, that then and only then could the plaintiff sue the appellees for the deficiency remaining.
+Chapter 6 of Title 33 of the Arizona Revised Statutes (Vol. 11) is “Mortgages And Pledges.” Article 2 thereof is entitled “Foreclosure.” A.R.S. § 33-722 is contained within Article 2. A subsequent section also contained in Article 2 is A.R.S. § 33-725 which relates to judgments of foreclosure, special executions and the establishment of a deficiency. The case of Bank of Douglas v. Neel, 30 Ariz. 375, 247 P. 132 (1926) established that there is but one judgment docketed in a foreclosure action, being the judgment for the full amount of the debt and that the foreclosure is ancillary.
+Had the suit been one based upon an unsecured promissory note, the appelleeswould have been properly joined as makers even though it be established that they were accommodation makers. Young v. Carr, 44 Ariz. 223, 36 P.2d 555 (1934).
+The Rules of Civil Procedure, both before and after the extensive amendments effective 31 October 1966, encourage the joinder of all appropriate parties in a single suit to avoid multiplicity of litigation. The election, if there be an election available, rests with the plaintiff in the first instance.
+In our opinion A.R.S. § 33-722 does not support the action of the trial court. The section applies only “if separate actions are brought.” Here but one action was brought. A.R.S. § 33-722 was formerly § 62-516 of the 1939 Arizona Code Annotated (ACA). The Arizona Supreme Court had the ACA section under consideration in Smith v. Mangels, 73 Ariz. 203, 240 P.2d 168 (1952) and stated “[o]bviously, the election required by this section is limited to the circumstance where both actions are pending simultaneously.”
+In our opinion A.R.S. § 33-722 is a . statutory rule of procedure. It is further our opinion that it grants no substantive rights. This section. appeared in the 1913 Civil Code as § 4115, and was considered by the Arizona Supreme Court in Neely v. Miller, 31 Ariz. 201, 251 P. 445 (1926). The Court held that the section had no extra-territorial effect. To the Court of Appeals this means that the section is procedural. The Arizona Supreme Court had a California Code section, a section of different import, under consideration in Catchpole v. Narramore, 102 Ariz. 248, 428 P.2d 105 (1967). There the Court held that while the California Code section there in question had certain procedural overtones, the section granted a substantive right, the right to a deficiency. Reaching this conclusion, the Court held “[t]he California statute, being substantive, must be given full faith and credit under the Federal Constitution * * *."
+. In Anderson v. State, 54 Ariz. 387, 96 P.2d 281, 126 A.L.R. 501 (1939), the Arizona Supreme Court held that where the Legislature speaks on matters of procedure, the statute supersedes any court rule in conflict therewith. In our opinion this is no longer the rule in Arizona. The 1960 amendment to the Judicial Article in the Arizona Constitution vested the rule-making power in the Arizona Supreme Court. Recently the Arizona Legislature enacted legislation in relation to bifurcated trials in criminal cases wherein the sanity of the defendant was an issue. The Act sets forth certain procedures. In State v. Blazak, 105 Ariz. 216, 462 P.2d 84 (Decided 8 December 1969), the defendant urged that the statute was an unconstitutional invasion of the rule-making power of the Supreme Court. The Supreme Court rejected this contention stating that the statutory procedural rules are effective until modified or suspended by rules adopted by the Arizona Supreme Court.
+In our opinion A.R.S. § 33-722, not being substantive, is procedural. Being procedural, it must be reconciled with the Rules of Civil Procedure. We hold that it was proper to join in a single action multiple parties whose rights arose out of a single transaction, the note and mortgage in question. As aforestated, in the matter now in consideration there was but a single action pending. Reconciling A.R.S. § 33-722 as a procedural rule with our Rules of Civil Procedure, we hold that it was error to grant the motion to dismiss.
+The judgment of dismissal is reversed.
+DONOFRIO, P. J., and CAMERON, J., concur.
