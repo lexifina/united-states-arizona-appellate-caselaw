@@ -1,0 +1,51 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1122"
+decided: "1969-09-16"
+citations: ["10 Ariz. App. 340", "458 P.2d 544"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis A. SACKIN, Appellant, v. Robert E. KERSTING, Appellee, v. Walker McCUNE, Defendant in Trial Court."]
+source_url: "https://static.case.law/ariz-app/10/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208207
+cites_cases: ["116 A.L.R. 1191", "124 Cal.App.2d 248", "130 N.J.Eq. 180", "140 P.2d 386", "2 Ariz. 75", "21 A.2d 815", "21 Ariz. 559", "22 Cal.2d 540", "268 P.2d 537", "395 U.S. 337", "53 Wyo. 203", "6 Ariz. 413", "64 Ariz. 357", "8 Ariz. 215"]
+---
+
+# Sackin v. Kersting
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+This is an appeal from an order of the Superior Court which denied the motion of the garnishee-appellant herein, Louis A. Sackin, “to Dismiss Proceedings in Contravention of Writ of Garnishment and to Vacate and Set Aside Levies, Returns of Writs of Execution and Sheriffs’ Sales Scheduled Pursuant Thereto.”
+We are called upon to determine whether:
+1. Under the circumstances in this case The garnishee, Sackin, had a standing to object to the sale of the interest of the defendant McCune in properties held in the name of the garnishee Sackin.
+2. Whether under the circumstances in the instant case the trial court was correct in denying Sackin’s motion to vacate the writ of execution.
+The facts necessary for a determination of this matter are as follows. In May of 1965 the defendant, Walker McCune, entered into an agreement with the plaintiff, Robert Kersting, for past and future services as legal advisor and consultant. On 4 September 1965, Walker McCune and his wife executed a trust agreement in which they agreed to convey to the garnishee, Sackin, a California attorney, as co-trustee with United California Bank, all of Mc-Cune’s real and personal property. The beneficiaries of the trust were McCune, his wife, and four minor children of McCune. This trust was implemented in October of 1965 by deeds from McCune to Sackin of two parcels of real property, one a home located in Maricopa County, Arizona, and the second located in Gila County, Arizona, which are the subject of this controversy.
+On 23 November 1965 the plaintiff, Kersting, instituted an action against Mc-Cune upon the contract which resulted in a judgment on 4 September 1968 in an amount in excess of $100,000 against Mc-Cune. This judgment was appealed by McCune to this Court, and a cost bond but no supersedeas bond was posted. The appeal is still pending.
+On 18 October 1968 the plaintiff caused to be issued and served upon garnishee, Sackin, a writ of garnishment. The garnishee, Sackin, answered:
+“That he was not at the time said Writ was served, has not since become, and is not now, indebted to the defendant in the above entitled action; that he had not at the time said Writ was served, has not since had, and has not now in his possession any property or effects of the defendant; that he has no knowledge of any other person who is indebted to said defendant, or who has property or effects of the defendant in his possession.”
+An affidavit controverting the answer was filed by the attorney for the plaintiff which was based in part upon a deposition of Mr. Walker McCune, and a tender of issues (§ 12-1590 A.R.S.) and a creditor’s bill was filed by plaintiff.
+On 6 June 1969 plaintiff filed a motion for summary judgment against the garnishee, Sackin. On 19 June 1969 Sackin filed a motion to “Dismiss Proceedings in Contravention of Writ of Garnishment and to Vacate and Set Aside Levies, Returns of Writs of Execution and Sheriffs’ Sales Scheduled Pursuant Thereto.”
+On 20 June 1969 after hearing oral argument on the motion the trial court signed an order:
+1. Denying plaintiff’s motion for summary judgment against the garnishee, Sackin, on the tender of issue as to the writ of garnishment.
+2. Denying garnishee-Sackin’s motion to dismiss proceedings in contravention of the writ of garnishment.
+3. Denying garnishee-Sackin’s motion to vacate and set aside and vacate the levies, writs of execution and proposed Sheriff’s Sale of the property in question.
+On appeal the garnishee, Sackin, asked this Court to stay the sales pursuant to Rule 62(h) of the Rules of Civil Procedure, 16 A.R.S. We granted the motion and upon posting of the bond with the Clerk of the Superior Court in the amount of $25,000, the execution sales were stayed pending ruling by this Court on appeal.
+DOES LOUIS A. SACKIN, THE GARNISHEE, HAVE A STANDING TO OBJECT?
+The writs of execution were worded, “against the right, title and interest as to Walker A. McCune in the property.” Attached to the writs were legal descriptions of the properties in question presently held in the name of the garnishee, Sackin. At the hearing one of the managers of a title company testified by way of affidavit that this placed a cloud upon the property in question.
+It is contended that the Sheriffs of Maricopa and Gila Counties are only selling the interest of the defendant McCune and that the garnishee, Sackin, has no interest and therefore no standing to object. We do not agree.
+We believe Sackin has a standing to object. Even though the execution and execution sale purportedly reach only the interest of Walker McCune in and to the property, the evidence makes it clear that this constitutes a cloud upon the title and we do not believe that Sackin must wait until a sale or quiet title action to protect his interest. We believe that Sackin has the right to object at the time the writs are issued in the manner followed herein.
+WAS THE TRIAL COURT CORRECT IN REFUSING TO QUASH THE EXECUTIONS AND EXECUTION SALES ?
+The central issue is whether the defendant McCune has fraudulently conveyed to the trustee, Sackin, the property in question. The plaintiff contends that the transfer of the property from McCune to Sackin was in fraud of plaintiff’s rights and that under the Uniform Fraudulent Conveyances Act, § 44-1001 et seq., the judgment creditor may at his option litigate the question of a fraudulent conveyance by way of a writ of garnishment upon the person to whom the property was conveyed, in this case the trustee, sue to set aside the fraudulent conveyance, have it declared void, or have the property sold under execution.
+It is pretty well settled that the Uniform Fraudulent Conveyance Act and particularly § 44-1009, A.R.S., which reads as follows,
+“A. Where a conveyance or obligation is fraudulent as to a creditor, such creditor, when his claim has matured, may, * * *:
+“1. Have the conveyance set aside or obligation annulled to the extent necessary to satisfy his claim, or “2. Disregard the conveyance and attach or levy execution upon the property conveyed”,
+allows a judgment creditor who has not issued execution to sue to set aside a fraudulent conveyance, Epstein v. Bendursky, 130 N.J.Eq. 180, 21 A.2d 815 (1941), bring an equitable action to have the transfer declared void, or if claim as creditor has been reduced to judgment he may proceed to have the property sold under execution, Wagner v. Trout, 124 Cal.App.2d 248, 268 P.2d 537 (1954), as was attempted by plaintiff herein. Roundtree v. Marshall, 6 Ariz. 413, 59 P. 109 (1899), Strong v. Strong, 22 Cal.2d 540, 140 P.2d 386 (1943), Flaks, Inc. v. DeBerry, 53 Wyo. 203, 79 P.2d 825, 116 A.L.R. 1191 (1938).
+Our Supreme Court has held that not only must a fraudulent conveyance be plead and proven, Ferguson v. Roberts, 64 Ariz. 357, 170 P.2d 855 (1946), but the ■ creditor must sustain the burden of proof in showing that there was a fraudulent conveyance. Kinsburg v. Christy, 21 Ariz. 559, 192 P. 1114 (1920), Costello v. Friedman, 8 Ariz. 215, 71 P. 935 (1903), Rochester v. Sullivan, 2 Ariz. 75, 11 P. 58 (1886). It is incumbent upon the one who attempts to show that the property is held in trust in fraud of one’s creditors to establish that fact by clear and convincing evidence. Costello v. Friedman, supra.
+We do not believe that a judgment creditor by levying against the property alleged to have been fraudulently conveyed, may, when the record owner moves to dismiss the levy, dispense with the burden of proving the conveyance was fraudulent at said hearing. In the instant case, the trustee having moved to set aside the writs of execution, the burden of showing a fraudulent conveyance from the judgment debtor to the trustee was still on the plaintiff and having failed to sustain this burden in the hearing below, the court was in error in failing to quash the writs of execution.
+Nothing we say herein should prevent the judgment creditor from litigating the question of a fraudulent conveyance in a garnishment proceeding, in a creditor’s bill in equity, or in an execution proceeding provided that once contested the burden is upon the one alleging the fraudulent conveyance to prove by clear and convincing evidence that the transfer was in fact fraudulent. Costello v. Friedman, supra.
+Appellant cites the recent United States Supreme Court case of Sniadach v. Family Finance Corp., 395 U.S. 337, 89 S.Ct. 1820, 23 L.Ed.2d 349 (1969), for the proposition that a writ of execution may not issue against the property held by Sackin without a prior hearing. Having held that, under the facts in the case, the writs must be set aside because of the failure of the plaintiff to sustain the burden of proof, we specifically do not consider whether Sniadach v. Family Finance Corp., supra, applies.
+The issuance of the mandate in this matter shall constitute a further stay of the Sheriffs’ sales until the issues relative to the claimed fraudulent conveyance have been decided by the trial court, provided that the further stay ordered by this Court shall expire within 90 days from the date of the mandate unless further extended by the trial court. If not further extended the trial court shall quash the writs of execution. The issuance of the mandate in this matter shall constitute a directive to the trial court to exonerate the $25,000 bond heretofore ordered by the Court of Appeals.
+DONOFRIO, P. J., and STEVENS, J., concur.
