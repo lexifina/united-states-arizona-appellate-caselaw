@@ -1,0 +1,46 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 929"
+decided: "1975-10-16"
+citations: ["25 Ariz. App. 80", "541 P.2d 406"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAIRE, Chief Judge Division 1, and EUBANK, J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Jimmy PENA, Appellant."]
+source_url: "https://static.case.law/ariz-app/25/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1245454
+cites_cases: ["102 Ariz. 18", "105 Ariz. 368", "111 Ariz. 254", "5 Ariz.App. 498"]
+---
+
+# State v. Pena
+
+## Majority (JACOBSON, Presiding Judge.)
+
+OPINION
+JACOBSON, Presiding Judge.
+On May 24, 1974 appellant Jimmy Pena was arrested without a warrant for possession of narcotic drugs. On May 25 the defendant appeared for his initial hearing and a complaint was subscribed and sworn to before a court commissioner by a Phoenix police officer. At this time, the preliminary hearing was set for May 31. Bond was set as $1,100 and appellant signed the standard release order. On May 31, the defendant and his counsel appeared before a Justice of the Peace who reset the preliminary hearing for June 3 and released the defendant on his own recognizance.
+On June 3, the defendant failed to appear for his preliminary hearing. Nonetheless, the preliminary hearing proceeded in his absence and he was bound over to the Superior Court for trial.
+The defendant was rearrested on June 24th and September 25th, he entered into a plea agreement whereby he pled guilty to the charge of possession of a narcotic drug. In exchange, the State agreed to dismiss its petition for revocation of the defendant’s probation in another matter. On October 22, he was sentenced to a term of not less than five nor more than seven years in the Arizona State Prison.
+On appeal the defendant raises two questions :
+1. Whether the Justice of the Peace erred in allowing the defendant to be bound over at the preliminary hearing when he was not present and there is no evidence that he waived his rights to be present.
+2. Whether it was error for the defendant to be bound over on a complaint that had been signed by a court commissioner and whether it was error for the Superior Court to take action on the information filed, as it lacked jurisdiction.
+Turning to the defendant’s first contention, it appears that before a proceeding may go forward in a defendant’s absence, the defendant must have personal notice (1) of the time of the proceedings, (2) his right to be present at it, and (3) a warning received that the proceedings would go forward in his absence should he fail to appear. Arizona Rules of Criminal Procedure 9.1, 17 A.R.S. In our opinion, all three requirements were satisfied in this case. The record indicates that at the May 31 hearing, the Justice of the Peace gave the defendant notice of the time and place of the next hearing thus satisfying the first requirement. As to the second and third requirements, defendant’s release order states in bold print:
+WARNING TO THE DEFENDANT:
+You have a right to be present at your trial and at a number of other proceedings of which you will be notified. If you do not appear at the time set by the court, a warrant will be issued for your arrest and the proceeding will begin without you.
+This is identical to suggested Form 6 of the Arizona Rules of Criminal Procedure. The defendant signed this form thus showing that he received notice of his right to be present and that the preliminary hearing would go forward without, him if he did not appear. Certainly this satisfies the notice requirement of the Rules. See State v. Thornburg, 111 Ariz. 254, 527 P.2d 762 (1974). There is no requirement that a defendant receive notice of his rights after every continuance. Likewise, simply because the defendant was released on his recognizance rather than on the bond described in his release order does not alter the warning that he received.
+Moreover, there is no requirement that the court make a specific determination prior to beginning a proceeding in defendant’s absence that his absence is voluntary especially where the record is clear that Rule 9.1 is applicable. It appears from the record here that the same Justice of the Peace conducted both the May 31 and the June 3 hearing. The statement signed by the defendant was part of the record at the June 3 hearing. Finally, the defendant’s attorney at the preliminary hearing stated that the hearing could proceed without him. Thus the record before the Justice of the Peace established that the defendant’s absence was voluntary within the meaning of Rule 9.1 and it was proper to proceed to conduct the preliminary hearing in his absence.
+As to the defendant’s second point, he contends that the complaint filed against him and the subsequent preliminary hearing were invalid because the complaint was sworn to before a court commissioner rather than a “magistrate” as required by the rules.
+The office of court commissioner was created by Arizona Constitution which provides, inter alia:
+Judges of the superior court may appoint court commissioners . . . who shall have such powers and perform such duties as may be provided by law or rule of the Supreme Court. Ariz.Const. art. 6, § 24, as added, election Nov. 8, 1960.
+Pursuant to this constitutional authorization, the Arizona Supreme Court has given court commissioners the power to “hear and determine any matter governed by Rules 4, 6 and 7 of the Rules of Criminal Procedure.” Ariz.Sup.Ct.R. 46 (a) (11) (Supp.1974), 17A, A.R.S. (effective November 9, 1973. ******) Arizona Rules of Crimnal Procedure 4.1(a) provides, inter alia,
+“A person arrested without a warrant shall be taken before the nearest or most accessible magistrate in the county of arrest, whereupon a complaint, if one has not already been filed, shall promptly be prepared and filed.”
+Rule 4.1(a) does not require that a formal complaint be prepared by the time of the initial appearance, if the charges against the defendant and reasonable cause to support them sufficiently appears from the release questionnaire. Ariz.R.Crim.P. Rule 4.1(c), comment. Because a court commissioner has the power to make all determinations required under Rule 4, he therefore has the power to make the determination whether there is reasonable cause to support the charges and to conduct the initial hearing in the case of a warrantless arrest.
+Accordingly, the only functions that would remain for a magistrate to perform under Rule 2 or 3 would be to accept a complaint for filing (Rule 2.2) and to have complaint made upon an oath before him. (Rule 2.3) There is no reason to believe that a court commissioner cannot perform those functions as well as a justice of the peace or a police magistrate. It would put form above substance to allow the court commissioner to conduct the initial hearing and make a determination as to the reasonable grounds for the charges yet require a police magistrate to sign the complaint. Such a result would be illogical and impractical.
+Further, Rule 4.1 provides upon the arrest of a person without a warrant that the complaint shall be promptly prepared and filed. As has been shown, the steps necessary to completing the complaint which are not clearly covered by Rule 4, are largely ministerial. In fact, these steps can logically be considered part of the initial hearing. Since the court commissioner’s authority is derived from Rule 4 and that rule requires that the complaint be promptly filed, those procedures fall within the ambit of the Supreme Court rule giving the commissioners power to conduct the hearing itself. Accordingly, we find no error in the complaint being signed by a court commissioner.
+This case could have been decided upon such cases as State v. White, 102 Ariz. 18, 423 P.2d 716 (1967) (a defendant who pled guilty to a charge not included in the information, deemed to have waived a preliminary hearing for that charge); State v. Hansen, 105 Ariz. 368, 464 P.2d 960 (1970) (defendant’s plea of guilty waived any claim he was prevented from assisting his counsel at preliminary hearing); and State v. Cuzick, 5 Ariz.App. 498, 428 P.2d 443 (1967) (because defendant pled guilty, Superior Court did not lack jurisdiction over the defendant even if the preliminary hearing was insufficient.) However, because of the importance of the issues raised, the court preferred to reach the merits of the defendant’s contentions.
+The judgment of the trial court is affirmed.
+HAIRE, Chief Judge Division 1, and EUBANK, J., concur.
+. Both parties in this case have referred the Court to rules which were not in effect at the time of the May 25, 1974 hearing. The State cites Rule 46(a) (13) which was not effective until July 15, 1974. Appellant cites the old Rule 46(b) (2) (stating, inter alia, that a court commissioner shall not “exercise jurisdiction in [a] criminal proceedings”). This provision was deleted effective November 9, 1973.
+. In this case, the release questionnaire shows that the defendant had the heroin in his possession at the time of arrest which forms a sufficient basis for the charge.
