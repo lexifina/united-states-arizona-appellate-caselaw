@@ -1,0 +1,57 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 78"
+decided: "1966-01-14"
+citations: ["2 Ariz. App. 438", "409 P.2d 597"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, J., concurs."]
+parties: ["Beulah M. MANN, Administratrix with Will Annexed of the Estate of Alfred E. Mann, individually, Appellants, v. George William HENNESSEY, Appellee."]
+source_url: "https://static.case.law/ariz-app/2/cases/0438-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1244851
+cites_cases: ["1 Ariz.App. 508", "25 Ariz. 177", "40 Ariz. 531", "409 P.2d 285", "44 A.L.R.2d 513", "72 Ariz. 345", "88 Ariz. 248", "91 Ariz. 253", "92 Ariz. 63", "94 Ariz. 327", "94 Ariz. 365", "97 Ariz. 16"]
+---
+
+# Mann v. Hennessey
+
+## Majority (JOHN A. McGUIRE, Superior Court Judge.)
+
+JOHN A. McGUIRE, Superior Court Judge.
+This is an appeal from an order vacating a default judgment entered in favor of the plaintiffs in connection with a motor vehicle accident.
+Suit was filed January 18, 1962, process was served upon defendant appellee and by him promptly turned over to his insurance carrier. Negotiations were had between plaintiffs’ attorney and the insurance adjuster for defendant. The fact situation is discussed below; however the papers were never turned over to an attorney until after default judgment had been entered on February 28, 1963.
+No oral testimony was introduced before the trial court and this court is in as good a position as the trial court to exercise its independent judgment as to both facts and law upon the written papers filed. DeSantis v. Dixon, 72 Ariz. 345, 236 P.2d 38, 44 A.L.R.2d 513 (1951); Combustion Engineering, Inc. v. Arizona State Tax Commission, 91 Ariz. 253, 371 P.2d 879 (1962); Cantlay & Tanxola, Inc. v. Senner, 92 Ariz. 63, 373 P.2d 370 (1962).
+It is fundamental that motions to set aside defaults are to a great extent within the sound discretion of the trial court. Wellton-Mohawk Irrigation and Drainage District v. McDonald, 1 Ariz.App. 508, 405 P.2d 299 (1965) and cases cited therein.
+The Supreme Court on December 31, 1965 in the case of Marquez v. Rapid Harvest, Ariz., 409 P.2d 285, in upholding the action of the trial court in setting aside a default said:
+“This follows the general rule that any doubt which may exist should be resolved in favor of the application, to the end of securing a trial upon the merits. 6 Moore’s Federal Practice, #55.10 [1]; Hendrie Buick Co. v. Mack, 88 Ariz. 248, 355 P.2d 892 (1960).”
+In this case on January 26, 1962, shortly after the service of summons, plaintiffs’ attorney wrote the insurance adjuster this letter:
+“Gentlemen:
+Please be advised that in accordance with our telephone conversation, you need not turn this file over to an attorney until you have received notice from us that settlement is not possible.
+We will not default this matter pending settlement negotiations, and until you have been given 10 days previous written notice that the matter will be litigated.”
+On July 16, 1962 the adjuster offered $660 and on September 21st (having received no reply) he wrote plaintiffs’ attorney:
+“We would like very much to get this matter settled if it can be done at a realistic figure.
+As you know this matter has been dragging on for some time under an open extension to file an answer to the complaint. If we are not going to be able to get together please advise me so that we may file our answer so that we may come to some final determination on the claim.
+Hoping that I will be hearing from you in the immediate future.”
+On October 1, 1962 plaintiffs’ attorney wrote the insurance adjuster:
+“We have your letter of July 16, 1962, relative to your offer of settlement in the above matter.
+Be advised that we do not feel the same to be fair in any regard and unless you can come up with some figure different than the one you have submitted, it is suggested that you file an Answer immediately.”
+The receipt of this letter is disputed, however, in view of the very positive affidavits as to mailing and the fact that the affidavit of denial of receipt was made over seven months from the date of the letter, it is logical to conclude that the letter reached the adjuster’s office but somehow did not get in the file. See Merchants and Manufacturers Ass’n. v. First National Bank, 40 Ariz. 531, 14 P.2d 717 (1932) for the presumption concerning receipt of mail. There is a dispute as to whether there were further oral negotiations in November. It must be noted that Rule 80(d), 16 A.R.S., is very specific in requiring all agreements in respect to litigated matters to be in writing except when noted in the Clerk’s minutes.
+Plaintiff finally took default on February 1, 1963, a hearing was held on February 18th and formal written judgment entered on February 28th. The motion to set aside the judgment was filed May 13, 1963.
+It is evident that this is not a case of , “excusable neglect” as that term is ordinarily used. If the letter of October 1st was sufficient to give the ten days notice promised under the letter of January 26th, the neglect was inexcusable and the trial court must be reversed
+If on the other hand the letter of October 1st was insufficient to give the ten days notice and start the time running then the letter of January 26th giving an indefinite extension was still in full force and effect and there was no neglect whatsoever. There is no criticism of plaintiffs’ attorney for taking the default. He considered that adequate notice had been given. It is however for this court to interpret the letter and determine its actual legal effect.
+It is to be noted that negotiations developed very slowly; neither party appeared to be pushing the matter to final conclusion. The letter of October 1st spoke of the possibility of coming up with a different figure and contained the “suggestion” that otherwise “you file an Answer immediately”. This can well be construed as an invitation to further discussion and certainly was not a definite notice that negotiations had ended and that ten days notice was being given that the matter would be litigated.
+The right of plaintiffs to take default depends solely on the wording of the letter quoted above. We hold that the wording of this letter is not so plain and unequivocal as to make it an abuse of discretion on the part of the trial court to hold it insufficient. The good cause requirement for setting aside a default was satisfied by the showing that the judgment was improperly entered.
+Since there was no neglect to be relieved from, there is no need for a showing of a meritorious defense as is required when setting aside a default for excusable neglect. Gila Valley, etc., Co. v. Arizona Trust & Savings Bank, 25 Ariz. 177, 215 P. 159 (1923).
+The order is affirmed.
+DONOFRIO, J., concurs.
+
+## Dissent (STEVENS, Chief Judge)
+
+STEVENS, Chief Judge
+(dissenting).
+I am unable to agree with the conclusions reached in the majority opinion. I agree that where we consider the identical record which was considered by the trial court, being a written record without oral testimony, we have the same right that the trial court had to interpret the record. However, we will not reverse for a mere difference of opinion. We will only reverse where we find an abuse of discretion. In my opinion there was an abuse of discretion in this case.
+We are not here dealing with a private individual lacking in knowledge with reference to the phase of the law which was under consideration as in the case of Gray v. Dillon, 97 Ariz. 16, 396 P.2d 251 (1964). We are here dealing with an insurance adjuster whose very livelinood is intimately associated with claims and with litigation arising out of claims, a person with special knowledge of the risks incident to the entry of the default as in Schering Corporation v. Cotlow, 94 Ariz. 365, 385 P.2d 234 (1963).
+I do not agree that we can disregard the concept of excusable neglect in our decision in this case. It appears to me that the majority states, in effect, “if we apply the doctrine of excusable neglect, we must reverse the trial court. Here we apply the doctrine of the interpretation of ambiguous documents and concur in the discretion exercised by the trial court”. If the letters considered in the opinion were in fact couched in such language that the insurance carrier’s duty to answer was not clearly set forth then, in my opinion, there would have been excusable neglect in failing to file an answer at any earlier date. I am impressed with the fact that as a portion of the background in relation to the motion to set aside the default judgment there is an absence of any showing that the insurance adjuster first made inquiry of the plaintiffs’ attorney or that he first checked the official court records before he turned the file over to his attorney. The record reflects that the insurance adjuster took the file to the attorney for answer and that it was the attorney who made the inquiry by checking the records in the court house. From this statement of fact I can reach but one conclusion and that is that the insurance adjuster did not rely upon the letters from the plaintiffs’ attorney. He was just neglectful with reference to the file. The majority opinion indicates that the adjuster received the letter of October 1st but apparently mislaid it. This being so he neglected the file approximately 6 months in the face of that letter’s admonition that “unless you can come up with some figure different than the one you have submitted, it is suggested that you file an answer immediately”. If he did not receive the letter of 1 October, then he ignored his own letter of 21 September in which he acknowledged that the “matter has been dragging on for some time under an open extension to file an answer” concluding that he hoped he would “be hearing from you in the immediate future”. There is nothing in the disputed conference of November with reference to which the insurance adjuster stated in his affidavit that “after further discussion it was agreed that one more effort be made before the defendant should answer” which causes me to believe that the adjuster was continuing to rely on the 10 day written notice. It is noted that the majority opinion states that it is not critical of plaintiffs’ attorney for taking the default. To my mind, the record reflects neglect which is not excusable. I am not critical of an insurance company which seeks to make a settlement after suit before employing counsel. In my opinion, it is unrealistic to expect an attorney to file an answer which complies with the Rules of Civil Procedure when the file and the pleadings are brought to the attorney at the last moment. When an insurance company delays in the matter of employment of attorneys until the last moment or possibly as here, beyond the last moment, the insurance company takes a calculated risk. The award in this case is not one the circumstances of which “are such that it would be extremely unjust to enforce such a judgment”. Bateman v. McDonald, 94 Ariz. 327, 329, 385 P.2d 208, 210 (1963).
+I would reverse the order of the trial court and I would reinstate the judgment.
+Note: Judge James Duke Cameron having requested that he be relieved from the consideration of this matter, Judge John A. McGuire was called to sit in his stead and participate in the determination of this decision.
