@@ -1,0 +1,37 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 311"
+decided: "1970-07-27"
+citations: ["12 Ariz. App. 521", "472 P.2d 490"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAIRE and JACOBSON, JJ., concur."]
+parties: ["Vivian BOONE, Widow, Petitioner, In the Matter of Shepherd Boone, Deceased, v. INDUSTRIAL COMMISSION of Arizona, Respondent, Arizona Club, Respondent Employer, State Compensation Fund, Respondent Carrier."]
+source_url: "https://static.case.law/ariz-app/12/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211221
+cites_cases: ["167 N.E. 181", "251 N.Y. 90", "50 Ariz. 516", "71 Ariz. 244", "75 Ariz. 326", "8 Ariz.App. 184", "82 Ariz. 107"]
+---
+
+# Boone v. Industrial Commission
+
+## Majority (EUBANK, Presiding Judge.)
+
+EUBANK, Presiding Judge.
+The only question presented for our review by writ of certiorari is whether the petitioner succeeded in proving that her deceased husband was within one of the accepted exceptions to “going and coming rule” at the time of his death thereby entitling her to death benefits under the Workmen’s Compensation Act.
+The “going and coming rule” is described in Butler v. Industrial Commission, 50 Ariz. 516, 521, 73 P.2d 703, 705 (1937) in this manner:
+“It is of course the general rule in compensation cases, subject to a few exceptions, that a man does not enter an employment until he reaches the place where the work of his employer is to be carried on, and similarly, when he has finished all the work required by his duties and leaves the place of business of his employer to go to his own home, he has left the employment, and that an accident which may occur to him on his way to or from his work is not in the due course of his employment.”
+See also McCampbell v. Benevolent and Protective Order Of Elks, 71 Ariz. 244, 253; 226 P.2d 147, 152-153 (1950).
+Petitioner relies upon two exceptions to the rule in her claim for death benefits. The first is found in Serrano v. Industrial Commission, 75 Ariz. 326, 256 P.2d 709 (1953), wherein it was held that an employee who received compensation in order to travel to and from a job and who was injured in doing so was injured within the course of his employment and entitled to benefits under the Act. The second exception is inferred from language in our case of Rencehausen v. Western Greyhound Lines, 8 Ariz.App. 184, at page 186, 444 P.2d 741, at page 743 (1968), where we said: “Our Supreme Court by the adoption of the 'going and coming’ rule has in absence of special circumstances excluded from the Workmen’s Compensation Act risks to which the employee is exposed when coming or going to work which risks are shared with members of the general public.” (Emphasis supplied by petitioner). This language, the petitioner claims, supports an exception based upon the dangerous nature of the neighborhood that the deceased husband was required to walk to and from work in.
+A review of the record shows that the first exception was not proven by the petitioner, and that the second exception does not exist as a matter of law. The award must therefore be affirmed. ■
+Shepherd Boone, the deceased husband of the petitioner, had worked as an elevator man at the Arizona Club for over forty years. It was his preferred custom to walk to and from his place of employment, located in the Luhrs Building at the corner of North Central Avenue and Jefferson Street in downtown Phoenix, and his residence at 4 North 12th Street. On the night of May 3rd and the morning of May 4th, he had finished work and left to walk home by 12:00 P.M. At about 12:30 A.M. at the northeast corner of South 11th Street and East Jefferson Street, just two blocks from his home and eleven blocks from his place of employment, Mr. Boone was assaulted by two men and injured. He died eleven days later of complications attributable to the assault. He was seventy-five years old at the time of his death.
+The first exception relied upon by the petitioner is that an employee who receives compensation in order to travel to and from work may be injured in the course of his employment while so traveling and entitled to Workmen’s Compensation benefits. The burden of proving this exception is upon the petitioner. There is no evidence in the record of any written or oral agreement between the Arizona Club and its employees to pay travel to and from work such as there was in Serrano, supra. The testimony of the Club’s employees is also contrary to petitioner’s contention. Mr. Jordan, who was the supervisor of the deceased, testified that the Club did not pay traveling expenses, as did the Captain Waiter. Petitioner’s contention is that because the assault took place at 12:30 A.M. and the decedent was paid from 6:00 P.M. until 1:00 A.M. each day, or for seven hours, that decedent was injured on the job in that he was receiving wages at the time that he was injured. Mr. Jordan’s testimony was that the decedent was paid for a 7-hour day, but that the amount of time actually worked by him was flexible and depended upon the time that he was finished with his work in the evening. Mr. Jordan also testified that on the evening of the assault on Mr. Boone that he left “around 12 o’clock.” There is no evidence that Mr. Boone was on an errand fcr the Club.
+On the basis of the record, it is our opinion that the petitioner has failed in her burden of proving the Serrano, supra, exception to the “going and coming rule.”
+The second exception advanced by the petitioner is that the language in Rencehausen, supra, creates an exception within the factual context of the case at bar. We are unable to agree.
+In Rencehausen, a bus driver employee was stationed in Phoenix at his own request but he continued to live in Tucson for his own convenience. When he received driving assignments he would travel to Phoenix by bus using a personal pass furnished him by his employer. On one such occasion, an accident occurred prior to his arrival at the depot in Phoenix, injuring the driver, and our court held that he was not within the “scope and course” of his employment at the time of the accident. In reaching this conclusion we relied upon the McCampbell case, supra, and Hancock v. Industrial Commission, 82 Ariz. 107, 309 P.2d 242 (1957) where we said, quoting from Marks’ Dependents v. Gray, 251 N.Y. 90, 167 N.E. 181, 182 (1929), that “* * * the decisive test must be whether it is the employment or something else that has sent the traveler forth upon the journey or brought exposure to its perils. * * *” Applying this test to the instant case, the record is silent as to any evidence that the Club required Mr. Boone to live where he did or to walk to and from work. The record supports the conclusion of the Commission that these matters were private matters of the decedent and not a condition of his employment.
+Petitioner expended a great amount of time at the April 23, 1969 formal hearing in establishing that the neighborhood through which Mr. Boone walked to and from work suffered from a high crime rate.
+However, as in the Rencehausen case, supra, Mr. Boone was not shown to be within the “scope and course” of his employment at the time he was assaulted.
+Award affirmed.
+HAIRE and JACOBSON, JJ., concur.
+. This case was decided under the law as it existed prior to January 1,1969.
