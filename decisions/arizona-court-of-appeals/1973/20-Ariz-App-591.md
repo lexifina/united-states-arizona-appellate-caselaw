@@ -1,0 +1,49 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 2437"
+decided: "1973-10-16"
+citations: ["20 Ariz. App. 591", "514 P.2d 1042"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and OGG, J., concur."]
+parties: ["PEOPLE of the State of Arizona ex rel. Gary K. NELSON, the Attorney General, Petitioner, v. The SUPERIOR COURT of Arizona, IN AND FOR the COUNTY OF NAVAJO; the Honorable Lloyd Fernandez, Judge of the Superior Court, Respondent; Carl KEMPTON, dba Chief Geronimo Trading Post, Ted S. Baca, dba Little Indian Indian Center; Max Ortega, Jr., dba Sitting Bull Indian Store (Traders), Respondents-Real Parties In Interest. Max ORTEGA, Jr., Carl Kempton and Ted S. Baca, Counter-Petitioners, v. STATE of Arizona ex rel. Gary K. NELSON, the Attorney General; the Superior Court of the State of Arizona, In and For the County of Navajo, the Honorable Lloyd Fernandez, Judge of the Superior Court, Counter-Respondents."]
+source_url: "https://static.case.law/ariz-app/20/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1248995
+cites_cases: ["281 F.Supp. 391", "409 F.2d 1239"]
+---
+
+# People ex rel. Nelson v. Superior Court
+
+## Majority (STEVENS, Judge.)
+
+OPINION
+STEVENS, Judge.
+The petitioner herein is the plaintiff in each of three separate but similar lawsuits filed in Navajo County. The petitioner will be referred to as the State. The three respondent real parties in interest are the defendants in those actions, one in each of the three Superior Court cases. In this opinion we will treat the three cases as though there were but one case, unless the context otherwise indicates, and we will refer to the parties-defendant as the defendant.
+The three lawsuits were filed under the Consumer Fraud provisions of our statutes, A.R.S. §§ 44-1521 to 44 — 1534 as amended in 1972. In each of the pending cases an impound order was secured and certain merchandise was impounded. These orders were placed in execution by the Office of The Attorney General and his staff without the assistance of a deputy sheriff or any person authorized to effect service by the Rules of Civil Procedure, 16 A.R.S. The Attorney General impounded some merchandise from the store of each of the defendants. In each case the defendant was successful in attacking the sufficiency of the service and in securing an order entered by the Respondent Judge for the release of the impounded merchandise. The order of release was stayed and this Court assumed jurisdiction in this special action which tests the validity of the order entered by the Respondent Judge.
+Shortly before the date scheduled for the informal hearing the defendants filed their response to the petition for special action relief. Without securing a Court order and as a part of their response, they filed a counterpetition seeking affirmative relief. The State moved this Court for an order striking certain paragraphs of the counterpetition or in the alternative for leave to respond thereto. At the oral presentation it was agreed that the matters set forth in the counterpetition had been presented to the Respondent Judge. This Court examined the counterpetition and, being of the opinion that the matters therein contained are largely matters which are defensive to the petition for special action, denied the motion to strike and granted leave to the State as requested. This ruling is limited to this particular case and is not to be considered as a precedent for other special action proceedings.
+Initially these cases were handled by a different Assistant Attorney General. The former Assistant Attorney General, on 28 April 1972, prior to the filing of the cases in the Superior Court for Navajo County, secured an ex parte order signed by a judge of the Superior Court for Maricopa County which order was signed in Maricopa County. The order authorized the impounding of chattels as evidence.
+The cases were thereafter filed and the orders were made a part of the Navajo County records. The 28 April orders were not attacked and an appearance was made by the defendant in each case. On 2 March 1973 the resident judge of Navajo County issued a permanent injunction prohibiting the defendant therein named from selling merchandise contrary to the statute. There was no appeal. We decline to rule upon the validity of the 28 April 1972 order, deeming the same to have become moot by virtue of the entry of the requested injunctive relief.
+Thereafter The Attorney General made an investigation and concluded that the acts prohibited by the 2 March 1973 injunction were being continued. With this information, the sufficiency whereof is not attacked in the proceeding now before this Court, the present Assistant Attorney General on 8 June 1973 secured from the resident judge of Navajo County a further impound order. The order recites in part:
+“IT IS FURTHER ORDERED that a copy of this Order and a copy of the verified Petition upon which it is based shall be served upon the Defendant, and that immediately upon such service the order shall effect the impoundment of the foregoing described merchandise and shall operate to permit the Attorney General of Arizona to take and to retain possession thereof, as authorized by A. R.S. §§ 44-1524 subd. 4, until further order of this Court.”
+An Assistant Attorney General and his authorized delegate went to each of the places of business, “served” persons therein, but in no instance was the owner-defendant served and at the same time impounded certain merchandise. The motions to quash the service and to release the merchandise urged that the service was defective. The motions urged that the service should have been accomplished by a person authorized to effect service pursuant to Civil Rule 4(d)(1). The Attorney General urged that Civil Rule 5(c) is applicable. The Respondent Judge granted the motions.
+In order to determine the issues, it is necessary to examine the Arizona statutes relating to consumer fraud which statutes we regret to say, in our opinion, are not a model of clarity. We quote portions of the statutes as follows:
+“44-1521. Definitions
+In this article, unless the context otherwise requires:
+j}c sjs if; >Jc jjj
+2. ‘Attorney general’ means the attorney general of Arizona or his authorized delegate.
+3. ‘Authorized delegate’ means any attorney, investigator or administrative personnel employed by the attorney general and so designated, and, when requested by the county attorney and authorized by the attorney general may include similar personnel employed by the several county attorneys of this state.
+>|í ífc íjí í}C >{< ifi
+6. ‘Person’ means any natural person or his legal representative, partnership, domestic or foreign corporation, any company, trust, business entity, or association, any agent, employee, salesman, partner, officer, director, member, stockholder, associate, or trustee.”
+“44-1524. Powers of attorney general
+>{« % 5fC Sfc ‡
+4. Pursuant to an order of the superior court, impound any record, book, document, account, paper, or sample or merchandise material to such practice and retain the same in his possession until the completion of all proceedings undertaken under this article or in the courts.”
+Initially A.R.S. § 44-1531 contained penal provisions. These provisions were repealed and the present section by that number provides only for civil remedies.
+In this opinion we express no views as to A.R.S. § 44-1526.
+In our opinion the power of The Attorney General to impound the offending merchandise and hold the same as evidence is a substantive right for the protection of the buying public. A.R.S. § 44— 1524(4) grants that right. The defendant store owner is not divested of his title to the merchandise. At the conclusion of the litigation- he is entitled to the return of the merchandise. The aspect of the litigation now under consideration is in the substantive interest of the State and we hold neither Civil Rule 4 nor Civil Rule 5 applies to the service of the impound order.
+The 8 June 1973 impound order provided that it “shall be served upon the defendant.” The service in each instance was upon personnel in charge of and at the place of business of the defendant. Such service is authorized by the above-quoted A.R.S. § 44-1521(6). The impound order could have been couched in the language of that subsection. We hold that the language of the order did not restrict The Attorney General or his authorized delegates to the necessity of seeking out and personally serving the defendant with the impound order as a condition precedent to effecting a reasonable impoundment of the offending merchandise.
+There are other Arizona statutes which authorize the impoundment of chattels for evidence by the agencies there involved. See A.R.S. § 3-710 (G) (H) with reference to the Egg Inspector; A.R.S. § 3-280 with reference to non-complying fertilizer; A. R.S. § 36-910 with reference to unsafe food; A.R.S. § 3-239 with reference to non-complying seed; A.R.S. § 44-2122(B) with reference to non-complying weighing devices.
+A.R.S. § 44-1522(B) instructs that it is the intent of the Legislature in construing the consumer fraud statutes that the courts of this State may use the interpretations of the Federal Trade Commission and of the Federal Courts as a guide. It is our opinion that the holding herein that the impound procedures are substantive for the protection of the public are consistent with the guidelines so prescribed. See State of Iowa v. Union Asphalt and Roadoils, Inc., 281 F.Supp. 391 (S.D. Iowa 1968), aff’d on other grounds 409 F.2d 1239 (8th Cir. 1969).
+The 8 June 1973 order of the Respondent Judge in each case is vacated and the special action relief is granted.
+DONOFRIO, P. J., and OGG, J., concur.
