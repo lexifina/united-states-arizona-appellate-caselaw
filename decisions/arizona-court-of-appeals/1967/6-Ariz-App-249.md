@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 85"
+decided: "1967-09-07"
+citations: ["6 Ariz. App. 249", "431 P.2d 689"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMERON, C. J., and STEVENS, J., concur."]
+parties: ["Roy A. WALLER, Petitioner, v. The INDUSTRIAL COMMISSION of Arizona and Howard P. Foley Company, Respondents."]
+source_url: "https://static.case.law/ariz-app/6/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1237889
+cites_cases: ["394 P.2d 501", "406 P.2d 199", "57 Ariz. 520", "59 Ariz. 172", "60 Ariz. 443", "66 Ariz. 78", "67 Ariz. 122", "86 Ariz. 259", "90 Ariz. 337", "94 Ariz. 225", "99 Ariz. 15", "99 Ariz. 19"]
+---
+
+# Waller v. Industrial Commission
+
+## Majority (DONOFRIO, Judge.)
+
+DONOFRIO, Judge.
+This case comes to use from The Industrial Commission on a writ of certiorari to review the lawfulness of its award denying petitioner’s petition to reopen his claim. The question presented is whether petitioner has shown new or additional disability resulting from an industrial accident which would entitle him to have his claim reopened.
+In February 1960 petitioner sustained an industrial injury to his back for which he received certain benefits and compensation. Later he was given an award for temporary disability only. That award and subsequent awards denying him permanent disability have been carried to the Arizona Supreme Court in three causes, entitled Waller v. Howard P. Foley Company, 90 Ariz. 337, 367 P.2d 795 (1961); Waller v. Howard P. Foley Company, 94 Ariz. 225, 382 P.2d 693 (1963) and Waller v. Industrial Commission, 99 Ariz. 15, 406 P.2d 197 (1965). Only the last case, which will be designated by its Supreme Court number 8173, is pertinent to this review.
+The specific issue in 8173 was whether the surgery performed on petitioner’s spine in May 1960 was occasioned by the injury of February 1960. It is well to insert here that petitioner had a history of injuries dating back to 1954 in other states, and that he had been treated at other times prior to 1960 for injuries to his back.
+The Supreme Court, after considering the record which included the testimony of Dr. Kenneth Jones of Arkansas who performed the surgery, and Dr. Paul Size-more, also of Arkansas, who treated petitioner, found that the causal relationship had not been established by petitioner. The explicit wording of the opinion is:
+“ * * * petitioner failed to show the medical or legal causation between the accident of February 10, 1960, and the subsequent disc surgery of May 31, 1960 * * *." 99 Ariz. 19, 406 P.2d 199.
+While the appeal was pending, petitioner on March 3, 1964, filed the instant petition for a readjustment or reopening of his claim. The petition was supported by a letter dated February 27, 1964, from Dr. Size-more to the effect that petitioner had been hospitalized with vertigo and pneumonia and that he had also been unable to work because of painful lumbar backaches. The Commission granted a hearing on the application, the purpose being to admit evidence on new or previously undiscovered disability. The record, however, reveals that the evidence was all directed toward proving petitioner was presently suffering disability as a result of the surgery of May 1960 and that the surgery was causally related to the industrial accident of 1960. To establish this, petitioner tesified and introduced the testimony of Doctors Sizemore, Hartman and Jones, the doctors who treated him in Arkansas. They rendered opinions as to the causal relationship between the injury of February 10, 1960, and the surgery of May 1960. They attributed the subsequent hospitalizations of petitioner to residuals of the herniated lumbar disc operation. It is to be noted that the testimony of Doctors Jones and Sizemore was received in the earlier hearing and also in the instant hearing.
+Petitioner attacks the final award in 8173 on the basis that the proof upon which it was founded was negative. He charge's that the conclusion of the medical examining board was based on incompetent, negative and equivocal evidence. He urges that the new testimony of his doctors is affirmative and should have been relied upon by the Commission in making its finding on the motion to reopen.
+The Commission, on the other hand, ■contends that the issue as to whether or not there is a causal relationship between the injury of February 1960 and his present disability, which stems from the surgical operation of May 1960, has already been litigated and determined in 8173; that this decision is res judicata and effectively bars further litigation of the same issues as attempted in the instant case. We agree.
+The instant hearing reveals that the petitioner presented evidence on the same subject matter which was considered in the prior hearings in 8173. The Commission had considered testimony from some of the same doctors. It is true their statements were not as strong on the point of causation. They were not, however, limited in presenting their evidence. Although the Court’s decision may have been negative in the respect that petitioner therein failed in bearing the burden imposed upon him by law, it nevertheless is res judicata on the issue. Petitioner was given every opportunity to present his evidence. The finding which was sustained by the Supreme Court determined that the surgical operation of May 1960, from which it is conceded the subsequent disabilities arose, was not causally related to the injury of February 1960.
+When an award is entered on a particular matter and it has been affirmed on appeal, the case is forever closed to that issue. In Hoff v. City of Mesa, 86 Ariz. 259, 344 P.2d 1013 (1959), the Court said :
+“Briefly stated, the doctrine of res judicata is that an existing final judgment rendered upon the merits, without fraud or collusion, by a court of competent jurisdiction, is conclusive as to every point decided therein and also as to every point raised by the record which could have been decided, with respect to the parties and their privies, in all other actions in the same or any other judicial tribunal of concurrent jurisdiction. Lauderdale v. Industrial Commission, 60 Ariz. 443, 139 P.2d 449; O’Neil v. Martin, 66 Ariz. 78, 182 P.2d 939; Taylor v. Betts, 59 Ariz. 172, 124 P.2d 764 and Shattuck v. Shattuck, 67 Ariz. 122, 192 P.2d 229.”
+The application of the doctrine in workmen’s compensation cases with circumstances similar to the instant case is to be found in Lauderdale v. Industrial Commission, 60 Ariz. 443, 139 P.2d 449 (1943), cited in Hoff, supra, and the connected case of Lauderdale v. Industrial Comm., 57 Ariz. 520, 115 P.2d 249 (1941). See also Ross v. State Industrial Court, Okl., 394 P.2d 501 (1964).
+The decision upon rehearing entered on October 13, 1965, which affirms the findings and award of March 26, 1965, denying the petition to reopen, is affirmed.
+CAMERON, C. J., and STEVENS, J., concur.
