@@ -1,0 +1,45 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 1"
+decided: "1965-03-18"
+citations: ["1 Ariz. App. 153", "400 P.2d 360"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY and MOLLOY, JJ., concur."]
+parties: ["The STATE of Arizona, Appellee, v. Billy Ray ADAMS, Appellant."]
+source_url: "https://static.case.law/ariz-app/1/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1234363
+cites_cases: ["1 Ariz.App. 36", "154 F. 445", "177 F.2d 523", "20 Ariz. 328", "214 P.2d 451", "233 Ark. 616", "279 F. 223", "69 Ariz. 181", "78 Okl.Cr. 407", "90 Okl.Cr. 380", "93 Ariz. 266", "94 Okl. Cr. 340"]
+---
+
+# State v. Adams
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+The defendant, Billy Ray Adams, was; convicted in the Superior Court of Pima County, Arizona, on September 11, 1963, on both counts of an information charging burglary, second degree, and grand théft. The information also alleged a prior felony conviction which the defendant admitted prior to submission of the case to the jury.
+Briefly, the facts are as follows: About 6 a. m. Saturday, February 9, 1963, an employee of the Cow Palace restaurant on the Nogales Highway, coming to the back door of the establishment heard noises and calling for assistance from another employee- and a deputy sheriff, discovered that the premises had been burglarized. Money in the cigarette machine, juke box, and $250.-00 in the cash register were missing. At approximately 10 a. m., the president of the corporate restaurant arrived and at about noon he saw defendant looking into a car which was across the highway from the restaurant. A paper bag defendant was carrying contained coins, some of which were marked with fingernail polish. Mr. Minna, the acting manager, testified that the coins used by the owner when they played the juke box were similarly marked' so that they could get them back when-the machine was emptied. Four fingerprints were found on the inside of the broken window and a thumbprint on the outside of the window, and there was a heelprint on the bar. The investigating officer testified that the fingerprints were, in his opinion, made by the defendant and that the heelprint on the bar was that of the shoes taken from the defendant while in-jail.
+Defendant took the stand and claimed that he and a friend, whose name was also> Billy Adams, stopped at the Cow Palace the-previous night and went on to Nogales. After a night of drinking and carousing, they had a fight and the friend took the car, leaving the defendant bloody and stranded in the red light district of Nogales, Sonora.
+Defendant started for the border around1 7:30 a. m. and, after crossing, hitchhiked a ride with a rancher for ten miles and walked and ran the rest of the way to the vicinity of the Cow Palace, a distance of approximately 25 miles, arriving about 10:-30 or 11 a. m.
+The main contentions made by the defendant on appeal concern the final argument of the county attorney.
+Defendant’s attorney at the trial, in his opening statement, said that defendant, upon arriving back at the Cow Palace, looked into the car of the other Billy Adams and saw the bag of coins, which he picked up. Defendant, on the witness stand, said he found the bag of coins near a telephone pole several hundred yards south of the Cow Palace. The county attorney commented on this discrepancy in his final argument to the jury.
+There are eight assignments of error and eight propositions of law. Without reciting all of these, basically the issues are:
+1. May the county attorney use the ■statements of the defense counsel to impeach the defendant?
+2. May the county attorney, in his closing argument, comment on the need to have a law abiding community and avoid chaos in the community, where the same is not supported by the evidence and is made as an assertion of fact?
+3. May the county attorney, in his closing argument, comment on the long hours, low pay and dedication of law enforcement people and urge the jury to convict so that all of this work shall not have been in vain, where the same is not supported by the evidence and is made as an assertion of fact?
+Generally, the use of language by ■counsel calculated to prejudice a defendant and not justified by the evidence is improper and censurable and should be discountenanced by the court. However, arguments based on the evidence and inferences legitimately to be derived therefrom are not prohibited, and it is usually within the discretion of the trial court to determine whether or not the limits of professional propriety have been exceeded. The exercise of that discretion will not usually be reviewed in an appellate court unless there is invective so palpably improper that it is clearly injurious. Johnston v. United States (9 Cir. 1907) 154 F. 445; United States v. Cohen (2 Cir. 1949) 177 F.2d 523.
+Jurors may be reminded of what everyone else knows, and they may act upon and take notice of those facts which are of such general notoriety as to be matters of common knowledge. United Verde Extension Mining Co. v. Littlejohn (9 Cir. 1922) 279 F. 223 (Ariz.); 53 Am.Jur., Trials, § 481, p. 388.
+Wide latitude is allowed attorneys in discussing in arguments to the jury the facts supplied by the evidence and the inferences to be drawn therefrom. Beliak v. Plants (1963) 93 Ariz. 266, 379 P.2d 976; Aguilar v. Carpenter (1965) 1 Ariz.App. 36, 399 P.2d 124.
+The jury has the right to consider counsel’s opening statement, and comment thereon by the adverse party is correct. Moore v. Blackstone (1919) 20 Ariz. 328, 180 P. 526.
+Nor do we think it was improper for the State’s counsel to call attention of the jury to the discrepancy between the opening statement of defendant’s counsel and the defendant’s testimony on the witness stand, after defendant had listened to the State’s case. Reasonable inferences from facts rightfully before the jury are proper subjects of argument by counsel. Our Supreme Court has held that comment on the physical appearance of the defendant, as showing lack of remorse, is not improper. State v. Serna (1949) 69 Ariz. 181, 211 P.2d 455.
+In the normal course of human affairs, defendants tell their attorneys what their version of the facts at issue are, and if the attorney chooses to make an opening statement, in the normal course of human affairs, he conveys that version to the jury. Here, the defendant stood by and listened while this opening statement was made by counsel. Later, when a different version was given by the defendant while on the stand, there was no explanation of the discrepancy.
+Admissions by counsel during trial may generally be used against the client. Moore v. Blackstone, supra.
+The defendant asserts that this argument was raised for the first time in the final argument of the county attorney, and that this is reversible error. Closing argument should be limited to a rebuttal of the argument of defendant’s counsel. Abbott v. State (1944) 78 Okl.Cr. 407, 149 P.2d 514; Martin v. State (1951) 94 Okl. Cr. 340, 235 P.2d 959; Simmons v. State (1961) 233 Ark. 616, 346 S.W.2d 197. However, in this case we do not have the argument of defendant’s counsel before us. We do not know what might have been said ■therein to make the argument a proper rebuttal. No objection was made by defendant’s counsel to the fact that this argument was being made for the first time on closing argument, the sole objection being that the opening statement of defendant’s counsel was “not in evidence.” The absence of such objection leads this court to believe that there was something said by defendant’s counsel in his argument to open up the subject of the consistency of the versions told by the defendant of the events under consideration. See Gates v. State (1950), 90 Okl.Cr. 380, 214 P.2d 451.
+In view of the record in this case, we do not--think that the jury was prejudiced in its verdict by reason of the closing argument of the county attorney
+It is also claimed that the trial court erred in its instruction on arguments of counsel. The instruction given is as follows:
+“You are further instructed that argument of counsel, both for the prosecution and the defendant, must be in accord with the evidence introduced in this case, and if you have heard any statements from any counsel, either for the prosecution or for the defendant which do not agree with the evidence which you have heard, you will not consider such statement or statements as against or for the defendant in any respect. Arguments of counsel upon argument, either during the trial or at the close of the case are not evidence.”
+No authority is cited to indicate the instruction is erroneous. This court holds that the instruction properly cautions the jury regarding remarks or statements of counsel.
+We find no error committed by the trial court and the judgment is, therefore, affirmed.
+HATHAWAY and MOLLOY, JJ., concur.
