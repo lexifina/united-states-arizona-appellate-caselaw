@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 386"
+decided: "1967-11-03"
+citations: ["6 Ariz. App. 371", "432 P.2d 919"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and KRUCKER, J., concur."]
+parties: ["John CINDRICH, Jr., and Charles Cindrich, dba Cindrich Construction, Appellants, v. FIREMAN’S FUND INSURANCE COMPANY, Appellee."]
+source_url: "https://static.case.law/ariz-app/6/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1237854
+cites_cases: ["120 A.2d 250", "127 Conn. 257", "131 A.L.R. 1102", "140 Conn. 304", "143 A.2d 148", "150 A.2d 183", "16 A.2d 354", "179 P.2d 337", "233 Ark. 1020", "237 S.W.2d 411", "240 F.2d 536", "38 N.J.Super. 599", "389 S.W.2d 701", "6 Ariz.App. 21", "62 A.L.R.2d 1237", "62 A.L.R.2d 1242", "67 N.M. 101", "79 Cal.App.2d 128", "8 Wis.2d 233", "87 R.I. 473", "96 Ariz. 399", "98 N.W.2d 919", "99 A.2d 141"]
+---
+
+# Cindrich v. Fireman's Fund Insurance
+
+## Majority (MOLLOY, Judge.)
+
+MOLLOY, Judge.
+This appeal presents the problem of interpreting an exclusionary clause in a liability insurance policy. The question is whether a certain truck was “in charge of” or “in the care, custody or control” of the insured at the time it was destroyed by fire.
+There is no dispute as to the facts and the case was determined on motion for summary judgment in favor of the insurance company.
+The insured had talked with the owner of a large dump truck about buying the truck. The hoist working the dump truck was not functioning properly. It was agreed that the insured, a construction contractor, would take the truck to his yard, to have it examined by his mechanic. While it was there, the owner and the insured agreed that the mechanic would fix the hoist and that the owner would pay the insured for this repair.
+The insured towed the truck to his yard, had the truck examined by a mechanic, and caused the hoist to be repaired. Then the insured decided not to buy the truck and called the owner by telephone to so advise him. In this conversation, it was agreed between the owner and the insured that one or the other would cause the truck to be returned to the owner’s yard, “ * * * whichever of us could get to it first * * Before the truck was returned, it was destroyed by a fire which probably started from welding work being performed in the insured’s yard on a truck parked next to the truck in question. The total time that the truck was in the insured’s yard was less than one week.
+The insured alleged in his complaint that he is “ * * * legally obligated to pay * * * ” to the owner of the truck its fair value and no question is raised at this time as to the stating of a claim on this liability policy in that regard. There are two, and only two, insuring agreements in the policy under which the insured may have coverage. One contains an exclusion as to damage to property “in charge of the insured” and the other an exclusion as to “property in the care, custody or control of the insured.”
+In the lower court, only the first insuring agreement was called to the attention of the court, but this oversight is not critical because both parties agree that the wording of both exclusionary clauses has been accorded substantially the same interpretation by the courts. See Hardware Mut. Cas. Co. v. Crafton, 233 Ark. 1020, 350 S.W.2d 506 (1961); Guidici v. Pac. Auto. Ins. Co., 79 Cal.App.2d 128, 179 P.2d 337 (1947); Lyon v. Aetna Cas. & Surety Co., 140 Conn. 304, 99 A.2d 141 (1953); Cohen and Powell, Inc. v. Great American Indemnity Co., 127 Conn. 257, 16 A.2d 354, 131 A.L.R. 1102 (1940) ; Aglione v. American Automobile Insurance Company, 87 R.I. 473, 143 A.2d 148, 150 A.2d 183 (1958); Maryland Cas. Co. v. Golden Jersey Creamery, 389 S.W.2d 701 (Tex.Civ.App.1965).
+Insuring contracts are to be construed, in the case of ambiguity, against the insurer. D.M.A.F.B. Fed. Credit Union v. Employers Mut. L. Ins. Co. of Wis., 96 Ariz. 399, 396 P.2d 20 (1964). However, we see no ambiguity here. There are no words, with the possible exception of mathematical terms, which are not ambiguous when applied to particular fact situations. The word “red” becomes ambiguous when applied to some shades. When a contractor is employed to do work on buildings or other large structures, and injury results to some part of the building or structure, there are many opportunities for ambiguities to arise from the exclusionary language in question. Cases presenting this type of ambiguity are International Derrick and Equipment Co. v. Buxbaum, 240 F.2d 536, 62 A.L.R.2d 1237 (3d Cir.1957) (insured was hoisting a metal tower for antenna mast; tower was dropped; held to be in insured’s “care, custody and control”); Maryland Cas. Co. v. Hopper, 237 S.W.2d 411 (Tex.Civ.App.1950) (insured hired to connect oil well to storage tanks; held not to be in custody of storage tanks); and Meiser v. Aetna Casualty & Surety Co., 8 Wis.2d 233, 98 N.W.2d 919 (1959) (plasterer scratched windows in removing splattered plaster; held plasterer not in custody of windows).
+It is from cases such as these that a corollary rule can be devised that the exclusionary provision does not apply “ * * * where the property damaged is merely incidental to the property upon which the work is being performed * * Meiser v. Aetna Casualty & Surety Co., supra, 98 N.W.2d at 922; and see Annot, 62 A.L.R.2d 1242, at 1244 (1958).
+But we see no need to go to this corollary for assistance in a clear case of bailment such as this. As between himself and the owner, the insured clearly had a duty of care as to this truck until it was returned to its owner. We believe the following decisions to be pertinent: Guidici v. Pac. Auto. Ins. Co., 79 Cal.App.2d 128, 179 P.2d 337 (1947); Lyon v. Aetna Cas. & Surety Co., 140 Conn. 304, 99 A.2d 141 (1953); Boswell v. Travelers Indemnity Co., 38 N.J.Super. 599, 120 A.2d 250 (1956); Aglione v. American Automobile Insurance Company, 87 R.I. 473, 143 A.2d 148, 150 A.2d 183 (1958).
+We confess we are unable to understand the reasoning of decisions which apply the merely-incidental-to-the-work corollary to cases in which the real question seems to be one of whether there was a bailment of the injured chattel. Among such decisions are Hardware Mut. Cas. Co. v. Crafton, 233 Ark. 1020, 350 S.W.2d 506 (1961); and Maryland Cas. Co. v. Jolly, 67 N.M. 101, 352 P.2d 1013 (1960). However, we believe both of these cases to be distinguishable. Both bear close resemblance factually to Allright Phoenix Parking, Inc. v. Shabala, 6 Ariz.App. 21, 429 P.2d 513 (1967), in which this court found no bailment relationship to exist. Different facts call for the application of different law here.
+Judgment affirmed.
+HATHAWAY, C. J., and KRUCKER, J., concur.
+. Quote from insured’s deposition, at 18.
