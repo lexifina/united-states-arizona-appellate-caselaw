@@ -1,0 +1,44 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-HC 40"
+decided: "1976-06-17"
+citations: ["27 Ariz. App. 66", "550 P.2d 1108"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, P. J., and WREN, J., concur."]
+parties: ["STATE of Arizona ex rel. Bruce E. BABBITT, Attorney General of Arizona, and the STATE OF OKLAHOMA, Real Party in Interest, Appellant, v. Thomas Arthur KINMAN, Appellee."]
+source_url: "https://static.case.law/ariz-app/27/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1236911
+cites_cases: ["12 L.Ed.2d 311", "17 Ariz.App. 297", "210 U.S. 387", "377 U.S. 948", "68 Ariz. 180", "73 Ariz. 101", "84 S.Ct. 1359", "95 Ariz. 292"]
+---
+
+# State ex rel. Babbitt v. Kinman
+
+## Majority (SCHROEDER, Judge.)
+
+OPINION
+SCHROEDER, Judge.
+This appeal by the State pursuant to A.R.S. § 12-2101 (L) (2) is from a superior court order making a writ of habeas corpus permanent and quashing a Governor’s Warrant for the extradition of appellee Kinman from Arizona to the State of Oklahoma to answer charges that he violated the conditions of his Oklahoma probation.
+In August of 1973, the appellee, Thomas Arthur Kinman, pleaded guilty in Oklahoma to the charge of obtaining cash and merchandise by bogus check. He received a two year suspended sentence with specified conditions of probation from an Oklahoma court. In September of 1974, a Tulsa County district attorney filed an Application to Revoke Suspended Sentence, alleging that the appellee was guilty of violating two terms of his probation by failing to make monthly reports to the probation office and absconding from the jurisdiction. The appellee failed to appear at his probation revocation hearing, a fugitive warrant was issued by an Oklahoma judge, and appellee was apprehended in Arizona. Following Kinman’s refusal to waive extradition, the formal interstate extradition process began.
+The law regulating interstate extradition is controlled by the federal Constitution and statutes and their interpretation by the Supreme Court of the United States. Ex parte Riccardi, 68 Ariz. 180, 203 P.2d 627 (1949) ; 35 C.J.S. Extradition § 2 at 381 (1960). Our statutes relating to extradition, §§ 13-1301 et seq., are in harmony with the federal scheme. See Ex parte Rubens, 73 Ariz. 101, 238 P.2d 402 (1951).
+Formal demand for Kinman’s extradition was made in the form of a requisition signed by the Governor of Oklahoma June 2, 1975. Kinman in the trial court did not attack the sufficiency of the requisition papers, and our examination of the record confirms that they are in conformity with the requirements of A.R.S. § 13-1305. The properly authenticated papers include the information charging appellee with bogus check, amended information alleging a pri- or conviction, warrant for arrest, judgment and sentence, conditions of probation, and the application for revocation of suspended sentence. Upon the recommendation of the Arizona Attorney General’s office, the Governor of Arizona issued a Governor’s Warrant on Extradition June 26, 1975.
+The appellee challenged the legality of the Governor’s Warrant through a Petition for Writ of Habeas Corpus, which was granted by order entered November 6, 1975. That order, from which the State now appeals, contained the following findings:
+“. . . [T]hat the ends of justice dictate that the Petitioner not be surrendered to the Oklahoma authorities in connection with this matter, for the following reasons:
+“The Court determines that the Petitioner did comply by being advised by his counsel that said counsel had checked with the Judge of the County and the probation officer that he did not have to report to the probation officer after restitution was made.
+“The Court further determines that the Petitioner has a fused back having an operation of six weeks and that his testimony to this Court was true and convincing.”
+The court thus based its order upon a determination that in the circumstances of the case, Kinman’s probation should not be revoked. However, under the applicable law, such a determination is beyond the limited jurisdiction of the court in a habeas corpus proceeding.
+In Application of Dugger, 17 Ariz.App. 297, 300, 497 P.2d 413, 416 (1972), this Court stated:
+“After the Governor’s warrant issues an accused may bring habeas corpus to question the sufficiency of the requisition. In Application of Oppenheimer, 95 Ariz. 292, 389 P.2d 696 (1964), cert. denied, 377 U.S. 948, 84 S.Ct. 1359, 12 L.Ed.2d 311, our Supreme Court has set forth the duty of the trial court when an application for a writ is made. The court said:
+‘ * * * The court is then under the duty to find these jurisdictional facts, viz.: (1) that the complaint issued out of the demanding state was made on an affidavit; (2) that it substantially charges an offense; (3) that it is made to appear the accused is a fugitive from justice. * * * ’ 95 Ariz. at 296, 389 P.2d at 700.”
+The Superior Court in this action was limited to considering only the three jurisdictional facts enumerated in Application of Dugger, supra. Applications of Oppenheimer, 95 Ariz. 292, 389 P.2d 696 (1964), cert. denied, 377 U.S. 948, 84 S.Ct. 1359, 12 L.Ed.2d 311.
+It is undisputed that the Oklahoma complaint was made on an affidavit, that it substantially charged an offense, i. e., violation of the conditions of probation, and that appellee left Oklahoma for Arizona, thereby becoming a fugitive from justice. In Applications of Oppenheimer, supra, our Supreme Court held that the Governor is entitled to act solely on the statements in the affidavit accompanying the requisition that an accused is a fugitive from justice. See also Ex parte Riccardi, supra. Thus all three jurisdictional facts were established in this case.
+A.R.S. § 13-1320 makes it clear that the trial court cannot consider evidentiary facts as to the guilt or innocence of the defendant except insofar as it may be necessary in identifying him as the person lawfully charged with the crime. Application of Dugger, supra. In Ex parte Rubens, supra, our Supreme Court stated:
+“ ‘The question to be considered by the asylum state is whether the indictment or affidavit satisfactorily shows that the fugitive has in fact been charged, however inartificially, with a crime in the state from which he fled.’ 35 C.J.S., Extradition, § 14, page 336.
+“ ‘If more were required it would impose upon courts * * * the duty of a critical examination of the laws of states with whose jurisprudence and criminal procedure they can have only a general acquaintance. Such a duty would be an intolerable burden, * * * irritable to the just pride of the states, and fruitful of miscarriages of justice.’ Pierce v. Creecy, 210 U.S. 387, 28 S.Ct. 714, 720, 52 L.Ed. 1113.” (73 Ariz. at 108, 238 P.2d at 406-407).
+The trial court exceeded its jurisdiction by deciding that the petitioner did comply with the terms of his probation. Such a determination of the guilt or innocence of the appellee is for the Oklahoma courts. The trial court’s consideration of Kinman’s ability to travel was similarly beyond the scope of its jurisdiction in a habeas corpus proceeding.
+The appellee urges that we follow the policy set forth in a pamphlet written by an Arizona Assistant Attorney General entitled “Extradition for You and Me.” (The substance of the charge against Kinman is issuing a check, either on no account or with insufficient funds, in the amount of $108.90. The trial court found that he had made restitution). That pamphlet states that where a crime involves a check amounting to less than $100.00, written on insufficient funds, as opposed to forgery, uttering or no account, extradition should not issue. However, aside from the question of whether the Attorney General’s office should have followed such guidelines in investigating this case, it is clear that neither the Governor nor the courts are bound by such policy. In fact, the Governor need not request an investigation by the Attorney General at all. He may issue a Governor’s Warrant on Extradition solely on the proof contained in proper requisition papers from the demanding state. Ex parte Rubens, supra; Applications of Oppenheimer, supra.
+The trial court is limited to a consideration of the jurisdictional facts in habeas corpus proceedings pursuant to A.R.S. § 13-1310. Our Uniform Criminal Extradition Act, A.R.S. § 13-1301 et seq., is the law which the trial court must follow. The equitable considerations urged by Kinman here must be left to the Executive Departments of the asylum and demanding states and to the courts of the demanding state.
+Reversed with directions to quash the writ of habeas corpus.
+JACOBSON, P. J., and WREN, J., concur.
