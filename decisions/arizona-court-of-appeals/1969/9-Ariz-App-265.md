@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 183"
+decided: "1969-03-13"
+citations: ["9 Ariz. App. 265", "451 P.2d 623"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Arizona, Appellee, v. Wilbur Norton ROCKERFELLER, Appellant."]
+source_url: "https://static.case.law/ariz-app/9/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204049
+cites_cases: ["1 Ariz.App. 181", "106 S.W.2d 584", "13 Cal.Rptr. 756", "151 U.S. 396", "160 P.2d 551", "161 Cal.App.2d 668", "17 Cal.Rptr.. 789", "19 Cal.Rptr. 217", "192 Cal.App.2d 711", "194 Ark. 135", "195 P. 448", "198 Cal.App.2d 232", "200 Cal.App.2d 291", "207 So.2d 513", "251 Cal.App.2d 22", "327 P.2d 219", "394 Ill. 26", "5 Ariz.App. 516", "50 Cal.App. 427", "59 Cal.Rptr. 265", "6 Ariz.App. 419", "66 Cal.Rptr. 199", "67 N.E.2d 197", "7 Ariz.App. 498", "70 Cal.App.2d 213", "9 Ariz.App. 207"]
+---
+
+# State v. Rockerfeller
+
+## Majority (MOLLOY, Judge.)
+
+MOLLOY, Judge.
+The defendant challenges the validity of the sentence imposed upon him and asks this court to remand the case to the Mari-copa County Superior Court for resentenc-ing. He contends the trial court erred in applying the enhanced punishment provisions of A.R.S. § 13-1649 pertaining to prior convictions.
+A complaint was filed against the defendant, accusing him of commission, of a burglary. After a preliminary hearing, he was bound over to the superior court and an information was filed accusing him of an unspecified degree of burglary. Addenda to the information, filed simultaneously therewith, alleged two prior convictions of burglary, one first degree and the other an unspecified degree.
+The defendant entered a plea of not guilty and denied the allegations of prior convictions. Prior to the date set for trial, the State requested leave of court to amend the information to charge burglary in the second degree with a prior burglary conviction in 1960. The amendment was granted and the defendant requested' leave to change his plea to guilty to the amended information. The trial court, after inquiry into the voluntariness of the defendant’s guilty plea of his knowledge of the consequences thereof, accepted the plea. The defendant was subsequently sentenced to imprisonment in the 'Arizona State Prison for a period of not less than six years nor more than seven years. Without a prior, the maximum sentence would have been five years.
+Although represented by counsel at every stage of the proceedings in the trial court, the defendant has undertaken his appeal in propria persona. We therefore afford him the benefit of the tolerance with which we normally'view per se applications for relief. Although he presents only one question for review, denominated as such, it would appear that his attack on the sentence is twofold. He contends that the trial court could not sentence him for a period in excess of five years because (1) there was no formal adjudication of guilt as to a prior conviction, and (2) the allegation of a prior conviction of burglary did not specify the degree thereof.
+As to the latter contention, whether the prior conviction had been first degree burglary or second degree burglary would make absolutely no difference as to the enhanced punishment provisions of A. R.S. § 13-1649, which authorizes increased punishment on a subsequent conviction of a person who had been previously convicted for any “ * * * offense punishable by imprisonment in the state prison * * * ” A.R.S. § 13-1649, subsec. A. Both degrees of burglary fall within this description.
+As to the first contention, the defendant relies on State v. Robinson, 6 Ariz.App. 419, 433 P.2d 70 (1967), and State v. McGriff, 7 Ariz.App. 498, 441 P.2d 264 (1968), wherein we have held that there must be an adjudication of the fact of the prior conviction by the court as a prerequisite to sentencing under the prior conviction statute. In our view, the posture of this case renders inapposite the Robinson and McGriff holdings. Here, the minute entry of sentencing, to which we import verity, State v. Lindsay, 5 Ariz.App. 516, 428 P.2d 691 (1967), recites:
+“You have heretofore entered a plea of guilty to an Amended Information for Burglary (Second Degree) 'with a Prior. By' reason of your plea, IT IS THE JUDGMENT of the Court that you are guilty * * * ” (Emphasis added)
+We believe, and so hold, that the foregoing suffices to establish the fact of adjudication of the prior conviction. ' We see no reason to make form a god over substance. See State v. Madrid, 9 Ariz.App. 207, 450 P.2d 719 (1969). To require more than this would equate a trial court with Aladdin attempting to evoke the genie from his lamp.
+The defendant, however, points out that the reporter’s transcript of sentencing is silent as to any mention of the prior conviction. It is true that, notwithstanding its verity, a trial court’s record may be impeached or contradicted by other matters in the record. People v. Kessler, 394 Ill. 26, 67 N.E.2d 197 (1946). When there is a conflict between the minutes and a reporter’s transcript; the circumstances of the particular case determine which shall govern. People v. Hymes, 161 Cal.App.2d 668, 327 P.2d 219 (1958); People v. Prochnau, 251 Cal.App.2d 22, 59 Cal.Rptr. 265 (1967); People v. McKissack, 259 A.C.A. 287, 66 Cal.Rptr. 199 (1968).
+A factor to be considered in deciding which part of the record is entitled to the greater credence is the origin or nature of the particular record. Ex parte Evans, 70 Cal.App.2d 213, 160 P.2d 551 (1945). A court clerk has a duty to make a record of the proceedings of the court, State v. Anders, 1 Ariz.App. 181, 400 P.2d 852 (1965); 14 C.J.S. Clerks of Courts § 39, and to record what the court orders and adjudges. Stanton v. Arkansas Democrat Co., 194 Ark. 135, 106 S.W.2d 584 (1937). It is our duty to interpret all parts of the record together, giving effect, if possible, to all and a deficiency in one place may be supplied by what appears in another. Pointer v. United States 151 U.S. 396, 14 S.Ct. 410, 419, 38 L.Ed. 208 (1894); 4 Am. Jur.2d Appeal and Error § 400. We therefore .accept the minute entry recital as to adjudication of the prior conviction as speaking the truth notwithstanding the silence of the transcript. See Farrington v. State, Fla.App., 207 So.2d 513 (1968); People v. Riccardi, 50 Cal.App. 427, 195 P. 448 (1921).
+Judgment affirmed.
+HATHAWAY and KRUCKER, JJ„ concur.
+NQTE: This cause was decided by the Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
+. The appellant makes ho factual assertion that he was not, in fact, previously con- ' . vieted as charged. The admission of the prior appears in the record at the time a guilty plea was entered.
+. For applications of this principle, see, e. g., People v. Bowie, 200 Cal.App.2d 291, 19 Cal.Rptr. 217 (1962); People v. Toney, 192 Cal.App.2d 711, 13 Cal.Rptr. 756 (1961); People v. Brown, 198 Cal.App.2d 232, 17 Cal.Rptr.. 789 (1961).
