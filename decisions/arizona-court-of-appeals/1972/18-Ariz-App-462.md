@@ -1,0 +1,49 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1299"
+decided: "1972-11-28"
+citations: ["18 Ariz. App. 462", "503 P.2d 420"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER, C. J., and HATHAWAY, J.* concur."]
+parties: ["Evangelina NUNEZ (Wissmack), Petitioner, v. The SUPERIOR COURT of the State of Arizona, IN AND FOR the COUNTY OF PIMA, Judge Ben C. Birdsall, Presiding Judge, Judge Joe Jacobson, Pima County Superior Court, Pima County Attorney's Office, Rose Silver, County Attorney, Respondents."]
+source_url: "https://static.case.law/ariz-app/18/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1221044
+cites_cases: ["104 Ariz. 125", "12 Ariz.App. 83", "17 Ariz.App. 91", "281 F.Supp. 116", "298 S.W.2d 227", "400 P.2d 105", "443 P.2d 561", "69 Cal.2d 108", "7 Ariz.App. 330", "70 Cal. Rptr. 97", "97 Ariz. 180", "97 Ariz. 301"]
+---
+
+# Nunez v. Superior Court
+
+## Majority (HOWARD, Judge.)
+
+HOWARD, Judge.
+This petition for special action arises out of an information filed in Superior Court against the petitioner alleging violations of A.R.S. § 13-1092. Petitioner moved to quash the information on several grounds including that of failure to charge an offense. The motion was denied whereupon petitioner sought relief in this court. Since appellate intervention by way of special action is appropriate to review an erroneous denial of a motion to quash, see Abbey v. City Court of the City of Tucson, 7 Ariz.App. 330, 439 P.2d 302 (1968), we assume jurisdiction.
+A.R.S. § 13-1092 provides:
+“A. No person shall go upon or remain upon the property of any educational institution in violation of any rule or regulation of such institution or for the purpose of interfering with the lawful use of such property by others or in such manner as to deny or interfere with the lawful use of such property by others.
+B. When the chief administrative officer of an educational institution or an officer or employee designated by him to maintain order has probable cause to believe that any person or persons are committing an act or acts which interfere with or disrupt the lawful use of such property by others at the educational institution, or has probable cause to believe a person or persons have entered upon the property for the purpose of committing such an act or acts, said officer or employee may order such person or persons to leave the property of the educational institution. No person shall refuse to obey said order.
+C. Any person who violates any of the provisions of this section is guilty of a misdemeanor punishable by a fine of not more than five hundred dollars, by imprisonment in the county jail for a period not to exceed one year, or both.
+D. The provisions of this section may be enforced by any peace officer in the state wherever and whenever a violation occurs. . . . ”
+A.R.S. § 13-1093 mandates adoption by the governing board of every educational institution, within a designated period, of rules and regulations “for the maintenance of public order upon all property under its jurisdiction which is used for educational purposes”.
+This statute also requires the governing board to provide a program for the enforcement of such rules and regulations. It further provides in pertinent part:
+“ . . . Such rules and regulations shall govern the conduct of students, faculty and other staff, and all members of the public while on the property. Penalties for violations of such rules and regulations shall clearly be set forth and enforced. Penalties shall include provisions for the ejection of a violator from the property . ”
+On May 9, 1972, a direct information was filed against petitioner accusing her of the crime of trespass ttpon the property of an educational institution. The information charged that on or about April 25,1972, petitioner “went upon or remained upon the property of an educational institution, Liberty School, 5101 South Liberty Avenue, Pima County, Arizona, in violation of Rules 2B and 2F of the Rules and Regulations of School District No. 12, Sunnyside Elementary and High School Districts, in that she physically abused or threatened harm to HENRY MORENO (Rule 2B) and that she engaged in conduct or speech which violated commonly accepted standards of the school district and which, under the circumstances, had no redeeming social value (Rule 2F) ; all in violation of A.R.S. Section 13-1091, Section 13-1092, and Section 13-1093.”
+The rules and regulations of School District No. 12, promulgated and adopted pursuant to Title 13, Chapter 3, A.R.S., provides in part:
+* * * * * *
+“2. Conduct expected of all persons on or using school district property. All persons using or upon school district property for any purpose shall not engage in:
+* * * * * *
+B. Physical abuse of or threat of harm to any person on school district owned or controlled property or at school district sponsored or supervised functions.
+* * * * * *
+F. Conduct or speech which violates commonly accepted standards of the school district and which, under the circumstances, has no redeeming social value.
+* * * * * *
+3. Additional rules required of the general public.
+A. The definition of general public is anyone who does not come under the definition of either student, faculty, staff or employee.
+B. No person shall visit or audit a classroom or other activity nor shall any person come upon or remain upon school premises without the approval of the Principal or his authorized representative. No person shall conduct or attempt to conduct any activity on school premises without prior approval of the Principal or his authorized representative.
+C. Any member of the general public considered by the Superintendent of the school district or his designee to be in violation of these rules shall be instructed to leave the property of the school district. Failure to obey said instruction may subject the person to criminal proceedings pursuant to Title 13, Chapter 3, Arizona Revised Statutes, or any other applicable proceeding, civil or criminal.”
+* * * * * *
+We agree with petitioner’s argument in support of her motion to quash that the information failed to charge her with an offense. She was charged with going upon or remaining upon school property in violation of a rule or regulation of said school. The information alleged violation of specific rules of the educational institution neither of which pertained to “going upon” the school property. Nor do we believe that mere violations of Rules 2B and 2F, without more, constitute “remaining upon” the school property in violation of a rule or regulation. The word “remain” presupposes and implies something that exists or continues after some other time or event. Texas Liquor Control Board v. Johnson, 298 S.W.2d 227 (Tex.Civ.App.1957). We conceive that the proscription of A.R.S. § 13-1092 subsec. A as to remaining upon school property in violation of a school rule or regulation contemplates something more than mere commission of the act proscribed by the school rules petitioner allegedly violated. In other words, it is our opinion that before petitioner could be charged with “remaining upon” school property within the purview of A.R.S. § 13-1092, subsec. A, it was necessary to request her to leave. If after such request petitioner refused to leave, she then would be “remaining upon” school property in violation of a rule or regulation, to wit Rule 3 (C) of the subject school district.
+The purpose of the statutory provision concerning interference with peaceful conduct of educational institutions was to guarantee that tax-supported educational facilities would remain accessible and useful at all times for educational and other authorized public purposes in accordance with appropriate rules and regulations established by their respective governing boards. Tucson Public Schools, District No. 1 of Pima County v. Green, 17 Ariz.App. 91, 495 P.2d 861 (1972). Penal statutes are strictly construed and are not to be broadened beyond the clear and express intent of the legislature. State v. Wayman, 104 Ariz. 125, 449 P.2d 296 (1969); State v. Phelps, 12 Ariz.App. 83, 467, P.2d 923 (1970).
+It is not inappropriate in determining the extent of the operation of A.R.S. § 13-1092 to consider its title. Police Pension Board of City of Phoenix v. Warren, 97 Ariz. 180, 398 P.2d 892 (1965), rehearing denied 97 Ariz. 301, 400 P.2d 105 (1965). The title of the subject statute is: “Trespass upon the property of educational institutions; Interference with its lawful use by others; penalty”. It is clear that violation of the portion of A.R.S. § 13-1092, subsec. A stating that “no person shall go upon or remain upon the property of any educational institution in violation of any rule or regulation of such institution” is considered a trespass. A “trespasser” is one who enters or remains upon the property of another without the latter’s consent. Rowland v. Christian, 69 Cal.2d 108, 70 Cal. Rptr. 97, 443 P.2d 561 (1968). The rules purportedly violated by petitioner did not render her entry on the school premises unlawful. However, were she subsequently requested to leave, by one having the requisite authority to make such request, only then could she become a “trespasser”. Lucy Webb Hayes National Training School For Deaconesses and Missionaries v. Geoghegan, 281 F.Supp. 116 (D.C.D.C.1967).
+Since the subject information did not allege violation of a school regulation relative to entry upon or remaining upon the school property, it failed to state an offense within the purview of A.R.S. § 13-1092 and the motion to quash should have been granted. It is therefore ordered that the order denying the motion to quash be vacated and an appropriate order not inconsistent herewith be entered.
+KRUCKER, C. J., and HATHAWAY, J.* concur.
