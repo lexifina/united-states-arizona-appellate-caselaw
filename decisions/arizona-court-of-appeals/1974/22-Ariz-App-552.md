@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1651"
+decided: "1974-12-17"
+citations: ["22 Ariz. App. 552", "529 P.2d 706"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HOWARD, JJ., concur."]
+parties: ["James W. KILMER, as surviving spouse of Evelyn P. Kilmer, Deceased, and Father of Diane Marie Kilmer, Deceased, Appellant, v. Everett L. HICKS and Carol Lee Hicks, husband and wife, Appellees."]
+source_url: "https://static.case.law/ariz-app/22/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1232078
+cites_cases: ["100 Cal.Rptr. 212", "101 Ariz. 1", "109 Ariz. 549", "124 Cal.App.2d 95", "146 S.E.2d 425", "148 N.W.2d 107", "155 Neb. 17", "169 S.E.2d 440", "198 A.2d 71", "204 A.2d 140", "210 Va. 138", "213 So.2d 695", "229 Minn. 365", "23 Cal.App.3d 361", "234 Md. 179", "24 N.Y.2d 478", "248 N.E.2d 901", "266 N.C. 394", "268 P.2d 178", "275 N.E.2d 599", "28 Ohio St.2d 65", "301 N.Y.S.2d 65", "34 Wis.2d 14", "38 N.W.2d 838", "410 U.S. 113", "424 P.2d 16", "43 N.J. 303", "78 Ariz. 160", "9 Ariz.App. 157"]
+---
+
+# Kilmer v. Hicks
+
+## Majority (HATHAWAY, Chief Judge.)
+
+OPINION
+HATHAWAY, Chief Judge.
+This appeal arises from the granting of defendants’ motion for summary judgment in a wrongful death action. The action was brought for the death of Diane Marie Kilmer, the unborn daughter of appellant.
+Evelyn P. Kilmer, wife of appellant, was killed in an automobile accident on December 7, 1972, allegedly caused by Mr. Hicks. Her death was essentially instantaneous. She was then over 9 months pregnant. The expected date of delivery was December 5, 1972. According to the certificate of fetal death, the fetus died of fetal anoxia caused by the pre-partum maternal death. There is no question that the fetus was viable.
+We are called upon to determine whether a cause of action exists for the death of a viable fetus caused by the wrongful death of its mother at the end of a 9-month pregnancy. This is a question of first impression in Arizona, having been raised but not decided in Larriva v. Widmer, 101 Ariz. 1, 415 P.2d 424 (1966).
+There is no common law right of action for the tortious killing of a human being. Gay v. Thompson, 266 N.C. 394, 146 S.E.2d 425 (1966). The right to recover damages for wrongful death is statutory, and if maintainable for the death of an unborn child, it must be brought under A.R.S. § 12-611, which provides:
+“When death of a person is caused by [the] wrongful act, neglect or default, and the act, neglect or default is such as would, if death had not ensued, have entitled the party injured to maintain an action to recover damages in respect thereof, then, and in every such case, the person who or the corporation which would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured, and although the death was caused under such circumstances as amount in law to murder in the first or second degree or manslaughter.” (Emphasis added)
+At common law an unborn fetus is not a “person.” State v. Dickinson, 28 Ohio St.2d 65, 275 N.E.2d 599 (1971), quoting, at 601, 3 Coke, Institutes 58 (1648). The common law, so far as it is not repugnant to the constitution of the United States, the constitution or laws of this state, or established customs of the people of this state, was adopted by the legislature and is “the rule of decision in all courts of this state.” Huebner v. Deuchle, 109 Ariz. 549, 514 P.2d 470 (1973). Statutes are not to be construed as effecting any change in the common law beyond that which is clearly indicated. In re Estate of Thelen, 9 Ariz.App. 157, 450 P.2d 123 (1969). If possible, statutory enactments should be construed by courts as consistent with the common law. Farnsworth v. Hubbard, 78 Ariz. 160, 277 P.2d 252 (1954).
+A.R.S. § 12-611 abrogated the common law only insofar as it allows an action for damages for the death of a “person.” The Supreme Court of Virginia, reasoning that words in statutes should be given their ordinary acceptance and meaning, held that the word “person” as used in Virginia’s wrongful death statute, virtually identical to Arizona’s, does not include an unborn viable fetus. Lawrence v. Craven Tire Company, 210 Va. 138, 169 S.E.2d 440 (1969). The court stated:
+“If plaintiff’s decedent had no right, at time of death, to maintain an action for personal injuries, then the right to maintain the present action could not be transmitted to her personal representative. We are unwilling to hold that a child en ventre sa mere can maintain a common law action for personal injuries, and it is plain that such a holding would be necessary in order for any right of action to have been transmitted to the present plaintiff. If a child en ventre sa mere were held to be able to maintain an action for personal injuries, logic and consistency would require that if such child were injured and subsequently stillborn for reason wholly unrelated to the injuries, a right of action would survive under Code § 8-628.1.” 169 S.E.2d at 441.
+The United States Supreme Court in Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L. Ed.2d 147 (1972) held that it was not the intent of the framers of the constitution to include the unborn in the word “person,” and that a fetus was not a “person” within the meaning of the Fourteenth Amendment. Other cases which have denied recovery for the wrongful death of an unborn viable fetus under statutes permitting recovery for the death of a “person” or “minor person” include Norman v. Murphy, 124 Cal.App.2d 95, 268 P.2d 178 (1954); Bayer v. Suttle, 23 Cal.App.3d 361, 100 Cal.Rptr. 212 (1972) ; Stokes v. Liberty Mutual Insurance Company, 213 So.2d 695 (Fla.1968); Graf v. Taggert, 43 N.J. 303, 204 A.2d 140 (1964); Endresz v. Friedberg, 24 N.Y.2d 478, 301 N.Y.S.2d 65, 248 N.E.2d 901 (1969) ; Drabbels v. Skelly Oil Company, 155 Neb. 17, 50 N.W.2d 229 (1951); Gay v. Thompson, supra; Padillow v. Elrod, 424 P.2d 16 (Okl.1967).
+We note there is a minority of cases which have allowed the cause of action being advocated here, among them Kwaterski v. State Farm Mut. Automobile Ins. Co., 34 Wis.2d 14, 148 N.W.2d 107 (1967); State v. Sherman, 234 Md. 179, 198 A.2d 71 (1964); Verkennes v. Corniea, 229 Minn. 365, 38 N.W.2d 838 (1949).
+However, our Supreme Court has said in Huebner v. Deuchle, supra, that when the common law or “judge-made” law is unjust or no longer suitable to the times, courts will not hesitate to change them. On the other hand, it said, when dealing with legislative enactments, it is only proper for the legislature to correct deficiencies. We believe that the meaning of the word “person” in the statute is clear and unambiguous in its non-inclusion of a viable fetus. It is a matter for the legislature to expand the statutory definition if it deems it appropriate and not a matter for this court.
+The judgment is affirmed.
+KRUCKER and HOWARD, JJ., concur.
