@@ -1,0 +1,40 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 433"
+decided: "1973-02-06"
+citations: ["19 Ariz. App. 204", "505 P.2d 1095"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and STEVENS, J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Leonard PARKER, Appellant."]
+source_url: "https://static.case.law/ariz-app/19/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1218243
+cites_cases: ["106 Ariz. 103", "23 Ariz. 15", "55 Ariz. 411", "87 Ariz. 123", "98 Ariz. 200", "98 Ariz. 249"]
+---
+
+# State v. Parker
+
+## Majority (OGG, Judge.)
+
+OGG, Judge.
+On November 7, 1970 Preston Chapman, a Phoenix Police Officer, stopped the defendant, Leonard Parker, on 24th Street, Phoenix, Arizona to give the defendant a traffic citation. The defendant disputed the citation and as the Officer was attempting to fill in the citation the defendant struck the Officer, threw him to the ground and proceeded to strike him on the head with a rock. This violent assault continued until other officers, after great difficulty, were able to subdue the defendant. As a result of this attack the Officer was hospitalized with a brain concussion and was unable to resume his regular duties for approximately six weeks.
+The defendant was tried on the charge of Assault with Intent to Commit Murder, A.R.S. § 13-248. The jury found him guilty of the lesser included offense, Assault with a Deadly Weapon, A.R.S. § 13-249. The defendant was also convicted of a second count, Obstructing Justice, A.R.S. § 13-541.
+Defendant was sentenced to a term of 5 to 10 years on the Assault conviction and to a 3 to 5 year term on the Obstructing conviction with the sentences to run concurrently.
+The defendant, Leonard Parker, now appeals from the jury verdicts in this case. He alleges that the trial court abused its discretion in denying defendant his defense of insanity.
+The record discloses that on May 6, 1971 the court appointed three doctors to examine the defendant after defendant’s attorney had requested a hearing under Rule 250 of the Arizona Rules of Criminal Procedure, 17 A.R.S. The doctors submitted psychiatric reports and the court on June 22, 1971 found that “the defendant is mentally capable of standing trial.” On June 30, 1971 a trial date was set for July 27, 1971. On July 26, 1971 at 1:15 p. m. — the day before trial — the State was served with notice by the public defender that the defendant was going to raise the issue of his sanity.
+The State filed a motion in limine objecting to the attempt to inject such an issue at that late date. The State contended that under the provisions of Rule 192, subd. A, Arizona Rules of Criminal Procedure, the defendant must give the State notice of the insanity defense not later than four days prior to trial. Rule 192, subd. A, states:
+“A. When the defendant pleads not guilty and proposes to show in evidence that he was insane or mentally defective at the time of the alleged commission of the offense charged, he shall at the time he pleads, or at any time thereafter but not later than four days before trial, file with the clerk and serve upon the county attorney a written notice of his intention. If the defendant fails to file and serve such notice, he shall not be entitled to introduce evidence tending to establish such insanity or mental defect, but the court may permit such evidence to be introduced when good cause for the failure to file and serve the notice is shown.”
+It is clear that the defendant failed to comply with the timely notice provisions of Rule 192, subd. A. The Court held a hearing on the State’s motion in limine relative to allowing the defense of insanity. The public- defender’s office was assigned this case on May 25, 1971 and filed notice of the defense of insanity at 1:15 p. m. on July 26, 1971, the day before trial. Where proper notice is not given it has always been held that the trial judge has discretion to reject the defense of insanity. State v. Alford, 98 Ariz. 249, 403 P.2d 806 (1965); State v. Reid, 87 Ariz. 123, 348 P.2d 731 (1960).
+We cannot say the trial court abused its discretion by granting the State’s motion in limine excluding the insanity defense. We are further fortified in this opinion by the record which reveals that the trial judge, after hearing arguments and reading the doctors’ reports, made the following statement:
+“Counsel, I have read all three of the medical reports: Dr. ■ Cleary, Dr. Baker and Dr. Bendelglas’s reports, and none of them seem to indicate that Mr. Parker would qualify as insane under the M’Naghten Rule.” ■
+Counsel throughout the trial attempted to- 'get the court to accept some sort of “Diminished Responsibility Rule” as a substitute for M’Naghten. The Arizona Supreme Court has consistently held to the M’Naghten Rule and refused to accept various liberalized versions of what constitutes a valid defense of insanity in Arizona. State v. Schantz, 98 Ariz. 200, 403 P.2d 521 (1965); Burgunder v. State, 55 Ariz. 411, 103 P.2d 256 (1940); Lauterio v. State, 23 Ariz. 15, 201 P. 91 (1921). It would appear that the defendant did not have any valid medical evidence of insanity to produce at the trial even if defendant had been in compliance with the timely notice requirements of Rule 192, subd. A.
+The State further objected to the late insanity defense as violating the provisions of A.R.S. § 13-1621.01, subsec. J, which reads as follows: “In any case involving the defense of not guilty by reason of insanity, both the defendant and the state shall have the right to have the defendant examined by qualified psychiatrists appointed by the court for the purpose of presenting testimony.”
+The defendant had been examined by psychiatrists under Rule 250, Arizona Rules of Criminal Procedure, on the limited question of the defendant’s capacity to go to trial understanding the nature of the charges against him and his ability to assist counsel in his own defense. The defendant was never examined under the provisions of A.R.S. § 13-1621.01, which is the proper procedure to follow when the defendant wishes to plead insanity as a defense. Although State v. Shaw, 106 Ariz. 103, 471 P.2d 715 (1970), struck down the bifurcated trial, the balance of § 13-1621.-01 was held valid. It is clear that the State had a right to have the defendant examined by a psychiatrist prior to trial and that the defendant’s half-day notice could hardly be termed reasonable time to allow the State to exercise this right. For this further reason, there was no abuse of discretion.
+The defendant claims the trial judge erred in refusing to grant a continuance to defendant in order that three additional witnesses could he called who would have purportedly testified that the officer/victim in this case was a racist with bias and prejudice against this negro defendant. A hearing was held on this matter and the record discloses that counsel for the defendant had never talked to the proposed witnesses and did not know exactly what they would say. It also appears that none of the proposed witnesses were available or under subpoena. One witness was in Alabama, one was in Phoenix but could not be contacted at the time and the whereabouts of the third was unknown.
+Under these circumstances the trial judge did not abuse his discretion in the third day of trial before a sequestered jury when he refused the defendant a continuance.
+Defendant objects to a statement made by the State in closing argument which alluded to the fact that counsel for the defendant had not lived up to his opening statement in proving the defendant mentally incapable of having the required intent in this case. There was no objection at the time of trial and we find no prejudicial error.
+We have examined all of the defendant’s many grounds for reversal and find they cannot be sustained.
+The judgments and sentences are affirmed.
+DONOFRIO, P. J., and STEVENS, J., concur.
