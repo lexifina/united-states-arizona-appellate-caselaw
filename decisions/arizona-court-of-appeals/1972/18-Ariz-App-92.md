@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1267"
+decided: "1972-08-25"
+citations: ["18 Ariz. App. 92", "500 P.2d 352"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ICRUCKER, C. J., and ALICE TRUMAN, Superior Court Judge, concur."]
+parties: ["STATE of Arizona ex rel. Herbert E. WILLIAMS, City Attorney of the City of Tucson, Petitioners, v. The SUPERIOR COURT of the State of Arizona, IN AND FOR the COUNTY OF PIMA, the Honorable Joe Jacobson, Judge thereof: Marcia Adams, Marie Teresa Lee, Nancy Soden, aka Candy Merritt, William Carrigan and Robert Landry, Respondents."]
+source_url: "https://static.case.law/ariz-app/18/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1221043
+cites_cases: ["61 Ariz. 132", "89 Ariz. 207", "98 Ariz. 186"]
+---
+
+# State ex rel. Williams v. Superior Court
+
+## Majority (HOWARD, Judge.)
+
+HOWARD, Judge.
+Petitioners have filed this special action alleging that the trial court abused its discretion and exceeded its jurisdiction when it ordered the chief city magistrate of Tucson (1) to cease and desist from engaging the services of the chief of police of Tucson and/or the Tucson Police Department in “effectuating the jury selection process,” and (2) to designate the city clerk of Tucson to perform the duties relating to the jury selection process being performed by the police. At oral argument the respondent real parties in interest conceded that the latter part of the order was in excess of the trial court’s jurisdiction. We agree with this concession. Mandamus will not lie to compel a person or officer to perform an act not authorized or required by some plain provision of law and the office of the writ of mandamus is not to create duties but to require the performance of duties already existing. State v. Kostura, 98 Ariz. 186, 403 P.2d 283 (1965) ; Sines v. Holden, 89 Ariz. 207, 360 P.2d 218 (1961); Wilson v. Linville, 61 Ariz. 132, 145 P.2d 529 (1944). The duties of the city clerk of Tucson are set forth in Chapter 10, § 10 of the Tucson City Charter. Neither that section of the charter nor the Tucson Code charges the clerk with any duties relating to the jury process in the city court and the superior court cannot require the city magistrate to order the city clerk to perform a duty which does not exist.
+The transcript of the testimony in the trial court reveals that the jury selection in Tucson City Court is accomplished by a computer. The computer programming is done by the data processing department of the City of Tucson. It is programmed for random selection and the only thing the police do in connection with this part of the system is the mere pressing of the button which activates the computer in the selection process. It also appears that the police serve the notice of jury duty upon those persons who have been selected by the computer.
+A.R.S. § 22-426 provides:
+“A. Incorporated cities and towns may, by ordinance, provide for the formation and summoning of juries in the same manner as provided for in courts of record.
+B. For the selection of potential jurors, lists of registered voters shall be furnished by the clerk of the board of supervisors of the county wherein the police court is located, pursuant to> subsection E of § 16-154, where the incorporated city or town uses a county voter registration list for municipal elections. Where an incorporated city or town, pursuant to § 9-823, uses a local voter registration list, the city or town clerk shall make such voter registration list available to the police court for the purpose of selecting potential jurors.
+C. The drawing and disposition of names and the impaneling of juries shall be accomplished in the same manner as in courts of record.”
+Pointing to A.R.S. § 22-426, subsec. C, respondents contend that the city must comply with A.R.S. §§ 21-313 and 21-322, subsec. A which in essence require that the selection and summoning of the jury be done by a jury commissioner.
+In 1970, the laws of the State of Arizona were amended to provide for a jury commissioner of superior court. A. R.S. § 21-131 provides that the clerk of the superior court shall be the jury commissioner except that in a county having a population of more than 100,000 persons the presiding judge of the superior court may appoint a jury commissioner. A.R.S. § 22-426 does not mandate an incorporated city to enact an ordinance providing for the formation and summoning of juries in the same manner as provided for in courts of record. It is discretionary. The only requirement imposed by A.R.S. § 22-426 that are mandatory upon incorporated cities and towns are found in subsections B and C.
+The City of Tucson has complied with subsection B. The respondents contend, however, that the city has not complied with subsection C and the drawing and disposition of names is not done by a jury commissioner. In effect, they maintain that A.R.S. § 22-426, subsec. C requires providing for a jury commissioner in the city court. We do not agree. Had the legislature intended that there be jury commissioners in police courts in this state it would have specifically said so in the statute. We believe A.R.S. § 22-426 means only that the mechanics of the drawing and disposition of the names shall be the same as is done in courts of record, but not that it be done by a jury commissioner. Respondents further contend that the juries in the police courts must be summoned by a jury commissioner instead of the police. A.R.S. § 21-332 provides that when jurors are required in police court they shall be summoned by a policeman. This section of the Code was not repealed when A.R.S. § 22-426 was enacted nor do we believe it has been repealed by implication.
+Since the entire jury selection process in the Tucson City Court is programmed by the data processing section of the city on a random basis the fact that a police officer presses a button on the computer to start the selection process is de minimis.
+The portion of the lower court’s order which orders the chief city magistrate of the City of Tucson to cease and desist from engaging the services of the chief of the police and/or the Tucson Police Department in effectuating the jury selection process and to designate the city clerk of Tucson for the performance of the duties related to the jury selection process now performed by the chief of police and/or members of the Tucson Police Department is vacated.
+ICRUCKER, C. J., and ALICE TRUMAN, Superior Court Judge, concur.
+Note: Judge JAMES D. HATHAWAY having requested that he be relieved from consideration of this matter, Judge ALICE TRUMAN was called to sit in his stead and participate in the determination of this decision.
