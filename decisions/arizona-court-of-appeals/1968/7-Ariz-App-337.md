@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 527"
+decided: "1968-04-02"
+citations: ["7 Ariz. App. 337", "439 P.2d 309"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMERON, C. J., and MELVYN T. SHELLEY, Superior Court Judge, concur."]
+parties: ["Frederick Edward BROOKER, Appellant, v. Catherine Clare CANNY, Appellee."]
+source_url: "https://static.case.law/ariz-app/7/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1233246
+cites_cases: ["3 Ariz.App. 297", "33 Ariz. 28", "62 Ariz. 222", "7 Ariz. App. 102", "7 Ariz.App. 139", "79 Ariz. 199", "95 Ariz. 145"]
+---
+
+# Brooker v. Canny
+
+## Majority (STEVENS, Judge.)
+
+STEVENS, Judge.
+This appeal involves a suit brought by appellant-plaintiff against the appelleedefendant to recover for damages to personal property and for personal injuries allegedly sustained by appellant due to the asserted negligent operation of a motor vehicle by the appellee.
+On 8 February 1964, at approximately 9:00 A.M., appellant was driving his pickup truck north on Palo Christie Road in Paradise Valley. At the same time, the appellee was also driving north on Palo Christie Road following behind the appellant. The appellee pulled into the southbound lane of the two-lane road in an attempt to pass. As the appellee was in the process of passing, appellant turned left across the center line in an attempt to enter a private driveway, whereupon the two vehicles collided.
+The accident occurred between intersections and there was a conflict in the testimony as to whether the appellant gave a left-turn signal before attempting to turn into the driveway. It further appears from the record that there was a yellow line on the northbound side of the roadway center line a short distance ahead of the point where appellant began his left-turn and if the appellee had completed passing the appellant, the appellee would have had to drive across the yellow line in order to return to the northbound side of the road. The record indicates that there was no warning sign posted in the area, the only warning being the yellow line painted on the surface of the road.
+The case was tried before a jury and the verdict was rendered in favor of the appellee. Judgment was entered on the verdict, a motion for new trial was denied and this appeal followed.
+The appellant’s first question for review relates to the giving of an instruction by the trial court as follows:
+“You are instructed that the danger of left-hand turns between intersections is so great that they should not be attempted without the exercise of extra precaution. Left-hand turns by automobiles between intersections are less frequent than at crossings, and naturally are not anticipated to the same extent.” (Emphasis added)
+The appellant contends that the giving of this instruction constituted reversible error because it placed a greater duty of care on the appellant than required by law.
+The appellee cites McIver v. Allen, 33 Ariz. 28, 262 P. 5 (1927); Phoenix Baking Company v. Vaught, 62 Ariz. 222, 156 P.2d 725 (1945); and Rivera v. Hancock, 79 Ariz. 199, 286 P.2d 199 (1955), contending that these cases required the giving of the complained of instruction. We agree with the appellee that these cases appear to support the giving of this instruction. However, on 23 January 1968, Division Two of the Arizona Court of Appeals filed an opinion in the case of Doubek v. Greco, 7 Ariz. App. 102, 436 P.2d 494 (1968), which reexamines the giving of a left-turn instruction. In Doubek the trial court had refused to give an instruction similar in language to the instruction with which we are presently concerned. In re-examining the giving of this type of instruction, Division Two recognized that Mclver and Vaught required an instruction on extra precaution in cases involving left-turns between intersections. But the Court noted that these cases were decided before the enactment of A.R.S. § 28-754, subsec. A. The language found in this section was enacted in a comprehensive revision of traffic laws found in Chapter 3, 1st Special Session, Laws of 1950. The section provides, in part:
+“No person shall turn a vehicle * * * to enter a private road or driveway or otherwise turn a vehicle from a direct course or move right or left upon a roadway unless and until the movement can be made with reasonable safety. * * * ” (Emphasis supplied)
+In Doubek the Court then went on to state that our Supreme Court in Trojanovich v. Marshall, 95 Ariz. 145, 388 P.2d 149 (1963), had expressly cited A.R.S. § 28-754, sub-sec. A and stated that when making a turn into a private roadway, a person is only required to make such turn with reasonable safety.
+Finally, Division Two noted that Rivera, although decided after the enactment of A.R.S. § 28-754, subsec. A discussed the issue only in the context of Mclver and Vaught and the Court assumed that the statutory change had not been argued to our Supreme Court. The Court of Appeals then held that, due to the language of A.R.S. § 28-754, subsec. A and the declaration of our Supreme Court in Trojanovich, it was only necessary to move with reasonable safety in making a left-turn between intersections.
+We have searched the record in the present case and it does not appear that A.R.S. § 28-754, subsec. A was brought to the attention of the trial judge when objection was made to the giving of the disputed instruction. We are of the opinion that the exception was adequately stated. We agree with the reasoning of the Court in Doubek and hold that when making a left-turn between intersections, it is only necessary to move with reasonable safety under the circumstances. We further hold, that, in the present case, when the jury was instructed that appellant was required to exercise extra precaution in making his left-turn, a higher duty of care was placed upon the appellant than required by law and reversible error was committed.
+The appellant’s second question for review relates to the refusal of the trial court to give Plaintiff’s Requested Instruction No. 19. The instruction quoted A.R.S. § 28-727 which section authorizes the Highway Commission to establish no passing zones, and zones where it would be especially hazardous to drive to the left of the roadway. The instruction further provided that one violating this section was negligent per se. The accident in question resulted before either car had reached the yellow line. There was no error in refusing the instruction. An interesting recent case in this area of instructions is the case of Conner v. State, 7 Ariz.App. 139, 436 P.2d 917, decided by Division Two of this Court on 7 February 1968.
+The appellant’s third question for review relates to a claimed prejudicial and inflammatory personal opinion argument by appellee’s counsel to the jury. Since we hold that this case must be reversed on other grounds, we do not find it necessary to consider this question. We do wish to state, however, that the trial court is vested with great discretion in the conduct and control of the trial and an appellate court will defer to the trial court’s ruling on alleged misconduct of counsel unless the conduct is clearly prejudicial. Tanner v. Pacioni, 3 Ariz.App. 297, 413 P.2d 863 (1966).
+Reversed.
+CAMERON, C. J., and MELVYN T. SHELLEY, Superior Court Judge, concur.
+NOTE: Judge FRANCIS J. DONOFRIO having requested that he be relieved from the consideration of this matter, Judge MELVYN T. SHELLEY of the Superior Court was called to sit in his stead and participate in this decision.
