@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1692"
+decided: "1974-07-31"
+citations: ["22 Ariz. App. 128", "524 P.2d 962"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HOWARD, JJ., concur."]
+parties: ["The STATE of Arizona, Petitioner, v. The Honorable Joe JACOBSON, Judge of the Superior Court, In and For the County of Pima, State of Arizona, Respondent; and Richard A. HILL and Ira Shaw, Real Parties in Interest."]
+source_url: "https://static.case.law/ariz-app/22/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1232023
+cites_cases: ["103 Ariz. 336", "18 Ariz.App. 158", "497 F.2d 781", "9 Ariz.App. 190"]
+---
+
+# State v. Jacobson
+
+## Majority (HATHAWAY, Chief Judge.)
+
+OPINION
+HATHAWAY, Chief Judge.
+This special action attacks the propriety of an order granting a defendant’s motion for a new finding of probable cause. An indictment was returned against defendant Shaw by the Pima County Grand Jury charging him with the crime of aggravated battery. Shaw subsequently filed a written motion to remand the cause back to the grand jury for a new finding of probable cause pursuant to Rule 12.9(a), Rules of Criminal Procedure:
+“The grand jury proceedings may be challenged only by motion for a new finding of probable cause alleging that the defendant was denied a substantial procedural right, or that an insufficient number of qualified grand jurors concurred in the finding of the indictment.” (Emphasis added)
+The asserted grounds for Shaw’s motion was that he had been denied a substantial procedural right in that the facts presented to the grand jury upon which to base probable cause were untrue and in no way supported by the disclosure furnished to him by the State. In support of his position he referred to a police' detective’s testimony that Shaw “took a beer glass, broke it in half and struck the victim in the face with the jagged end of the beer glass causing severe lacerations from the right ear coming across the nose and down the chin.” Shaw argued, and apparently persuaded the respondent court, that the indictment was based on perjured testimony since all statements and police reports did not disclose that Shaw had broken a beer glass in half. A police report, however, did refer to a witness’s statement that suspect No. 2 (Shaw) struck the victim in the face with a beer glass and fled the scene. It also referred to a statement by Shaw’s co-defendant Hill who purportedly stabbed the victim in the back. When Hill was asked who the man was that hit the victim in the face with the beer glass, he denied any knowledge of same.
+In his motion for a new finding of probable cause, Shaw contended that he had been denied due process of law since the indictment was based on false statements in that the grand jury found probable cause to believe he had committed a crime when he broke a glass and struck the victim. Therefore, he argued, if the statement that he had broken the glass was untrue, no probable cause existed. In support of his position, he relied on a recent decision of the Ninth Circuit Court of Appeals, United States v. Basurto, Travers and Waggoner, 497 F.2d 781 (filed May 10, 1974). In that case, one of the issues was the duty of the prosecuting attorney after pre-trial disclosure of perjury before the grand jury. One Barron, named in the indictment as a co-conspirator but not a defendant, testified as to appellants’ activities in the conspiracy before the grand jury which returned the indictment. Prior to commencement of trial, Barron informed the prosecutor that he had committed perjury before the grand jury in important respects. Upon learning of Barron’s perjured grand jury testimony, the prosecuting attorney informed opposing counsel, but did not notify either the court or the grand jury.
+The Court of Appeals held:
+“. . . that the Due Process Clause of the Fifth Amendment is violated when a defendant has to stand trial on an indictment which the government knows is based partially on perjured testimony, when the perjured testimony is material, and when jeopardy has not attached. Whenever the prosecutor learns of any perjury committed before the grand jury, he is under a duty to immediately inform the court and opposing counsel — and, if the perjury may be material, also the grand jury — in order that appropriate action may be taken.”
+The court carefully pointed out that its holding did not affect the well-established rule that when a duly constituted grand jury returns an indictment valid on its face, no independent inquiry may be made to determine the kind of evidence considered by the grand jury in making its decision. Such rule has been adhered to in this jurisdiction. State v. Cousino, 18 Ariz.App. 158, 500 P.2d 1146 (1972); State v. Von Reeden, 9 Ariz.App. 190, 450 P.2d 702 (1969); State v. Abbott, 103 Ariz. 336, 442 P.2d 80 (1968). Rule 16.-7(b), Rules of Criminal Procedure, 17 A. R.S., was not intended to add new grounds for dismissing a prosecution. See Comment.
+We believe that Shaw’s reliance upon the Basurto decision is misplaced as its factual posture is clearly distinguishable from the facts in the case at bench. Here we do not have a situation where it was known that the testimony before the grand jury was perjured, that the prosecuting attorney knew of such perjury, and that the perjured testimony was material to the indictment. Assuming arguendo that the officer fabricated as to the glass being broken prior to the assault, such “perjury” would not be material to the indictment since an assault or battery is aggravated when a serious bodily injury is inflicted upon the person assaulted. A.R.S. § 13-245, subd. A (6), as amended. Although the police report does not refer to a broken beer glass, it certainly substantiates the testimony before the grand jury that the assault with the beer glass was accomplished by Shaw.
+We agree with the State that Shaw’s attack on the indictment constituted no more than an attack on the sufficiency or competency of the evidence presented to the grand jury, a matter beyond the scope of judicial inquiry. State v. Cousino, supra. The lower court erred in equating its evaluation of the evidence to denial of “a substantial procedural right” within the purview of Rule 12.9(a), supra.
+Shaw failed to establish grounds for remanding the matter to the grand jury for a new finding of probable cause, ergo it was error to grant his motion. Since appellate intervention by special action is appropriate under these circumstances, we assume jurisdiction and grant relief. The order remanding this matter to the grand jury is hereby ordered set aside.
+KRUCKER and HOWARD, JJ., concur.
+. In view of our disposition of this matter, we need not address ourselves to the question of the timeliness of such motion.
