@@ -1,0 +1,43 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 371"
+decided: "1967-11-20"
+citations: ["6 Ariz. App. 459", "433 P.2d 639"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and KRUCKER, J., concur."]
+parties: ["Corylss FLYNN, by her next best friend, Elna Eicke, Appellant, v. William LINDENFIELD and Darlene Lindenfield, husband and wife, Appellees."]
+source_url: "https://static.case.law/ariz-app/6/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1237902
+cites_cases: ["20 Ariz. 95", "21 Ariz. 646", "52 Ariz. 537", "52 Ariz. 591", "77 Ariz. 141", "90 Ariz. 361", "91 Ariz. 24", "94 Ariz. 273"]
+---
+
+# Flynn ex rel. Eicke v. Lindenfield
+
+## Majority (MOLLQY, Judge.)
+
+MOLLQY, Judge.
+This is an appeal from a summary judgment rendered against the plaintiff in a personal injury action. The plaintiff at the time of her injury was a 15-year old girl employed as a baby-sitter (for her board and room only) at a country home or' ranch at which livestock was kept. She was injured in an encounter with a mare.
+The plaintiff in her complaint predicates liability on five possible theories:
+.(1), strict liability in maintaining a dangerous animal;
+(2) negligence in maintaining a dan-gerous animal;
+(3) not containing an animal in a secure and safe place;
+(4) not providing the plaintiff with a safe place to work; and
+(5) not Warning the plaintiff of the dangers of the premises where she was employed.
+' [1] ; A motion for summary judgment should be denied if there is any doubt as to : whether there are' issues of fact to be litigated under any theory of liability advanced. Peterson v.'Valley National Bank of Phoenix, 90 Ariz. 361; 368 P.2d 317 (1962).
+The facts as developed by the plaintiff’s affidavit and answer to interrogatories indicate that she had been working at this home for approximately a month arid a half when she was seriously injured in a livestock corral or enclosure upon the subject property. She had been left in charge of the defendants’ three children, a girl of 11, a boy of - 5, and a girl of 2 years of áge. The corral in question was about a quarter of a mile from the family home, and on this afternoon, the children wanted to go over to see the animals in the enclosure. In the corral was a mare with a colt of about 5 months of age.
+The plaintiff had never been told by the mother and father (defendants) to stay out of the corral, either with or without the younger children, and the father hád indicated that it was permissible to take the children to this corral to see the colt.
+The structure of the corral was such that a 2-year old child could slip under the lower board of the corral easily, and on this particular afternoon, Lory, the 2-year old baby girl, went into the corral and headed for the mare which, was standing near her colt —approximately 25 feet from the corral fence. When the child entered the corral, the mare lowered her ears and advanced menacingly toward the child. At this point, the plaintiff went into the corral and hastily pushed the child 'back under the fence. Seeing the mare, ears lowered, approaching at a lope, the plaintiff attempted to hasten out of the corral and in the process either "stumbled over some concrete blocks in the corral, and/or was knocked down and/or kicked by the mare, the incident resulting in a bad break to her right leg. When she fell, the plaintiff lost consciousness.
+In resisting the motion for summary judgment, the plaintiff submitted an affidavit of two persons experienced in animal -husbandry. One of these affidavits stated:
+“ * * * that female horses show a great deal of protective instinct for their young; that a mare which is normally gentle can become a dangerous animal if she thinks her offspring or colt are in danger; that it is quite likely that a mare would attack or tend to protect her offspring from an intruder if she felt her colt were in danger.
+“3. That in his opinion any person who had been around horses or who owned a ranch or a place where horses were raised, would know or should know that a mare with a colt can be a dangerous animal and is likely to inflict bodily, harm upon any persons who attempted to touch or pet her colt.”
+It is the law in Arizona that any person who keeps or harbors a domestic animal with knowledge of its vicious tendencies or propensities is liable in damages to another for any injury caused by it unless it is shown that the injured person, with knowledge of its viciousness, did something to such animal which caused it to injure him. Walter v. Southern Arizona School for Boys, 77 Ariz. 141, 143, 267 P.2d 1076, 1078 (1954). See also Arizona Livestock Co. v. Washington, 52 Ariz. 591, 84 P.2d 588 (1938).
+The determinative factor here is knowledge of vicious propensities, and this question must be viewed in the light most favorable to the plaintiff. Sarti v. Udall, 91 Ariz. 24, 369 P.2d 92 (1962). Here, there was evidence that approximately three weeks before the plaintiff’s injury, while •the mare was being loaded on a horse trailer, the animal jumped out and “took a couple of swings” at one of the persons handling her, “ * * * reared up and came down on him,” and in going over the side of the trailer “cut her chest all up.” There is nothing in the record indicating that the defendants did not know of any dangerous propensities in this mare other than the testimony of the plaintiff herself, who said that on previous occasions she and the children had been into the corral to visit the animals and had petted the colt without any adverse reaction from its mother.
+We see no basis of recovery here under a strict liability theory because of the natural tendency of a mare tp protect her colt. This is a normal hazard connected with the raising of a commonly kept- domestic animal, and gives rise to no special liability, though the duty to exercise reasonable care to protect others from the normal- characteristics of such an animal obtains. Restatement of Torts § 509, Comment e, at 20.
+However, all possibility of "the defendants being liable is not eliminated by this record. It has been held that even one “previous incident” is sufficient to' take a case to the jury under the doctrine of harboring an animal with “vicious propensities.” Walter v. Southern Arizona School for Boys, 77 Ariz. 141, 145, 267 P.2d 1076, 1080 (1954). Whether the one incident of misconduct on the' part of the mare which was witnessed by the plaintiff is sufficiently “vicious” to meet this test, we do 'not -pass upon, because of the procedural posture of the case.
+The duty tó come forward with evidence to oppose a motion for summary judgment does not arise until' the moving party has affirmatively shown the -facts to be such that as a matter of law the moving party is entitled to judgment. See Lujan v. MacMurtrie, 94 Ariz. 273, 277, 383 P.2d 187, 190 (1963). Such an affirmative showing was never made in support of this motion for summary judgment. For all this record discloses, this mare may have had the well-established and well-known habit of attacking a human being once every six weeks. .The theory of liability as 'to harboring a vicious animal not having been eliminated by the establishment of undisputed facts, the granting., of the motion for summary judgment was erroneous.
+At least one other possible theory of recovery is not eliminated by this record. While this particular mare might not have been an abnormally vicious -animal, the natural tendency of a mare to protect her young should have .been known to the defendants better than to their 15-year-old baby-sitter, and reasonable men might come to the conclusion -that the defendants were negligent in not warning their young babysitter not to bring these children near the corral when the plaintiff was alone with them. An employer owes an employee the duty to provide a reasonably safe place to work and to warn the employee of dangers inherent in the place of employment. Cf. Wylie v. Moore, 52 Ariz. 537, 84 P.2d 450 (1938); Inspiration Consol. Copper Co. v. Lindley, 20 Ariz. 95, 177 P. 24 (1918). The age and experience of the employee should be taken into consideration by the employer in determining what Warnings or safeguards are necessary. Lorden v. Stapp, 21 Ariz. 646, 192 P. 246 (1920). Whether this particular plaintiff assumed the natural risks attendant with this mare and colt and whether she was contributorily negligent are questions which cannot be disposed of on motion for summary judgment. Ariz.Const., art. 18, § 5, A.R.S.
+Judgment reversed.
+HATHAWAY, C. J., and KRUCKER, J., concur.
