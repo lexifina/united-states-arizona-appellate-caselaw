@@ -1,0 +1,36 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1211"
+decided: "1970-12-28"
+citations: ["13 Ariz. App. 510", "478 P.2d 125"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and STEVENS, J., concur."]
+parties: ["John MUMMERT as Sheriff of Maricopa County, Arizona, as successor to L. C. Boies, as Sheriff of Maricopa County, Arizona, Appellant, v. THUNDERBIRD LANES, INC., an Arizona corporation, Papago Bowl, an Arizona corporation, and Wagon Wheel Lanes, an Arizona corporation, Appellees."]
+source_url: "https://static.case.law/ariz-app/13/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1213785
+cites_cases: ["110 N.E. 124", "13 Ariz. 167", "146 N.W. 812", "150 N.W. 509", "159 Wis. 460", "17 Ariz. 365", "185 U.S. 236", "269 Ill. 619", "41 Ariz. 138", "51 S.Ct. 297", "7 Ariz. 26", "82 N.Y. 142", "89 Ariz. 62", "9 Ariz. 383"]
+---
+
+# Mummert v. Thunderbird Lanes, Inc.
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+This is an appeal from a summary judgment granted in favor of plaintiffs-appellees by the Superior Court of Maricopa County.
+The issues on appeal are:
+1. Whether A.R.S. § 42-1134, providing for the licensing of bowling alleys and billiard tables, requires a $10 license tax for each individual table and alley or whether the statute requires a tax of $10 per establishment regardless of the number of tables or alleys.
+2. Whether, if the statute is construed as requiring payment of a license tax on each individual alley and table, enforcement of the statute in Maricopa County for at least 36 years on a per-establishment basis and re-enactment by the legislature from time to time is sufficient to require continued enforcement on a per-establishment basis.
+The parties have agreed upon the pertinent facts. They are as follows. The Sheriff of Maricopa County and his predecessors have for many years, at least since 1931, collected the license taxes under A. R.S. § 42-1134 on a per-establishment, rather than on a per-table or per-alley, basis. Sheriffs in many other Arizona counties have also followed this practice. Plaintiffs are the proprietors of three establishments each containing multiple bowling alleys and billiard tables. Plaintiff Thunderbird Lanes, Inc., operates 32 tenpin bowling alleys and 5 billiard tables; plaintiff Papago Bowl, 32 ten-pin alleys and 6 billiard tables; and plaintiff Wagon Wheel Lanes, 32 alleys and 3 tables. In the past, the sheriff had assessed a quarterly tax of $20 against each plaintiff, $10 for operating bowling alleys and $10 for operating billiard tables. However, for the quarter beginning 1 October 1968 the Sheriff assessed and collected a license fee based on the number of alleys and tables in each establishment. Plaintiffs paid the increased assessment under protest, and brought an action against the Sheriff for a refund. After admissions and interrogatories, both parties moved for summary judgment, and the Superior Court gave judgment for the plaintiffs.
+DOES THE STATUTE REQUIRE A PER-TABLE, PER-ALLEY TAX?
+A.R.S. § 42-1134 reads:
+“Each proprietor or keeper of a billiard table for the use of which, or for playing upon which, any charge of any kind is made, shall pay a quarterly license tax of ten dollars, and for each nine-pin or ten-pin bowling alley or any similar device not kept exclusively for family use, a quarterly license tax of ten dollars. No such license shall bé granted for less than three months for any such table or alley.”
+It is the opinion of this Court that the plain and ordinary meaning of this statute is to place a tax of $10 on each individual billiard table and each individual bowling alley. The statute refers to “a billiard table” and to “each nine-pin or ten-pin bowling alley or any similar device.” We are aware that the word “bowling alley” is often used to describe a bowling establishment containing many lanes, but this ambiguity is clarified by the language “or any similar device.” A bowling establishment containing many lanes cannot be properly referred to as a “device.” Furthermore, the final sentence of the statute refers to “any such table or alley.” The Arizona Supreme Court has stated that “if the language of a statute is plain and unambiguous, and can be given but one meaning which does not lead to an impossibility or absurdity, the court will follow that meaning.” Marquez v. Rapid Harvest Co., 89 Ariz. 62, 64, 358 P.2d 168, 170 (1960). We therefore hold that the meaning of this statute is to place a tax on each individual billiard table and on each individual bowling alley.
+DID RE-ENACTMENT OF THE STATUTE REQUIRE ENFORCEMENT ON A PER-ESTABLISHMENT BASIS?
+Plaintiffs contend that even if the language is construed to mean that a tax must be paid on each table and bowling alley, long enforcement on a per-establishment basis requires that the tax continue to be levied in this manner. Plaintiffs assert that the case of State v. Downen, 17 Ariz. 365, 152 P. 857 (1915), is authority in their favor. The Downen case arose out of a controversy similar to the present one. The Superior Court of Graham County had held that the tax was a per-establishment tax, and the State appealed. The Arizona Supreme Court, after discussing the issue and noting the holding of the trial court, declined to decide the case because the amount in controversy was less than the jurisdictional amount of $200. Although county officials have no doubt long relied on the Downen case in levying the tax on a per-establishment basis, we do not find the Downen case persuasive nor binding. The holding of the Supreme Court was merely that they did not have jurisdiction, and can in no way be construed as approval of the trial court decision. The Arizona Supreme Court has stated:
+“The point made in regard to the custom of administrative officers being of great weight in determining the meaning of a statute is more serious. That such is the general rule cannot be doubted. Van Veen v. County of Graham, 13 Ariz. 167, 108 P. 252; Avery v. Pima County, 7 Ariz. 26, 60 P. 702. This is especially true when, after a long-continued interpretation, the Legislature re-enacts the statute without changing its language. Copper Queen, etc., Mining Co. v. Territorial Board, 9 Ariz. 383, 84 P. 511; United States v. Finnell, 185 U.S. 236, 22 S.Ct. 633, 46 L.Ed. 890. But if the intent and purpose of the act be clear, no custom can prevail against the positive and definite terms of the law, and the courts should not follow an administrative construction which is clearly erroneous, even though continued for many years. Louisville & Nashville R. Co. v. United States, 282 U.S. [740] 741, 51 S.Ct. 297, 75 L.Ed. 672; United States v. Finnell, supra; In re Manhattan Savings Institution, 82 N.Y. 142; Van Dyke v. City of Milwaukee, 159 Wis. 460, 146 N.W. 812, 150 N.W. 509; People v. Sergel, 269 Ill. 619, 110 N.E. 124.” Austin v. Barrett, 41 Ariz. 138, 144, 16 P.2d 12, 14 (1932).
+We find the intent and purpose of the act clear and the former administrative construction clearly erroneous. The statute must be enforced as written.
+Reversed.
+DONOFRIO, P. J., and STEVENS, J., concur.
