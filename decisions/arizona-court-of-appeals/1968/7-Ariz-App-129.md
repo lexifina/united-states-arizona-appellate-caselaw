@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 440"
+decided: "1968-01-25"
+citations: ["7 Ariz. App. 129", "436 P.2d 641"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PIATHAWAY, C. J., and KRUCKER, J., concur."]
+parties: ["ARIZONA FENCE CONTRACTORS ASSOCIATION, Inc., Appellant, v. CITY OF PHOENIX ADVISORY AND APPEALS BOARD, Appellee."]
+source_url: "https://static.case.law/ariz-app/7/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1233221
+cites_cases: ["142 Tex. 314", "146 N.E.2d 871", "178 S.W.2d 506", "22 Wash. 419", "223 Minn. 89", "25 N.W.2d 474", "288 S.W.2d 829", "342 Ill.App. 201", "38 Ariz. 135", "43 Minn. 444", "45 N.W. 721", "52 Ariz. 575", "6 Ariz.App. 280", "61 P. 33", "67 Ariz. 330", "72 Ariz. 360", "76 Ohio Law Abst. 434", "86 Ariz. 379", "95 N.E.2d 528", "96 Ariz. 176"]
+---
+
+# Arizona Fence Contractors Ass'n v. City of Phoenix Advisory & Appeals Board
+
+## Majority (MOLLOY, Judge.)
+
+MOLLOY, Judge.
+This is an appeal by the plaintiff, Arizona Fence Contractors Association, Inc., from the trial court’s disposition of the plaintiff’s declaratory judgment action questioning the constitutionality and legality of § 607 of the Phoenix Building Code (City of Phoenix Ordinance G-675). The plaintiff is an incorporated association of individual fence contractors in the State of Arizona who have constructed and will continue to construct fences which have been or will be affected by § 607. The defendant-city seeks to uphold the validity of the subject ordinance and we see a bona fide controversy appropriate for disposition in a declaratory judgment action. A.R.S. § 12-1832; Hart v. Bayless Investment and Trading Co., 86 Ariz. 379, 346 P. 2d 1101 (1959); Connolly v. Great Basin Ins. Co., 6 Ariz.App. 280, 431 P.2d 921 (1967); and, State ex rel. Smith v. Haveland, 223 Minn. 89, 25 N.W.2d 474 (1946).
+Section 607 reads, in pertinent part:
+“Every fence or screen wall 6' or less in heighth [sic] shall be designed to sustain a lateral load of 6# per square foot of gross area, except wire fencing.”
+Subsequent to the passing of this ordinance, the plaintiff petitioned the City of Phoenix Advisory and Appeals Board requesting that the board amend the ordinance so as to exempt, in addition to open wire fencing, all wooden and chain link slat fences. The petition was denied and the present action was brought, as to these two types of fences only, contesting the validity of the ordinance. Upon trial to the court, sitting without a jury, judgment was rendered in favor of the defendant-city.
+We will first concern ourselves with the plaintiff’s contention that § 607 was not enacted by the defendant pursuant to any express or implied grant of power from legislation pertaining to municipalities or from the City of Phoenix Charter.
+The City of Phoenix is a “home rule”, charter city, Clayton v. State, 38 Ariz. 135, 297 P. 1037 (1931), organized pursuant to the authority of art. 13, § 2, Arizona Constitution, A.R.S. The power of a charter city is subject to state legislation only when the statutes are “ * * * general laws of state-wide application and interest * City of Tucson v. Arizona Alpha of Sigma Alpha Epsilon, 67 Ariz. 330, 335, 195 P.2d 562, 565 (1948). See Strode v. Sullivan, 72 Ariz. 360, 236 P.2d 48 (1951), which held municipal elections to be only of local interest, and not a matter of state-wide concern.
+The provision of the Phoenix City Charter involved is § 2(10), which provides in part, that the City of Phoenix shall have the power:
+“To regulate the construction of and the materials used in all buildings, chimmeys, stacks and other structures; and the construction and use of party walls; to prevent the erection and maintenance of unsafe or insecure buildings, walls, chimmeys, stacks or other structures * *.”
+We find that a fence is a structure, and that authority to regulate fences has been granted by the above-quoted provision of the Phoenix Charter. A number of fences have been construed, in varying contexts, to be within the class of “structures.” See City of Chicago v. Pielet, 342 Ill.App. 201, 95 N.E.2d 528 (1950); State v. Zumpano, Ohio App., 76 Ohio Law Abst. 434, 146 N.E.2d 871 (Ohio 1956); Stewart v. Welsh, 142 Tex. 314, 178 S.W.2d 506 (1944); Alexander Schroeder Lumber Co. v. Corona, 288 S.W.2d 829 (Tex.Civ.App.1956); Karasek v. Peier, 22 Wash. 419, 61 P. 33 (1900). Contra, State v. Walsh, 43 Minn. 444, 45 N.W. 721 (1890).
+Appellant secondly contends that the subject ordinance was not a reasonable exercise of the city’s police power. The purpose of the Phoenix Building Code is stated as follows:
+"The purpose of this Code is to provide for safety, health, and public welfare through structural strength and stability, means of egress, adequate light and ventilation and protection to life and property from fire and hazards incident to the design, construction, alteration, removal or demolition of buildings and structures. All the provisions of this Code shall be limitations for safe-guarding life, limb, health, property and public welfare. If two or more pertinent limitations are not identical, those limitations shall prevail which provide the greater safety to life or limb, property or public welfare.”
+The obvious thrust of this ordinance is public safety and we see a reasonable connection between public safety and the enactment of this ordinance. There is evidence in the record that winds in the Phoenix area have been measured at speeds of forty to forty-five miles and hour in “ * * * quite a number of cases * * * ” and that a forty mile per hour wind imposes approximately a six pound per square foot lateral force on fences of the type under consideration. There was evidence that on occasion a chain link slatted fence had failed in high winds in the Phoenix area.
+There is no dispute in the testimony but what most, if not all, of these types of fences being constructed by the contractors in the Phoenix area were of sufficient strength to meet requirements of this ordinance. While there was testimony that some degree of engineering knowledge would be necessary to insure that a fence had this degree of lateral strength, such is true of any structural requirement. The appellant has cited us no authority that because some degree of engineering skill is necessary in order to comply with legislation designed for the public safety, such legislation is unreasonable.
+The appellant argues that the statute is “vague,” but again, no authority is cited, and we find the argument non-persuasive. Further, the appellant argues that a small property owner without knowledge of lateral strength qualities of fence materials would be seriously inconvenienced by the subject ordinance. There is testimony in this record that the city inspector’s office provided to the private home owner services to assist the home owner in constructing a fence which would satisfy the subject ordinance. More pertinent, however, the plaintiff, who is composed only of commercial builders, is in no position to upset an ordinance for unconstitutionality on the basis of what effect it might have upon other persons in different situations. McKinley v. Reilly, 96 Ariz. 176, 183, 393 P.2d 268, 273 (1964); Town of South Tucson v. Board of Supervisors of Pima County, 52 Ariz. 575, 586, 84 P.2d 581, 585 (1938).
+Judgment affirmed.
+PIATHAWAY, C. J., and KRUCKER, J., concur.
+NOTE: This cause was decided by the Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
