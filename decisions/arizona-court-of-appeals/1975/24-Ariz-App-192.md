@@ -1,0 +1,39 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 555"
+decided: "1975-06-26"
+citations: ["24 Ariz. App. 192", "537 P.2d 29"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOWARD, C. J., and HATHAWAY, J., concur."]
+parties: ["The STATE of Arizona, Appellee, v. Marcos Anthony ORTIZ, Appellant."]
+source_url: "https://static.case.law/ariz-app/24/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1244154
+cites_cases: ["102 Ariz. 416", "108 Ariz. 1", "19 A.L.R.2d 378", "340 U.S. 367", "388 U.S. 14", "488 F.2d 1206"]
+---
+
+# State v. Ortiz
+
+## Majority (KRUCKER, Judge.)
+
+OPINION
+KRUCKER, Judge.
+This is an appeal by defendant, Marcos Anthony Ortiz, from his conviction for exhibiting a deadly weapon other than in self-defense, A.R.S. § 13-916 (Supp.1973), and his subsequent conviction for possession of a pistol by a criminal, A.R.S. § 13-919 (1956). Both convictions arose out of the same occurrence.
+Defendant presents two issues for our consideration on appeal. The first is whether the trial judge erred in precluding two defense witnesses from testifying after he determined that they would both invoke the privilege against self-incrimination. The second is whether defendant’s conviction for possession of a pistol by a criminal violated the prohibition of A.R.S. § 13-1641 (1956) against different punishments for the same offense.
+The operative facts are as follows. Kenneth Pearman, an undercover agent for the Metropolitan Area Narcotics Squad, arranged to purchase heroin from Pat Niemczyk and William Donnini. On October 8, 1974 defendant was seated in the front seat of a car with Niemczyk and Donnini. Donnini was on the driver’s side, Niemczyk was in the middle, and defendant was next to the passenger’s window. Agent Pearman approached the passenger’s window and asked Niemczyk for the heroin he had paid for. When Niemczyk said she did not have it, an argument took place. Pearman testified that during the argument defendant drew a pistol and pointed it in his face.
+Three years before these events took place, defendant was convicted of first-degree burglary.
+At trial, after the close of the State’s case-in-chief, the State moved in limine to preclude Niemczyk and Donnini from testifying for the defendant. The trial judge conducted a hearing on the motion outside the presence of the jury. At this hearing Donnini and Niemczyk indicated they would testify that they had never seen defendant exhibit a gun in a threatening manner. Donnini indicated, however, that he would invoke his self-incrimination privilege in response to any question concerning what happened in the car. Niemczyk was willing to testify she was in the car with defendant, but indicated she would claim her self-incrimination privilege in response to questions about anything more specific. Reasoning that Donnini and Niemczyk would be unavailable for cross-examination, the trial court precluded them from testifying. At defendant’s subsequent trial for possession of a pistol by a criminal, they were precluded from testifying on the same grounds.
+Defendant contends that by precluding the witnesses’ testimony, the trial court violated his Sixth Amendment right to have compulsory process for obtaining witnesses in his favor. In support of this contention, he cites Washington v. Texas, 388 U.S. 14, 87 S.Ct. 1920, 18 L.Ed.2d 1019 (1967). We think defendant’s reliance on Washington is misplaced. In that case a Texas statute prohibited criminal defendants from offering in their own behalf the testimony of persons charged as principals, accomplices, or accessories in the same crime. Defendant and one Fuller were indicted for the same murder. If the statute had not prevented it, Fuller would have testified that it was he who fired the fatal shot, that defendant tried to persuade him to leave, and that defendant ran away before the fatal shot was fired. The Supreme Court reversed defendant’s conviction, stating that the right to present witnesses to establish a defense to a criminal charge is a fundamental element of due process of law. It held that defendant’s Sixth Amendment rights were violated:
+“ . . . because the State arbitrarily denied him the right to put on the stand a witness who was physically and mentally capable of testifying to events that he had personally observed, and whose testimony would have been relevant and material to the defense.” (Emphasis added) 87 S.Ct. at 1925.
+The preclusion of the defense witnesses in the case at bar was not arbitrary. Unlike the witness in Washington, Donnini and Niemczyk would have refused on Fifth Amendment grounds to submit to meaningful cross-examination by the State. The State has a right to conduct a. thorough and searching cross-examination of all witnesses for the defense. We do not think Washington stands for the proposition that a defendant’s Sixth Amendment right to present witnesses overrides the State’s right to cross-examine, and we decline to so hold.
+The Washington opinion further states: “Nothing in this opinion should be construed as disapproving testimonial' privileges, such as the privilege against self-incrimination . . . .” 87 S.Ct. at 1925, n. 21.
+When a witness voluntarily testifies to a fact that incriminates him, he may not invoke the privilege against self-incrimination as to details. Rogers v. United States, 340 U.S. 367, 71 S.Ct. 438, 95 L.Ed.2d 344, 19 A.L.R.2d 378 (1951). Considering the nature of the testimony defendant sought to elicit from Donnini and Niemczyk, we have doubts that either could have testified at all without waiving the privilege against self-incrimination. The transcript reveals that the trial court was concerned about this throughout the in camera examination. In view of the witnesses’ manifest intention not to waive the privilege against self-incrimination, we think the trial court properly precluded them from testifying.
+State v. Cota, 102 Ariz. 416, 432 P.2d 428 (1967) does not mandate a different result. As the United States Court of Appeals noted in United States v. Johnson, 488 F.2d 1206 (1st Cir. 1973), cases holding that it is not always reversible error to ask a witness questions before a jury with knowledge that he will invoke the privilege against self-incrimination obviously fall short of establishing that the practice is either desirable or mandatory.
+Defendant next contends that his conviction for possession of a pistol by a criminal violated A.R.S. § 13-1641. We disagree. A.R.S. § 13-1641 provides:
+“An act or omission which is made punishable in different ways by different sections of the laws may be punished under either, but in no event under more than one. An acquittal or conviction and sentence under either one bars a prosecution for the same act or omission under any other.”
+In State v. Tinghitella, 108 Ariz. 1, 491 P.2d 834 (1971), our Supreme Court recognized an “identical elements” test for determining whether two or more charges are based on the same “act”. Under that test, all the elements in one' charge are eliminated. If the remaining facts support the other charge, then there is more than one “act” and A.R.S. § 13-1641 does not apply. In this case, the facts supporting the charge of exhibiting a deadly weapon not in self defense are that defendant drew a pistol and pointed it in Agent Pearman’s face. Even without these facts there is enough evidence in the record to show that defendant possessed a pistol and that he had previously been convicted of burglary. Under the Tinghitella test, defendant therefore committed more than one “act”. His conviction for possession of a pistol 1 y a criminal did not violate A.R.S. § 13-1641.
+Affirmed.
+HOWARD, C. J., and HATHAWAY, J., concur.
+. We note that unlike Donnini, Niemezyk did not have the benefit of advice from legal counsel.
