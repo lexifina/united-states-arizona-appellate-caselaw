@@ -1,0 +1,53 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 593"
+decided: "1969-02-17"
+citations: ["9 Ariz. App. 183", "450 P.2d 424"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernest SEVILLA, Intervenor-Appellant, Board of Adjustment II of the City of Phoenix, Arizona, Respondent, v. Otto J. SWEAT and Thelma E. Sweat, husband and wife, Petitioners-Appellees."]
+source_url: "https://static.case.law/ariz-app/9/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204085
+cites_cases: ["177 Cal.App.2d 568", "2 Cal.Rptr. 397", "212 N.Y.S. 430", "214 App.Div. 628", "6 Ariz.App. 494", "78 Ariz. 419", "82 Ariz. 237"]
+---
+
+# Sevilla v. Sweat
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+This is an appeal from a judgment of the Maricopa County Superior Court which set aside a decision of the Board of Adjustment II of the City of Phoenix allowing the appellant permission to sell package beer and wine in the operation of a grocery store. By “package beer and wine” we mean beer and wine sold in containers not for consumption on the premises. The grocery was operated as a non-conforming use under the zoning ordinance of the City of Phoenix.
+We are called upon to determine:
+1. Whether the writ of certiorari to the Superior Court from a ruling of the Board of Adjustment was proper.
+2. Whether package beer and wine are included within the definition of the word “groceries”.
+The facts necessary for a determination of this matter on appeal are as follows. Appellant, Sevilla, purchased the property at 534 North 8th Street in Phoenix, Arizona, in 1951. He applied for commercial zoning in that year which was approved and he has operated a small, neighborhood grocery store at that location since 1951. The changes in the zoning ordinance of the City of Phoenix in 1955 and 1962 zoned this area (R-4) and the operation of the grocery store became a “non-conforming use”. On 28 July 1966 Sevilla applied for a liquor license to sell package beer and wine at the said grocery store. The Building Inspector disapproved of the application and the appellant appealed to the Board of Adjustment II of the City of Phoenix. The statement on the appeal read as follows:
+“This request is appealing the Building Inspector’s decision that adding beer sales to an existing nonconforming grocery store constitutes adding a new use to the grocery store use.
+“The applicant filed for commercial zoning in 1951 and was approved. The ordinance changes of 1955 and 1962 zoned this area R-4 and created a new nonconforming grocery store.
+“The staff recommends the building inspector’s decision be upheld and further, that to permit the addition of beer sales to this nonconforming use is an expansion of the nonconforming use which should not be permitted. Such expansion would tend to defeat the purpose of nonconforming uses, that purpose being to bring the use to conformance eventually. To allow such expansion encourages the nonconformance and lengthens rather than lessens the time of nonconformance.”
+A hearing was held before the Board of Adjustment II and a petition requesting that Sevilla be allowed to sell package beer and wine in his grocery store was presented containing over 200 signatures. Petitions containing over 125 signatures were filed in opposition to the approval of the application.
+The Board of Adjustment overruled the denial of the request by the Building Inspector and the Appellees, Otto J. Sweat and Thelma Sweat, filed a petition for writ of certiorari in the Superior Court which was granted. After hearing the Superior Court ordered:
+“That said Board of Adjustment abused its discretion and acted arbitrarily and in excess of its jurisdiction.
+“IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the Order of the Board of Adjustment II, overruling the decision of the building inspector, be and the same is hereby overruled and vacated.
+“IT IS FURTHER ORDERED AND DECREED that the act of adding package beer and wine sales to its existing nonconforming grocery store business constitutes a new use.”
+From said order Ernest Sevilla brings this appeal.
+WAS CERTIORARI PROPER?
+Arizona Revised Statutes reads in part as follows:
+“ * * *
+“C. The board shall:
+“1. Hear and decide appeals when there is error in an order, requirement or decision made by an administrative official in the enforcement of an ordinance adopted pursuant to this article.
+* * * * * *
+“4. Reverse or affirm, wholly or partly, or modify the order or decision appealed from and make such order or decision as ■ought to be made, and to that end shall have the powers of the officer from whom the appeal is taken.
+jfc
+“E. A person aggrieved by a decision of the board, or a taxpayer, or a municipal officer may, at any time within thirty days after the filing of the decision in the office of the board, petition a writ of certiorari for review of the board’s decision. Allowance of the writ shall not stay proceedings upon the decision appealed from, but the court may, on application, on notice to the board and for good cause shown, grant a restraining order, and on final hearing may reverse or affirm, wholly or partly, or may modify the decision reviewed.” § 9-465, subsecs. C & E, A.R.S.
+It is the contention of Sevilla that the Board acted within its discretion and that therefore the writ of certiorari to the Superior Court was improper. We would not agree that the Board of Adjustment acted in abuse or in excess of its discretion in the instant case. The Board of Adjustment was doing exactly what it was authorized and directed to do, namely, hear appeals from the Building Inspector regarding zoning of the property in question. Under these circumstances normally a writ of certiorari would not lie. § 12-2001 A.R.S., State ex rel. Morrison v. Superior Court etc., 82 Ariz. 237,311 P.2d 835 (1957). However, in the instant case the authority of the Superior Court is much broader under the statute in question (A.R.S. § 9-465, subsection E) and we believe the Superior Court was not in error in granting a writ of certiorari to review the decision of the Board of Adjustment:
+“Hansen and Lewis secured a writ of certiorari for a review by the Superior Court. It should be noted that the authority of the Superior Court is much broader under Section 9-465, subsec. E than is the grant of authority under general Arizona statutes relating to writs of certiorari * * * ”
+Lewis v. Board Of Adjustments Of City Of Phoenix, 6 Ariz.App. 494, 496, 433 P.2d 811, 813 (1967).
+EXTENSION OF THE NONCONFORMING USE
+It is the contention of the appellees that by adding package beer and wine to the grocery store, the non-conforming use was extended thereby. Both the Building Inspector and the Judge of the Superior Court agreed with this contention. We agree with the appellant and the majority of the members of the Board of Adjustment of the City of Phoenix that this was not the case. Although the Superior Court, in a writ of certiorari, is limited when reviewing the decision of the Board of Adjustment to finding error on the part of the Board and may not substitute its opinion of the facts for that of the Board of Adjustment, Walker v. Dunham, 78 Ariz. 419, 281 P.2d 125 (1955), this Court, on appeal, may substitute its opinion for that of the Superior Court inasmuch as we are reviewing the same record. The hearing was held by the Board of Adjustment and if the evidence supports their decision, it should be affirmed not only by the Superior Court on writ of certiorari but by this Court on appeal from the decision of the Superior Court. Walker, supra.
+Sevilla has operated this store since 1951. When the zoning was changed he was authorized to continue with his grocery store as a non-conforming use. By 1966 he wished to add package beer and wine to the list of items he sold. The question before this Court is one of definition, namely, does the term “grocery store” normally encompass an establishment which sells package beer and wine in addition to what we ordinarily believe to be groceries ? In a day when drug stores sell bicycles, supermarkets provide banking services, and service stations sell hunting licenses, the demands of competition would indicate that small businesses should not be burdened with narrow and restrictive views of what they may or may not sell. In this case a small neighborhood grocery may well need the added income which a package beer and wine license would bring, in order to survive. While mere economic necessity alone does not require that the term “groceries” included package beer and wine, we recognize that competition and economic necessity have caused a change in the operation of many businesses in this country. The distinctions between greengrocer, butcher, baker, and wine merchant are no longer respected and it is the rare grocery store that does not sell fresh vegetables, meats, bakery goods, and package beer and wine in addition to staples such as coffee, tea, and flour. We feel that contrary to historical usage, the ordinary understanding of present day business practices is that package beer and wine are included in the term “groceries” and that grocery stores normally sell package beer and wine along with other groceries. It has been stated:
+“The word ‘grocer’ is defined in Funk & Wagnall’s New Standard Dictionary as ‘one who deals in sugar, tea, coffee, spices, country produce, and the like, excepting fresh meats, and sometimes in bottled beer and wines, usually not to be drunk on the premises.’ The Century Dictionary and Cyclopedia define ‘grocery’ as á place for the selling of ‘general supplies for the table and for household use, as flour, sugar, spices, coffee, etc., the commodities sold by grocers’. ” Private A. S. Realty Corporation v. Julian, 214 App.Div. 628, 212 N.Y.S. 430, 431 (1925). But see Purity Stores, Ltd. v. Linda Mar Shopping Center, Inc., 177 Cal.App.2d 568, 2 Cal.Rptr. 397 (1960).
+We cannot say as a matter of law that the ordinary operation of a grocery store does not include package beer and wine sales and that to add these sales to a grocery store business would constitute a new or extended use as the Superior Court found in this case. Nothing we say herein should affect the granting or denial of Se-villa’s application to the State Liquor Department for a license to sell package beer and wine. That is a different matter. We are concerned herein only with the problem of proper zoning.
+The decision of the Superior Court is reversed and the decision of the Board of Adjustment reinstated.
+DONOFRIO, C. J., and STEVENS, J., concur.
