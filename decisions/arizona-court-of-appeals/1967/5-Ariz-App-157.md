@@ -1,0 +1,37 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-HC 51"
+decided: "1967-02-24"
+citations: ["5 Ariz. App. 157", "424 P.2d 199"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and MOLLOY, J., concur."]
+parties: ["In the Matter of the Application of Milford G. Rogers For a Writ of Habeas Corpus. Milford G. ROGERS, Petitioner, v. The STATE of Arizona ex rel. Frank A. EYMAN, Warden, Arizona State Prison, Respondent."]
+source_url: "https://static.case.law/ariz-app/5/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1236505
+cites_cases: ["100 Ariz. 327", "54 Ariz. 339", "92 P.2d 563"]
+---
+
+# Rogers v. State ex rel. Eyman
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+The petitioner, who was serving a term of not less than seven years nor more than ten years imprisonment in the Arizona State Prison for the crime of robbery, applied to this Court for a writ of habeas corpus. He claimed that by reason of the reductions in the term of sentence to which he was entitled under A.R.S. §§ 31-251 and 31-252, his maximum sentence had been completed; and therefore, he should have been unconditionally released
+The petitioner’s sentence commenced on May 11, 1962. He alleged that, with the exception of seventy-five days spent in solitary confinement, he had worked during the entire period of incarceration. His computations of actual time served, statutory time, and two-for-one time, when added together, indicated that he had fulfilled his maximum sentence. See Beaty v. Shute, 54 Ariz. 339, 92 P.2d 563 (1939).
+Accordingly, we issued a writ of habeas corpus and afforded the petitioner a hearing to inquire into the reason for his continued detention. The evidence presented at the hearing disclosed that the petitioner, after release from solitary confinement on October 21, 1965, was assigned to “Work Detail No. 2”. On December 2, 1965, he was assigned to “Segregation”, and on December 8, 1965, was transferred from “Segregation” to “Isolation” (solitary confinement) for fifteen days because of violation of institutional rules. On December 23, 1965, he was released from “Isolation” and again assigned to “Segregation”, where he remained until March 8, 1966, when he was assigned to a two-for-one work detail.
+The evidence further established that “Work Detail No. 2” is labor performed under the supervision of armed guards and that “Segregation” is a milder form of isolation. Apparently there are certain prisoners who, by their conduct, have indicated that they are potentially harmful to themselves or others. These prisoners enjoy a limited freedom within a designated cell block, but are segregated from the general prison community. The petitioner, according to his testimony, performed certain cleaning and maintenance chores for three periods of two weeks each during his assignment to “Segregation”.
+The prison record relative to petitioner’s two-for-one credits was testified to by the records clerk whose function it is to record the details of the work assignments of each prisoner. No two-for-one time was awarded to the petitioner for the period from October 21, 1965, to November 2, 1965, when he was assigned to “Work Detail No. 2” and for the “Segregation” period from December 23, 1965, to March 8, 1966.
+The petitioner relies on the following language in Watson v. Industrial Commission, 100 Ariz. 327, 332, 414 P.2d 144, 148 (1966):
+“ * * * and every man who works, whether inside or outside, receives two days credit for one day’s work. The deductions are a matter of statutory right.”
+The petitioner, however, has taken this language out of context and construed it to mean that any type of labor performed by a prisoner automatically entitles him to two-for-one credit. The above quotation from Watson applies to assignments of trust as set forth in A.R.S. § 31-252, subsection A:
+“A prisoner in the state prison, while working on the public highways or the prison farms as a trusty outside the prison walls and without requiring armed guards, or performing any other assignment of confidence and trust either within or without the prison walls, shall be allowed double time while so employed, and each day so employed shall be counted as two days in computing time on his sentence which shall be deducted, if a first offender, from the minimum term of his sentence, or, if a second offender or more, from the maximum term of his sentence.”
+It behooves us to point out that the legislature, in enacting A.R.S. § 31-252, did not intend the promiscuous grant of two-for-one credit to every prisoner who performs labor, since each prisoner is required to work. A.R.S. § 31-251, subsec. A. As pointed out in Watson, supra, the very purpose of the double time allowance is to encourage a prisoner to comply with the prison regime and to work faithfully. When a prisoner’s conduct justifies trust, then, and only then, was it intended that he be accorded two-for-one status.
+The statutory provisions governing reduction of the time to be served by a convicted felon were designed to achieve a two-fold purpose: encouragement of prison inmates and protection of society. They were never intended to afford a means of ipso facto reduction of sentence. For example, the petitioner was convicted of robbery. It is surprising to us that, after only two days of confinement, he was given credit for double time. A perusal of his prison record discloses that throughout his confinement, at least in the eyes of those having his custody, he was involved in an assortment of flagrant violations—disobedience, lying, laziness, and possession of contraband.
+We believe that such utilization of the double-time allowance circumvents the statute. In the case of the petitioner, where his. complete history indicates a disregard of rules and regulations, we conceive that the interests of society, which likewise need protection, were not given sufficient consideration. It may be that the petitioner’s, situation would justify his restoration to a place in society at this time. However, it would seem far more appropriate, rather than to credit him with “trusty” time, which does not appear to 'have been merited, to. have placed him on parole, before his maximum sentence was served, thereby subjecting him to supervision, which might very well be both in his own best interests as. well as in the best interests of his fellow citizens. Instead, notwithstanding his continued pattern of disregard for rules, his-complete release has been accelerated by an application of double-time credit, so that his maximum sentence has.been fully served. As of the writing of this opinion, the petitioner is being released without the minimum safe-guard that parole supervision would have provided. We feel constrained to express our disapproval of this misapplication of the double-credit allowances.
+The petitioner’s labor on “Work Detail No. 2” and in “Segregation” was not within the purview of A.R.S. § 31-252, subsec. A. Therefore, he was not entitled to double-time credit during those periods, either as a matter of right or a matter of grace. As a consequence thereof, his claim of illegal detention was unfounded, and we have ordered that the writ of habeas corpus be quashed.
+HATHAWAY, C. J., and MOLLOY, J., concur.
+. A.R.S. § 31-251.
+. A.R.S. § 31-252.
