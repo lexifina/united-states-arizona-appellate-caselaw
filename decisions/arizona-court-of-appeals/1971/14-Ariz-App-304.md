@@ -1,0 +1,31 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1319"
+decided: "1971-03-31"
+citations: ["14 Ariz. App. 304", "483 P.2d 45"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNIVERSAL UNDERWRITERS INSURANCE COMPANY, a corporation, Appellant, v. ALLSTATE INSURANCE COMPANY, a corporation, Appellee."]
+source_url: "https://static.case.law/ariz-app/14/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1216911
+cites_cases: ["102 Ariz. 515", "102 Ariz. 518", "93 Ariz. 287"]
+---
+
+# Universal Underwriters Insurance v. Allstate Insurance
+
+## Majority (EUBANK, Judge.)
+
+EUBANK, Judge.
+This is a controversy between an insurer of “garage operations” and an automobile liability insurer of a customer of the garage over which had the primary duty to defend against and satisfy a personal injury claim which arose when an employee of the garage drove the customer’s car into the injured person, who was on a public right of way adjacent to the garage. An “excess” insurance clause applicable to the garage coverage and the decision of our Supreme Court in Universal Underwriters Ins. Co. v. Dairyland Mutual Ins. Co., 102 Ariz. 518, 433 P.2d 966 (1968), dictate our holding that the customer’s automobile liability insurer had the primary liability.
+The case was submitted to the trial court on stipulated facts. Briefly, the instrumentality of injury was an automobile owned by A. G. Bingham. Bingham left the car with Rudolph Chevrolet for repairs. One Lester Geisler, an employee of Rudolph Chevrolet, who was operating the car with Bingham’s consent and “for the purpose of garage operations”, drove it into the claimant, Jeanette Trader, who was on a public right-of-way next to the garage.
+At the time of the accident the Bingham automobile was an insured vehicle under an owner’s policy of automobile liability insurance issued to Bingham by the appellee Allstate Insurance Company. There was also in force at the time of the accident a “Comprehensive Liability Policy (General Automobile)” issued to Rudolph Chevrolet by the appellant, Universal Underwriters Insurance Company. This latter policy covered, among other risks, injuries resulting from the use of an automobile in “garage operations”. In an “Other Insurance” clause, however, the policy provides that
+“ * * * the insurance under this policy with respect to loss arising out of * * * the use of any non-owned automobile shall be excess insurance over any other valid and collectible insurance.”
+Jeanette Trader brought an action against Bingham, Rudolph Chevrolet, its employee Geisler, and others, to recover for her injuries. The appellant Universal Underwriters assumed defense of the claim after the appellee Allstate declined to accept that responsibility. Jeanette Trader eventually recovered judgment in the amount of $6,284.04 against Rudolph Chevrolet and Lester Geisler, which judgment was satisfied by Universal Underwriters. Universal Underwriters seeks by this litigation to vindicate its excess coverage clause and shift the loss to Allstate as the primarily liable insurer. On cross motions for summary judgment, the trial judge rejected Universal Underwriters’ position and entered judgment in favor of Allstate.
+In our view, the substantially identical case of Universal Underwriters Ins. Co. v. Dairyland Mutual Ins. Co., supra, hereinafter referred to as “the cited case”, is controlling in favor of Universal Underwriters’ position here. Here, as in the cited case, the controversy was between a garage insurer and a customer’s carrier. Here, as in the cited case, the policy insuring the garage had an excess clause. The Supreme Court in the cited case made reference to the mandatory coverage which the customer’s policy granted the garage employee as a permissive user under the line of cases commencing with Jenkins v. Mayflower Insurance Exchange, 93 Ariz. 287, 380 P.2d 145 (1963), and upheld the right of the garage insurer to limit its exposure by means of an excess clause on the basis of fundamental principles of contract law set forth in both the cited case and in the simultaneously rendered decision in Dairyland Mutual Ins. Co. v. Andersen, 102 Ariz. 515, 433 P.2d 963 (1967). The latter case is also closely identifiable to the case at bar.
+In arriving at its decision in the cited case, the Supreme Court noted that there was no conflict between the excess clause in the Universal Underwriters policy, there under consideration, and any valid clause in the customer’s policy. In that connection, the present appellee, Allstate, concedes that a clause in its policy purporting to exclude coverage for “automobile business” use such as servicing and repairing is invalid under the holding in Jenkins v. Mayflower Insurance Exchange, supra.
+Appellee argues that the cited case is inapplicable because, although the claimant was on a public way, the accident occurred on the garage “premises” as defined in the Universal Underwriters policy now before us. We fail to see that this circumstance renders the excess clause inoperative. The rider insuring “garage operations” is expressly made subject to “ * * all the terms and conditions of the policy * * * ”, and in the absence of manifest contrary intent the entire policy is to be construed in a manner which will give effect to all of its provisions. 1 Couch on Insurance 2d, §§ 15.30, 15.43, pp. 701, 726 (1959). We find nothing in any provision called to our attention which deprives the excess clause of its effect.
+Appellee argues that it was the obvious intent of the Universal Underwriters policy insuring “garage operations” to cover the accident in question, and that it was manifestly not the intent of the customer’s policy to cover such accidents. The short answer is that the much-reaffirmed holding of the Jenkins case operates without regard to a motor vehicle insurer’s intent, and that our Supreme Court has refused to “en-graft exceptions” upon the Jenkins rule. Dairyland Mutual Ins. Co. v. Andersen, supra.
+There being no factual matters in dispute, the judgment of the Superior Court is reversed and the cause is remanded for entry of judgment in favor of appellant.
+JACOBSON, P. J., and HAIRE, J., concur.
