@@ -1,0 +1,47 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 817"
+decided: "1976-08-31"
+citations: ["27 Ariz. App. 408", "555 P.2d 667"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOWARD, C. J., and HATHAWAY, J., concurring."]
+parties: ["The STATE of Arizona, Appellee, v. Arthur Gonzales LOPEZ and Ernesto Jose Lopez, Appellants."]
+source_url: "https://static.case.law/ariz-app/27/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1236919
+cites_cases: ["10 Ariz.App. 556", "108 Ariz. 356", "110 Ariz. 473", "112 Ariz. 519", "19 Ariz.App. 257", "267 U.S. 132", "358 U.S. 307", "378 U.S. 108", "391 U.S. 216", "393 U.S. 410", "399 U.S. 42", "7 Ariz.App. 422", "8 Ariz.App. 300", "9 Ariz.App. 196", "90 Ariz. 411"]
+---
+
+# State v. Lopez
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+This is an appeal from a judgment of guilty to the crime of possession of marijuana, A.R.S. § 36-1002.05, and a sentence thereon of not less than three nor more than six years in the Arizona State Prison.
+On appeal appellants claim that:
+1. The grand jury transcript, the affidavit and the stipulations did not set forth sufficient evidence to prove the crime of possession of marijuana.
+2. The prosecutor’s closing statement to the grand jury tainted the grand jury proceedings thus rendering impossible a fair and impartial decision on the issue of probable cause.
+3. The trial court erred by denying appellants’ motion to suppress any and all evidence obtained pursuant to the execution of the search warrant issued by the police judge.
+We believe none of the points has merit and therefore affirm.
+The evidence stated most strongly in favor of the State reveals that pursuant to an informer’s tip, police set up surveillance of a vehicle parked in Pirtleville, Arizona. After approximately four hours the vehicle left the Pirtleville location, but was later stopped by police heading west on U.S. 80 and a search warrant was served on the occupants (appellants herein). During the course of the search, six duffle bags containing 128 pounds of marijuana were discovered in the car. It is not clear from the record whether the duffle bags were in the interior passenger compartment of the car or in the trunk or engine compartments.
+The case was submitted to the trial court on the basis of the affidavit, search warrant and a nine-page grand jury transcript. Counsel for both the State and appellants additionally stipulated as to the facts.
+As the first ground for appeal, it is contended that the State failed to show knowledge by either appellant of the presence of marijuana. Rather, appellants claim they were merely present in the vehicle when the marijuana was discovered. It is well established that mere presence where narcotics or marijuana is found is insufficient to establish that one knowingly possessed or exercised dominion and control over the drugs. State v. Van Meter, 7 Ariz.App. 422, 440 P.2d 58 (1968). The crime of possession of narcotics requires a physical or constructive possession with actual knowledge of the presence of the narcotic substance. Carroll v. State, 90 Ariz. 411, 368 P.2d 649 (1962); State v. Carr, 8 Ariz.App. 300, 445 P.2d 857 (1968). Constructive possession is generally applied to those circumstances where the drug is not found on the person of the defendant nor in his presence, but is found in a place under his immediate and exclusive control. Carroll v. State, supra.
+“Although possession may be shown by direct or circumstantial evidence, the evidence must link the defendant to the narcotics in such a manner and to such an extent that a reasonable inference may arise that the defendant knew of the narcotics’ existence and of its whereabouts.” 8 Ariz.App. at 302, 445 P.2d at 859.
+In the case at bench a confidential informant had met with the Douglas Police Department and had stated that “two guys were going to go into Mexico and bring some marijuana to take to Tucson” and would be driving a blue Corvair.with primer spots bearing Arizona license No. TBF-674. Later, the same informant told the police that the “stuff” had been brought in during the night and was in a vehicle parked in Pirtleville.
+An automobile fitting the above description was located in that town in front of the home of appellants’ sister. Appellants entered the Corvair and were heading west on U.S. 80 when stopped.
+We first note that the case before us is not a typical “mere presence” situation where a small quantity of narcotics or marijuana is discovered. See, generally, State v. Van Meter, supra; State v. Allen, 9 Ariz.App. 196, 450 P.2d 708 (1969); State v. Jung, 19 Ariz.App. 257, 506 P.2d 648 (1973). Rather, we are here dealing with 128 pounds of marijuana packaged in six duffle bags and placed in a small, two-door automobile.
+It is our opinion that when the testimony of the informant, the factual statement of the case and the location of the vehicle when stopped are considered together, an inference arises that the appellants were the ones who had brought the marijuana from Mexico, were transporting it, and knew that it was located in the automobile.
+Appellants’ second contention is that the prosecutor’s closing statement to the grand jury tainted those proceedings, thus rendering impossible a fair and impartial decision on the issue of probable cause. It is true that a prosecutor may not indulge in conduct before a grand jury which improperly influences the action of that body. Such conduct is not sanctioned and is therefore subject to challenge. State v. Good, 10 Ariz.App. 556, 460 P.2d 662 (1969). However, even assuming arguendo that there had been improper prosecutorial influence, it is clear that Rule 12.9, Rules of Criminal Procedure, 17 A. R.S. is the proper route to follow when a defendant believes he has been denied a substantial right. We find that appellants waived any objection by failing to comply with the timeliness requirement of Rule 12.9(b).
+As the final ground for appeal, it is contended that the search warrant served on appellants was defective and that the trial court should have suppressed all evidence obtained pursuant to the execution of said warrant. We have reviewed the affidavit in support of the warrant in question and conclude that it fails to substantially comply with the requirements enunciated in Aguilar v. State of Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964), and Spinelli v. United States, 393 U.S. 410, 89 S.Ct. 584, 21 L.Ed.2d 637 (1969).
+Although the affidavit adequately described the vehicle in which appellants were traveling, it failed to inform the magistrate of the underlying circumstances from which the informant concluded that the narcotics were where he claimed they were. State ex rel. Flournoy v. Wren, 108 Ariz. 356, 498 P.2d 444 (1972). Rather, the description of the automobile is coupled with the mere allegation that the contraband would be within the vehicle and nothing more.
+Further, tjie affidavit indicates that Detective Dabovich had corroborated past information from this particular informant through an independent source. There is no statement that the detective had corroborated the present information through an independent source.
+However, despite any defect in the affidavit, we hold that the police officers had probable cause to search the . vehicle in question. It is well-established that given probable cause, law enforcement officials do not need a warrant for an automobile search. Carroll v. United States, 267 U.S. 132, 45 S.Ct. 280, 69 L.Ed. 543 (1925); Chambers v. Maroney, 399 U.S. 42, 90 S.Ct. 1975, 26 L.Ed.2d 419 (1970); State v. Puig, 112 Ariz. 519, 544 P.2d 201 (1975). Indeed, with sufficient cause, an automobile, because of its mobility, can be searched without a warrant on facts not justifying the search of a residence or office. Dyke v. Taylor Implement Manufacturing Co., 391 U.S. 216, 88 S.Ct. 1472, 20 L.Ed.2d 538 (1968); State v. Benge, 110 Ariz. 473, 520 P.2d 843 (1974).
+The grand jury transcript reflects that the police officers who made the search had more information establishing probable cause than was contained in the affidavit. Further, they had been supplied with information by a proven reliable informant who had accurately predicted the time, place and movement of an unmistakenly described automobile. See, Draper v. United States, 358 U.S. 307, 79 S.Ct. 329, 3 L.Ed. 2d 327 (1959). We conclude that the informant’s information together with the officers’ personal observations provided the officers with sufficient probable cause to make the search. The trial court did not err in denying the motion to suppress.
+Affirmed.
+HOWARD, C. J., and HATHAWAY, J., concurring.
+. Evidence was introduced that the vehicle containing the marijuana was in fact owned by this sister.
+. The affidavit recites in pertinent part:
+“That a confidential reliable informant has in the past provided information to Det. Ted. Dabovich and that Detc. [sic] Dabovich has corroborated .the information thru and [sic] independent source.
+That on March 14,1975 this same informant advised Det. Dabovich that on March 16th, 1975 a load of marihuana would be transported into Douglas in a Blue, Chev, Corvair, with primer spots, 2 dr. bering [sic] ,Ariz. Lie. #TBF-674. That ,the Corvair will be driven to Tucson Ariz. for the sale of the marihuana. That the owner and driver of the Corvair is Eddie Lopez.”
