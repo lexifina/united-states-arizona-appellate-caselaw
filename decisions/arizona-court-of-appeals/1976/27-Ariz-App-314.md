@@ -1,0 +1,56 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 1041"
+decided: "1976-07-22"
+citations: ["27 Ariz. App. 314", "554 P.2d 910"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, P. J., and WREN, J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Willie Lee SMILEY, Appellant."]
+source_url: "https://static.case.law/ariz-app/27/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1236889
+cites_cases: ["105 Ariz. 16", "108 Ariz. 604", "111 Ariz. 202", "111 Ariz. 533", "112 Ariz. 208", "53 Ariz. 174", "554 P.2d 646"]
+---
+
+# State v. Smiley
+
+## Majority (SCHROEDER, Judge.)
+
+OPINION
+SCHROEDER, Judge.
+Appellant appeals from his conviction of first degree rape and his sentence of not less than five years nor more than five years and one day. He was tried jointly with Donald Vincent Williams, and our opinion in that appeal is handed down with this one. State v. Williams, 27 Ariz.App. -, 554 P.2d 646.
+Appellant raises the following issues:
+1. Whether the court erred in admitting evidence pertaining to oral sex acts.
+2. Whether appellant’s confession to police officers shortly after the incident was involuntary and inadmissible.
+3. Whether the court statement “I am lost” during the testimony of one of the defense witnesses was so prejudicial as to require reversal.
+4. Whether the defendant was denied effective assistance of counsel.
+The principal background facts pertaining to this appeal are set forth in our opinion in Williams, supra. The victim, known as “Skinny Chris,” testified that she was forcibly raped by the appellant, Smiley, and then forced to lie down while other individuals successively raped her and committed acts of oral sex.
+Appellant never sought to have his trial severed from the trial of his co-defendant, Williams, but rather affirmatively opposed severance and sought a joint trial. Accordingly, the grounds for our reversal in Williams do not exist here.
+For his first assignment of error, appellant argues that the admission of certain evidence pertaining to oral sex acts involving individuals other than the defendants was improper. Appellant focuses particularly upon the testimony of one witness who testified that while she was in the bathroom, she heard the appellant, Smiley, say, “Suck it, bitch.” He contends that this statement was irrelevant and inflammatory.
+To the extent that appellant claims error with respect to acts of individuals other than the defendants, his position is similar to that of the appellant Williams. The trial court ruled that testimony of the bad acts of others was admissible in the context of this case in order to show the complete story, and, for the reasons stated in Williams, supra, we conclude that 'the court’s ruling was not error.
+Appellant’s challenge to the specific statement, “Suck it, bitch”, attributed to Smiley, presents a somewhat different issue. At the time that the court ruled on the admissibility of references to sex acts of others, the victim, “Skinny Chris,” was on the stand. Defense counsel in chambers informed the court that “Skinny Chris” would testify that she heard one person, other than the defendants, say, “Suck it, don’t bite it.” The court permitted testimony with respect to other sex acts, and testimony of the conversation of the defendants. However, the court ruled that those particular words should not be admitted, and instructed counsel to advise the witness not to repeat them. The victim did not make any reference to those words.
+Later, however, the victim’s companion, known as “Fat Chris,” took the stand. She testified that while the sex acts were taking place in the bedroom, she was in the bathroom. The prosecutor asked her whether she heard the defendant Smiley say anything during that time, and she responded, “I heard him say, ‘Suck it, bitch.’ ” Defense motion for mistrial was then denied.
+Appellant argues that the motion should have been granted because the statement was irrelevant and could only serve to inflame the jury.
+While the statement undoubtedly injected a further note of emotion into an already emotion-laden trial, we are unable to hold that a declaration of a mistrial was required on its account. The statement was relevant to the case against Smiley. The witness testified that it was Smiley who said the words, and the statement tends to show fear and lack of consent in connection with the events which transpired.
+The trial court acted within its discretion when it ruled against the admissibility of a similar statement, attributed to a person other than a defendant. However, the relevance of the instant statement was greater. In the last analysis, the problem is one of balancing, and we cannot conclude that the trial judge erred in his decision to let the trial continue. We find the guidelines set forth in McCormick on Evidence Relevancy § 185 (E. Cleary ed. 1972) particularly appropriate:
+“Relevant evidence, then, is evidence that in some degree advances the inquiry, and thus has probative value, and is prima facie admissible. But relevance is not always enough. There may remain the question, is its value worth what it costs? There are several counterbalancing factors which may move the court to exclude relevant evidence if they outweigh its probative value. In order of their importance, they are these. First, the danger that the facts offered may unduly arouse the jury’s emotions of prejudice, hostility or sympathy. Second, the probability that the proof and the answering evidence that it provokes may create a side issue that will unduly distract the jury from the main issues. Third, the likelihood that the evidence offered and the counter proof will consume an undue amount of time. Fourth, the danger of unfair surprise to the opponent. . . . * * * This balancing of intangibles — probative values against probative dangers — is so much a matter where wise judges in particular situations may differ that a leeway of discretion is generally recognized.” (McCormick, pp. 438-40).
+Accordingly, we hold that admission of the Smiley remark was not an abuse of discretion by the trial judge.
+The next issue is the admissibility of statements which appellant gave to the police shortly after the incident, and which were introduced through testimony of the police. Appellant maintains that the statements were made upon a police promise that if Smiley’s story matched Williams’, they could go home. Officer Colombe of the Tempe Police Department testified that the most that he told both Williams and Smiley was that if they told the truth, it could make a difference between being charged with first or second degree rape. This appellant’s position is not materially different from the position asserted by Williams. For the reasons stated in our opinion in Williams, supra, we conclude that there was no error in the trial court’s ruling that the appellant’s statements were voluntarily given and therefore admissible. See State v. Patterson, 105 Ariz. 16, 458 P.2d 950 (1969).
+Appellant’s next contention is that the court improperly commented on the testimony of a defense witness. The witness was called in an attempt to corroborate the statement of one of the defendants that after engaging in sexual acts, the victim got up, got dressed, and took time to comb her hair before leaving. The victim had denied that she stopped to comb her hair before leaving the room, but testified that she thought she brushed her hair the last time that she had been in the room.
+The defense witness had compared the hair found in the sink with a sample of the victim’s hair, and testified that it was part of a group that could belong to ten percent or less of the Caucasian population. Since there had been three girls in the room that evening, defense counsel asked about the probability of all three girls having that type of hair. The witness responded that the probability would be one out of a thousand. The court then asked about the probability of any two of the three having the same type hair and the witness responded :
+“That would be approximately three out of a hundred or, I am sorry, there would be three different possibilities for combinations of the three people, taking two at a time, that would be two out of a thousand.”
+The court then stated: “I am lost.”
+In our view, the interjection by the court was simply a spontaneous and understandable observation which must have been shared by virtually everyone in the room. It was not the sort of comment by a judge upon the evidence which would interfere with the jury’s independent evaluation of that evidence. Moreover, as appellant’s counsel recognizes, the entire testimony of the witness was of minimal importance, since the defense was unable to establish that the hair was left in the sink the night the alleged crimes occurred.
+We have also considered and rejected defendant’s alternative contentions that the judge’s comment must be considered prejudicial error when taken in conjunction with other factors, including the timing of the comment at the end of the trial. As the Arizona Supreme Court stated in Browning v. State of Arizona, 53 Ariz. 174, 87 P.2d 112 (1939):
+“We are in accord with defendant’s proposition of law that
+‘The trial judge should preside in a fair and impartial manner and refrain from making unnecessary comments or doing any act which might cause prejudice against the litigant or which is calculated to influence the minds of the jury,’
+but cannot consent that this rule was violated in this case. . . . We have examined the instances of which complaint is made and cannot see wherein the defendant could have been injured by the court’s action.” (53 Ariz. at 183— 84, 87 P.2d at 116).
+See also Ariz.Const, art. 6, § 27, A.R.S.
+We turn finally to the issue of competency of counsel. Appellant, who was represented by other counsel at trial, maintains that trial counsel was not sufficiently aggressive. His complaints include the following: He alleges that the defense counsel failed several times to object to leading questions by the prosecutor, but points out no specific instances in his brief. Appellant further maintains that his counsel should have objected to the court’s comment, during the selection of the jury, with respect to the defendant’s absence, and also asserts that counsel should have required the appellant to appear at the selection of the jury. There is no question that the appellant knew the starting time of the trial and voluntarily absented himself.
+The standards by which the conduct of counsel should be weighed have been set forth by our Supreme Court in State v. Smith, 112 Ariz. 208, 540 P.2d 680, 681 (1975):
+“This court will not grant relief because of an allegation of ineffective counsel unless a showing is made that the proceedings were reduced to a farce. State v. Wilcynski, 111 Ariz. 533, 534 P.2d 738 (1975).”
+See also State v. Bates, 111 Ariz. 202, 203, 526 P.2d 1054, 1055 (1974); State v. McKinney, 108 Ariz. 604, 503 P.2d 946 (1972). The representation afforded appellant at trial in this case does not remotely approach such a showing.
+The conviction and sentence are affirmed.
+JACOBSON, P. J., and WREN, J., concur.
