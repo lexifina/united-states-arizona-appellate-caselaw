@@ -1,0 +1,46 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 627"
+decided: "1974-08-20"
+citations: ["22 Ariz. App. 167", "525 P.2d 298"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, C. J., and EUBANK, J., concur."]
+parties: ["STATE of Arizona, Appellant, v. Linda Marie SALCIDO, Appellee."]
+source_url: "https://static.case.law/ariz-app/22/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1232038
+cites_cases: ["106 Ariz. 297", "13 Ariz.App. 539", "19 Ariz.App. 84", "20 Ariz. App. 397", "20 Ariz.App. 331", "20 L.Ed 889", "21 Ariz.App. 116", "267 U.S. 132", "392 U.S. 1", "399 U.S. 42"]
+---
+
+# State v. Salcido
+
+## Majority (HAIRE, Presiding Judge.)
+
+OPINION
+HAIRE, Presiding Judge.
+On this appeal the state urges that the trial judge erred in granting the defendant’s motion to suppress certain evidence obtained when the police stopped the automobile in which she was riding as a passenger. The state contends that the evidence was sufficient to justify an investigative stopping of the automobile, and that once the automobile was stopped, sufficient probable cause developed to support the officer’s ensuing search for marijuana.
+By stipulation, the motion to suppress was decided upon the basis of the preliminary hearing transcript at which only one witness testified. Therefore the facts are undisputed.
+Concerning his observations of the defendant prior to stopping the automobile in which she was a passenger, the police officer testified that his curiosity as to what defendant was smoking had been aroused when his patrol car passed the automobile in which defendant was a passenger as it was preparing to enter upon the highway from a parking lot. He then told his partner, who was driving, to turn around so that they could take another look. His testimony continued as follows:
+“Q Then, what did you do?
+“A We pulled up beside that car, the car they were in, they were in the center lane and we were in the curb lane, and pulled up almost even, so I could look across and observe the defendant’s actions closely for approximately a block.
+“Q And what did you observe ?
+“A I noticed the defendant had a small hand rolled cigarette that was apparently lit, was ragged on one end, and very tapered off at that end, she was holding, she was clinching it tightly in her fingers, leaning forward, and was sucking on it, and I could see a small amount of smoke that appeared to be coming from the ends of the cigarette.
+“Q And how long did you make this "observation for ?
+“A We were driving alongside of them for approximately a block or 45 seconds to a minute.”
+He had previously testified as follows concerning his initial observations at the time he first saw the automobile in the driveway:
+“And as I drove by, she had her fingers up to her lips and was either sucking or licking on a long slender object; which was shaped similar to a cigarette, but it had a very unusual color to it, which caught my attention.”
+Later, on cross-examination, the officer testified:
+“Q Now, what was it that you observed the defendant doing as you went this block on East Van Burén?
+“A Well, she was pinching the cigarette.
+“Q By this time, you could see it was a cigarette ?
+“A Yes, uh-huh, it was a rather ragged looking cigarette and it looked just like the hand rolled cigarette I had seen a kid smoking marijuana from in the park, she was pinching it very tightly in her fingertips and leaning forward and sucking on it.”
+The officer testified that he had received classroom training and had considerable experience in the detection of marijuana use — “as to the manner' in which marijuána is smoked, the smell, the way it is carried and such”. Based upon his observations of the defendant, he concluded that she was smoking marijuana and proceeded to stop the automobile.
+At this point we encounter the threshold question of whether the initial stopping of the automobile constituted a violation of the defendant’s fourth amendment rights. It is our opinion that it did not. The fact that the officer might not have had probable cause to arrest the defendant at that time is not determinative. As held by the United States Supreme Court in Terry v. Ohio, 392 U.S. 1, 88 S. Ct. 1868, 20 L.Ed 889 (1968), not every seizure or detention of a person without probable cause constitutes a violation of that person’s fourth amendment rights. We stated this same principle in State v. Ruiz, 19 Ariz.App. 84, 504 P.2d 1307 (1973), as follows:
+“Only those seizures which are ‘unreasonable’ are proscribed, and Terry recognizes the necessity of police field interrogation procedures ‘where a police officer observes unusual conduct which leads him reasonably to conclude in light of his experience that criminal activity may be afoot. . . . ’ (392 U.S. at 30, 88 S.Ct. at 1884).” 19 Ariz. App. at 86, 504 P.2d at 1309.
+Applying this principle, we find that the conduct of defendant observed by the police officer, and viewed in the light of his experience and training was sufficient to support a reasonable suspicion by him that criminal activity might be afoot. It is true that the facts in both Terry and Ruiz, supra, did not involve the stopping and detaining of a defendant who was riding in an automobile. However, we can perceive of no logical reason why the mere fact that the defendant was utilizing an automobile as a means of transportation should in any way detract from the investigative detention rights which the courts have approved as being necessary for practical and effective law enforcement and therefore not unreasonable under the fourth amendment. Here it would appear rather obvious that if the officer had observed this same conduct on defendant’s part while she was walking along the street or sitting on a public park bench, detention for interrogation purposes would have been justified. The fact that she was enclosed in an automobile cannot operate to insulate her from reasonable police intrusions based upon their observations of conduct reasonably suggestive of criminal activity.
+Our determination that the initial stopping of the defendant for investigative questioning was justified does not end our inquiry as to whether the trial judge erroneously granted the motion to suppress. The facts show that the suppressed evidence was found by the officer when he searched the defendant’s purse which was on the seat next to where, defendant had been sitting. The teaching of Terry v. Ohio, supra, is that in less than probable cause investigative detention, the court’s inquiry must utilize a two-step approach. The first step consists of an inquiry as to whether the officer’s action was justified in its inception and, if so, then as a second step, an inquiry must be made concerning the ensuing official conduct to determine whether it was reasonably related in scope to the circumstances which justified the initial interference. Based upon the facts set forth above, it might well be argued that the evidence was not sufficient to justify the scope of the search conducted by the officer. However, prior to that search one additional fact was observed by the officer which, when added to the prior facts, in our opinion elevated the factual situation from that of a less than probable cause status to the status of probable cause justifying a full-scale search. The observation of this additional fact occurred as follows. As soon as the automobile in which defendant was riding came to a stop, the officer approached on the passenger side where defendant was sitting. As she rolled down the window, he saw freshly burnt ashes on the car seat and noticed a stong smell of burning marijuana coming from inside the car. The law recognizes these circumstances as being sufficient to establish probable cause to conduct a search such as that here undertaken. State v. Mahoney, 106 Ariz. 297, 475 P.2d 479 (1970); State v. Raymond, 21 Ariz.App. 116, 516 P.2d 58 (1973); State v. Caldwell, 20 Ariz.App. 331, 512 P.2d 863 (1973); State v. McGuire, 13 Ariz.App. 539, 479 P.2d 187 (1971). Further, the exigent circumstances here were sufficient to justify a search without the issuance of a warrant. Chambers v. Maroney, 399 U.S. 42, 90 S. Ct. 1975, 26 L.Ed 2d 419 (1970); Carroll v. United States, 267 U.S. 132, 45 S.Ct. 280, 69 L.Ed. 543 (1925); State v. Raymond, supra; State v. Williamson, 20 Ariz. App. 397, 513 P.2d 686 (1973).
+Summarizing, we find that the observations articulated by the officer present a basis upon which he, drawing upon his experience and training, could have formulated a reasonable suspicion that criminal activities might be afoot, thereby justifying the stopping of the automobile for investigative purposes. Once the automobile was stopped, probable cause developed for the ensuing search. Because of the exigent circumstances inherent in the situation, the law clearly establishes the right to search without a warrant.
+For the foregoing reasons, the order granting defendant’s motion to suppress is reversed and the matter is remanded for further proceedings consistent with this opinion.
+JACOBSON, C. J., and EUBANK, J., concur.
