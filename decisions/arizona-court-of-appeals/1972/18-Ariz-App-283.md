@@ -1,0 +1,57 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1214"
+decided: "1972-10-03"
+citations: ["18 Ariz. App. 283", "501 P.2d 459"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY and HOWARD, JJ., concur."]
+parties: ["Porfirio CARPINTEIRO, by his mother and natural guardian, Manuela Carpinteiro, on behalf of himself and all others similarly situated, Appellants, v. TUCSON SCHOOL DISTRICT NO. 1 OF PIMA COUNTY, Appellee."]
+source_url: "https://static.case.law/ariz-app/18/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1220979
+cites_cases: ["16 Ariz.App. 7", "206 F.Supp. 67", "21 L.Ed.2d 425", "294 F.Supp. 1005", "297 F.Supp. 416", "307 F.Supp. 1328", "369 U.S. 31", "39 F.R.D. 104", "393 U.S. 266", "41 F.R.D. 64", "417 F.2d 1122", "436 F.2d 791", "440 F.2d 633", "89 S.Ct. 477"]
+---
+
+# Carpinteiro v. Tucson School District No. 1
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+This appeal seeks review of a judgment entered in a special action challenging the School District’s policy with respect to suspension of high school students.
+The pertinent allegations of the complaint are: That Porfirio Carpinteiro was a Pueblo High School student until his administrative suspension therefrom occurred; that he was suspended without a hearing in accordance with the School Board’s regulation; and that these regulations did not provide the “rudimentary minimum guarantees of procedural due process” in connection with exclusion from the school system, namely, (a) advance notice detailing the charges, (b) an evidentiary hearing with an opportunity to confront and examine adverse witnesses, (c) the opportunity for representation by counsel, and (d) the right to have the decision-maker’s conclusion based solely on the matters adduced at the hearing. Appended to the complaint was a copy of the administrative regulations, which provided in pertinent part:
+“BOARD POLICY
+In accordance with Arizona Revised Statutes 15-204, the principals of District #1 schools are authorized to suspend pupils for a period not to exceed one semester. In all cases of suspension it shall be for good cause and must be reported within five days to the School Board by the Superintendent’s office.
+The power to expel pupils rests exclusively with the School Board, (Arizona Revised Statutes 15-442). A conference with the parents and the Board will be arranged prior to expulsion.
+ADMINISTRATIVE REGULATIONS
+* * * * * *
+Suspension
+Suspension of a student must be preceded by a conference with the student’s, parents or guardian.
+In a case of suspension, a letter is to be sent to the parent or guardian as official notification of the suspension.
+A pupil who has been suspended from: school cannot be enrolled in another district school until the period of his suspension has expired.”
+The complaint further alleged that the-action taken against plaintiff Porfirio had. also been taken and would be taken against other students; that students subject to’ administrative suspension without hearing-were so numerous that the joinder of all similarly situated was impracticable; that there were questions of law and fact common to the class; that Porfirio’s claim was. typical of the claim of the class; and that the individual plaintiff would fairly and. adequately protect the interest of the class. It was additionally alleged that declaratory-relief would be appropriate for the class, as a whole. Declaratory and injunctive relief were prayed for.
+The amended complaint, filed April 13, 1971, was responded to by an answer filed April 30, 1971. This response admitted that following a conference on March 17, 1971, Porfirio was advised of suspension by a letter dated March 18 and that he was extended all rights that he desired to exercise at the conference. It also alleged that on April 16, 1971, a hearing was conducted at which Porfirio was represented by counsel, and that he was afforded an opportunity to contest the allegations set forth in the letter and to confront and question witnesses to the incidents which gave rise to his suspension. The answer also recited the fact that on April 19, 1971, (which fact is reflected in the record), the court had determined that the individual plaintiff had received a hearing which comported with due process requirements and therefore denied his request for a preliminary injunction. Dismissal of the class action was requested. On May 4, 1971, a formal, written judgment was entered which recited in part:
+“NOW THEREFORE, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the request for a preliminary injunction is hereby denied to Porfirio Carpinteiro.
+IT IS FURTHER ORDERED that the class action as to a permanent injunction shall remain in full force and effect, but it appears that there is no reason to hold Judgment as to Porfirio Carpinteiro until final determination of this action.”
+Both sides subsequently moved for summary judgment as to the class action and the court granted that of the School District. The court ruled that it was unable to find that the broad general policy of the Board was violative of constitutional rights of a particular student or of the class and that the type and extent of a conference or hearing in each particular instance would be determinative of whether due process was afforded a student.
+Appellants have cited extensive authority, with which we have no quarrel, as to the fairness of administrative hearings concerning suspension of students. In fact, subsequent to the entry of the judgment in the case sub judice, we rendered our decision in the case of Kelly v. Martin, 16 Ariz.App. 7, 490 P.2d 836 (1971), wherein we indicated that requirements of procedural due process must be satisfied when suspension or expulsion of a public high school student is ■ contemplated.
+We believe that disposition of this appeal is governed by the provisions of Rule 23, Rules of Civil Procedure, 16 A.R.S., as amended, pertaining to class actions. The pertinent portions of the Rule are:
+“23(a) Prerequisites to a class action. One or members of a class may sue or be sued as representative parties on behalf of all only if (1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the interests of the class.
+23(b) Class actions maintainable. An action may be maintained as a class action if the prerequisites of subdivision (a) are satisfied, and in addition:
+* * * * * *
+(2) the party opposing the class has acted or refused to act on grounds generally applicable to the class, thereby making appropriate final injunctive relief or corresponding declaratory relief with respect to the class as a whole.
+* * * * * *
+23(c) Determination by order whether class action to be maintained judgment. .
+“(1) As soon as practicable after the commencement of an action brought as a class action, the court shall determine by order whether it is to be so maintained. An order under this subdivision may be conditional, and may be altered or amended before the decision on the merits.
+* * * * * *
+(3) the judgment in an action maintained as a class action under subdivision (b) . . . (2), whether or not favorable to the class, shall include and describe those whom the court finds to be members of the class. ...”
+Thus, we see that in order to give clear definition to the action, the court is required to determine, as early in the ■proceedings as may be practicable, whether an action brought as a class action is to be so maintained. In the instant case, although no specific request for such determination was made, the May 4, 1971 judgment denying relief to Porfirio ordered that the class action “shall remain in full force and effect,” reflecting compliance with Rule 23(c) (1), supra. The Rule, however, provides that such determination can be altered or amended if, upon fuller •development of the facts, the original determination appears unsound. In other words, before rendering a decision on the merits, the court may decide that the action should be stripped of its character as .a class action. See, 39 F.R.D. 104 (1966).
+One seeking to maintain a class action has the burden of showing that the prerequisites are satisfied — merely calling it a class action does not make it one. Bailey v. Patterson, 206 F.Supp. 67 (S.D.Miss.1962), vacated on other grounds, 369 U.S. 31, 82 S.Ct. 549, 7 L.Ed.2d 512; Wilson v. Kelley, 294 F.Supp. 1005 (N.D.Ga.1968), aff’d 393 U.S. 266, 89 S.Ct. 477, 21 L.Ed.2d 425. Whether or not a suit should be allowed to proceed as a class action is left to the trial court’s discretion, Gold Strike Stamp Co. v. Christensen, 436 F.2d 791 (10th Cir. 1970); Hirschi v. B. & E. Securities Inc., 41 F.R.D. 64 (D.Utah 1966), and appellate courts do not interfere with such discretion in the absence of an abuse thereof. Johnson v. Georgia Highway Express Inc., 417 F.2d 1122 (5th Cir. 1969).
+The order of the trial court here amounts to a negative determination as to maintenance of a class action and we are unable to say that it abused its discretion. We believe the following statement from the case of Dale v. Hahn, 440 F.2d 633 (2d Cir. 1971) is pertinent:
+“. . . [M] embers of the purported class may have experienced different treatment from that which plaintiff experienced relative to notice and the opportunity for a hearing in the appointment proceedings. Because of the possible variance in factual situations, it may well be that § 102 [New York’s Mental Hygiene Law] is unconstitutional as applied to certain members of the purported class and yet may be constitutional as applied to others. [Footnote omitted] Where such a line could be drawn is not readily apparent, and it would be much more appropriate to handle difficult constitutional questions arising from the application of the statute to varying fact-patterns on a case-by-case basis rather than in a class action.” 440 F.2d at 640.
+We agree with the lower court that merely because only a “conference” prior to suspension of a student is required under the expressed policy of the School Board, the dictates of procedural process are not ipso facto eliminated. It is only when such “conference” falls short of meeting due process standards that judicial intervention becomes necessary. Therefore, in the absence of some showing of a consistent policy of ignoring procedural due process, this attempt to maintain a class action was properly refused in favor of ad hoc adjudications.
+Judgment affirmed.
+HATHAWAY and HOWARD, JJ., concur.
+. The time for appeal having expired, denial of relief to the individual plaintiff, Porfirio, is now conclusive.
+. We do not suggest that these requirements apply to every administrative suspension. Where, however, the governing body of a school district, as is the ease here, has authorized suspension of a student for a period not to exceed one semester, a suspension for such a substantial interval commands compliance with procedural due process. Stricklin v. Regents of University of Wisconsin, 297 F.Supp. 416 (W.D.Wis.1969) ; Sullivan v. Houston Independent School District, 307 F.Supp. 1328 (S.D.Tex.1969).
