@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 545"
+decided: "1973-07-31"
+citations: ["20 Ariz. App. 337", "512 P.2d 869"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, C. J., Division 1, and EU-BANK, P. J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Ernest F. GUTIERREZ, Appellant."]
+source_url: "https://static.case.law/ariz-app/20/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1248891
+cites_cases: ["104 Ariz. 3", "106 Ariz. 159", "107 Ariz. 143", "107 Ariz. 49", "109 Ariz. 148", "395 U.S. 238", "397 U.S. 742", "404 U.S. 257"]
+---
+
+# State v. Gutierrez
+
+## Majority (HAIRE, Judge.)
+
+HAIRE, Judge.
+Defendant, Ernest F. Gutierrez, and a co-defendant were charged with possession of heroin for sale, with prior felony convictions. Upon conviction the defendant-appellant would have been exposed to a minimum sentence of not less than ten years and a maximum of life imprisonment. After all the evidence had been presented in a two day jury trial, and just prior to the time for the closing arguments, the defendant and his co-defendant, as the result of a plea bargain, decided to plead guilty to an amended information. The plea bargain, which appears in the record, was that the state would drop the “for sale” allegation thereby reducing the charge to possession of heroin, that the allegation of a prior felony conviction would also be dropped, and that no charges would be filed in connection with a certain other incident unless defendant filed an appeal in this matter. The reduced charge carried a minimum sentence of two years and a maximum of ten. After determining that the plea was voluntarily and intelligently given, the plea was accepted, and defendant was later sentenced to a term of not less than five nor more than eight years in the state prison.
+On this appeal, defendant raises many questions relating to whether his plea was voluntarily and intelligently given. With regard to the “voluntariness” issue, he alleges that the state’s agreement not to prosecute him on other charges, given in exchange for his agreement not to appeal in this action, constituted an impermissible veiled threat. Open plea bargaining has been previously approved many times by the Arizona Supreme Court, and also by the United States Supreme Court. Brady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970); State v. Gardner, 106 Ariz. 159, 472 P.2d 28 (1970); State v. Jennings, 104 Ariz. 3, 448 P.2d 59 (1969). Inherent in almost every plea bargain is the “threat” that if the defendant does not enter into the bargain, he will face the probability of prosecution and the possibility of conviction on a more serious charge, or possibly on multiple charges. State v. Leuck, 107 Ariz. 49, 481 P.2d 842 (1971). We find nothing impermissible in the state’s contingent bargain not to prosecute on the other charges. There is no contention or evidence that the state has not kept this part of its bargain. See Santobello v. New York, 404 U.S. 257, 92 S.Ct. 495, 30 L.Ed.2d 427 (1971). In fact, the opposite appears to be the case — the state has not prosecuted defendant on the other charges in spite of the fact that the defendant has appealed in this matter.
+Defendant further vaguely states that he was “misled” by his trial counsel. The mere allegation that he was “misled”, without any specifics as to when and how is not sufficient to create an issue reviewable by this Court, particularly when the record in the trial court is bare of any indication of such conduct.
+Here, inasmuch as all the evidence in the trial on the merits had been received, it is somewhat frivolous to suggest that the record would not support a factual basis for the plea. In this connection we note that after accepting the guilty pleas, the trial judge expressly advised both defendants that he thought that by pleading guilty they had made a wise decision, that in his opinion the jury would have quickly found both of them guilty of the original charges.
+The only contention of any arguable merit made by the defendant is the contention that the plea was not “intelligently” given because there is nothing in the record to show that the defendant was advised of the possible consequences of his plea, that is, the minimum and maximum sentence which might be imposed. He makes no claim that he was in fact ignorant of the possible range of sentence at the time he entered his plea, only that the record does not reflect that he had such knowledge, and that therefore reversal is required under the “silent record” principles set forth in Boykin v. Alabama, 395 U.S. 238, 89 S.Ct. 1709, 23 L.Ed.2d 274 (1969). The only fallacy in defendant’s contention is that here the record is not silent. First, we have previously pointed out that defendant’s change of plea was made after two days of trial, and was the result of a plea bargain which is set forth in detail in the transcript at a hearing attended by both defendant and his counsel. As stated in State v. McCallister, 107 Ariz. 143, 483 P.2d 558 (1971):
+“ . . .a presumption exists that when a defendant who is represented by counsel changes his plea at trial from not guilty to guilty as a result of plea bargaining, he does so with full knowledge of the facts and consequences thereof.” 107 Ariz. at 145, 483 P.2d at 560.
+The facts giving rise to this presumption are clearly set forth in the record, and thus the record is far from silent on this issue. Second, and .perhaps even more important, although the record does not reflect that the trial judge specifically advised the defendant of the statutory consequences of his conviction, it does reflect that his attorney so advised him:
+“THE COURT: * * *
+“Let me ask as a final shot here, Mr. Russin, have you discussed in great detail with your client the consequences of the plea?
+“MR. RUSSIN: Yes, I have, your Honor. I have explained the statute. (Emphasis added). * * *
+“THE COURT: * * *
+“Now your attorneys have explained what your rights are and what can happen to you, have they not? Were any promises of leniency made to you by any person in exchange for your plea of guilty? Answer is no. Were you threatened or forced in any manner to make this plea? The answer is no.” (Emphasis added).
+In State v. Leuck, supra, the Arizona Supreme Court noted that the defendant had been represented by counsel and that he stated that “his attorney had gone over the matter of his change of plea with him.” The court held: “It was not necessary under these circumstances that the trial judge advise him of the range of sentence.”
+Here the record reflects that not only did the court query the defendant as to whether his attorney had told him “what can happen to him”, but in addition the attorney expressly advised the court in defendant’s presence that he had explained the statute to the defendant. We therefore reject the defendant’s contention that the record is silent on the issue of his knowledge of this vital area of the consequences of his plea. We cannot accept any implication that the defendant’s knowledge must be imparted to him solely by the judge. His knowledge may come from many sources, and all that is required is that there be something in the record from which it can be logically found that the defendant did, in fact, have the required knowledge. State v. Darling, 109 Ariz. 148, 506 P.2d 1042 (1973).
+The judgment of conviction and sentence are affirmed.
+JACOBSON, C. J., Division 1, and EU-BANK, P. J., concur.
+. On appeal, defendant has new counsel.
