@@ -1,0 +1,42 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 665, 1 CA-CR 673"
+decided: "1975-02-06"
+citations: ["23 Ariz. App. 169", "531 P.2d 545"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAIRE, Chief Judge, Division 1 and EUBANK, J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Roy Sylvester BELL and Linda Jane Bell, Appellants."]
+source_url: "https://static.case.law/ariz-app/23/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1240771
+---
+
+# State v. Bell
+
+## Majority (JACOBSON, Presiding Judge.)
+
+OPINION
+JACOBSON, Presiding Judge.
+This appeal requires an interpretation of Rule 32, Rules of Criminal Procedure, 17 A.R.S., dealing with post-conviction relief.
+On December 20, 1973, appellants Roy S. Bell and Linda Jane Bell entered pleas of guilty to one amended charge each of unarmed robbery pursuant to a plea bargain whereby charges of possession of prescription only drugs for purposes of sale, not upon a valid prescription; possession of dangerous drugs for sale; second degree conspiracy; assisting the escape of prisoners; escape from county jail and armed robbery were dismissed as to each defendant, Roy Bell was sentenced to serve a term of not less than 18 nor more than 50 years, and Linda Bell was sentenced to a term of not less than 6 nor more than 15 years. Both filed in personam appeals which were consolidated.
+Upon the filing of the appeals, the appellants being indigents, the trial court appointed the counsel who represented them at trial as counsel on appeal. After interviewing his clients, this counsel ascertained that appellants wished to urge his alleged incompetency as the basis of their appeal. Trial counsel brought this matter to the attention of the court by his motion to withdraw as counsel and a request that other counsel be appointed for appeal purposes. Trial counsel’s motion was granted and present appellate counsel were appointed.
+Present counsel then filed a motion in the trial court entitled “Motion to Permit Withdrawal of Appellants’ Plea,” and filed a motion in this court to stay the appeal pending a determination of his trial court motion. This court denied the motion on the basis that the motion to withdraw the pleas under Rule 17.5, Rules of Criminal Procedure, was untimely filed in the trial court. In addition, this court ordered the filing of appellants’ opening brief.
+Counsel complied with that order raising the issue of incompetency of counsel, but asserting that he was unable to factually present this issue to this court because of the lack of an evidentiary hearing on this issue. At this point it is important to point out that the only transcripts filed in this court in connection with this appeal deal with the hearings on the change of plea and sentencing. It is also important to point out that the grounds giving rise to the alleged claim of incompetency allegedly occurred prior to these hearings.
+In the meantime and after opening memoranda in this court had been filed, appellants’ motion to withdraw their plea came on for hearing before the trial court. At that hearing, counsel for the first time moved to amend his motion to seek relief under Rule 32.1, Rules of Criminal Procedure, and requested an evidentiary hearing on the allegations of incompetency of counsel. This motion was resisted by the prosecution on the basis that incompetency of counsel had been raised on direct appeal and under Rule 32.2, Rules of Criminal Procedure, the trial court was precluded from granting post-conviction relief on this ground. The trial court denied appellants’ request.
+Appellants are thus left in the quandary of attempting to raise an issue on appeal for which they readily admit a record establishing a factual basis is lacking and being unable to develop this factual basis in a Rule 32 post-conviction setting because of their appeal.
+In our opinion Rule 32 has as its aim the establishment of proceedings to determine the facts underlying a defendant’s claim for relief when such facts are not otherwise available. The comments to Rule 32.2 make this clear when they discuss the availability of federal review of state criminal proceedings:
+“The federal courts will indulge in only limited review of state court rulings on claims of deprivation of federally protected constitutional rights when those claims have been resolved on the merits after an adequate fact-finding inquiry.” (Emphasis added).
+When Rule 32.2 is viewed with this aim in mind, we are of the opinion that the preclusion of post-conviction relief under this rule on the ground that the matter is still raisable on direct appeal applies only to those matters in which a sufficient factual basis exists in the record for the appellate court to resolve the matter.
+Because the Rules of Criminal Procedure contemplate that matters may be pending in both the trial court and the appellate court simultaneously, the question arises as to which court makes the determination of whether a sufficient factual basis exists for meaningful appellate review. In our opinion this determination, in the interest of judicial economy, may first be made by the trial court. This could possibly be done by considering the factual basis for the contentions made and reviewing, if available, the transcripts on appeal and the appellate memoranda. If the trial court determines that the factual basis for appellants’ contentions is not available to the appellate court, it may pro-' ceed with an evidentiary hearing. On the other hand, if these same factual contentions have previously been explored, it may properly, under Rule 32.2, preclude relief.
+The next question that naturally arises deals with the function of the trial court in holding this evidentiary hearing— is it an adjunct to and in furtherance of the appeal, or is it a true Rule 32 hearing where the trial court may grant affirmative relief. Again, in our opinion, it is the latter function; the trial court may grant affirmative relief, thus possibly mooting the issue on appeal. The proper procedure to follow in such a case is a motion to stay the appellant proceedings under Rule 31.4, Rules of Criminal Procedure. In the event that Rule 32 relief is denied by the trial court either with or without an evidentiary hearing, proper review may be taken of the trial court’s action by a petition for review and a motion to consolidate under Rule 31.4(b)(2), Rules of Criminal Procedure. If an evidentiary hearing has been held, by the consolidation the appellate court is furnished an evidentiary basis for resolution of the appeal. If an evidentiary hearing has been denied, the appellate court may then review the correctness of that ruling and proceed accordingly.
+As the trial court did not have the benefit of this opinion at the time it ruled on appellants’ request to amend their petition for Rule 32 relief, it cannot be faulted for not following the procedures outlined herein.
+For the reasons herein stated, further proceedings in this appeal are hereby stayed; the trial court is ordered to hold an evidentiary hearing to determine whether appellants are entitled to post-conviction relief under Rule 32.1(a) on the ground of incompetency of counsel; that depending upon the ruling of the trial court, counsel for appellants is ordered to either move to dismiss this appeal as being moot, or petition this court for a review of the denial of Rule 32 relief and to consolidate that petition with this appeal under Rule 31.-4(b) (2), Rules of Criminal Procedure.
+HAIRE, Chief Judge, Division 1 and EUBANK, J., concur.
+. The comments to Rule 32.1, Rules of Criminal Procedure, indicate that attacks on competency of counsel are properly raised under subsection (a) of this rule.
+. Rule 32.2, Rules of Criminal Procedure, provides in part:
+“a. Preclusion. A petitioner will not be given relief under this rule based upon any ground:
+“(1) Still raisable on direct appeal under Rule 31 or on posttrial motion under Rule 24.”
+. Rule 31.4(b)(2) provides:
+“An appeal from a final decision on a Rule 24 motion or Rule 32 petition filed prior to a notice of appeal or filed while an appeal is pending and decided while the appeal is stayed, shall be consolidated with an appeal from the judgment or sentence, unless good cause is shown why such consolidation should not occur.”
