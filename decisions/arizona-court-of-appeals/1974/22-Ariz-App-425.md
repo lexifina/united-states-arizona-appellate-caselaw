@@ -1,0 +1,43 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 404"
+decided: "1974-11-20"
+citations: ["22 Ariz. App. 425", "528 P.2d 176"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HOWARD, JJ., concur."]
+parties: ["The STATE of Arizona, Appellant, v. James Frances O’BRIEN, Appellee."]
+source_url: "https://static.case.law/ariz-app/22/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1231984
+cites_cases: ["11 Ariz. App. 196", "13 Ariz.App. 265", "183 Tenn. 258", "191 S.W.2d 551", "22 Ariz.App. 220", "378 U.S. 108", "406 F.2d 1264", "487 F.2d 860", "50 S.W.2d 1097"]
+---
+
+# State v. O'Brien
+
+## Majority (HATHAWAY, Chief Judge.)
+
+OPINION
+HATHAWAY, Chief Judge.
+The state is appealing an order granting a motion to suppress. Because we find the affidavit in support of the search warrant is insufficient, we affirm.
+The facts show that on March 11, 1974, an investigator for the Gila County Sheriff’s Department received information from an informant about a criminal act involving marijuana. A search warrant was issued by the Globe justice of the peace on the following affidavit:
+“Between the date of March 11, 1974, and - 19-, your affiant (affiant’s fellow officer,) to-wit: Donald R. Lane received the following information to warrant the issuance of a search warrant: On March 11, 1974 this affiant and affiant’s fellow officer received information from a past proven reliable informant that Marijuana in a usable quanity (sic) could be found in the possession of a James O’Brian (sic) who resides within the mobile home described herein. This past proven reliable informant has been a user of marijuana in the past and knows it when he see’s (sic) it and did see it in the possession of O’Brian (sic) recently. Also O’Brian (sic) is known to this affiant to have been charge (sic) in Maricopa County in March, 1973 for Possession of Marijuana.
+Further, that affiant has and there is probable and reasonable cause to 'believe, and that he does believe and is reasonably positive that the aforementioned property is located at the place heretofore set out in this affidavit.”
+The justice of the peace attempted to supplement the affidavit by receiving oral testimony regarding the circumstances of the informant’s tip. None of this information was recorded, transcribed or placed in the form of an affidavit to be signed by the officer. On May 23, 1974, the superior court ruled:
+“Upon reading and considering the memorandums filed in support of the Motion to Suppress, it is hereby ordered that the motion to suppress be granted.”
+Appellant challenges the suppression of the evidence obtained through the use of the search warrant on two grounds: the sufficiency of the affidavit and the admissibility of the oral testimony.
+We dispose of the second contention first. We have recently held in State v. Robertson, 22 Ariz.App. 220, 526 P.2d 744 (1974) that unrecorded oral testimony cannot be considered to remedy a deficient affidavit in support of a search warrant.
+In regard to the other contention, we find the affidavit insufficient on its face. In Robertson, we stated:
+“The two aspects of reliability of the information and the provision of underlying circumstances as to how the informant came by his information to demonstrate its probability or credibility are lacking. Aguilar v. Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964). This information, perhaps, may have been sufficient in the affidavit had it established that the witnesses relied upon were eyewitnesses. As we have previously held, an eyewitness to an act meets both aspects of Aguilar:
+‘Also, the affidavit recites the fact that the informant “saw” the narcotics in the defendant’s possession. In State v. Ramos, 11 Ariz. App. 196, 463 P.2d 91 (1969), we held that when an affidavit indicates that the informant was an eyewitness to the actual crime, the two-pronged test for evaluating the existence of probable cause is met. See also McCreary v. Sigler, 406 F.2d 1264 (8th Cir. 1969). In other words, reliability of the informant is thereby demonstrated plus the “underlying circumstances” requisite for evaluation of the informant’s “tip.” We therefore reject the defendant’s challenge to the sufficiency of the affidavit.’ State v. White, 13 Ariz.App. 265 at 266-267, 475 P.2d 750 at 751-752.” 526 P.2d at 745.
+The subject affidavit stated that the information it contained was from a past proven reliable informant who had been a user of marijuana and knew it when he saw it and did in fact “recently” see it in the possession of the defendant. The information relied on, then, was that of an eyewitness, therefore meeting the Aguilar test.
+Two questions remain, however. The first is whether the fact that the informant did not see the contraband in the defendant’s home thwarted the finding of probable cause as to the search of the home. We think it is reasonable that if the informant saw the contraband in the defendant’s possession and a search of the defendant’s home is then made without undue delay, the search is supported by the requisite probable cause. Bastida v. Henderson, 487 F.2d 860 (5th Cir. 1973).
+The second question hinges on the problem of undue delay in that the use of the term “recently” in the affidavit does not give sufficient specifics for the magistrate or justice of the peace to ascertain the probability of the contraband still being where the eyewitness informant saw it.
+As stated in 68 Am.Jur.2d, Searches and Seizures, § 69, pp. 724-5:
+“The proof of probable cause which must be made before a search warrant may be issued must be of facts so closely related to the time of the issue of the warrant as to justify a finding of probable cause at that time, and whether the proof meets this test must be determined by the circumstances of each case. Generally, it may be said that no more than a ‘reasonable’ time may have elapsed, and that the recital must be of facts so closely related to the time of issuance of the warrant as to justify a finding of probable cause at that time. Clearly, an affidavit which omits altogether to state the time of occurrence of the facts recited therein cannot show probable cause. But it has been recognized that sufficient definiteness as to time can sometimes be supplied by the use of words such as ‘recently,’ . . . ” (Footnotes omitted)
+All authority cited by the parties and all that we have found which hold that the use of the word “recently” in the affidavit is sufficient to make such a finding in the face of “other circumstances.” such as the use of words in the present tense, to show that the crime not only occurred recently but in most cases is of a continuing nature. Waggener v. McCanless, 183 Tenn. 258, 191 S.W.2d 551 (1946); Hartless v. State, 121 Tex.Cr. 181, 50 S.W.2d 1097 (1932). There is nothing in the affidavit before this court to show “other circumstances.” The only words in the present tense are mere conclusions of the officer in the first and concluding paragraphs. However, in the fourth paragraph, wherein the officeraffiant is to give the necessary information to enable the magistrate or justice of the peace to make a disinterested finding of probable cause to issue the warrant, it states, “ . . . marijuana in a usable quanity [sic] could be found in the possession of a James O’Brian [sic] . . . ” This also is a conclusion of a police officer with no facts to support it. Appellant argues that “it is only logical to presume that if a person received a quantity of marijuana on one day, less than 24 hours later . . . .” Appellant, however, is utilizing information that is not before this court, that is, the information gleaned from the affiant in the unrecorded, oral testimony.
+We can only consider the face of the affidavit. In that consideration, we find no clear statement as to the time the alleged crime occurred such that we could say with some degree of probability that the contraband would still be in the defendant’s possession.
+It would appear obvious that what is recent to one person is not recent to another. Whereas the word “recent” may be months in some situations, it may be a much shorter period of time elsewhere. The danger of this in the search warrant situation is too great to sanction such a looseness of terminology. . Without more in the affidavit to show that the possession in question was within a very short time before the affidavit was executed, we cannot allow the extreme abridgement of rights which flow from a search of one’s home. We therefore agree with the ruling on the motion to suppress.
+Affirmed.
+KRUCKER and HOWARD, JJ., concur.
