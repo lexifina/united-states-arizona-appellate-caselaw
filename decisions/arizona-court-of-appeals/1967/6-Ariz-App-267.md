@@ -1,0 +1,36 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 126"
+decided: "1967-09-26"
+citations: ["6 Ariz. App. 267", "431 P.2d 908"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMERON, C. J., and DONOFRIO, J., concur."]
+parties: ["STATE of Arizona, Appellee, v. Ruby WOMACK, Appellant."]
+source_url: "https://static.case.law/ariz-app/6/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1237967
+cites_cases: ["100 Ariz. 288", "101 Ariz. 65", "114 P. 974", "13 Ariz. 416", "2 Ariz.App. 443", "338 F.2d 966", "4 Ariz.App. 584", "5 Ariz.App. 225", "80 Ariz. 381", "95 Ariz. 199"]
+---
+
+# State v. Womack
+
+## Majority (STEVENS, Judge.)
+
+STEVENS, Judge.
+Appellant, Ruby Womack, was charged by Information on 17 September 1965 with two counts of illegal possession of a narcotic drug. Count I was for the illegal possession of heroin and Count II was for illegal possession of marijuana. Appellant was arraigned on 13 October 1965, plead not guilty, and waived the sixty day period. The trial date was set for 16 December 1965. The trial began on 4 October 1966.
+The reporter’s transcript of the trial revealed that on 11 March 1965, five police officers of the City of Phoenix, with search warrants, searched an establishment known as Eddie’s Cafe and Bar in Phoenix, and appellant’s apartment which was also located in Phoenix. The officers entered the front door of Eddie’s Cafe and Bar, approached the appellant and another lady who was present, informed them that they were officers and that they had a search warrant. The search warrant was presented to the appellant and the officers commenced to search the building. During the search, the officers found some paper packets containing heroin. The packets were wrapped in a white napkin located on a shelf above the sink in the cafe. After searching the cafe, the officers went to the apartment of the appellant where they found a small match box in the cooler duct at the south end of the room. This match box contained marijuana.
+During the course of the trial testimony was admitted, over appellant’s objections, which indicated that appellant had committed crimes other than those charged in the Information. This evidence showed that appellant had previously sold heroin in Eddie’s Cafe. The jury found the appellant guilty of both counts as charged in the Information.
+Appellant then appealed to this Court setting forth four assignments of error.
+First, the appellant contends that the trial court erred in denying her motion to quash the Information, there being no allegation of any specific location of where the crime alleged took place. Appellant contends that since the Information did not name the exact location of the alleged crime, she could not plead former jeopardy or former acquittal. With this contention we do not agree. An indictment alleging the commission of an offense within the jurisdiction of the trial court meets the required certainty of place of commission. Flores v. United States, 338 F.2d 966 (U. S.C.A. 10th Cir.1964). An indictment or information charging an offense in a certain county is sufficient even if it does not state the particular portion of the county in which the crime was committed. Sharp v. Territory, 13 Ariz. 416, 114 P. 974 (1911). Furthermore, providing it otherwise charges an offense in accordance with Criminal Rule 115, 17 A.R.S., an indictment or information is not fatally defective if all other information can be supplied by a bill of particulars. State v. Miller, 100 Ariz. 288, 413 P.2d 757 (1966). If appellant needed further information in order to plead former jeopardy or former acquittal, she should have asked for a bill of particulars under Rule 116, Rules of Criminal Procedure, 17 A.R.S.
+Second, appellant contends that the trial court erred in denying her motion to dismiss for lack of prosecution. We have examined the records and find that in addition to the waiving of the sixty day period there were delays at the request of the appellant or concurred in by her. The appellant has failed to show any prejudice due to the delay. The trial court did not commit error in this ruling. State v. Pruett, 101 Ariz. 65, 415 P.2d 888 (1966).
+Third, the appellant contends that the trial court committed error by allowing testimony of other crimes committed by her to be introduced at the trial. We are not able to agree. Appellant was charged with illegal possession of heroin and illegal possession of marijuana. These items were not found on her person. In order to prove that appellant had possession of the narcotics, it was appropriate to show that she knew the narcotics were in Eddie’s Cafe and that she had access to them. The evidence offered relating to other crimes showed that appellant had previously sold narcotics in Eddie’s Cafe. The narcotics were taken from the same location, thereby tending to show that she had knowledge that narcotics were kept in the cafe, and that they were under her control and possession. We hold that this set of circumstances takes the case out of the general rule that evidence of other crimes is not admissible. Our Supreme Court has set forth an exception to the general rule in adopting the “complete story” principle in the following language:
+“Evidence of other criminal acts is admissible when so blended or connected with the crime of which defendant is accused that proof of one incidentally involves the other or explains the circumstances of the crime.” State v. Villavicencio, 95 Ariz. 199, 388 P.2d 245 (1964).
+For other cases following this principle, see State v. Willits, 2 Ariz.App. 443, 409 P.2d 727 (1966); State v. Skinner, 4 Ariz.App. 584, 422 P.2d 415 (1967). Furthermore, in State v. McDaniel, 80 Ariz. 381, 298 P.2d 798 (1956), the court said:
+“ * * * in the prosecution of a particular offense evidence of another crime entirely distinct and independent of that for which he is being tried is neither relevant nor admissible unless proof of one tends to establish the other.” (Emphasis supplied)
+We hold that the testimony offered in the present case falls within this exception since it was offered to complete the story by showing knowledge and possession.
+The court instructed the jury that they were not to consider the evidence of prior offenses in determining whether the accused did the acts charged in the Information. In other words, the court instructed the jury as to the limited purpose of the evidence of prior offenses. We find that these instructions were adequate and furnished an adequate safeguard in relation to the evidence of the earlier acts.
+Fourth, the appellant contends that the evidence does not sustain a verdict of guilt as to appellant’s possession of the narcotics as alleged in the Information. We have examined the record in the light of the rule that on appeal from a criminal conviction, the evidence and reasonable inferences therefrom, will be considered in a manner which most favorably supports the verdict. State v. Valenzuela, 5 Ariz.App. 225, 425 P.2d 127 (1967). We hold that the evidence sustained the verdicts of guilt.
+Judgment affirmed.
+CAMERON, C. J., and DONOFRIO, J., concur.
