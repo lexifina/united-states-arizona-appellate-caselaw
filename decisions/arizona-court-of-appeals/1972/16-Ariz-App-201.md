@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1405"
+decided: "1972-01-17"
+citations: ["16 Ariz. App. 201", "492 P.2d 450"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER, C. J., and HATHAWAY, J., concur."]
+parties: ["ESPIL SHEEP COMPANY, Inc., Appellant, v. BLACK BILL & DONEY PARKS WATER USERS ASSOCIATION, an Arizona non-profit corporation, Appellee."]
+source_url: "https://static.case.law/ariz-app/16/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1225488
+cites_cases: ["110 P. 290", "119 P. 934", "124 Mont. 41", "14 Ariz.App. 377", "158 Cal. 137", "161 Cal. 516", "324 P.2d 266", "388 F.2d 148", "47 Ariz. 484", "61 Ariz. 412", "78 Wyo. 254", "8 Ariz.App. 171"]
+---
+
+# Espil Sheep Co. v. Black Bill & Doney Parks Water Users Ass'n
+
+## Majority (HOWARD, Judge.)
+
+HOWARD, Judge.
+The appellant, plaintiff below, filed an “Application for Temporary Restraining Order and for Permanent Injunction” to which appellee, defendant below, responded by motion to dismiss. As grounds therefor, the defendant contended that the trial court lacked jurisdiction and that the application failed to state a claim for relief.
+The plaintiff filed its opposition to the motion to dismiss to which the defendant responded. Appended to defendant’s reply was a copy of a special use permit issued to it by the United States Forest Service with respect to constructing, operating and maintaining a water supply and distribution system for domestic use on the land which was involved in the plaintiff’s claim.
+The court granted the motion to dismiss and specifically found that (1) it lacked jurisdiction for the reason that jurisdiction was vested solely in the United States Forest Service and (2) the plaintiff’s application failed to state a claim for relief. It therefore entered an order dismissing the plaintiff’s application.
+Review of this ruling necessitates a detailed analysis of the allegations of the plaintiff’s application. It alleged, inter alia, that it was “the holder of the right to appropriate certain water” on certain described real property; that it and its predecessors in interest had grazed sheep and cattle on this real property and had thereby obtained by appropriation and application to beneficial use “the right to use those surface waters flowing over the real property described above;” that it had for many years possessed a use permit from the United States Forest Service granting it grazing rights within portions of the described real property; and that it had exercised these grazing rights without interference for a period in excess of 60 years. It further alleged that the defendant had obtained from the Arizona Corporation Commission an extended certificate of convenience and necessity to enlarge a water system to serve a certain area northeast of Flagstaff, Arizona; that in pursuance of this proposed development, the defendant “proposes to appropriate substantial quantities of water from that area in which plaintiff has pre-existing and superior right of appropriation as aforementioned although defendant knows, or should know, that said proposed water system and appropriation of water will materially affect the quantity of water available to plaintiff as a prior appropriator and will materially and adversely, affect plaintiff’s method and/or system of water;” and that by constructing its proposed system, the defendant would constitute an annoyance and detriment to the plaintiff and violate its rights of prior appropriation obtained through beneficial use.
+The plaintiff requested the court to enjoin the defendant from proceeding with any and all construction of dams, water intakes, storage tanks, reservoirs, fences, ditches, drains, supply systems, water wells, or any other improvements which in any way might interfere with the plaintiff’s grazing leases, use permits, or water rights in the described area.
+There is no dispute that title to the lands in question was in the United States. Therefore, since the defendant’s construction of improvements thereon was by virtue of a permit from the United States, the superior court was without jurisdiction to interfere. 73 C.J.S. Public Lands § 180 (1951). However, notwithstanding ownership of the land is in the United States, adjudication of rights to water thereon is within the jurisdiction of state courts. See e. g., Parker v. McIntyre, 47 Ariz. 484, 56 P.2d 1337 (1936); Inyo Consol. Water Co. v. Jess, 161 Cal. 516, 119 P. 934 (1911); Wishon v. Globe Light & Power Co., 158 Cal. 137, 110 P. 290 (1910).
+Although plaintiff’s complaint is not a model of clarity, by indulging in every intendment in its favor we assume arguendo that plaintiff was seeking a declaration in its favor as to priority of water rights on the subject property. Whether or not plaintiff was entitled to a declaration in its favor is controlled by Arizona customs, laws and decisions. Hunter v. United States, 388 F.2d 148 (9th Cir. 1967).
+A.R.S. § 45-101 provides in pertinent part:
+“A. The waters of all sources, flowing in streams, canyons, ravines or other natural channels, or in definite underground channels, whether perennial or intermittent, flood, waste or surplus water, and of lakes, ponds and springs on the surface, belong to the public and are subject to appropriation and beneficial use as provided in this chapter.”
+As noted above, the plaintiff alleged acquisition by appropriation of the right to use “surface waters.” Surface waters are those waters which flow on the land from the skies or arise in springs and diffuse themselves over the surface of the ground, following no defined course or channel and are lost by being diffused over the ground through percolation, evaporation, or natural drainage. Southern Pacific Co. v. Proebstel, 61 Ariz. 412, 150 P.2d 81 (1944) ; Kirkpatrick v. Butler, 14 Ariz.App. 377, 483 P.2d 790 (1971); 93 C.J.S. Waters § 112 (1956). The essential characteristics of surface waters are that their flows are shortlived and that the waters are spread over the ground and not concentrated or confined in bodies of water conforming to the definition of lakes or ponds. See Doney v. Beatty, 124 Mont. 41, 220 P.2d 77 (1950). Since A.R.S. § 45-101, supra, does not provide for appropriation of “surface waters,” they are not appropriable. 93 C.J.S. Waters § 170a (1956).
+A motion to dismiss a complaint for failure to state a claim for relief admits, for purposes of the motion, the -truth of the facts alleged in the complaint. Kalmanoff v. Weitz, 8 Ariz.App. 171, 444 P.2d 728 (1968). Where, as here, the plaintiff’s pleading on its face reflects no ownership of a water right, it was fatally defective. Hunziker v. Knowlton, 78 Wyo. 254, 324 P.2d 266 (1958). Since the trial court’s granting of the motion to dismiss was correct, although for the wrong reasons, we affirm.
+Judgment affirmed.
+KRUCKER, C. J., and HATHAWAY, J., concur.
+NOTE: This cause was decided by the Judges of Division Two as authorized by A.R.S. § 12-120, gubsec. E.
