@@ -1,0 +1,66 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 180"
+decided: "1969-10-09"
+citations: ["10 Ariz. App. 427", "459 P.2d 344"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE of Arizona, Appellee, v. Cruz PARRA, Appellant."]
+source_url: "https://static.case.law/ariz-app/10/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208240
+cites_cases: ["102 Ariz. 174", "102 Ariz. 377", "104 Ariz. 16", "105 Ariz. 31", "105 Ariz. 47", "168 P. 508", "17 Ariz. 159", "19 Ariz. 195", "2 Ariz. 319", "2 Ariz.App. 6", "26 Ariz. 334", "3 Ariz. 1", "30 Ariz. 366", "35 P. 1059", "4 Ariz. 193", "48 Ariz. 43", "53 A.L.R.2d 619", "6 Ariz. 240", "66 Ariz. 12", "7 Ariz.App. 43", "79 Ariz. 116", "87 Ariz. 176", "89 Ariz. 76", "9 Ariz.App. 131", "96 Ariz. 259", "96 Ariz. 377", "98 Ariz. 254", "98 Ariz. 70"]
+---
+
+# State v. Parra
+
+## Majority (STEVENS, Judge.)
+
+STEVENS, Judge.
+Arising out of a single confrontation and a single closely-knit series of acts involving the defendant and Miss Frazee, the defendant was charged in a two-count amended information. Count one charged the offense of attempted grand theft and count two charged the offense of aggravated battery.
+Pursuant to A.R.S. § 13-663, grand theft includes the “theft of money or property from the person of another.” See subsec. A, par. 2. The defendant not having been successful in his efforts was charged with an attempt. Pursuant to A.R.S. § 13-245, a battery is an aggravated battery “when committed by an adult male upon the person of a female.” See subsec. A, par. 3. The defendant was represented at the trial by private counsel. The jury found him guilty of both counts. He was duly adjudged guilty of both counts. He was sentenced to imprisonment for not less than three nor more than five years on each count, the sentences to run consecutively.
+The amended information carried two addendums, each urging a separate prior felony conviction. The alleged felony convictions were admitted by the defendant prior to the beginning of the trial. At the trial, the defendant testified and admitted the two prior convictions set forth in the addendums and also a third prior conviction.
+There are three basic questions for our consideration on the appeal. These are:
+1. Whether it was error to give Mari-copa Recommended Jury Instruction (MARJI) 204 on reasonable doubt;
+2. Whether it was error to adjudge the defendant guilty and to sentence him for both counts as constituting double punishment contrary to the provisions of A.R.S. § 13-1641; and
+3. Whether the jury was properly instructed as to its duty and authority to consider separately the question of guilt or innocence as to each count. There is no issue raised with reference to the term of either sentence, but, as above noted, it is urged that only one sentence can be imposed and that only in relation to one count.
+THE MARJI INSTRUCTION
+The instruction on reasonable doubt is, according to the briefs, MARJI Instruction No. 204. As given, the Instruction reads as follows:
+“A defendant in a criminal case is presumed by law to be innocent. The law does not require a defendant to prove his innocence or to produce any evidence. The burden of proving the defendant guilty beyond a reasonable doubt rests upon the State. This burden never shifts. The term ‘reasonable doubt’ means a doubt based upon a reason. It does not mean an imaginary or possible doubt. It is a doubt for which a reason can be given arising from an impartial consideration of the evidence or lack of evidence. It means a doubt that would cause a reasonable man to pause or hesitate when called upon to act upon the most important affairs of life. If, after a consideration of all of the evidence, you are convinced of the guilt of the defendant, then I instruct you that you are satisfied beyond a reasonable doubt. If, on the other hand, you are not convinced of the guilt of the defendant, then I instruct you you are not satisfied beyond a reasonable doubt.”
+A.R.S. § 13-162, subsec. A is as follows:
+“A. A defendant in a criminal action is presumed to be innocent until the contrary is proved, and in case of a reasonable doubt whether his guilt is satisfactorily shown, he is entitled to be acquitted.”
+The defendant urges that the Instruction directs each juror to convict unless that juror can give a reason for not convicting. Reading the Instruction as a whole, we do not agree with this contention.
+The defendant, through diligent effort, has cited the following cases to this Court on the subject of the reasonable doubt instruction. Territory v. Barth, 2 Ariz. 319, 15 P. 673 (1887); Territory v. Clanton, 3 Ariz. 1, 20 P. 94 (1889); United States v. Romero, 4 Ariz. 193, 35 P. 1059 (1894); Foster v. Territory, 6 Ariz. 240, 56 P. 738 (1899); Roberts v. State, 17 Ariz. 159, 149 P. 380 (1915); Bush v. State, 19 Ariz. 195, 168 P. 508 (1917); Harding v. State, 26 Ariz. 334, 225 P. 482 (1924); Hann v. State, 30 Ariz. 366, 247 P. 129 (1926); Hash v. State, 48 Ariz. 43, 59 P.2d 305 (1936) and State v. Carter, 66 Ariz. 12, 182 P.2d 90 (1947).
+In these cases our Supreme Court approved a variety of reasonable doubt instructions. They indicate that many attempts have been made by both our trial and appellate courts to improve upon the definition of the term. However, these attempts to explain and simplify often confuse rather than clarify its meaning. Perhaps, this occurs because the language used by appellate courts to explain a proposition of law is not always appropriate for jury instructions. On the other hand, these attempts may fail because the term is almost self-defining.
+We do not hold that improvement could not be made upon MARJI Instruction No. 204. We do hold, however, that the giving of the Instruction in the instant case was not reversible error. The record affirmatively discloses that the defendant’s counsel stated that he had no objection when the trial judge informed him that the Instruction would be given. State v. Mays, 105 Ariz. 47, 459 P.2d 307 (Decided 2 October 1969).
+DOUBLE SENTENCE
+A.R.S. § 13-1641 is as follows:
+“An act or omission which is made punishable in different ways by different sections of the laws may be punished under either, but in no event under more than one. An acquittal or conviction and sentence under either one bars a prosecution for the same act or omission under any other.”
+Viewing the evidence in the light most favorable to supporting the verdicts and judgments of guilt, we find that on 2 September 1967, after dark, Miss Frazee approached a restaurant in the City of Phoenix. She was on foot and alone. She was carrying her purse. The defendant approached her and unsuccessfully attempted to wrest her purse from her. He was not successful due to her resistence of his efforts. A struggle ensued during the course of which she was physical^ injured by the force of the defendant’s efforts. She was thrown with force against the restaurant building. Police officers in the vicinity observed the struggle and promptly arrested defendant.
+In this area of the case, we are again indebted to the defendant for a careful review of Arizona case law. We quote from the defendant’s opening brief as follows:
+“Those cases wherein the court has held that the statute prohibiting double punishment did not apply were cases in which two or more acts were performed by the accused, each one of which constituted a distinct violation of a criminal statute without regard to the other.
+State v. Green, 98 Ariz. 254, 403 P.2d 809 (1965); (burglary and rape)
+State v. Harvey, 98 Ariz. 70, 402 P.2d 17 (1965); (statutory rape and lewd and lascivious acts)
+State v. Hutton, 87 Ariz. 176, 349 P.2d 187 (1960) ; (burglary and theft)
+State v. Ballez, 102 Ariz. 174, 427 P.2d 125 (1967); (robbery and grand theft)
+State v. Westbrook, 79 Ariz. 116, 285 P.2d 161, [53 A.L.R.2d 619] (1955); (burglary and conspiring to commit burglary)
+State v. Phillips, 102 Ariz. 377, 430 P.2d 139 (1967); (fellatio and lewd and lascivious conduct based on different acts)
+State v. Payne, 7 Ariz.App. 43, 436 P.2d 137 (1968); (burglary and grand . theft)
+“Where only a single act is involved the statute prohibiting double punishment applies.
+State v. Hunt, 2 Ariz.App. 6, 406 P.2d 208 (1965) (contributing to delinquency of minor, permitting life and helth (sic)’of child to be neglected and failure to provide)
+State v. Boodry, 96 Ariz. 259, 394 P.2d 196 (1964); (rape and incest)
+State v. Vallejos, 89 Ariz. 76, 358 P.2d 178 (1961); (possession of marijuana and possession of marijuana for sale)
+State v. Mills, 96 Ariz. 377, 396 P.2d 5 (1964); (two counts of obtaining money by false pretenses)
+“The' latest consideration of this question is contained in State v. Enriquez, 104 Ariz. 16, 448 P.2d 72 (1969) which holds the statute does not apply to charges of robbery and assault with a deadly weapon.
+“This opinion relies upon language in State v. Westbrook, 79 Ariz. 116, 285 P.2d 161, [53 A.L.R.2d 619,] to the effect that the statute applies only when the two crimes have ‘identical components.’ ”
+In this connection we again refer to Mays. In our opinion the statute is clear in its intent but at times difficult of application to a particular situation. In the matter now before us the defendant could have committed the offense of attempted grand theft without a battery. The battery was not an essential aspect of the attempted grand theft. Conversely, the defendant could have committed the offense of aggravated battery without committing the offense of attempted grand theft. The physical acts of the defendant with reference to each offense were not necessarily involved in the commission of the other offense. Nor were the physical acts in the commission of either offense merely incidental to the commission of the other’ offense. We find two separate and distinct offenses under the evidence. In our opinion it was within the discretion of the trial court to impose concurrent or consecutive, sentences.
+SEPARATE DETERMINATIONS OF GUILT
+When a defendant is charged with and tried for two or more separate offenses in the same trial, whether these offenses are set forth in separate informations which have been consolidated for trial or in separate counts in the same information, the guilt or innocence as to each count or charge must be separately established by the State beyond a reasonable doubt and must be separately decided by the jury. This is true even though some of the evidence may relate to two or more counts. This principle, though not stated in the above language, is forcefully set forth in the case of State v. Zakhar, 105 Ariz. 31, 459 P.2d 83 (Decided 26 September 1969). In Zakhar, the Arizona Supreme Court recognized the right of juries to render inconsistent verdicts and expressly overruled two prior Arizona decisions.
+We must look at the instructions in the case before us to see whether the jury was adequately advised as to its right and duty to determine separately the guilt or innocence of the defendant as to each count. The two charged offenses were properly defined in the Instructions. In the Instructions, the court advised the jury, “In' arriving at a verdict in this case * * The court also stated, “It is your duty as jurors to deliberate with a view toward reaching an agreement in your verdict * * *_» -pjjg court then instructed as follows:
+“Under the evidence in this case and the instructions which have been given to you, if you find beyond a reasonable doubt that the defendant committed the acts charged in the information, then you will find the defendant guilty. If you fail to find beyond a reasonable doubt that the acts charged in the information were committed, then you will find the defendant not guilty.”
+Thereafter the court stated in part: “Unless you all agree, you cannot reach a verdict.”
+The jury was advised that this being a criminal case the “foreman * * * will sign any verdict at which you arrive.”
+The record further reflects that the court submitted four forms of verdict, one for guilt and one for innocence as to each count and informed the jury that it could return only two of these verdicts. In this connection the court did not fall into error as did the trial court in the case of State v. Reynolds, 9 Ariz.App. 131, 449 P.2d 968 (1969) in which the trial court- submitted but a single form of verdict for guilt for all three counts and a single form of. verdict of not guilty for all three counts.
+By our citation of the Zakhar case, we do not mean to imply that if the defendant had been found guilty on one count and not guilty on the other that these verdicts would of necessity have been inconsistent. In our opinion the Instruction last quoted in full did not adequately inform the jury as to its duties or as to its rights in. relation to each separate count, and the Instructions as a whole strongly suggest to the jury that the jury should find the defendant guilty of both counts or should find the defendant not guilty of both counts. To so instruct was error requiring a reversal of this cause for a new trial or for other proceedings not inconsistent with this opinion.
+DONOFRIO, P. J., and CAMERON) J., concur.
