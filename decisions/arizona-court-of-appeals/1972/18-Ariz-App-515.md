@@ -1,0 +1,43 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1243"
+decided: "1972-12-11"
+citations: ["18 Ariz. App. 515", "503 P.2d 991"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOWARD, J., and RUSKIN LINES, Judge of Superior Court, concur."]
+parties: ["Theodore TREVINO, Appellant, v. STATE of Arizona, Frank A. Eyman, Superintendent, Arizona State Prison, Appellee."]
+source_url: "https://static.case.law/ariz-app/18/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1221035
+cites_cases: ["107 Ariz. 375", "107 Ariz. 421", "108 Ariz. 245", "12 Ariz.App. 461", "145 Cal.App.2d 155", "17 Ariz.App. 553", "18 Ariz.App. 120", "204 P. 1032", "23 Ariz. 470", "260 F.2d 910", "3 Ariz.App. 200", "302 P.2d 61", "332 U.S. 708", "366 F.2d 611", "397 U.S. 742", "425 P.2d 557", "57 Cal.Rptr. 757", "66 Cal.2d 348", "7 Ariz.App. 223", "92 Idaho 517", "92 L.Ed. 309"]
+---
+
+# Trevino v. State
+
+## Majority (HATHAWAY, Judge.)
+
+HATHAWAY, Judge.
+This is an appeal from a denial of appellant’s petition for a writ of habeas corpus challenging his conviction of first degree murder.
+We do not concern ourselves with the question of whether habeas corpus was the appropriate vehicle for seeking the requested relief since the courts of this state look to substance rather than form. Witt v. State ex rel. Eyman, 18 Ariz.App. 120, 500 P.2d 905 (1972).
+The facts alleged in the petition filed below are as follows. Appellant was charged with open murder on April 13, 1964. Relying upon the assurances of his two retained counsel that he would automatically be eligible for parole in seven years and that he would not receive the death penalty, appellant pleaded guilty on April 20, 1964 to first degree murder. In support of these allegations, he has appended to his petition the following affidavits of his attorneys :
+“. . . We believed that a person receiving a sentence of life imprisonment stood a better chance for earlier parole than a person who pled guilty to and received a sentence for second degree murder, since under the facts of Trevino’s case, we believed that the court would impose a very lengthy sentence following a plea of guilty to second degree murder. I believed and indicated that a person serving a life sentence for first degree murder was eligible for parole after serving seven years in prison.
+I was not aware and did not advise Mr. Trevino that a sentence for first degree murder had to be commuted before a person would be eligible for parole.
+I communicated these considerations to Mr. Trevino before he made his decision to plead guilty to first degree murder. .” (Emphasis added.)
+At the time of entry of the plea, the county attorney specifically told the court that the state was not asking for the death penalty. Upon a finding that appellant was guilty, the court sentenced him to life imprisonment in the Arizona State Prison. Appellant has applied for commutation of his life sentence six times, and been denied each time. Since he is not now, and has never been eligible for parole he argues (1) he did not have competent counsel as guaranteed him under the 6th and 14th Amendments of the United States Constitution and (2) his plea was not intelligently made because he did not know the true nature and consequences of his plea as re-' quired by the due process clause of the 14th Amendment of the United States Constitution.
+ASSISTANCE OF COUNSEL
+The gravamen of appellant’s complaint with respect to this argument is that a mere reading of A.R.S. § 31-411, subsec. A in 1964 would have revealed to his attorneys that a person serving a life sentence without a minimum term is not automatically eligible for parole after serving seven years.
+It is clear that appellant may attack the effectiveness of counsels’ assistance in connection with the entry of his plea, as well as in connection with a trial on the merits. Brady v. United States, 397 U.S. 742, 758, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970); Von Moltke v. Gillies, 332 U.S. 708, 721, 68 S.Ct. 316, 322, 92 L.Ed. 309 (1948) ; State v. Brown, 107 Ariz. 375, 489 P.2d 12 (1971).
+As this court has previously indicated, however, only an “extreme case” will justify relief on the ground of lack of effective assistance of counsel. State v. Cufio, 12 Ariz.App. 461, 471 P.2d 763 (1970) ; Barron v. State, 7 Ariz.App. 223, 437 P.2d 975 (1968); State v. Lopez, 3 Ariz.App. 200, 412 P.2d 882 (1966). The test in determining whether an “extreme case” exists is whether representation as a whole is so lacking as to result in farce or sham. State v. Cufio, supra; 14 Ariz.Law Rev. 532 (1971-72).
+We do not think the facts in the case at bar reflect such lack of representation. An examination of the record reveals a request for a preliminary hearing. Upon considering the evidence presented at the preliminary hearing, appellant’s attorneys were of the opinion that he could receive the death sentence. Therefore, with the consent of appellant, they entered into a plea bargain. As per agreement, the county attorney informed the court that' the state was not asking for the death penalty. It is quite apparent that this activity indicates anything but ineffective assistance of counsel.
+While a reading of A.R.S. § 31-411, subsec. A in 1964 would indicate, that the appellant was not automatically eligible for parole, according to the attorneys’ affidavits, they did not guarantee availability of parole. They merely indicated their belief that he would be eligible for parole in seven years. When counsel’s competence is challenged because of matter of counsel’s opinions or judgment, invalidation of a conviction is not warranted. Barron v. State, supra; In re Croft, 145 Cal.App.2d 155, 302 P.2d 61 (1956); Walker v. State, 92 Idaho 517, 446 P.2d 886 (1968).
+Appellant relies upon Wilson v. Rose, 366 F.2d 611 (9th Cir. 1966) in support of his argument that he was denied effective assistance of counsel. Rose is distinguishable from the situation at bar. In Rose the appellant’s attorney assured his client that a guilty plea would result in probation, in the face of three statutes which precluded probation. In agreeing with the petitioner that he was denied effective assistance of counsel, the court pointed out that his attorney failed to discuss possible defenses or to advise the defendant as to the nature and consequences of his plea.
+In the case at bar, the attorneys advised appellant of the length of the sentence that could be imposed. Furthermore, they did not assure him that he would be eligible for parole in seven years. They merely stated their opinion. Unlike the statutes involved in Rose, under A.R.S. § 31-411, subsec. A it was possible for the appellant to have become eligible for parole in seven years. This then was merely a judgment which failed to meet his attorneys’ hopes.
+CONSEQUENCES OF PLEA
+1[6] Our supreme court has recently •noted that the unavailability of parole is not a consequence which the court must impart to the accused prior to accepting his plea. State v. Rodriguez, 17 Ariz.App. 553, 499 P.2d 167 (1972) ; State v. Ross, 108 Ariz. 245, 495 P.2d 841 (1972). Appellant argues, however, that when a defendant is In fact incorrectly advised that he will he eligible for parole, his plea does not measure up to constitutional standards. We do not agree where the court has not participated in these advisements.
+In cases where attorneys have promised their clients they would receive a lighter sentence than they actually received, courts have consistently held that this does not strip a plea of its voluntary nature. Floyd v. United States, 260 F.2d 910 (5th Cir. 1958); State v. Williams, 107 Ariz. 421, 489 P.2d 231 (1971) ; People v. Hines, 66 Cal.2d 348, 57 Cal.Rptr. 757, 425 P.2d 557 (1967). We think this rule should also apply to promises of parole. The appellant was aware he could receive the death penalty. Upon this consideration he entered into a plea wherein he received a life sentence.
+Finding no error in the denial of appellant’s petition, we affirm.
+HOWARD, J., and RUSKIN LINES, Judge of Superior Court, concur.
+NOTE: Chief Judge HERBERT F. KRUCKER having requested that he be relieved from consideration of this matter, and that Judge RUSKIN LINES called to sit in his stead and 'participate in the determination of this decision.
+A convict serving an indeterminate sentence is not permitted to file an application for a pardon until his minimum term lias expired. Clark v. State, 23 Ariz. 470, 204 P. 1032 (1922). Thus a “lifer” is only eligible for parole after receiving a minimum term through a commutation of his sentence.
