@@ -1,0 +1,39 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 645"
+decided: "1968-12-17"
+citations: ["8 Ariz. App. 574", "448 P.2d 418"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John SCHAVEY, Burt Haberman and Mary Lou Saenz, Petitioners, v. The Honorable Robert ROYLSTON, Judge of the Superior Court of the State of Arizona, and the State of Arizona by William J. Schafer, County Attorney of Pima County, Real Parties in Interest, Respondents."]
+source_url: "https://static.case.law/ariz-app/8/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1230571
+cites_cases: ["101 Ariz. 257", "11 A.L.R.3d 841", "110 U.S.App.D.C. 331", "143 Cal.App.2d 745", "154 Conn. 90", "186 Cal.App.2d 542", "19 Cal.Rptr. 36", "200 Cal.App.2d 111", "203 A.2d 1", "214 Cal.App.2d 192", "221 A.2d 851", "262 F.2d 151", "273 Minn. 78", "274 F.Supp. 790", "29 Cal.Rptr. 485", "293 F.2d 519", "300 P.2d 163", "350 F.2d 967", "361 U.S. 842", "368 F.2d 187", "380 U.S. 24", "4 L.Ed.2d 80", "43 N.J. 148", "48 A.L.R.2d 1436", "58 Ariz. 421", "76 N.M. 49", "8 Ariz.App. 261", "80 S.Ct. 94", "87 Ariz. 394", "9 Cal.Rptr. 282", "97 Ariz. 196"]
+---
+
+# Schavey v. Roylston
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The petitioners have requested this court, via these mandamus proceedings, to direct the respondent judge, sitting as a committing magistrate, to exercise his discretion to exclude spectators from the courtroom during a preliminary hearing being conducted to determine whether the petitioners should be held to answer certain criminal charges. The charges stem from alleged conduct of the petitioners involving a 16-year-old female, previously adjudicated a delinquent child. Her testimony is part of the State’s case.
+The sole question is whether the modification of Rule 27, Rules of Criminal Procedure, 17 A.R.S., effective February 1, 1968, precludes the respondent from granting a request for exclusion. The modification consists of deletion of the following sentence:
+“The magistrate shall also, upon the request of the defendant, exclude from the examination every person except attorneys in the case, and officers of the court.” (Emphasis supplied)
+Was it the intention of the Supreme Court of this State, in promulgating Rule 27 as amended, to proscribe any exercise of discretion on the part of the committing magistrate? We think not. In the case of Phoenix Newspapers, Inc. v. Superior Court, etc., 101 Ariz. 257, 418 P.2d 594 (1966), the court struck down a prior restraint on newspaper publication of proceedings in open court. The court stated:
+“Courts are public institutions. The manner in which justice is administered does not have any private aspects. To permit a hearing held in open court to be kept secret, the order of secrecy being based entirely on defendant’s request, would take from the public its right to be informed of a proceeding to which it is an interested party.”
+101 Ariz. at 259, 418 P.2d at 596. (Emphasis supplied)
+Justice Bernstein in a specially concurring opinion, pointed out that he had no quarrel with “alternative measures * * * a trial court might exercise in order to help insulate the trial proceedings from prejudicial publicity” notwithstanding the fact that they might have “a collateral effect of reducing the information that is made available to newspapers prior to trial.” (101 Ariz. at 260, 418 P.2d at 597.)
+In State v. White, 97 Ariz. 196, 398 P.2d 903 (1965), our Arizona Supreme Court held that a defendant has no right to a secret trial. Accord: Singer v. United States, 380 U.S. 24, 35, 85 S.Ct. 783, 13 L.Ed.2d 630 (1965). The court stated:
+“This in no way, however, deprives the trial court, in its sound discretion, to make reasonable exclusion orders consistent with the rights of an accused in a proper case in the interest of public morals or safety.”
+97 Ariz. at 198, 398 P.2d at 904.
+Courts have inherent power to do all things reasonably necessary for the administration of justice. 20 Am.Jur.2d Courts § 79; 21 C.J.S. Courts § 88. Numerous cases recognize the trial court’s discretionary power to clear the courtroom in order to preserve the fairness and orderliness of the proceedings before the court. See, e. g., State v. Velasquez, 76 N.M. 49, 412 P.2d 4 (1966); Kirstowsky v. Superior Court, etc., 143 Cal.App.2d 745, 300 P.2d 163 (1956); State v. Jackson, 43 N.J. 148, 203 A.2d 1, 11 A.L.R.3d 841 (1964); United States ex rel. Orlando v. Fay, 350 F.2d 967 (2d Cir. 1965); Lancaster v. United States, 110 U.S.App.D.C. 331, 293 F.2d 519 (1961); United States ex rel. Bruno v. Herold, 368 F.2d 187 (2d Cir. 1966). This is particularly so when exclusion of spectators appears reasonably necessary to prevent embarrassment and emotional disturbance, as when the witness is of tender years. See: Geise v. United States, 262 F.2d 151 (9th Cir. 1958), cert. denied, 361 U.S. 842, 80 S.Ct. 94, 4 L.Ed.2d 80; State v. Schmit, 273 Minn. 78, 139 N.W.2d 800 (1966); State v. Gionfriddo, 154 Conn. 90, 221 A.2d 851 (1966); Anno. 48 A.L.R.2d 1436, 1450, § 8. Exclusion has been considered permissible in juvenile court matters, divorce proceedings or certain crimes of sexual perversion. Wig-more on Evidence, 3d ed., § 1835.
+A recent federal district court decision, United States v. American Radiator & Standard San. Corp., 274 F.Supp. 790 (W.D.Pa.1967), although denying an en camera treatment of motions to suppress evidence, stated:
+“There may be circumstances where it would be appropriate, as previously stated, to provide for en camera processing or trial, where public concern is a lesser factor than is the possible, prejudicial damage resulting to specific persons either as criminal defendants or witnesses, by public hearing at trial or even pretrial.” 274 F.Supp. at 795-796.
+We believe that the purpose of the Rule 27 alteration was not, as the respondent construed it, to divest him of discretion but rather to leave the determination as to exclusion of spectators to his discretion. Decisions construing Penal Code § 868, the California progenitor of the subject rule have held that the statute gives a defendant a right to exclusion, i. e., it is mandatory and the magistrate has no discretion in the matter. People v. Prizant, 186 Cal.App.2d 542, 9 Cal.Rptr. 282 (1960); People v. Brown, 200 Cal.App.2d 111, 19 Cal.Rptr. 36 (1962); McGonagill v. Superior Court etc., 214 Cal.App.2d 192, 29 Cal.Rptr. 485 (1963).
+The change in our rule was designed, in our opinion, solely to prevent automatic foreclosure of the public interest by an “order of secrecy * * * based entirely on defendant’s request.” Phoenix Newspapers, Inc. v. Superior Court, supra. We cannot conceive that a justice-dispensing tribunal could thus be restrained from evaluating the possible prejudicial damage to a juvenile witness, contrary to the policy of the juvenile law:
+“* * * to hide youthful errors from the full gaze of the public and bury them in the graveyard of the forgotten past.”
+State v. Guerrero, 58 Ariz. 421, 430, 120 P.2d 798, 802 (1942).
+Having concluded that the respondent has discretion, it is appropriate for this court to issue a writ of mandamus to require the exercise thereof. Eastman v. Southworth, 87 Ariz. 394, 351 P.2d 992 (1960). Petitioners’ counsel are directed to prepare and submit an appropriate writ of mandamus.
+. The constitutionality of this rule, prior to its modification, was challenged in State v. Meek, 8 Ariz.App. 261, 445 P.2d 463 (1968), but Division One of this Court (majority opinion) held that it had no authority to rule upon the constitutionality of a rule promulgated by the Supreme Court. (The Supreme Court [No. 9449-PR], on December 3, 1968, granted reconsideration of its order denying petition for review and ordered decision on merits by Court of Appeals, Division One.)
