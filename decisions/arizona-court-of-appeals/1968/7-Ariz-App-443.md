@@ -1,0 +1,33 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 498"
+decided: "1968-05-02"
+citations: ["7 Ariz. App. 443", "440 P.2d 324"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMERON, C. J., and DONOFRIO, J., concur."]
+parties: ["Application of Edwin H. ANDERSON for a Writ of Habeas Corpus. L. C. BOIES, Sheriff of Maricopa County, Respondent-Appellant, v. Edwin H. ANDERSON, Petitioner-Appellee."]
+source_url: "https://static.case.law/ariz-app/7/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1233167
+cites_cases: ["6 Ariz.App. 238", "6 Ariz.App. 563", "68 Ariz. 180", "95 Ariz. 292", "97 Ariz. 306"]
+---
+
+# Boies v. Anderson
+
+## Majority (STEVENS, Judge.)
+
+STEVENS, Judge.
+This case involves an appeal from an order of the Maricopa County Superior Court granting a writ of habeas corpus and ordering the release of Edwin H. Anderson. An opinion was previously filed in this case in which we suspended the appeal pending correction of the record by the lower court. This opinion is reported in 6 Ariz.App. 563, 435 P.2d 70 (1967). The record was perfected as contemplated by the opinion and our present concern is with the merits of the case. The original counsel was granted leave to withdraw.
+The appellee, Anderson, was charged by a criminal complaint in the State of California with the crime of grand theft. At the time of the filing of the complaint, he was in the State of Arizona. A request for extradition was made by the California executive authority. An extradition hearing was held on 21 February 1966. At the hearing it was determined that the requisites of the Uniform Criminal Extradition Act, A.R.S. § 13-1301 through § 13-1328, were met and a recommendation for extradition was made to the chief executive of the State of Arizona. The Governor of the State of Arizona issued his Governor’s Warrant on Extradition on 16 May 1966.
+The appellee filed a petition for a writ of habeas corpus on 27 May 1966. In support of the petition it was alleged that the Governor’s Warrant on Extradition was defective in that it was not based upon the necessary papers required by A.R.S. § 13-1305. At the habeas corpus hearing the appellee testified that he had purchased two cashiers checks, one for $200 and one for $100 from the Bank of America National Trust and Savings Association, Diamond Branch, City of Oakland, California. He further testified that he had lost these checks in a gambling incident at Lake Tahoe, Nevada, and upon his return to California had put a stop payment order on these checks. At the same time that he put a stop payment order on these checks, he was issued another check for $300 which he immediately cashed. Apparently, the stop payment order was not issued, or, at least not issued in time to be effective. The appellee testified that, after being arrested on the fugitive warrant he had contacted a Mr. Jackson, Branch Manager of the Bank of America National Trust and Savings Association, Diamond Branch City of Oakland, California, who indicated that if the money was returned to the bank, he, Jackson, would see that the matter was dropped. The appellee further testified that he had in fact sent checks to Mr. Jackson which covered the $300 obligation. The appellee alleged that he did not intend to defraud the bank and that the Bank of America was using the extradition proceeding as a collection process. At the conclusion of the habeas corpus hearing the trial court granted the writ and the appellee was released.
+There is no indication from reading the record in this case that the requisition papers from the executive authority of the State of California were introduced in the habeas corpus hearing. Neither have the extradition papers from the State of California been made a part of the record before this Court on appeal. This is not a case such as we had before us in Application of Kirk, 6 Ariz.App. 238, 431 P.2d 678 (1967), wherein the requisition papers from the demanding state were made a part of the record. We do have before us the Governor’s Warrant on Extradition signed by the Governor of Arizona. In relation to the demands made from the State of California for the delivery of Edwin H. Anderson, the Arizona Governor’s Warrant on Extradition provides:
+“* * * such demand is accompanied by a copy of application for requisition, together with complaint, and supporting-papers, entry and capias warrants, charging the defendant with the crime of Grand Theft and the proper certifications according to the laws of the United. States * *
+Our Supreme Court has said in Applications of Oppenheimer, 95 Ariz. 292, 389 P.. 2d 696 (1964):
+“The prima facie facts established in the-extradition warrant issued by the governor can be overcome only by clear and convincing evidence or by evidence beyond a reasonable doubt. Ex parte Riccardi, supra [68 Ariz. 180, 203 P.2d 627].. =i= * *»
+Furthermore, A.R.S. § 13-1320 provides r “Guilt or innocence of accused; when inquired into
+“The guilt or innocence of the accused as to the crime of which he is charged may not be inquired into by the governor or in any proceeding after the demand for extradition accompanied by a charge-of crime in legal form as provided by this article shall have been presented to-the governor, except as it may be involved in identifying the person held as-the person charged with the crime.”
+We have reviewed the record in this case in light of A.R.S. § 13-1320 and Applications of Oppenheimer and we hold that the prima facie facts established in the Arizona Governor’s Warrant on Extradition were not overcome by clear and convincing evidence or by evidence beyond a reasonable doubt. At the hearing on the habeas corpus petition, the appellee did not attack the technical sufficiency'of the California extradition request. Rather he alleged that the requisition papers were insufficient because the bank was using the extradition proceeding as a method for collecting a debt. His allegations were directed to his guilt or innocence of the crime charged in California rather than to the sufficiency of the extradition papers. It was not within the province of the trial court to determine the appellee’s guilt or innocence at the habeas corpus hearing. In Arizona, the writ of habeas corpus in an extradition proceeding may be used only to review jurisdictional matters and may not be used as a vehicle for determining the guilt or innocence of a party. Application of Kirk, supra; Boies v. Dovico, 97 Ariz. 306, 400 P.2d 109 (1965) and A.R.S. § 13-1320.
+Judgment reversed with directions to quash the writ of habeas corpus.
+CAMERON, C. J., and DONOFRIO, J., concur.
