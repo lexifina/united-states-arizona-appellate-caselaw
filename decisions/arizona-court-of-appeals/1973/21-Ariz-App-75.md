@@ -1,0 +1,47 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1339"
+decided: "1973-11-14"
+citations: ["21 Ariz. App. 75", "515 P.2d 900"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HOWARD, JJ., concur."]
+parties: ["Cynthia S. LAWWILL, Appellant, v. Benjamin H. LAWWILL, Appellee."]
+source_url: "https://static.case.law/ariz-app/21/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1251026
+cites_cases: ["101 Ariz. 331", "101 N.W. 966", "103 Ariz. 298", "11 Ariz.App. 483", "11 Ariz.App. 76", "112 N.C. 102", "14 Ariz.App. 103", "153 Neb. 124", "16 S.E. 1021", "185 Misc. 808", "185 N.W.2d 61", "19 Ind.App. 118", "20 Ariz.App. 234", "24 Or. 2", "248 Iowa 831", "29 Mich.App. 309", "49 N.E. 279", "59 N.Y.S.2d 829", "93 Minn. 457"]
+---
+
+# Lawwill v. Lawwill
+
+## Majority (HATHAWAY, Chief Judge.)
+
+OPINION
+HATHAWAY, Chief Judge.
+Did the lower court abuse its discretion in granting a Rule 60(c) motion to amend a divorce decree as to a particular item of personal property? That is the question to be resolved on this appeal.
+Briefly, the record reflects the following. In 1971, appellee filed a divorce complaint to which were attached four schedules of property denominated either community or separate. A certain Farny watercolor painting, which is the subject of this appeal, was not specifically described. The complaint, however, referred to Schedule C as descriptive of the community property of the parties. Schedule C included:
+“2. Contents of family dwelling located at 1225 East Magee Road, including furniture, fixtures, furnishings, appliances and effects situated therein, subject only to the exceptions set forth in Schedule D-2 designated as Miscellaneous Personal Property.” (The subject painting was not included in D-2).
+At the trial, counsel stipulated that the parties had agreed to a division of property including:
+“3. . . . that the real property described as being located at 1225 East Magee Road, Tucson, Arizona, . . . be awarded to the wife together with all furnishing contained therein' except for certain exclusions set forth hereinafter. [The exclusions did not include the painting]
+sj; ‡ % % ifc H*
+6. . . . that all of the property as set forth in' Schedule C-2 be awarded to the wife.”
+The divorce decree which incorporated the parties’ agreement as to property division awarded to appellant as her sole and separate property the real property described at 1225 E. Magee Road, Tucson, Arizona, and:
+“[A] 11 the contents of the family dwelling located at 1225 E. Magee Road, including all furniture, fixtures, furnishings, appliances and effects situated therein as of the date of separation of the parties except those items specifically awarded to [appellee] hereinabove; including but not limited to all household goods, silverware, china, clothing and jewelry and $5,500 in cash to [appellant] payable simultaneously with the execution and entry of this Judgment.”
+Subsequent to entry of the divorce decree, appellant instituted show cause proceedings complaining inter alia that certain specifically described items, including the watercolor painting, were missing from the Magee Road house. The parties resolved their differences as to all of the property except the painting, and appellee filed the Rule 60(c) motion. The motion alleged that the divorce decree did not reflect the agreement of the parties as stipulated in open court, that the painting was never discussed between the parties, that appellant never requested the painting nor did appellee intend for her to have same, and that the court had no jurisdiction to award the painting to appellant since it was ap-pellee’s separate property, having been a gift from his mother during the parties’ marriage. Attached to the motion was an affidavit of appellee’s mother which stated that she had given her son a Farny watercolor as his sole and separate property in 1969 and that she gave it to her son at that time because she was moving out of her residence and had no place to put the painting, and, further, it has always been her intention that the painting go to her son upon her death.
+A hearing was duly held and the only testimony presented by appellee was directed to the issue of whether the painting, prior to divorce, was a gift to him alone and therefore his separate property. The court found that it was the intention of ap-pellee’s mother to give the painting to her son, that it was a gift to him from his mother and therefore should remain his property.
+Assuming arguendo that the painting was the sole and separate property of appellee at the time the parties were divorced, such fact did not ipso facto preclude awarding it to appellant. Appellee, in his verified complaint for divorce, specifically alleged that all furniture, fixtures, furnishings, appliances and effects situated at 1225 E. Magee Road were community property. Both he and appellant specifically agreed that appellant was to have such property. Where the parties themselves treat the property as community property and, as far as the record shows, it was considered community property both by them and the court during the divorce trial, the court is thereby vested with jurisdiction to award it to one or the other of the spouses. Headley v. Headley, 101 Ariz. 331, 419 P.2d 510 (1966); Gage v. Gage, 11 Ariz.App. 76, 462 P.2d 93 (1970).
+The very language of the parties’ agreement, incorporated into the divorce decree, is very broad and all-encompassing. The word “furniture” itself is a very comprehensive term, and has been construed to include pictures. See Patrons’ Mutual Aid Society v. Hall, 19 Ind.App. 118, 49 N.E. 279 (1898); Ruffin v. Ruffin, 112 N.C. 102, 16 S.E. 1021 (1893). When used in reference to a house, it has been defined as meaning all personal chattels which may contribute to the use or convenience of the householder or the ornament of the house. Fitzsimons v. Frey, 153 Neb. 124, 43 N.W.2d 531 (1950); Marquam v. Sengfelder, 24 Or. 2, 32 P. 676 (1893).
+The parties also agreed that appellant was to have all “effects” situated in the house as of the date of separation with the exception of certain items specifically reserved to appellee. The painting was not included in the exceptions. The word “effects” standing alone is comprehensive enough to include every article of personal property. In re Burnside’s Will, 185 Misc. 808, 59 N.Y.S.2d 829 (1945). However, in the context in which the word was used here, it would appear that the parties meant household effects. In fact, the subsequent clause includes “household goods”. The term “household goods” is broader than “furniture” and includes everything about the house that is usually held and enjoyed therewith and that tends to the comfort and accommodation of the household. Webb v. Downes, 93 Minn. 457, 101 N.W. 966 (1904). We are of the opinion, therefore, that the subject painting was included in the property awarded to appellant under the divorce decree.
+We agree with appellee that Rule 60(c), Rules of Civil Procedure, 16 A.R.S. is available to relieve a party from the operation of a divorce decree under the circumstances enumerated in said rule. Wine v. Wine, 14 Ariz.App. 103, 480 P.2d 1020 (1971); Srock v. Srock, 11 Ariz.App. 483, 466 P.2d 34 (1970); 27B C.J.S. Divorce § 300(4). If, at the time they entered into the property settlement agreement, the parties inadvertently failed to mention the Farny painting, such oversight could be corrected in a proceeding to modify the decree. Cummings v. Cummings, 248 Iowa 831, 82 N.W.2d 676 (1957). The fact that the property award in the divorce decree was, in essence, a consent judgment, does not affect the power of the court to modify it. Gordon v. City of Warren Planning and Urban Renewal Com’n, 29 Mich.App. 309, 185 N.W.2d 61 (1971); 46 Am.Jur.2d Judgments § 717.
+Appellee, however, as the party seeking relief, had the burden of proving the grounds relied upon for relief. 46 Am.Jur.2d Judgments § 778. The lower court had no authority to grant relief without some evidence to support the claim on which his application for relief depended. Ibid. § 780. The predicate for appellee’s motion for relief specifically was that the court had no jurisdiction to award the painting to appellant and/or that the parties never intended her to have it. As to the “jurisdictional” challenge, we have hereinabove indicated its lack of merit since the parties vested the court with jurisdiction when the contents of the residence were treated as community property. If, however, such was not their intention, appellee had the burden of demonstrating such fact. This he failed to do.
+The hearing below was limited to the issue of “ownership” of the Farny painting. The divorce decree reflects that by virtue thereof ownership was in appellant and modification of the decree, without proof of grounds therefor, was error.
+Reversed.
+KRUCKER and HOWARD, JJ., concur.
+
+## Rehearing
+
+ON MOTION FOR REHEARING
+It is ordered that the Motion for Rehearing be, and the same is hereby, denied. See Orlando v. Northcutt, 103 Ariz. 298, 441 P.2d 58 (1968); Hamann v. Hamann, 20 Ariz.App. 234, 511 P.2d 678 (1973).
+It is further ordered that the Motion for inclusion of supplementary materials in the Motion for Rehearing be, and the same is hereby, denied.
