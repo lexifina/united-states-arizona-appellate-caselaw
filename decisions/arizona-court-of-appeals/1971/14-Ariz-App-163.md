@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 232"
+decided: "1971-03-04"
+citations: ["14 Ariz. App. 163", "481 P.2d 533"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE of Arizona, Appellee, v. James Martin BIDDLECOME and Lloyd Elvin Whitt, Appellants."]
+source_url: "https://static.case.law/ariz-app/14/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1216635
+cites_cases: ["1 Ariz.App. 463", "102 Ariz. 118", "5 Ariz.App. 530", "7 Ariz.App. 200", "99 Ariz. 1", "99 Ariz. 60"]
+---
+
+# State v. Biddlecome
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+This appeal is from the convictions by a jury’s verdict of the two appellants of two counts each of riot, with suspension as to each appellant of the sentence on each count for two years and with each appellant being placed on probation during such time. The parties will be referred to as they appeared below; that is, the State and the defendants. Two other defendants were convicted of the same offenses in the same trial (and were given the same judgment of probation) as the defendants here, but these other defendants have not chosen to prosecute appeals further than to give notices of appeal and their appeals have been dismissed.
+The facts of this case are that at approximately 11:30 P.M. on April 5, 1969, the two defendants in this appeal, together with the two whose appeals have been dismissed, entered the El Chapparal Bar on East Broadway in Tucson. The four defendants talked loudly and profanely and some bar stools in the establishment were knocked over. Three of the defendants had their tee shirts tied around their necks and the fourth defendant’s shirt was open in the front. The defendants requested beer and were refused service. After this an elderly lady (75 years of age) approached the four and asked them to leave. One of the defendants spit in her face and pushed her against the juke box. The owner of the bar then asked the four to leave two times. The owner was then hit by one of the defendants with a chair. The defendants got the owner down on the floor and began hitting and kicking him. The owner got up but was immediately put back down by the defendants, kicked and hit again, and struck with a bar stool while he was down. He got up again and started to go behind the bar with three of the defendants (Biddlecome and the two not before us) in pursuit. A table was thrown and struck the bar. The defendant Whitt threw a bar stool over the bar and hit the owner. The owner got a gun and told Whitt (who had another stool in his hand) not to hit him (the owner) again. As Whitt let the stool go, the owner fired one shot and hit Whitt. When the gun was fired, the activity in the bar ceased and the other three defendants helped Whitt outside.
+There was also testimony below that the four defendants were in the Roadrunner Bar at about 10:30 P.M. on the same evening, at which time they were rowdy, used foul language and spilled and dropped pitchers of beer. The four defendants were asked to leave the Roadrunner Bar by the waitress there. As they left they knocked glasses and ashtrays off tables and the defendant McDaniels spit in the face of the manager of the Roadrunner Bar.
+There are two questions presented by this appeal: (1) Whether or not the trial court erred in admitting the testimony as to the defendants’ conduct at the Roadrunner Bar prior to their acts at the Chapparal Bar (for which they were convicted here) ; (2) whether or not the evidence below is sufficient to sustain the verdict of guilty of riot.
+The first question here involves the admissibility of evidence of prior conduct. There are numerous Arizona cases on the question. E.g., State v. Hughes, 102 Ariz. 118, 426 P.2d 386 (1967); State v. Hernandez, 7 Ariz.App. 200, 437 P.2d 952 (1968); State v. Chaney, 5 Ariz.App. 530, 428 P.2d 1004 (1967); State v. Waits, 1 Ariz.App. 463, 404 P.2d 729 (1965). The rule is, briefly, that evidence of prior conduct is competent if “it tends to establish motive, intent, absence of mistake or accident, identity and common scheme or plan, [citation omitted]” State v. Hughes, supra, 102 Ariz. at 122, 426 P.2d at 390. In other words, to be admissible, the evidence must be probative on or tend to prove, and therefore relevant on, any of the above stated issues. The Hughes case points out that the proof must be “ ‘clear’, ‘clear and convincing’ or ‘substantial proof’ ” that the accused performed the prior acts. There is no question here that the defendants were the ones who performed the prior ¿cts at the Roadrunner Bar before arriving at the Chapparal Bar. We find that the testimony as to the acts at the Roadrunner Bar is probative, and therefore relevant as to the intent, motive, and common scheme or plan, and is admissible. The Hernández case emphasizes the proof of “mental state” aspect of the question of admissibility of proof of prior conduct, which is very much in point here.
+The second question here involves the sufficiency of the facts to sustain the jury’s verdict of guilty. The Arizona statute on riot is as follows:
+“A. Any use of force or violence disturbing the public peace, or any threat to use such force or violence, if accompanied by immediate power of execution, by two or more persons acting together, and without authority of law, is a riot.
+B. A person who participates in a riot is guilty of a felony.
+C. Any person who while participating in a riot demolishes, pulls down, destroys or injures or who begins to demolish, pull down, destroy or injure any dwelling house or any other property, is guilty of a felony.” A.R.S. § 13-631 (Supp. 1970)
+A recent case deciding the instant question is State v. Blankenship, 99 Ariz. 60, 406 P.2d 729 (1965). The Blankenship case found sufficient evidence to support the verdict in a case not dissimilar to the case at bar. Where there is substantial evidence in support of the verdict of the jury, an appellate court must affirm on the question of the sufficiency of the evidence. State v. Bearden, 99 Ariz. 1, 405 P.2d 885 (1965). There is such evidence here, as recited above.
+Defendants strongly urge in this appeal that the State failed to prove that the defendants were “acting together.” The record is replete that the defendants were acting together. The testimony below was that the four defendants arrived at the bar together, were boisterous together, threw furniture together, and beat and kicked the manager together. This contention is without merit. The “acting together” is the gist of the offense of riot. See Perkins, Criminal Law, 346-348 (1957).
+Affirmed.
+HATHAWAY and HOWARD, JJ., concur.
+. While the writer dissented in Hernandez v. State, supra, it should be noted that the dissent was for reasons not material to the question here.
+. The Blankenship case was decided under the Arizona riot statute prior to its amendment which added additional prohibited conduct but left the basic offense unchanged.
