@@ -1,0 +1,42 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 401"
+decided: "1972-08-24"
+citations: ["18 Ariz. App. 45", "500 P.2d 305"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EUBANK and JACOBSON, JJ., concur."]
+parties: ["STATE of Arizona, Appellee, v. Frank Andrew R. NUNEZ, Appellant."]
+source_url: "https://static.case.law/ariz-app/18/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1221004
+cites_cases: ["2 Ariz. App. 71", "3 Ariz.App. 114", "406 P.2d 421"]
+---
+
+# State v. Nunez
+
+## Majority (HAIRE, Chief Judge,)
+
+HAIRE, Chief Judge,
+Division 1.
+Frank Nunez pled guilty to a charge of second degree burglary and was sentenced to not less than four nor more than five years in prison. He contends that the state should not have been allowed to amend the information so as to allege a prior conviction against him and that certain proof of that prior conviction was improperly admitted into evidence. Because of these alleged errors defendant asks to be resentenced.
+On December 15, 1970, an information was filed in Maricopa County Superior Court charging Frank Andrew R. Nunez with second degree burglary. On February 19, 1971, the state filed a motion to amend the information to add a prior conviction. Burglary of the second degree is punishable by imprisonment for not to exceed five years. A.R.S. § 13-302, subsec. B (Supp. 1971-72). A person convicted of second degree burglary who has a prior conviction is subject to imprisonment for not to exceed ten years. A.R.S. § 13-1649 (Supp. 1971-72).
+The defendant appeared before the court on February 22, 1971, and pled guilty to the burglary charge. The trial judge questioned the defendant about his plea, explained the consequences of it to him, and advised him that he could receive up to five years in prison for the offense. The court then found that the plea was made voluntarily and knowingly, and therefore should be accepted.
+At the same hearing, immediately after the plea was accepted, the state’s motion to add an allegation of prior conviction was considered by the court. After argument from both counsel, the motion was granted, over defendant’s objection, and the information was amended.
+The issue of the prior conviction was tried before the court. The state produced a certified copy of records of the Superior Court of Maricopa County which indicated that Frank Andrew Nunez was convicted of attempted second degree burglary on May 15, 1967. The exhibit was admitted into evidence over defense objections. The state next called a fingerprint expert from the Maricopa County Sheriff’s Identification Division who brought with him a booking slip (bearing the name “Frank R. Nunez” and relating to the prior arrest and conviction). The booking slip was admitted into evidence. The court then ordered that the defendant’s fingerprints be taken. The fingerprint expert testified that the defendant’s fingerprints and the fingerprints on the booking slip were of the same person. The trial court ultimately found that the defendant was guilty of the prior conviction charge.
+On appeal the defendant first contends that the trial court lacked jurisdiction to permit an amendment of the information to allege a prior conviction after the court had accepted the guilty plea to the primary charge. A.R.S. § 13-1649, subsec. C defines the power of the trial court with regard to the allegation of a prior conviction. It reads:
+“C. The court in its discretion may allow the allegation of a prior conviction at any time prior to trial, provided that when the allegation is filed, the state must make available to the defendant a copy of any material or information obtained concerning the prior conviction.” (Emphasis added). A.R.S. § 13-1649, subsec. C (Supp.1971-72).
+If we accept defendant’s contention that the “trial” referred to in the statute was in this case the hearing to accept the guilty plea of the defendant, then we note that the state filed its motion to allege a prior conviction three days before the “trial”. In addition, defense counsel knew of at least the possibility of such a motion several weeks in advance.
+Consideration of the merits of the allegation of a prior conviction began immediately after the guilty plea was accepted. Under these circumstances where the consideration of the motion to amend and the acceptance of the guilty plea were practically simultaneous, we are of the opinion that any error which may have been involved is “technical error” that does not justify reversal unless prejudice is shown.
+“No cause shall be reversed for technical error in pleadings or proceedings when upon the whole case it shall appear that substantial justice has been done.” Ariz.Const. art. 6 § 27, A.R.S.
+Defendant does not explain how he was prejudiced by the inverse order of the proceedings. There is no indication that the sentence meted the defendant would have been any different if the motion to allege a prior conviction had been granted before the plea was accepted. Here, defendant made no attempt to withdraw his guilty plea after the motion to allege a prior conviction was urged or even after it was decided, nor has he requested such relief in this court. If such relief had been requested in the trial court and refused, we would have an entirely different question— a question which we need not decide in this case.
+Defendant next contends that the certified copy of the record of judgment in Maricopa County Superior Court was improperly admitted into evidence at the hearing to determine whether he had a prior conviction. He relies upon Rule 44(g) of the Arizona Rules of Civil Procedure, 16 A.R.S., which states in relevant part:
+“(1) Domestic. An official record kept within the United States, or any state, . . . or an entry therein, when admissible for any purpose, may be evidenced by an official publication thereof or by a copy attested by the officer having the legal custody of the record, or by his deputy, and accompanied by a certificate that such officer has the custody. The certificate may be made by a fudge of a court of record of the district or political subdivision in which the record is kept, authenticated by the seal of the court, or may be made by any public officer having a seal of office and having official duties in the district or political subdivision in which the record is kept, authenticated by the seal of his office.” (Emphasis added).
+[Rule 272 of the Arizona Rules of Criminal Procedure, 17 A.R.S., authorizes the use of the law of evidence in civil actions except as otherwise provided].
+Defendant maintains that the copy of the judgment was not accompanied by any certificate that the officer having legal custody of the original did, in fact, have the original in his possession. The state conceded that no certificate was present but argued in the trial court and on appeal that the trial judge could take judicial notice of the authenticity of the copy.
+Rule 44(g) allows a judge of a court of record of the political subdivision in which the record is kept to make out a certificate of custody. Since the trial judge was such a judge, he could have made out the missing certificate himself. We find his failure to do so “de minimis”, and we agree that in this case he could take judicial notice of the authenticity of the exhibit.
+We further note that Rule 44(g) is not the exclusive means by which public records can be entered into evidence. See Ariz.R.Civ.P. 44(i), 16 A.R.S.; State v. Salazar, 3 Ariz.App. 114, 412 P.2d 289 (1966). In Salazar a copy of records signed by the City Magistrate of Tucson was introduced as evidence of a prior conviction of the defendant. The copy was not accompanied by a certificate of authentication. This court held that technical noncompliance with Rule 44(g) did not warrant reversal under the circumstances.
+In order to prove a prior conviction the state must show beyond a reasonable doubt: 1) that a prior conviction exists; and 2) that the defendant is the same person who was previously convicted. State v. Salazar, supra; State v. Cobb, 2 Ariz. App. 71, 406 P.2d 421 (1965). We conclude that the trial court had ample grounds for finding beyond a reasonable doubt that the defendant had been previously convicted of the offense alleged.
+Affirmed.
+EUBANK and JACOBSON, JJ., concur.
