@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1152"
+decided: "1972-02-25"
+citations: ["16 Ariz. App. 425", "493 P.2d 1230"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY and HOWARD, JJ., concur."]
+parties: ["Charles SHERRILL et al., Petitioners, v. SUPERIOR COURT of the State of Arizona IN AND FOR the COUNTY OF PIMA et al., Respondents."]
+source_url: "https://static.case.law/ariz-app/16/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1225352
+cites_cases: ["102 Ariz. 504", "14 Ariz.App. 156", "2 Ariz.App. 344", "3 Ariz.App. 588", "450 S.W.2d 937", "7 Ariz.App. 264", "82 Ariz. 79", "97 Ariz. 115"]
+---
+
+# Sherrill v. Superior Court
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+Denial of the petitioners’ motion for a change of venue is the subject of this appellate proceeding. Since appellate intervention by way of special action is appropriate, Goff v. Superior Courts, 2 Ariz.App. 344, 409 P.2d 60 (1965), we assume jurisdiction.
+The procedural chronology is as follows. A complaint was filed in Pima County Superior Court by Coronado Cattle Company naming the petitioners d. b. a. Arlington Cattle Company and others as defendants. The complaint was captioned, “Contract— Tort Non-Motor Vehicle”. Eight separate counts were set forth therein. It was alleged that the petitioners were residents of Maricopa County who had “caused an event or events to occur in Pima County, Arizona, out of which this cause of action arises.” The first three counts alleged an agreement between petitioners and the plaintiff to feed and sell the plaintiff’s livestock, a breach of said agreement and the negligent performance thereof. As to the additional five counts sounding in fraud, the plaintiff specifically alleged that the acts complained of in said counts constituted “its separate and distinct actions” against the defendants other than the petitioners.
+The petitioners filed a timely motion for change of venue, supported by affidavits, requesting transfer of the action to Maricopa County, where they resided. Their position was that under A.R.S. § 12-401, as amended, they had a right to be sued in the county of their residence. The plaintiff Coronado Cattle Company filed its opposition to the motion for change of venue and a controverting affidavit. It admitted that the petitioners were residents of Maricopa County but took the position that it was ■ entitled to avail itself of A.R.S. § 12-401, subsec. 10, as amended, which provides, in pertinent part:
+■ “10. When the foundation of the action is a crime, offense or trespass for which an action in damages may lie, the action may be brought in the county in which the crime, offense or trespass was committed. . . . ”
+Coronado Cattle Company’s position is reflected by the following quote from its memorandum submitted to the trial court:
+“Plaintiff has alleged fraud by the defendant foreign corporations in Count Six of its Complaint. Since plaintiff has at all times material to this action conducted its business within Pima County, plaintiff’s reliance on the defendants’ fraudulent misrepresentations and its consequent damage all occurred within Pima County and plaintiff’s cause of action arose in Pima County. Therefore plaintiff is entitled to avail itself of subsection (10) above with respect to the corporate defendants and is entitled to pursue this action in Pima County.
+. The present action is properly within Pima County, not because some defendants are corporations, but because plaintiff’s cause of action is based on a tort which arose in Pima County.”
+The motion for change of venue was denied, whereupon petitioners sought relief in this court. When an issue as to the propriety of venue is raised, its resolution requires examination of the complaint and the affidavit supporting the motion for change. Ellsworth v. Layton, 97 Ariz. 115, 397 P.2d 450 (1964). We have held that when a proper request for a change of venue has been made, change of venue is mandatory. GAC Properties, Inc. of Arizona v. Farley, 14 Ariz.App. 156, 481 P.2d 526 (1971); Albins v. Superior Court, 7 Ariz.App. 264, 438 P.2d 333 (1968); Massengill v. Superior Court, 3 Ariz.App. 588, 416 P.2d 1009 (1966).
+In the case of Wray v. Superior Court, 82 Ariz. 79, 308 P.2d 701 (1957), our Supreme Court recognized that courts must refrain from enlarging or adding to the statutory exceptions embodied in A.R.S. § 12-401. In Wray, supra, the court held that exception 18 permitting suit against a corporation in any county in which the cause of action arose or in the county in which it had an agent, owned property or conducted business, did not authorize the joinder of a defendant residing outside the county when he makes timely objection thereto.
+Adverting to the allegations of the complaint, we find that only the first three counts assert any claim for relief against the petitioners: It is alleged that Coronado Cattle Company, pursuant to a cattle feeding contract entered into between it and the petitioners doing business as Arlington Cattle Company, had placed feeder cattle at petitioners’ feed lot for feeding and sale to a packing house, and that petitioners had been negligent in (1) failing to sell the cattle for cash, (2) failing to use good business judgment in choosing a purchaser of the cattle, and (3) failing to exercise proper diligence in discovering the purchaser’s financial condition. The exhibits appended to the complaint clearly reflect that the alleged acts of “negligence” occurred in Maricopa County rather than in Pima County. The facts alleged in the remaining five counts showed that the acts which Coronado Cattle contends gave Pima County venue of this case were acts of the other named defendants and not acts of the petitioners.
+Since all of the acts alleged in the first three counts occurred in Maricopa County, and the remaining counts stated no cause of action against the petitioners, the petitioners’ motion for change of venue to the county of their residence, Maricopa County, should have been granted. Smitherman v. Superior Court in and for the County of Pima, 102 Ariz. 504, 433 P.2d 634 (1967); see also, Boyd v. Thompson-Hayward Chemical Co., 450 S.W.2d 937 (Tex.Civ.App.1970). The fact that it would he more convenient to try the controversy among all parties in a single suit and thereby prevent a duplicity of suits does not alter the requirement that if Coronado Cattle is to maintain its suit against the petitioners in Pima County, rather than in the county of their residence, it must do so under some exception to A.R.S. § 12-401, as amended.
+The order denying the motion for change of venue is hereby vacated and the trial court is directed to enter an appropriate order of transfer not inconsistent with this opinion.
+HATHAWAY and HOWARD, JJ., concur.
