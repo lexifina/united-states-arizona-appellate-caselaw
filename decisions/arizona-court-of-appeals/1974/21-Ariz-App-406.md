@@ -1,0 +1,57 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1408"
+decided: "1974-03-19"
+citations: ["21 Ariz. App. 406", "520 P.2d 319"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HOWARD, JJ., concur."]
+parties: ["PIMA COUNTY et al., Appellants, v. AMERICAN SMELTING AND REFINING COMPANY, a corporation, Appellee."]
+source_url: "https://static.case.law/ariz-app/21/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1250950
+cites_cases: ["13 Ariz.App. 525", "36 Stat. 557", "46 Stat. 1202", "48 Stat. 984", "50 Stat. 862", "52 Stat. 347", "57 Ariz. 407", "69 Stat. 67"]
+---
+
+# Pima County v. American Smelting & Refining Co.
+
+## Majority (HATHAWAY, Chief Judge.)
+
+OPINION
+HATHAWAY, Chief Judge.
+Appellants have appealed from a judgment entered against them upon appellee’s motion for summary judgment.
+American Smelting & Refining Company, a New Jersey corporation, hereinafter called ASARCO or the plaintiff, filed a complaint in the Superior Court of Pima County seeking to recover from Pima County, property taxes paid under protest, as follows:
+TAX YEAR AMOUNT
+1969 $109,335.40
+1970 125,837.60
+1971 135,145.56
+1972 (first half) 72,297.96
+$442,616.52
+together with interest at the rate of 6% per annum from the date of each payment and costs.
+The action was filed pursuant to A.R.S. § 42-204 (C), as amended, which provides that “(a)fter payment of the tax, an action may be maintained to recover any tax ille-gaily collected, and if the tax due is determined to be less than the amount paid, the excess shall be refunded in the manner provided by this [title].”
+The taxes paid under protest were assessed by the Arizona Department of Property Valuation against mining properties operated by the plaintiff on the San Xavier Indian Reservation pursuant to mining leases and a business lease. The lease instruments were executed by and between Harry W. Gilmore, Superintendent, Papago Agency of the United States Department of the Interior Bureau of Indian Affairs, Sells, Arizona, for and on behalf of the Indian landowners ■ listed on the ownership schedule annexed to the instruments, as lessor, and ASARCO as lessee. The mining leases applied to Indian lands “ . . . for the sole purpose of prospecting for and mining minerals, other than oil and gas, . . . . ” Each mining lease is for a term of 10 years from the date of its approval by the Bureau of Indian Affairs “ . . . and as long thereafter as the leased minerals are produced in paying quantities.” The business lease reserved a 200 acre parcel on the Indian reservation, for the purpose of “ . . . dumping of waste and tailings thereon, the removal of minerals from such waste and tailings by treatment on the leased premises, or their removal for such treatment, and for any and all other uses which lessee deems necessary, in convection with lessee’s mining operation on or adjacent to San Xavier Indian Reservation . ” and ran for a term of 25 years.
+All lands described in the leases are situated within the San Xavier Indian Reservation set apart for use of the Papago tribe of Indians and other Indians by President Ulysses S. Grant’s Executive Order of July 1, 1874, 1 Indian Affairs Laws and Treaties, C. Kappler ed. 1904, p. 805, and are administered by the Papago Council and the Department of the Interior, Bureau of Indian Affairs pursuant to Act of Congress and Executive Orders.
+The taxes sought to be recovered were assessed “ . . . upon a producing mine.” Plaintiff’s position was that since its mining operation known as the San Xavier unit was located within the San Xavier Indian Reservation, it was exempt from taxation pursuant to the Arizona Enabling Act of June 20, 1910, c. 310, § 20, 2nd, 36 Stat. 557-569-570, 1 A.R.S., p. 79, and Article 20 of the Constitution of Arizona, 1 A.R.S. Also, ASARCO contends that the lands and mineral ore in question were owned by the Papago Indian tribe and therefore plaintiff’s leasehold interests were exempt from taxation. Ownership of the lands as alleged by ASARCO was un-contradicted.
+The plaintiff mining company moved for summary judgment. The county opposed the motion on the ground that the leases were in fact “ . . . conveyances of title in fee simple from the Papa-go Indians to ASARCO . . . ” and that ASARCO was therefore operating a “producing mine”. Appellants cite numerous cases in support of their position, but we deem them inapposite as our examination of them reveals that none deal with leases of Indian Reservation lands, or with minerals located on public lands. As the trial judge noted in his excellent memorandum opinion:
+“In the case at bar, the minerals underlying the San Xavier Indian Reservation are held in trust by the United States for the Papago Indian tribe. Act of May 27, 1955, c. 106, 69 Stat. 67. Pursuant to Section 2 of the Act of May 27, 1955, supra, such minerals are only subject to lease for mining purposes in accordance with the provisions of the Act of May 11, 1938, c. 198, 52 Stat. 347, as amended, by the Act of May 27, 1955, c. 106, § 2, 69 Stat. 67, 68. As the fee interest in the minerals underlying the San Xavier Indian reservation is in the United States and the mining leases are in conformity with the Act of May 11, 1938, supra, the court holds that each of the two instruments entitled ‘mining lease’ is, as a matter of law, a lease authorized by Congress and that ASARCO is the lessee and not the owner in fee of the minerals underlying the lands described in the said leases. Furthermore, as the lands are held in trust by the United States for the Papago Indian tribe, such lands and the minerals underlying them are held to be exempt from taxation by the county pursuant to the Constitution of Arizona, Article XX, subparagraphs Fourth and Fifth, and the Enabling Act of June 20, 1910, § 20, Second subparagraph, 36 Stat. 557, 569-570.”
+The one remaining question is whether the leasehold interest of ASARCO is tax exempt. In Maricopa County v. Fox Riverside Theater Corp., 57 Ariz. 407, 114 P.2d 245 (1941), the Arizona Supreme Court held that there is no constitutional provision against the taxing of a leasehold interest. However, the Arizona legislature has not proved for a tax upon leasehold interests. Without such legislation, property taxes cannot be levied against a leasehold interest. Maricopa County v. Fox Riverside Theater Corp., supra; Navajo County v. Monument Valley Inn, Inc., 13 Ariz.App. 525, 478 P.2d 140 (1970).
+In both 1969 and 1971 the Arizona legislature considered, but refused to enact, legislation which would have imposed a tax on leasehold interests. See Senate Bill 37 of the 29th Legislature, 1st Regular Session, introduced on January 21, 1969; House Bill 41 of the 30th Legislature, 1st Regular Session, introduced on January 13, 1971; Senate Bill 140 of the 30th Legislature, 1st Regular Session, introduced on February 3, 1971.
+The trial court was correct in granting the taxpayer’s motion for summary judgment since, as a matter of law, ASARCO’s property was not subject to taxation.
+Affirmed.
+KRUCKER and HOWARD, JJ., concur.
+. A.R.S. § 42-124(A) provides:
+“Determination of valuation of producing mines, personal property used thereon, improvements thereto and mills and smelters operated in conjunction therewith, and producing oil and gas interests; changing valuation.
+A. On or before the first Monday in June the department shall find the full cash value of all patented and unpatented producing mines, the personal property used thereon, the improvements thereto and the mills and smelters operated in conjunction therewith within the state and on or before the third Monday of June transmit to the several boards of supervisors the valuation thereof.”
+. The second paragraph of § 20 of the Enabling Act provides in part:
+“That the people inhabiting said proposed State do agree and declare that they forever disclaim all right and title to the unappropriated and ungranted public lands lying within the boundaries thereof and to all lands lying within said boundaries owned or held by any Indian or Indian tribes, the right or title to which shall have been acquired through or from the United States or any prior sovereignty, and that until the title of such Indian or Indian tribes shall have been extinguished the same shall be and remain subject to the disposition and under the absolute jurisdiction and control of the Congress of the United States; . . . but said ordinance shall provide that all such lands [granted or confirmed to an Indian or Indians under any Act of Congress] shall be exempt from taxation by said State so long and to such extent as Congress has prescribed or may hereafter prescribe.”.
+. “Fourth. Public lands; Indian lands
+Fourth. The people inhabiting this State do agree and declare that they forever disclaim all right and title ... to all lands lying within said boundaries owned or held by any Indian or Indian tribes, the right or title to which shall have been acquired through or from the United States or any prior sovereignty, and that, until the title of such Indian or Indian tribes shall have been extinguished, the same shall be, and remain, subject to the disposition and under the absolute jurisdiction and control of the Congress of the United States.
+Fifth. Taxation.
+Fifth. ... no taxes shall be imposed by this State on any lands or other property within an Indian Reservation owned or held by any Indian; . . • . ”
+. The text of the trial court’s footnote contained in the above quotation adverting to the Act of May 27, 1955 reads in part as follows:
+“An Act
+Relative to the exploration, location, and, entry of mineral lands within the Papago Indian Reservation
+‘Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the provisions with respect to subjection of mineral lands within the Papago Indian Reservation to exploration, location, and entry under the mining laws of the United States in the Executive order dated February 1, 1917, creating the Papago Indian Reservation, and in the third proviso in section 1 of the Act of February 21, 1931 (46 Stat. 1202), and the provisions of subsection (b) (1) and (2) and of the remainder, following .the word “purposes,” of subseciion (b) (4) of section 3 of the Act of June 18, 1934 (48 Stat. 984; 25 U.S.G. 461-479), as amended by the Act of August 26, 1937, (50 Stat. 862, 863 ; 25 U.S.O. 463), are hereby repealed, all tribal lands within the Papago Indian Reservation are hereby withdrawn from all forms of exploration, location, and entry under such laws, the minerals underlying such lands are hereby made a part of the reservation to be held in trust by the United States for the Papago Indian Tribe, and such minerals shall be subject to lease for mining purposes pursuant to the provisions of the Act of May 11, 1938 (52 Stat. 347) : Provided, That the provisions of this Act shall not be applicable to lands within the Papago Indian Reservation for which a mineral patent has heretofore been issued or to a claim that has been validly initiated before the date of this Act and thereafter maintained under the mining laws of the United States.
+Sec. 2. Section 6 of the Act of May 11, 1938 (52 Stat. 347, 348; 25 U.S.O. 396f), is amended by deleting therefrom “the Papago Indian Reservation in Arizona,”.
+Approved May 27, 1955.’ ”
