@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 2310"
+decided: "1973-11-01"
+citations: ["21 Ariz. App. 36", "515 P.2d 333"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON and STEVENS, JJ., concur."]
+parties: ["In the Matter of the ADOPTION of Wendy Corrine FRANTZ, a minor. Roger A. FRANTZ and Cecilia Frantz, husband and wife, Appellants, v. Omer WAGAHOFT and Virginia Wagahoft, husband and wife, Appellees."]
+source_url: "https://static.case.law/ariz-app/21/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1250922
+cites_cases: ["104 Ariz. 44", "15 Ariz.App. 196", "189 N.E.2d 105", "243 Ind. 581", "513 P.2d 1350", "97 Ariz. 36"]
+---
+
+# Frantz v. Wagahoft
+
+## Majority (OGG, Judge.)
+
+OPINION
+OGG, Judge.
+This is an appeal from a Maricopa County Superior Court denying appellant Roger A. Frantz’s petition to vacate the final order of adoption entered in Maricopa County Case No. A-16930.
+On May 28, 1971 the final order of adoption was signed wherein the appellees Omer and Virginia Wagahoft were declared to be the adoptive parents of Wendy Corrine Frantz. On October 24, 1972 Roger A. Frantz, the natural father, filed a pleading designated “Petition to Vacate Adoption; Petition for Temporary Restraining Order and Petition for Order to Show Cause” in the same Maricopa County Case No. A-16930. Frantz does not deny that he and his former wife, the natural mother of the adoptive child, both signed the consents to the adoption. He alleges that his signature was obtained by duress when his wife threatened harm to the child if he refused to give his consent. Frantz further alleged in his petition that it would be in the best interest of the minor child if her custody was taken from her adoptive parents and given to him.
+The Wagahofts filed a motion for summary judgment which was opposed by Frantz. The trial court granted the motion after oral argument and considering the pleadings, affidavits and portions of depositions that were submitted to the court. We must now determine whether the trial court was in error in granting the Wagahofts’ motion for summary judgment.
+We find that under the law of Arizona and the facts of this case the ruling of the trial court was correct. The final order of adoption in this case was a final judgment and it cannot be vacated by an action instituted one year and five months later. In re Adoption of Hammer, 15 Ariz.App. 196, 487 P.2d 417 (1971). Frantz failed to comply with the time limitations of Rule 60(c), Arizona Rules of Civil Procedure, 16 A.R.S., which reads:
+“60(c) Mistake; inadvertence; surprise; excusable neglect; newly discovered evidence; fraud, etc. On motion and upon such terms as are just the court may relieve a party or his legal representative from a final judgment, order or proceeding for the following reasons: (1) mistake, inadvertence, surprise or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under Rule 59(d) ; (3) fraud (whether heretofore denominated intrinsic or extrinsic), misrepresentation or other misconduct of an adverse party; (4) the judgment is void; (5) the judgment has been satisfied, released or discharged, or a prior judgment on which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (6) any other reason justifying relief from the operation of the judgment. The motion shall be made within a reasonable time, and for reasons (1), (2) and (3) not more than six months after the judgment, order or proceeding was entered or taken. A motion under this subdivision does not affect the finality of a judgment or suspend its operation. This rule does not limit the power of a court to entertain an independent action to relieve a party from a judgment, order or proceeding, or to grant relief to a defendant served by publication as provided by Rule 59(j) or to set aside a judgment for fraud upon the court. The procedure for obtaining any relief from a judgment shall be by motion as prescribed in these rules or by an independent action.
+Amended July 14, 1961, effective on and after midnight Oct. 31, 1961.” [Emphasis added]
+Frantz claims this is a new independent action and that his attempt to vacate the adoption judgment is not barred by the time limitations of Rule 60(c). We cannot agree with such a contention. The Motion to Vacate was filed in the same Maricopa County Case No. A-16930 and involved as subject matter an attempt to set aside the final Order of Adoption in that specific case. Even if this were deemed an independent action and if, for argument’s sake, we agree that an independent action is not governed by the time limitations of Rule 60(c), we still believe it was not started within a reasonable time and that the doctrine of laches would have application. Under Arizona law, laches consists of two elements: (1) lack of diligence; (2) injury or prejudice to the other party. Meyer v. Warner, 104 Ariz. 44, 448 P.2d 394 (1968); Decker v. Hendricks, 97 Ariz. 36, 396 P.2d 609 (1964). Both elements are clearly present under the facts of this case.
+The child has always resided in the Wa-gahoft home and she was ten months of age when Frantz signed the consent to adoption. He then waited some two years and three months to file his petition to vacate. We believe that the sanctity and finality of a judgment in an. adoption proceeding must be given prime consideration. The court, In re Adoption of Hammer, supra, states:
+“First, we are convinced that a final order of adoption is a final judgment, subject to the same finality and standing as any other judgment of a court of competent jurisdiction. Risner v. Risner, 243 Ind. 581, 189 N.E.2d 105 (1963). This is necessary so that the myriad legal consequences which arise out of the relationship between parent and child, of which intestate succession and heirship is just one, may be applied with some degree of certainty. Moreover, from a strictly humanitarian standpoint, there must be an end to the emotional stress and strain that is involved in the natural parents’ attempt to regain custody of their child. The strain is particularly acute to the adoptive child itself, who may have established strong bonds of affection and love for the adoptive parents, and to the adoptive parents who must suffer the spectre of losing their child. Also, sound reasons of public policy demand that orders of adoption have finality so as to encourage adoption of children who might otherwise be homeless. jjc * * >r
+See also Acedo v. State of Arizona Department of Public Welfare Dept. B., filed September 25, 1973, Ariz.App., 513 P.2d 1350.
+The judgment of the trial court is affirmed.
+JACOBSON and STEVENS, JJ., concur.
