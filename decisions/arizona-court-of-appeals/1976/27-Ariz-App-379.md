@@ -1,0 +1,37 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 1651, 1 CA-CR 1652"
+decided: "1976-10-05"
+citations: ["27 Ariz. App. 379", "555 P.2d 348"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHROEDER, concurring. P. j„ and WREN,"]
+parties: ["STATE of Arizona, Appellee, v. George Paul MAESE, Appellant."]
+source_url: "https://static.case.law/ariz-app/27/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1236979
+cites_cases: ["110 Ariz. 580", "112 Ariz. 363", "176 Colo. 86", "23 Ariz.App. 232", "24 Ariz.App. 472", "25 Ariz.App. 170", "25 Ariz.App. 350", "400 F.2d 185", "496 F.2d 1172"]
+---
+
+# State v. Maese
+
+## Majority (EUBANK, Judge.)
+
+OPINION
+EUBANK, Judge.
+The appellant pled guilty, pursuant to a plea agreement with the State, to two charges of burglary in the second degree (A.R.S. § 13-302). The appellant was sentenced to concurrent terms of not less than four years nor more than five years in the Arizona State Prison. The criminal actions instituted below were consolidated on appeal.
+The appellant argues that: (1) he was denied due process of law because the trial court sentenced him without a pre-sentence report; (2) he was denied due process and equal protection because the trial court failed to credit him with pre-sentence incarceration time; and (3) his guilty plea was not taken in accordance with Rule 17.-2, Rules of Criminal Procedure, 17 A.R.S., since the trial court failed to inform him of his right to plead not guilty.
+As to the first issue, appellant argues that this case should be remanded under State v. Garcia, 112 Ariz. 363, 542 P.2d 22 (1975) to the trial court for resentencing because the pre-sentence report, filed November 7, 1975, was filed one day after the appellant was sentenced by the trial court. The state points out, in its answering brief, that Rule 26.4 b., Rules of Criminal Procedure, 17 A.R.S., only requires that the pre-sentence report be delivered to the sentencing judge prior to sentencing and does not require that it be filed with the clerk of the court. In addition, the State points out that there was indisputable evidence contained in the sentencing hearing transcript which indicated all parties had received and read the presentence report on October 10, 1975, the date on which appellant plead guilty. Nevertheless, appellant’s counsel, in his reply brief, states that, notwithstanding the clear references by the court and defense counsel to the probation report at the time of sentencing, the only permissible inference to be drawn from the filing date is that the court and counsel did not have it available at the time of sentencing. We do not agree.
+In our opinion the instant case is clearly distinguishable from State v. Garcia, supra. In Garcia our Supreme Court noted that it was not apparent from the record that the trial judge had a pre-sen-tence report before him. 112 Ariz. at 363, 364, 542 P.2d at 22. In the case at bar, it is clear that the pre-sentence report was before the court and before counsel. We see no merit in this argument.
+Appellant’s third argument that the guilty plea was not taken in accordance with Rule 17.2, is disposed of by our recent decisions in State v. Munoz, 25 Ariz.App. 350, 543 P.2d 471 (1975) and State v. Crews, 25 Ariz.App. 170, 541 P.2d 961 (1975). We find no error in taking the plea.
+Appellant’s second argument concerns the alleged denial by the trial court of credit for pre-sentence incarceration. Our review of the record reveals that at the time of sentencing, the Public Defender notified the trial judge that appellant had spent 100 days in jail prior to the sentencing and that imposition of a maximum sentence without credit for that time would be illegal. Nevertheless, the court, prior to imposing a maximum sentence, simply stated that it was taking into consideration the time appellant had spent in jail and indicated the record should so show.
+Although a defendant convicted of a crime may not be entitled to credit on his sentence for time served in the county jail prior to trial when the actual sentence imposed plus the time spent in jail does not exceed the maximum sentence, State v. Starr, 110 Ariz. 580, 521 P.2d 1126 (1974), it is clear that when the sentence imposed plus the jail time exceeds the maximum, the trial court must credit the defendant with the pretrial incarceration. State v. Salazar, 24 Ariz.App. 472, 539 P.2d 946 (1975); State v. Salinas, 23 Ariz.App. 232, 532 P.2d 174 (1975).
+Does the same rule apply where concurrent sentences are imposed, but where the trial judge could have imposed a longer sentence by making the concurrent sentence consecutive, such as up to ten years, as in this case? Although we can find no Arizona case directly addressing this issue, the federal courts have considered it. The Ninth Circuit originally held in Lee v. United. States, 400 F.2d 185, 188 (9th Cir. 1968) that a defendant is entitled to credit on a maximum prison term imposed even when he is given concurrent sentences. While Lee dealt with a federal sentence, the rule adopted in the Ninth Circuit was applied to a state sentence in Hook v. State of Arizona, 496 F.2d 1172 (9th Cir. 1974). In Hook the Arizona court had sentenced the appellant to 9 to 10 years on each of two counts of forgery with a credit card, the sentences to run concurrently. The maximum imprisonment authorized by the statute was ten years on each count. The district court denied appellant’s writ of habeas corpus. On appeal, the court noted that the district court believed appellant had not been sentenced to the maximum because the sentences were to be served concurrently rather than consecutively. Relying on their previous decision in Lee v. United States, supra, the Ninth Circuit held that a defendant sentenced to prison is entitled to pre-sentence incarceration credit when maximum terms of imprisonment are imposed, notwithstanding the fact the maximum terms are imposed concurrently rather than consecutively. Contra, People v. Scott, 176 Colo. 86, 489 P.2d 198 (1971).
+It is our opinion that since the Ninth Circuit has spoken and since the same result would accrue to the appellant from a review of his sentence by the federal courts, that Hook v. State of Arizona, supra, is controlling in this case. Therefore this is an appropriate case for us to exercise our authority to modify the sentence under the provisions of A.R.S. § 13-1717, and credit the appellant with the time he spent in pretrial incarceration by reducing his maximum sentence 100 days.
+See State v. Salinas, supra. The issuance of the mandate in this case will constitute a formal modification of the prior sentence imposed.
+The judgment and sentence are affirmed as modified.
+SCHROEDER, concurring. P. j„ and WREN,
+. Rule 26.4b.
+Except when a request under Rule 26.3 (a) has been granted, the pre-sentence report shall be delivered to the sentencing judge at least 2 days before the date set for sentencing.
+. We note that appellant’s attorney during tlie sentencing proceeding stated that he was entitled to 100 days credit for pretrial incarceration (reporter’s transcript, November 6, 3975, page 13), that the judge acknowledged 100 days, and that his attorney on appeal argues that he is entitled to 98 days. We find the difference so minimal that in the interest of justice and expediency the appellant will be given credit for the longer period of time.
