@@ -1,0 +1,60 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 231"
+decided: "1970-12-15"
+citations: ["13 Ariz. App. 464", "477 P.2d 750"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOWARD, C. J., and HATHAWAY, J., concur."]
+parties: ["The STATE of Arizona, Appellee, v. Donald Francis DUDGEON, Appellant."]
+source_url: "https://static.case.law/ariz-app/13/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1213766
+cites_cases: ["104 Ariz. 354", "104 Ariz. 395", "11 Ariz. App. 273", "115 U.S.App.D.C. 57", "12 Ariz.App. 142", "13 L.Ed. 2d 962", "152 Conn. 85", "203 A.2d 305", "251 Cal.App.2d 420", "317 F.2d 121", "378 U.S. 108", "380 U.S. 943", "393 U.S. 410", "426 F. 2d 258", "44 Wis.2d 96", "52 F.Supp. 737", "59 Cal.Rptr. 489", "7 Ariz.App. 422", "80 N.M. 492", "85 S.Ct. 1025", "93 Okl.Cr. 372"]
+---
+
+# State v. Dudgeon
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+The appellant attacks his conviction of unlawful possession of marijuana on the grounds that certain evidence was the product of an unlawful seizure. In essence, he attacks the validity of the issuance and execution of a search warrant on March 10, 1969, pursuant to which the evidence in question was seized.
+His first contention is that the affidavit in support of the search warrant was deficient as to the “probable cause’’ requirement and the “positiveness” required by A.R.S. § 13-1447 (1956) for a nighttime search, the law in effect prior to the amendment of this section. A.R.S. § 13-1447 (Supp.1970). The State concedes, and we agree, that the affidavit is insufficient. However, the law in this State is well settled that sworn testimony in addition to the affidavit can be appropriately considered by the magistrate prior to the issuance of a search warrant. State v. Watling, 104 Ariz. 354, 453 P.2d 500 (1969) ; State v. Van Meter, 7 Ariz.App. 422, 440 P.2d 58 (1968) ; State v. Greenleaf, 11 Ariz. App. 273, 464 P.2d 344 (1970). At the hearing on appellant’s motion to suppress, both the affiant and the issuing magistrate testified.' This testimony revealed that the affiant, at the time he sought the issuance of the search warrant, testified under oath that his informant had actually seen the narcotics on the premises described in the affidavit and described specific instances in the past when the informant had furnished information which had proved to be correct. We thus find no merit in appellant’s contention that the requirements of Aguilar v. Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964), and Spinelli v. United States, 393 U.S. 410, 89 S.Ct. 584, 21 L.Ed. 2d 637 (1969), were not met.
+A.R.S. § 13-1447 (1956) provides:
+“The magistrate shall insert a direction in the warrant that it be served in the day time, unless the affidavits are positive that the property is on the person of the party, or in the place to be searched, in which case he may insert a direcr tion that the warrant be served at anytime of the day or night.”
+In State v. Snyder, 12 Ariz.App. 142, 468 P.2d 593 (1970), we held that the oral testimony before the magistrate can be considered in order to determine whether or not the “positiveness” test had been satisfied. The oral testimony here indicates that the informer had recently been in the dormitory room named in the search warrant, had seen the marijuana in question, and specifically described its location. We believe, therefore, that the “positiveness” requirement of A.R.S. § 13-1447 (1956) was met.
+The search warrant, directed to “any sheriff, constable, marshal or policeman in the County of Cochise” recited:
+“YOU ARE THEREFORE COMMANDED, in the daytime (or at any time of the day or night) to make immediate search of the premises consisting of Room #1318 Mens [sic] Dormitory at Cochise College. * * * ”
+Application for the search warrant was made by a United States customs agent, James Anderson, and it was issued to him by the magistrate. A.R.S. § 13-1445, sub-sec. A (1956) provides that a magistrate, upon the requisite showing of probable cause:
+“ * * * shall issue a search warrant, signed by him with his name of office, and deliver it to a peace officer in his county, commanding him forthwith to search the person or place named for the property specified, * * * ”
+A.R.S. § 1-215, subsec. 20 (1956), as amended (Supp.1969), defines a peace officer :
+“ ‘Peace officers’ means sheriffs of counties, constables, marshals, and policemen of cities and towns.”
+After obtaining the search warrant, the customs agent went to Cochise College where he was met by two Cochise County deputy sheriffs, peace officers under the statutory definition. The warrant, however, remained in the possession of the customs agent and was in fact served by him after entry into the dormitory room. The evidence indicates that he and the deputy sheriffs acted together from the time they met at Cochise College and throughout the subsequent search and seizure.
+We do not agree with appellant that the statutory mandates were violated, rendering the ensuing search illegal. The search warrant was directed to peace officers and we find no requirement in A.R.S. § 13-1445, subsec. A (1956) that the magistrate personally hand over the search warrant to such officers. Nor do we find any non-compliance with A.R.S. § 13-1446, sub-sec. A (1956). Where, as here, the officers to whom the search warrant was directed, namely the deputy sheriffs, were present and acting in the execution thereof, there was substantial compliance with the statute, notwithstanding the fact that the search warrant was in the manual possession of the customs agent. Seay v. State, 93 Okl.Cr. 372, 228 P.2d 665 (1951); see also, United States v. Tolomeo, 52 F.Supp. 737 (W.D.Pa.1943) ; Kirby v. Beto, 426 F. 2d 258 (5th Cir. 1970).
+Appellant also contends that a nighttime search was invalid in that the magistrate had not inserted a direction that the warrant be served at any time of the day or night, as required by A.R.S. § 13-1447 '(1956). (Prior to the 1970 amendment thereof referred to above, in that the search warrant here was issued March 10, 1969.) In support of his position, he relies on People v. Mills, 251 Cal.App.2d 420,
+59 Cal.Rptr. 489 (1967). In that case, as in the instant case, the magistrate used a mimeographed form which followed the form recommended by the California statutory counterpart of A.R.S. 13-1445, sub-sec. B (1956), and did not strike out the superfluous words “in the daytime.” The court stated:
+“Both forms obviously anticipate that when the judge has decided whether to authorize a night search he will strike out superfluous words so as to cause the warrant to reflect his decision.
+‡ # sjs ‡ sfc
+Here the mandatory requirement that the magistrate exercise his discretion by inserting a direction has not been met. Because the warrant was not made to conform to either of the options open to the magistrate, this court cannot determine whether or not he exercised the discretion vested in him by the statute. The householder is entitled to the assurance that the magistrate has considered and decided whether the facts justify a night search. Contrary to that principle, the warrant here was issued in such form as reasonably to suggest an inference that the question of time of search was overlooked.” 59 Cal.Rptr. at 490.
+Although we agree with Mills, supra, that the face of the warrant should appropriately reflect that discretion was exercised, it is clear from the record here that the magistrate did in fact exercise his discretion. At the hearing on the motion to suppress, he was interrogated by the court:
+“THE COURT: Judge Martin, at the time you went down for the purpose of issuing the warrant or receiving an application for the issuance of the search warrant I think you indicated that it was dusk at that time?
+A. Yes, sir.
+THE COURT: And that subsequently it took some 45 minutes or so to complete the procedures?
+A. Yes, sir.
+Q. And was it then dark when the warrant was issued?
+A. Yes, sir; I imagine it was, sir. THE COURT: And had the officer requested that the search warrant he issued for the purpose of immediate execution or service?
+A. Yes, sir.”
+The requirements of search warrant statutes are mandatory in every material respect. State v. Dalrymple, 80 N.M. 492, 458 P.2d 96 (1969) ; People v. Mills, supra; 79 C.J.S. Searches and Seizures § 79 (1952). However, since the question of the time of the instant search was not overlooked, we decline to reverse merely because the magistrate did not strike any words from the form.
+It is also suggested that the search warrant was executed in such a manner that it violated the mandate set forth in A.R.S. § 13-1446, subsee. B (1956) which provides, in part:
+“The officer may break open an outer or inner door or window of a house, or any part of a house, or anything therein, to execute the warrant, if, after notice of his authority and purpose he is refused admittance.”
+The record discloses that the customs agent and the deputy sheriffs went to Cochise College, procured a key from the Dean of Men, and went to dormitory room 1318. The customs agent knocked at the door and announced that they were law officers with a search warrant for the room. They heard some “scuffling” inside the room, waited less than five or six seconds and, receiving no response from within, inserted the key and unlocked the door.
+Appellant cites State v. Mendoza, 104 Ariz. 395, 454 P.2d 140 (1969), to support his position. In Mendosa, however, the court held that in' order to justify a judicial exception to the statute requiring announcement of presence and purpose before forcibly entering a house, there must be substantial evidence to cause the officers to believe that the evidence being sought would be destroyed if their presence and purpose were announced. Here, the officers did announce their presence and purpose. The length of time an officer must wait after such announcement depends upon the circumstances. State v. Mariano, 152 Conn. 85, 203 A.2d 305 (1964), cert. denied, 380 U.S. 943, 85 S.Ct. 1025, 13 L.Ed. 2d 962 (1965). Since the officers gave the requisite notice, received no answer, and heard sounds which militated against delay, we hold that they were justified in not delaying execution of the search warrant. Morales v. State, 44 Wis.2d 96, 170 N.W. 2d 684 (1969) ; Masiello v. United States, 115 U.S.App.D.C. 57, 317 F.2d 121 (1963).
+Since daytime searches are to be preferred over nighttime searches, it behooves magistrates, before issuing search warrants, to comply with statutory mandates in appropriate detail. With the ever-increasing backlog of cases facing appellate courts, needless expenditure of judicial time in post-conviction attacks on the grounds of illegal seizure will be avoided. The court below ■was satisfied, after extensive inquiry into the circumstances of the issuance of the search warrant and the evidence presented in support thereof, that all the requisites of a nighttime search were met. We thus find no error in the denial of the motion to suppress.
+HOWARD, C. J., and HATHAWAY, J., concur.
+. This statute was the law in effect at the time of the issuance of the warrant here, prior to the 1970 amendment, A.R.S. § 13-1445, suhsec. A (Supp.1970), as pointed out above.
+. See note 1.
+. “A search warrant may he served by any of the officers mentioned in its directions, but by no other person except in aid of the officer, on his requiring it, the officer being present and acting in its execution.”
+This statute was in effect at the time of the issuance of the warrant here, the 1970 amendment, A.R.S. § 13-1446, subsee. A (1970), as pointed out above, being enacted later.
+. As pointed out above, this subsection of this statute has been amended, after the issuance of the warrant here. A.R.S. § 13-1445, subsee. B (Supp.1970).
+. As pointed out above, this subsection of this statute has been amended, after the issuance of the warrant here. A.R.S. § 13-1446, subsee. B (Supp.1970).
