@@ -1,0 +1,51 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 693"
+decided: "1972-06-20"
+citations: ["17 Ariz. App. 424", "498 P.2d 498"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAIRE, C. J., Division 1, and EU-BANK, J., concur."]
+parties: ["Virgil JOHNSON, Petitioner, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Pacific Fruit Express Company, Respondent Employer, Pacific Fruit Express Company, Respondent Carrier."]
+source_url: "https://static.case.law/ariz-app/17/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1228529
+cites_cases: ["11 Ariz.App. 31", "2 Ariz.App. 399", "94 Ariz. 165", "98 Ariz. 366", "99 Ariz. 315"]
+---
+
+# Johnson v. Industrial Commission
+
+## Majority (JACOBSON, Judge.)
+
+JACOBSON, Judge.
+This appeal by way of a writ of certio-rari involves the question of whether the award of The Industrial Commission is supportable by the evidence.
+In July, 1967, petitioner Virgil O. Johnson, a carman-carpenter employed by respondent, Pacific Fruit Express Company (Pacific Fruit), fell from a scaffold during the course of his employment and injured his hand, wrist, elbow, and back. As a result of this industrial accident, petitioner was hospitalized for approximately ten days.
+The Industrial Commission accepted a claim for benefits and in February, 1970y entered a Finding and Award which found, among other things, that petitioner had' sustained an unscheduled disability but that there was insufficient evidence to determine “what effect the disability had on his-earning capacity.”
+A hearing was held in July, 1970, and in September the referee issued his report which found that petitioner’s “physical impairment as a result of his industrial accident does not prevent him from working . . . . The applicant’s conversion reaction renders him unable to work.” In conclusion, the report stated that petitioner had a total loss of earning capacity as a result of the industrial injury, based upon the resulting conversion reaction.
+In October, 1970, the Industrial Commission issued an award finding petitioner was entitled to an unscheduled permanent partial disability. A petition for rehearing was filed by Pacific Fruit, alleging that the evidence did not justify the award since petitioner was physically able to return to work but refused to and therefore had not sustained a total loss of earning capacity.
+A rehearing was held in March, 1971, to elicit the testimony of a psychologist regarding petitioner’s mental condition. In the latter part of March, the referee issued a report specifically finding no conflict in the medical testimony and adopted the rec-' ommendations set forth in his earlier report.
+Pacific Fruit again filed an objection to the referee’s report on the basis that the evidence did not establish that the petition-' er’s alleged conversion reaction was due to an industrial injury and petitioner was physicaly able to work.
+The Industrial Commission in June, 1971, entered its award, refusing to adopt the recommendations of the referee and stated “that no further compensation be awarded for the reason that applicant has the mental and physical capacity to return to the same or similar occupation with the insured employer on a full time basis without reduction in earning capacity.” From this award petitioner has sought review by certiorari.
+Petitioner’s basic contention is that all of the evidence conclusively establishes that he suffers from a conversion reaction caused by the industrial injury which makes it impossible for him to work.
+The principle is well established in this state that a disabling mental disorder is compensable, if causally connected to a physical injury sustained during the course of employment, even though there is no accompanying physical disability and the industrial injury aggravates a preexisting mental condition. Cammeron v. Industrial Commission, 98 Ariz. 366, 405 P.2d 802 (1965), Tatman v. Provincial Homes, 94 Ariz. 165, 382 P.2d 573 (1963). For the resulting mental disability to be compensable there is an additional requirement that there must not be a “conscious desire for secondary gain by the way of compensation.” Lyman v. Industrial Commission, 11 Ariz.App. 31, 461 P.2d 510 (1969); or put another way, the psychiatric symptomology must be an unconscious one. See Chavarria v. Industrial Commission, 99 Ariz. 315, 409 P.2d 26 (1965).
+We are not called upon in this case to determine the weight to be given medical evidence, in the form of testimony from psychiatrists and psychologists, as compared to evidence adduced from non-mental specialist sources, as all the testimony directed to petitioner’s mental condition was elicited from psychiatrists or psychologists.
+To determine whether the medical evidence supports petitioner’s contention it is necessary to review briefly the medical reports of the examining physicians, with special emphasis on the testimony relating to petitioner’s conversion reaction, it being tacitly admitted that petitioner’s physical condition is not disabling.
+In July, 1968, a group consultation was held and the report recommended:
+“[Tjha.t the patient’s case is essentially stationary and that no further treatments or examinations are indicated. From an orthopedic point of view the patient demonstrates a 15% general disability, but we realize that he is much more disabled than this from a psychiatric point of view. We cannot state whether the psychiatric disability antedated the injury or not inasmuch as there has not been an in-depth psychiatric interview or previous history.”
+Based on this report, petitioner was given a psychiatric examination in November, 1968, by Dr. Philip S. Greenbaum, whose opinion was:
+“[Pjatient’s chief disability seems to be that of a Conversion Reaction, and currently he appears to be very resistant to any psychiatric therapy. Perhaps it might be wise to give patient a complete psychological evaluation by a clinical psychologist, and re-examined subsequent to receiving the psychologist’s findings, and in that evaluation a determination made as to whether there is any indication to attempt psychotherapy. Until this is done, patient’s condition should be considered as not stationary.”
+Dr. Greenbaum referred petitioner to Dr. Wallace C. Diers, a clinical psychologist, for a psychological examination which took place in March, 1969. Dr. Diers concurred with Dr. Greenbaum’s diagnosis of psychoneurosis, conversion reaction.
+In the latter part of November, 1969, Dr. Frank A. Gruver, a psychiatrist, conducted a psychiatric evaluation of petitioner. In conclusion, the doctor stated:
+“My diagnostic impression here would be that Mr. Johnson does suffer from a hysterical neurosis, conversion type, and also that there is evidence of an early compensation neurosis present.
+“Recommendations: Mr. Johnson is not motivated for psychiatric treatment, and seems to be entirely motivated at the present time for a retirement from the railroad with a disability settlement. I feel his case is stabilized at the present time, and I would think that he would be unable to make any progress in his condition until after his case is closed and a settlement figure is agreed upon.”
+However, at the first hearing conducted in July, 1970, Dr. Gruver clarified his report of November, 1969, by stating that petitioner’s difficulties were the result of a subconscious act rather than a conscious one.
+At the second hearing, conducted in March, 1971, Dr. Diers, the sole witness, made several important observations concerning petitioner’s mental condition: Petitioner was manifesting a psychoneurosis conversion reaction which “is something that occurs unconsciously, it’s not a deliberate or intentional act on the part of the individual.” Although the doctor was of the opinion that the industrial accident did not cause the neurosis, for it was a preexisting condition, the industrial incident was the event that triggered the situation. In other words, the accident was a contributing factor to petitioner’s disabling mental condition.
+Pacific Fruit maintains that petitioner’s psychological motivation is to receive compensation for a non-existent physical disability. To award compensation benefits to him, according to the language of Dr. Diers would have “a perpetuating effect on the neurotic situation, because it’s certainly a form of nutriment or dependency itself that’s taking care of him.” From this Pacific Fruit argues that the Industrial Commission could determine that the best treatment was to take petitioner off compensation thereby giving him the incentive to return to gainful employment, citing Chavarria v. Industrial Commission supra as authority.
+Respondent’s reliance on Chavarria for the proposition that the Commission can act as a doctor in prescribing treatment is misplaced, for in that case there was a clear conflict in the medical testimony as to whether Chavarria was consciously malingering or not. The Commission was persuaded that he was malingering and denied petitioner compensation, reasoning that this was the best way to help him.
+Here there is no medical conflict to be resolved, for both Doctors Greenbaum and Diers agree that petitioner’s problems are of an unconscious act. Therefore the Commission cannot “help” the petitioner to get over his malingering, it being non-existent under the evidence.
+From our examination of the totality of the medical evidence, the following is clear: The petitioner suffers from a conversion reaction; the psychological symptoms are of an unconscious origin and the disabling mental disorder, which has prevented petitioner from working is causally related to the industrial accident. See International Metal Prod. Div. v. Industrial Commission, 2 Ariz.App. 399, 409 P.2d 319 (1965).
+When testimony is uncontroverted, such as in the instant case, the Industrial Commission cannot arbitrarily ignore such evidence and issue an award contrary to the evidence. Cammeron v. Industrial Commission, supra.
+We therefore hold that the award is not supportable by the evidence.
+Award is set aside.
+HAIRE, C. J., Division 1, and EU-BANK, J., concur.
