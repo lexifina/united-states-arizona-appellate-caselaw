@@ -1,0 +1,56 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 933"
+decided: "1969-11-17"
+citations: ["10 Ariz. App. 587", "461 P.2d 95"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOORE DRUG COMPANY, an Arizona corporation, Eleanor H. Watson and S. C. Neukom, a partnership dba Ever Ready Drug Company, Appellants, v. Harold Francis SCHANEMAN and Mary E. Schaneman, his wife, Appellees."]
+source_url: "https://static.case.law/ariz-app/10/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208268
+cites_cases: ["100 Colo. 343", "102 Ariz. 285", "122 P.2d 892", "125 A.2d 612", "182 Pa.Super. 75", "19 Cal.2d 807", "2 Ariz.App. 329", "211 A. 2d 443", "216 F.Supp. 709", "25 Cal.Rptr. 559", "258 F.2d 502", "27 Ariz. 546", "375 P.2d 439", "418 Pa. 319", "58 Cal.2d 601"]
+---
+
+# Moore Drug Co. v. Schaneman
+
+## Majority (JACOBSON, Judge.)
+
+JACOBSON, Judge.
+This appeal raises the question of the sufficiency of the evidence necessary to support a plaintiff’s burden of proof.
+The defendants-appellees, HAROLD FRANCIS SCHANEMAN, and his wife were wholesale tobacco suppliers operating in Maricopa County. Between 1956 and 1964, defendants had been the sole supplier of tobacco products for the plaintiffs-appellants MOORE DRUG COMPANY, an Arizona corporation, and ELEANOR H. WATSON and S. C. NEUKOM, dba EVER READY DRUG COMPANY. For convenience in this opinion the plaintiffs will be designated jointly as “plaintiffs”, or as “Moore Drug” or “Ever Ready Drug” when applicable. Since the actions of defendant HAROLD FRANCIS SCHANEMAN are of primary importance here, the term “defendant” shall be applied to him alone.
+In July of 1964, Moore Drug became suspicious of the accuracy of the accounting of purchases from the defendant and in order to verify these accountings, a trap was set for him. The trap consisted of taking a complete inventory of the cigarettes on hand immediately prior to and immediately following a delivery by the defendant on July 15, 1964. When the inventories were compared to the invoice supplied by defendant as to the number of cartons of cigarettes delivered, it was discovered that there was a shortage in this delivery of 148 cartons of cigarettes. This information was conveyed to Ever Ready Drug, which conducted a similar inventory-invoice comparison and found, on July 20, 1964, that defendant had been short on his delivery to them by 39 cartons of cigarettes. The plaintiffs stopped payment on the two checks given in payment for these short deliveries. Evidence of the shortage at Moore Drug was submitted to the Maricopa County Attorney which resulted in a conviction by a jury of the defendant for a felony on the evidence presented.
+In this civil action, subsequently brought by plaintiffs against defendant, plaintiffs seek recovery for shortages on deliveries of tobacco products over the entire seven-year period during which they dealt with the defendant. The defendant counterclaimed for the value of the deliveries actually made on July 15th and July 20th for which he had not received payment.
+The matter was tried to the Court, the pertinent portions of its findings of fact being as follows:
+“II
+“That on July 15th, 1964, he (defendant) was 148 cartons short in his delivery to Moore Drug Company, an Arizona corporation.
+“That Moore Drug Company, Inc. stopped payment on said check and that there remains unpaid the sum of $239.-40, which is the proper amount of Schaneman’s bill for the cigarettes actually delivered.
+“HI
+“That on July 20th, 1964, Schaneman was 39 cartons of cigarettes short on the delivery to plaintiff Ever Ready Drug Company. * * *
+“That Ever Ready Drug Company stopped payment on said $235.76 check and that the sum of $157.76 is still owed to Schaneman for said delivery.
+“IV
+“That plaintiffs have failed to prove any other specific instances where Schaneman has overcharged them on former deliveries.”
+From these findings the trial court concluded that plaintiffs failed to establish by a preponderance of the evidence other instances of shortages by the defendant and that plaintiffs’ evidence of damages was too speculative to be considered by the court. Judgment was entered dismissing plaintiffs’ complaint and judgment was granted to the defendant on his counterclaim for the unpaid deliveries of July 15th and July 20th.
+Although plaintiffs present several questions for review, their primary contentions deal with whether the criminal conviction of the defendant is conclusive as to the same facts in the civil action and whether plaintiffs sustained their burden of proof as to the fact of being damaged during the entire 7-year period.
+The trial court did not find that the short deliveries of July 15th and July 20th were the result of any fraudulent acts of the defendant. The plaintiffs contend that the defendant’s conviction for a felony-in the criminal action was binding on the trial court as to the fraudulent nature of defendant’s acts. Plaintiffs base their contention on the doctrine of “collateral estoppel,” a facet of the general principle of res judicata more descriptively designated as “issue preclusion by judgment,” A. Vestal, Rationale of Preclusion, 9 St. Louis L.J. 29, 30 (1964), wherein a judgment is “conclusive evidence of some fact or issue common to different causes of action.” 2 Freeman on Judgments, Sec. 671, at 1417 (1925). Collateral estoppel issue preclusion by judgment is applicable where the issue or fact to be litigated was actually litigated in a previous suit, a final judgment was entered, and the party against whom the doctrine is to be invoked had full opportunity to litigate the matter and actually did litigate it, provided such issue or fact was essential to the prior judgment. Di Orio v. City of Scottsdale, 2 Ariz.App. 329, 408 P.2d 849 (1965) ; United States v. United Air Lines, 216 F.Supp. 709 (D.Wash. & D.Nev.1962); Teitclbaum Furs, Inc. v. Dominion Ins. Co., Ltd., 58 Cal.2d 601, 25 Cal.Rptr. 559, 375 P.2d 439 (1962) ; Hyman v. Regenstein, 258 F.2d 502 (5th Cir. 1958); Bernhard v. Bank of America, 19 Cal.2d 807, 122 P.2d 892 (1942).
+While this is the general rule in civil actions, there is a split of authority as to whether a criminal conviction is binding in a subsequent civil action involving the same facts. See 50 C.J.S. Judgments § 754(b) (1947) and cases cited therein. Plaintiffs’ brief, having failed to cite any authority on this point, was not helpful to the court in an attempt to choose between these conflicting authorities. However, we need not decide this issue here for two reasons. First, the trial court found as a fact that plaintiffs had failed to prove any shortages by the defendant prior to July, 1964. Therefore, plaintiffs’ theory that these alleged prior short deliveries were based upon a fraudulent scheme is immaterial. The finding of fraud on the isolated instances of July 15th and July 20th, would not aid the plaintiffs as they did not pay for these deliveries and were therefore not damaged.
+Second, even if the finding of fraud as to the deliveries of July 15th and July 20th, through the doctrine of collateral estoppel, could have aided the plaintiffs, they have completely failed to prove the elements of the criminal conviction necessary to give rise to any doctrine of collateral estoppel even in those jurisdictions allowing the same.
+Plaintiffs’ “proof” of the criminal conviction was, in toto, as follows:
+“Q Now, Mr. Schaneman, have you ever been convicted of a felony?
+“A Yes, I was.
+“Q And where did that take place, please ?
+“A Phoenix, Arizona.
+“Q And when was that?
+“A It seems like about three years ago that’s all, about that.
+“Q And that was by a Jury, is that correct ?
+“A That is correct.
+“MR. RAPP: And that involved the transaction involving Moore Drug Store, is that correct?
+“WITNESS: Yes, it did.”
+There was no offer of proof as to what actual crime defendant was convicted of, nor was the information or indictment, verdict or any other evidence offered in connection with this crime. Even in those states allowing a criminal conviction to be used on the same issues in a subsequent civil action, the record of conviction must be introduced. North River Insurance Co. of City of New York v. Militello, 100 Colo. 343, 67 P.2d 625 (1937); Mineo v. Eureka Security Fire & Marine Insurance Co., 182 Pa.Super. 75, 125 A.2d 612 (1956). This record of conviction should include, as a minimum, the indictment or information which charges the crime, the verdict of the jury or plea of guilty, the judgment and sentence of the Court and any decision, order or judgment of any appellate court. In re Kravitz’ Estate, 418 Pa. 319, 211 A. 2d 443 (1965).
+We therefore find that plaintiffs’ arguments as to “collateral estoppel” are not sustained as applied to the facts before the trial court.
+We are next called upon to determine whether there is sufficient evidence to support the finding of the trial court that the plaintiffs failed to sustain their burden of proof.
+The evidence readily shows that the only occasions when shortages of tobacco sales -by the defendant were actually proved were on July 15, 1964, in connection with Moore Drug and on July 20, 1964, in connection with Ever Ready Drug. The plaintiffs attempt to overcome this obvious lack of proof of other specific occasions of shortages by pointing out that the total cost of tobacco products from subsequent suppliers for comparable periods of time were 50% less than the cost of purchases from the defendant and that the defendant acquired various real and personal property having a value in excess of that which one would expect the defendant to have acquired as evidenced by his federal income tax returns. The plaintiffs did not, however, show the amount of cartons of cigarettes delivered during the comparable periods, nor did they show the actual amount of sales for these periods. Again, plaintiffs’ brief, after recitation of these facts, fails to cite any authority to the Court for the proposition that this limited circumstantial evidence sustains the burden of the plaintiffs to prove the fact of other instances of shortages by a preponderance of the evidence. While such evidence does, in the words of the trial court, raise “a suspicion * * * that Schaneman overcharged plaintiffs in the past,” mere suspicion, innuendo, insinuation and speculation are not substitutes for evidence. In re Estate of Harbor, 102 Ariz. 285, 428 P.2d 662 (1967). While we sympathize with plaintiffs’ problem in obtaining proof of shortages on occasions other than those of July 15 and July 20, 1964, we have reviewed carefully the transcript and exhibits introduced at time of trial and can reach no other conclusion than that reached by the trial court that there was “no specific evidence as to any (other) specific overcharge.”
+Having determined that plaintiffs have failed to meet their initial burden of proof as to the fact of being damaged, we need not determine whether the amount of such damage was proved. Jacobson v. Laurel Canyon Mining Co., 27 Ariz. 546, 234 P. 823 (1925).
+Jugment affirmed.
+EUBANK, P. J., and HAIRE, J., concur.
