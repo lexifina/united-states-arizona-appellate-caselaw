@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1011"
+decided: "1972-01-13"
+citations: ["16 Ariz. App. 171", "492 P.2d 420"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER, C. J., and HOWARD, J., concur."]
+parties: ["BOARD OF TRUSTEES OF MARANA ELEMENTARY SCHOOL, DISTRICT NO. 6, Appellant, v. Thomas WILDERMUTH and Margery A. Wildermuth, husband and wife, Appellees."]
+source_url: "https://static.case.law/ariz-app/16/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1225400
+cites_cases: ["1 A.L.R.2d 338", "1 Ariz.App. 124", "10 Ariz.App. 333", "12 Ariz.App. 179", "62 Ariz. 294"]
+---
+
+# Board of Trustees v. Wildermuth
+
+## Majority (HATHAWAY, Judge.)
+
+HATHAWAY, Judge.
+Margery Wildermuth, a school teacher for the appellant school district, became ill and required hospitalization shortly after undertaking the performance of her teaching contract. She sued the district for breach of contract for not furnishing hospitalization insurance coverage pursuant to the Maraña Public School Teachers’ Salary Schedule. After a trial to the court, sitting without a jury, she was awarded a judgment in the sum of $589.89 plus costs. The school district appeals from that judgment.
+The teaching contract provided that Mrs. Wildermuth would teach for the district during the period from August 29, 1968, through May 31, 1969. In consideration for her services, she was to receive a salary in the sum of $5,406.00 for the nine-month period, payable by-weekly. The contract provided that the teacher was to “ . . . perform the duties of teacher in said school, according to law and the rules legally established for the government thereof. ...” Mrs. Wildermuth takes the position that the “rules” included a pamphlet of rules and regulations furnished at a teachers’ meeting in the end of August. Page 20 of that pamphlet sets forth conditions relating to the teachers’ salary schedule, deals with sick leave, leave for personal business, substitute teaching, and other matters relating to salary. Paragraph 7 provides:
+“The school district will pay, in addition to the above salary schedule, at least sixty dollars per regular employee for approved major medical and hospitalization coverage.”
+It appears clear from the record that the parties intended the rules in question to constitute a part of the agreement. Restatement of Contracts §§ 208(b) (ii) and (iii) (1932), recognize that a memorandum of agreement may consist of several writings, and the signed writing may refer to an unsigned writing. We believe the reference to “rules” in the contract sufficiently incorporates the rules (a part of which being the teachers’ salary schedule) into the contract to make them a part thereof pursuant to the Restatement. Further, this court has held that the “terms” of a teacher’s contract are not necessarily confined to the provisions of the written document which the parties denominate as their “contract.” See Carlson v. School District No. 6 of Maricopa County, 12 Ariz.App. 179, 468 P.2d 944 (1970).
+The trial judge in holding for Mrs. Wildermuth relied solely upon the doctrine of promissory estoppel as set forth in Restatement of Contracts § 90 (1932). We believe such reliance to have been unnecessary as we find the contract taken as a whole to have been sufficiently clear in its terms. Inasmuch, however, as the parties devoted much of their argument to the effect of Section 90, we feel constrained to comment on what appears to be a misapprehension created by a dictum in the case of School District No. 69 of Maricopa County v. Altherr, 10 Ariz.App. 333, 458 P.2d 537 (1969). In that case we said:
+“Furthermore, assuming arguendo a promise had been proven, i. e., a promise to purchase the building, enforcement of the promise could be sought only against the School District, which cannot be bound by estoppel.” 10 Ariz.App. at 340, 458 P.2d at 544.
+Seizing upon this language appellant argues that a state and its agencies are never subject to the doctrine of estoppel. The general rule is that the doctrine of estoppel in pais will not lie against a state or its agencies when acting in its character as a sovereign. Kerby v. State of Arizona, 62 Ariz. 294, 157 P.2d 698 (1945). Further, an ultra vires act of a state official ordinarily will not bind the state through the doctrine of estoppel. Columbia Investment Co. v. M. M. Sundt Construction Co., 1 Ariz.App. 124, 400 P.2d 132 (1965). The above quoted language goes beyond these general rules and is disapproved.
+The final question regards the date at which the insurance coverage was to begin. Appellant’s position is that the coverage was not to begin until the 1st of October. Mrs. Wildermuth admitted that she had been informed during a teachers’ meeting at the end of August that the effective date of the insurance was to be October 1, 1968. She also admitted hav7 ing read a copy of the group insurance contract entered into between the school district and the insurer which stated the effective date of the insurance to be “the day immediately following the date of completion of one month of continuous service.” We find neither of these items to control the effective date of coverage. Neither was a part of the agreement entered into between the school district and Mrs. Wildermuth. We believe the integrated contract was clear in providing coverage beginning the day Mrs. Wildermuth was to assume her teaching duties, August 29, 1968. The school district has the authority to enter into such contracts and both parties are bound by the terms of their contract which neither can unilaterally disregard with impunity. Carlson v. School District No. 6 of Maricopa County, supra. In short, Mrs. Wildermuth contracted to begin teaching on August 29, 1968, and there being no qualifying provision, the school district agreed to provide her with medical and hospitalization coverage as of that date. Had the school district desired to delay the coverage it. would have been a simple matter to expressly, set forth the period of delay in the contract or incorporate by reference the terms of the group policy they had with the insurer.
+We hold that there is a clear showing that the appellee, Mrs. Wildermuth, entered into a contract with the appellant, Maraña Elementary School District No. 6, in which the appellant agreed to provide Mrs. Wildermuth with medical coverage to commence with her assumption of teaching duties and that the appellant failed to provide such coverage thereby breaching its contract.
+Affirmed.
+KRUCKER, C. J., and HOWARD, J., concur.
+. For a general discussion relating to the applicability of estoppel to governmental bodies, see 1 A.L.R.2d 338 (1948).
+. Mrs. Wildermuth’s contract was effective August 29, 1968. She became ill on September 29, 1968, ber illness continuing into October 1968.
