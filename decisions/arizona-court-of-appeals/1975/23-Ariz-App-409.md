@@ -1,0 +1,44 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1757"
+decided: "1975-04-03"
+citations: ["23 Ariz. App. 409", "533 P.2d 717"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY and KRUCKER, JJ„ concur."]
+parties: ["Barbara MATHER, surviving spouse of Robert L. Mather, Deceased, Individually, and on behalf of the surviving children, Robert Mather, Jr., and Sandra Mather, Appellant, v. CATERPILLAR TRACTOR CORPORATION, a Foreign Corporation, and Empire Machinery Corporation, an Arizona Corporation, Appellees."]
+source_url: "https://static.case.law/ariz-app/23/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1240912
+cites_cases: ["10 Ariz.App. 296", "13 Ariz.App. 305", "27 Cal.Rptr. 697", "377 P.2d 897", "4 Cal.3d 379", "482 P.2d 681", "59 Cal.2d 57", "93 Cal.Rptr. 769"]
+---
+
+# Mather v. Caterpillar Tractor Corp.
+
+## Majority (HOWARD, Chief Judge.)
+
+OPINION
+HOWARD, Chief Judge.
+Appellant filed this wrongful death action based on negligence and strict tort liability. She appealed from a judgment entered on a jury verdict in appellees’ favor. Robert Mather, while in the employ of Anaconda Mining Company, was killed when a caterpillar tractor he was driving rolled over and crushed him. Appellant sued the manufacturer of the tractor, Caterpillar Tractor Corporation (Caterpillar) and Empire Machinery Corporation (Empire), the dealer which sold the tractor to Anaconda Mining Company. The Industrial Cab Company, manufacturer of the all-weather protection cab which was installed on the tractor by Empire, was brought into the case as a third party defendant by Empire. The third party complaint was severed from the rest of the case and its determination has been held in abeyance pending the outcome of this appeal.
+Appellant’s theories of liability on negligence were that the appellees were negligent in failing to design roll-over protection for the tractor and in failing to warn of the defective design. Strict liability was premised on the contention that the tractor was in a defective condition unreasonably dangerous to the user because of improper design and because of failure to warn of the design defect.
+After both sides had rested, the court granted appellees’ motion for a directed verdict against appellant on the negligence issues on the ground that since the court was going to submit the case to the jury on the basis of strict liability, the negligence count was superfluous and would tend to confuse the jurors.
+Appellant claims the following errors require reversal: (1) directing a defense verdict on the negligence issue; (2) giving Caterpillar’s Instructions Nos. 7 and 16; (3) ordering appellant’s attorney not to mention “aggravating circumstances” during rebuttal argument to the jury; (4) “fundamental error” in appellees’ closing statements.
+In her brief appellant’s arguments as to the directed verdict and “fundamental error” in closing arguments are intertwined. Although negligence was no longer an issue, appellant claims that appellees argued negligence to the jury. The portion of the transcript cited to us demonstrates that appellees did indeed in their argument refer to matters which were irrelevant in a strict liability case and, further, misquoted the court’s instructions. Appellant did not object to the arguments and having failed to do so is precluded from claiming error on appeal. The court instructed the jury on the legal issues involved and no “fundamental error” was present.
+Appellant claims that since negligence and strict liability are “as different as night and day” she was prejudiced by not having the negligence issue also submitted to the jury. We do not agree.
+Appellant’s underlying theories as to both negligence and strict liability were the same, to-wit, defective design and failure to warn of the defective design. In both instances appellant had to prove that the tractor was in a defective condition and unreasonably dangerous. In order to prove a defective design under the theory of strict liability it was necessary to prove that the injury occurred while the product was being used in a way it was intended to be used, as a result of a defect in design of which the injured person was not aware, that made the product unfit for its intended use. Greenman v. Yuba Power Products, Inc., 59 Cal.2d 57, 27 Cal.Rptr. 697, 377 P.2d 897 (1962). Under the negligence theory a “design defect” arises when the manufacturer has failed to use reasonble care to design its products so as to make it safe for intended uses. Restatement (Second) of Torts § 395 (1965).
+The difference between the two theories of liability in a defective design case is that under strict liability the manufacturer can be held liable despite its best efforts to make or design a safe product. Lunt v. Brady Manufacturing Corp., 13 Ariz.App. 305, 475 P.2d 964 (1970); Wagner v. Coronet Hotel, 10 Ariz.App. 296, 458 P.2d 390 (1969). Furthermore, in a strict liability case, contributory negligence of the plaintiff is not a defense when such negligence consists merely of a failure to discover the defect in the product, or to guard against the possibility of its existence. Restatement (Second) of Torts § 402A comment n; W. Prosser, Handbook of the Law of Torts 670-71 (1971).
+In this case under either strict liability or negligence, the failure to warn of a defective design is mere surplusage since once appellant proved a right to recover for the design defect under either theory, the failure to warn of the design defect did not add to her right to recover.
+In view of the lack of need to show negligence in a strict liability cáse and of the limitations on the defense of contributory negligence appellant did not in this case suffer any prejudice as a result of the court submitting the case to the jury on the theory of strict liability.
+But, argues appellant, because she was proceeding under both theories of liability, matters that would be only relevant in a negligence case were introduced into evidence. Therefore, she contends, the action of the court in subsequently directing a verdict on the issue of negligence resulted in prejudicing her case. We note that after the court granted the directed verdict, appellant did not move to strike any of the allegedly irrelevant matters^ Having failed to do so, she cannot now complain.
+Caterpillar’s Instruction No. 7 which was read to the jury reads as follows:
+“Where a danger is known or obvious to both the user and the seller, a warning is not required.” (Emphasis added)
+Appellant claims that the above instruction is erroneous because it is in the disjunctive rather than the conjunctive. To support her position appellant points to Restatement (Second) of Torts § 402A, comment n which states in part:
+“If the user or consumer discovers the defect and is aware of the danger, and nevertheless proceeds unreasonably to make use of the product and is injured by it, he is barred from recovery.”
+The foregoing quote does not support appellant’s position. When taken in context with the rest of the comment it stands for the proposition that the user or consumer need not search for defects in the product. However, once having discovered a defect and becoming aware of the danger posed by the defect, the user or consumer may be barred in a strict liability case from recovery if such consumer or user nevertheless proceeds unreasonably to make use of the product. It does not, however, stand for the proposition that the defect must be both known and obvious. Appellant’s contention is well answered in W. Prosser, Handbook of the Law of Torts 649 (1971):
+“One limitation commonly placed upon the duty to warn, or for that matter the seller’s entire liability, is that he is not liable for dangers that are known to the user, or are obvious to him, or are so commonly known that it can reasonably be assumed that the user will be familiar with them. Thus there is certainly no usual duty to warn the purchaser that a knife or an axe will cut, a match will take fire, dynamite will explode, or a hammer may smash a finger.” (Emphasis added, footnotes omitted)
+The court did not err in giving Caterpillar’s Instruction No. 7. As for Caterpillar’s Instruction No. 16, appellant did not object to the instruction and cannot therefore complain on appeal.
+Appellant’s complaint that the trial court did not allow her to argue “aggravating circumstances” on the issue of damages is irrelevant in view of the jury’s return of a defense verdict.
+Affirmed.
+HATHAWAY and KRUCKER, JJ„ concur.
+. There are times when the case should go to the jury on the basis of both strict liability and negligence. See, Jiminez v. Sears, Roebuck & Company, 4 Cal.3d 379, 93 Cal.Rptr. 769, 482 P.2d 681 (1971).
