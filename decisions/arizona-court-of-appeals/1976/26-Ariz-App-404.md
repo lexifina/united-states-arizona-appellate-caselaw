@@ -1,0 +1,53 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 1370"
+decided: "1976-05-04"
+citations: ["26 Ariz. App. 404", "549 P.2d 184"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EUBANK, J., concurs."]
+parties: ["Walter D. SCHMITZ, Petitioner, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Ted Walker Trailer Headquarters, Inc., Respondent Employer, State Compensation Fund, Respondent Carrier."]
+source_url: "https://static.case.law/ariz-app/26/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1238742
+cites_cases: ["105 Ariz. 413", "11 Ariz.App. 1", "13 Ariz. App. 103", "22 Ariz.App. 379", "52 Ariz. 50", "546 P.2d 1135", "67 Ariz. 290", "71 Ariz. 338", "89 Ariz. 62", "97 Ariz. 256"]
+---
+
+# Schmitz v. Industrial Commission
+
+## Majority (HAIRE, Chief Judge, Division 1.)
+
+OPINION
+HAIRE, Chief Judge, Division 1.
+On this appeal the petitioner sought review by certiorari of a dismissal of his request for hearing directed to the Industrial Commission’s findings and award for unscheduled permanent partial disability dated September 20, 1973. The September 20th award concluded that the petitioner, although sustaining a 5% unscheduled general physical functional disability, had no reduced earning capacity as a result of the injury which arose out of and in the course of his employment.
+The facts are not in dispute. Prior to the 1969 accident which resulted in the petitioner sustaining a permanent partial disability, the petitioner was earning $2,130.65 per month. Subsequent to the injury, he obtained other employment with a monthly wage of $1,000. Thus, his actual decrease in monthly earnings was $1,130.65.
+An employee who sustains a compensable injury resulting in a permanent partial disability is entitled to receive:
+“ . . . during such disability compensation equal to fifty-five per cent of the difference between his average monthly wages before the accident and the amount which represents his reduced monthly earning capacity resulting from the disability. . . . ” A.R.S. § 23-1044 C (Emphasis added).
+Pursuant to this statutory provision, the starting point in establishing a loss of earning capacity is the determination of the injured workman’s pre-injury “average monthly wage”. However, the Industrial Commission, in computing the workman’s pre-injury average monthly wage is required to, and did in this case, apply A.R. S. § 23-1041 E which establishes a maximum ceiling for average monthly wage determinations.
+Section 23-1041 E reads :
+“Notwithstanding any other provision of this chapter, in computing the average monthly wage there shall be excluded from such computation of amounts of wages or other compensation for services in excess of one thousand dollars per month.”
+Therefore, since petitioner’s pre-injury earnings exceeded $1,000 per month, his pre-injury average monthly wage was set at $1,000. With a $1,000 figure as both petitioner’s average monthly wage and new earning capacity, the Industrial Commission properly concluded that there was no statutory reduction in earning capacity.
+Petitioner, however, argues that loss of earning capacity should be measured by subtracting post-injury earning capacity from true pre-injury wages. The remainder, which under petitioner’s theory would represent true loss of earning capacity, would then be subject to a $1,000 limit when applying A.R.S. § 23-1044 C in arriving at the amount of compensation. By imposing this $1,000 limit, so petitioner’s theory concludes, the present ceiling on compensation which results when § 23-1041 E is combined with 23-1044 C, namely $555 for permanent partial disability (55% of $1,000), would be maintained while providing a more equitable plan of compensation to a larger portion of the working community. In effect this Court is being requested to ignore the plain and unambiguous language of §§ 23-1044 C and 23-1041 E, and set aside the award with instructions to recompute the loss of earning capacity based upon petitioner’s suggested method.
+The statutes in question are clear and unambiguous, and reflect an obvious intent to limit recovery of compensation. Although the $1,000 ceiling on the average monthly wage may have better reflected earning capacities and wages when this statute was originally adopted in 1948, it is not the function of this Court to usurp the power and duties of the legislative branch. Therefore we will not manipulate the statutory scheme in order to alleviate alleged inequities where the statutory meaning is clear.
+“ . . . [I]f the language [of the statute] is plain and unambiguous, if it can be given but one meaning and that meaning does not lead to an impossibility nor an absurdity such as cannot be contemplated the Legislature intended, we follow that meaning, even though the result may be, in our opinion, harsh, unjust or a mistaken policy.” Garrison v. Luke, 52 Ariz. 50, 55-56, 78 P.2d 1120, 1122 (1938). See also, Marquez v. Rapid Harvest Co., 89 Ariz. 62, 358 P.2d 168 (1960).
+While the $1,000 limit may not adequately mirror the earning capacities of today’s workers, the results are at worst harsh. It is difficult to see how it can be said that the imposition of a $1,000 limit on average monthly wage determinations leads to an “absurd result”. A.R.S. § 23-1041 E is an initiative measure adopted by popular vote in 1948, obviously in response to problems typified by the Arizona Supreme Court’s decision in Gene Autry Productions v. Industrial Commission, 67 Ariz. 290, 195 P.2d 143 (1948). The meaning of the initiated measure is so clear that it has been consistently and uniformly applied without question for over 25 years. For illustrative purposes, see Graver Tank & Mfg. Co. v. Industrial Commission, 97 Ariz. 256, 399 P.2d 664 (1965); State Compensation Fund v. Cramer, 13 Ariz. App. 103, 474 P.2d 462 (1970); Stevens v. Industrial Commission, 11 Ariz.App. 1, 461 P.2d 177 (1969). The mere fact that judges of this Court may now feel that, based upon today’s economic conditions the ceiling has been set too low, cannot logically lead to the conclusion that the ceiling is “an absurdity such as cannot be contemplated the legislature [people] intended.” As stated in Padilla v. Industrial Commission, Ariz., 546 P.2d 1135 (1976):
+“The most basic rule of statutory construction is that in construing the legislative language, courts will not enlarge the meaning of simple English words in order to make them conform to their own peculiar sociological and economic views. Kilpatrick v. Superior Court, 105 Ariz. 413, 466 P.2d 18 (1970). And this is true even though the interpretation which the court renders is harsh and un-compassionate. Equally fundamental is the presumption that what the Legislature means, it will say.
+******
+“We note when the statute was first enacted it authorized a payment of $10.-00 per month for the support of dependents of an injured employee, see Laws of 1939, Ch. 28, § 10. And although it is common knowledge that inflation has severely reduced the purchasing power of the dollar since 1939, the Legislature has not increased- the amount from the initial $10.00, even though the statute was amended in 1968, Laws of 1968, 4th S.S., Ch. 6, § 45. We are compelled to conclude that the Legislature for its own reasons has kept the amount at $10.00. We do not presume the prerogative of rewriting a statute which is clear and unambiguous.”
+546 P.2d at 1137
+Such reasoning is equally applicable here, and in view of the clear and unambiguous language, the dissent’s reliance on Whyte v. Industrial Commission, 71 Ariz. 338, 227 P.2d 230 (1951), is obviously misplaced.
+The award is affirmed.
+EUBANK, J., concurs.
+. Being an initiated measure, A.R.S. § 23-1041 E does not violate the provisions of Art. 18, § 8, Arizona Constitution, 1 A.R.S.
+
+## Dissent (NELSON, Presiding Judge)
+
+NELSON, Presiding Judge
+(dissenting).
+While I agree with the majority as to the canons of statutory construction they employ, it is my view that an award which results in no compensation to an injured workman who is admittedly covered by the Workmen’s Compensation Act and who has an undisputed loss of earning capacity of more than 50% as a result of his industrial accident, is in fact “an absurdity such as cannot be contemplated the legislature intended . . . ” Garrison v. Luke, supra.
+I also agree with the majority that petitioner’s mathematical formula of applying A.R.S. § 23-1044 C without reference to the limiting factor of A.R.S. § 23-1041 E until after the subtraction has been accomplished is not a permissible construction. Notwithstanding this position, the Court is not without a remedy for the absurd position in which we find ourselves. In 1951, the Arizona Supreme Court, in its decision in Whyte v. Industrial Commission, 71 Ariz. 338, 227 P.2d 230 (1951) recognized that inflationary factors should be removed from the computation of recoveries for permanent disabilities. In 1974, this Court in Altamirano v. The Industrial Commission of Arizona, 22 Ariz.App. 379, 527 P. 2d 1096 (1974) recognized that the same rationale should be applied to recoveries for temporary partial disabilities.
+The Supreme Court of Arizona recognized in Whyte, supra, that the legislative intent is paramount:
+“The intent of the legislature in using the language under consideration was to furnish the commission with a yardstick by which it could with reasonable accuracy determine the diminished earning capacity of an injured employee and by the use of which no inequalities, inequities or injustices could arise. To do this it, of course, intended that the length of the yardstick to be used should at all times remain constant. It follows then that the legislature did not intend that wages received two, five or ten years after an employee has sustained an injury (depending upon when the injury becomes stationary), regardless of changes in business conditions during those periods where all wages have doubled, due to a business boom, or cut in two due to business depression, should be used by the commission as a part of its formula in ascertaining the loss of his earning capacity.” 71 Ariz. at 344, 227 P.2d at 233.
+While the language of the legislature in question here is free from ambiguity, both this Court and the Arizona Supreme Court have already held that the use of 1948 dollars, or any other year’s value of dollars other than the year in question, i. e., 1951 in Whyte, supra, and 1974 in Altamirano, supra, results in absurd consequences not contemplated by the legislature.
+I would set aside the award.
