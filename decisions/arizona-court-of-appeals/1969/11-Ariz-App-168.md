@@ -1,0 +1,43 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 840"
+decided: "1969-12-22"
+citations: ["11 Ariz. App. 168", "462 P.2d 861"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY and HOWARD, JJ., concur."]
+parties: ["AMERICAN CREDIT BUREAU, INC., Appellant, v. BEL-AIRE INTERIORS, INC., Appellee."]
+source_url: "https://static.case.law/ariz-app/11/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1206352
+cites_cases: ["438 P.2d 345", "5 Ariz. 16", "66 Cal.Rptr. 697", "68 Cal.2d 336"]
+---
+
+# American Credit Bureau, Inc. v. Bel-Aire Interiors, Inc.
+
+## Majority (KRUCKER, Chief Judge.)
+
+KRUCKER, Chief Judge.
+Plaintiff, American Credit Bureau, sued defendant, Bel-Aire Interiors, on an open account of $525.07, the balance remaining on a contract for the sale of a Cadillac automobile assigned to plaintiff by Coulter Cadillac, the vendor. As security for the claim alleged, the car was attached and held for two days, defendant having filed a redelivery bond. Defendant answered and counterclaimed, alleging the car was defective and that the attachment constituted an abuse of process. Judgment was entered decreeing that the plaintiff recover the $525.07 and also granting the counterclaim in the amount of $1,081 to be set off against plaintiff’s award. Plaintiff appeals the judgment in favor of the defendant on its counterclaim.
+Plaintiff raises one issue on appeal, which we break down into two parts for purposes of discussion. In essence it contends (1) that the trial court erred in finding “wrongful attachment” when the debt was found due and owing, and (2) the evidence did not support the judgment entered on the counterclaim.
+The defendant-corporation, through its president, Mr. Sibbio, purchased a 1965 Cadillac sedan for approximately $7,100, giving a trade-in worth approximately $3,-200 and paying the balance within a week with the exception of the amount involved in plaintiff’s claim. Almost immediately, problems with the car became apparent, and the Coulter Cadillac service department was solicited to repair them, apparently without complete success because some of the problems continued. A letter was even received from the manufacturer in Detroit in response to defendant’s phone call, but this failed to solve the problems. All this time, Coulter Cadillac, and, later, the plaintiff kept requesting the balance due, although Mr. Sibbio testified the defendant indicated it would not pay the debt until repairs were completed. He also testified that on about the third phone call from the plaintiff, he was told he must pay up or they would make an example out of him and that the plaintiff’s manager became quite nasty over the phone. In addition, a Coulter Cadillac employee testified that the car, in August, was worth at least $5,500.
+We believe that the first issite raised on this appeal is well taken, but misleading, in that the counterclaim was not an action for “wrongful attachment.” The case law on “wrongful attachment” is confused, and complicated by imprecise characterization of differing causes of action sometimes labeled wrongful attachment and other times, abuse of process or malicious prosecution. As a recent California case points out, there are really four specie of wrongs given judicial remedies:
+“1. levying attachment in an action prosecuted maliciously and without probable cause;
+2. maliciously procuring attachment in a properly instituted action in which the creditor is not entitled to the writ ;
+3. attaching property which is exempt from attachment or possesses a value greatly in excess of the amount of the legitimate claim;
+4. using regularly issued attachment for an improper purpose.” White Lighting Company v. Wolfson, 68 Cal.2d 336, 66 Cal.Rptr. 697, 438 P.2d 345 (1968).
+The first species is truly wrongful attachment, while the last is abuse of process. The other two fall somewhere in between. The first cause of action is not available if the claim is due; the last is unrelated to the validity of the claim. We believe this semantic difficulty has been recognized in Arizona in Palmer v. Breed, 5 Ariz. 16, 43 P. 219 (1896), in which plaintiff alleged defendant levied attachment on property in the amount of $6,500 for a debt of $662, and that it was wantonly done to injure plaintiff and did, in fact, cause damage. The court, recognizing the labeling difficulty, stated:
+“It is not an ordinary suit for maliciously suing out a writ of attachment. The gravamen is the abuse of the writ in seizing more property than was required to satisfy it and costs, for the purpose and with the intent of oppressing and damaging the debtor.” 5 Ariz., at 19, 43 P. at 220.
+The court held the allegations of the complaint stated a cause of action.
+In the instant case, the counterclaim alleged that the automobile was attached for the purpose of hindering, inconveniencing and harassing defendant, that the value of the car was in excess of ten times the value of the claim and that as a result of the attachment, defendant was damaged. We believe a proper cause of action for abuse of process was stated, regardless of plaintiff's claim being determined in its favor.
+Secondly, plaintiff impliedly contends that, in any event, the defendant did not meet its burden of proof. Plaintiff first contends no malice was proven. It argues that because the action on the debt was determined in its favor, this disproves defendant’s claim. However, as previously indicated, abuse of process is a cause of action which arises out of the motivation of an otherwise appropriate use of process and in no way relates to whether or not a valid claim exists. Plaintiff, however, also argues that defendant did not prove malice because the testimony presented did not disprove the affidavit of plaintiff to the contrary.
+The trial judge, acting as the trier of fact, held that defendant was entitled to damages on its counterclaim. Rule 52(a), Rules of Civil Procedure, 16 A.R.S., requires that this court not reverse findings of fact unless clearly erroneous. Here, Mr. Sibbio testified to the following conversation with a man on the phone who identified himself as the plaintiff’s manager:
+“I told him that I felt I wasn’t aware of the fact that I owed them any money, as far as American Credit Bureau, that Coulter Cadillac and I were trying to work this thing out, and that I had related all of the facts that I have stated earlier about calling Detroit and receiving a letter in answer to my call, stating that they were going to correct the car. I said I felt that as soon as these corrections were made, that I had no reason not to pay the bill, and each time he would call, I would repeat myself.
+Finally, he said — about the second or third call, he said he was going to make an example out of me. He got quite— well, I wouldn’t know exactly how to say, but he got quite nasty. That’s the only way I could say it.”
+The manager, on the other hand, denied that any malice or threats, were involved in the telephone conversation. There was also evidence presented which established that the attached car was worth somewhat more than ten times the value of the debt . claimed.
+We realize that the trial court had the opportunity to view the witnesses and evaluate their credibility. However, we do not believe that a nasty tone over the telephone and an attachment of the item sold (the usual item attached) is legally sufficient to prove malice. Nor do we believe that the creditor has the burden to investigate the debtor’s assets in order to find an asset most appropriate, in value to the debt. We realize that the lack of a conditional sales contract here somewhat militates against the creditor’s usual right to pursue the item purchased, but we do not feel that the attached car was so in excess of the debt as to generate an inference of malice.
+Plaintiff also contends that no proof was presented as to the value of the attached automobile. We find that Mr. Leroy Breinholt, the salesman of the car in question, testified that the Cadillac was worth at least $5,500 in August, the time of the attachment. Plaintiff did not deny this, but argues that more proof of liens and/or corporation assets must be presented to establish the real worth of the car. We disagree. Defendant presented testimony establishing the car’s value and potential liens or other encumbrances upon it would not alter its worth.
+The judgment on the counterclaim is reversed.
+HATHAWAY and HOWARD, JJ., concur.
+NOTE: This cause was.decided by the Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
