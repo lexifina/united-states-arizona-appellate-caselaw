@@ -1,0 +1,63 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CR 2"
+decided: "1965-04-06"
+citations: ["1 Ariz. App. 161", "400 P.2d 589"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMERON and DONOFRIO, JJ., concurring."]
+parties: ["The STATE of Arizona, Appellee, v. Norman G. ALLEN, Appellant."]
+source_url: "https://static.case.law/ariz-app/1/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1234482
+cites_cases: ["142 P.2d 435", "41 Ariz. 12", "61 Cal.2d 110", "80 Ariz. 220", "89 Ariz. 129", "94 Ariz. 417"]
+---
+
+# State v. Allen
+
+## Majority (MELVYN T. SHELLEY, Superior Court Judge.)
+
+MELVYN T. SHELLEY, Superior Court Judge.
+The defendant was charged with petty theft occurring on July 15, 1963, with a prior conviction, a felony. Defendant admitted the prior conviction before trial, the trial proceeded on the charge of petty theft, and the defendant was convicted thereof. The facts are as follows:
+The defendant, on July 15, 1963, entered a photo shop in Phoenix, Arizona, looked around for several minutes, then took a camera from the display counter, dropped it into a bag and walked to the front of the shop. A clerk asked if he could help. Defendant asked if they had any Christmas cards in stock. When told there were none, the defendant asked the clerk if he could tell him who carried them. After this conversation, the defendant stood around for a few minutes more and went out the door. The clerk followed and asked if he could see what was in the sack. The defendant refused and walked rapidly away, hut was intercepted by the manager of the shop, at which time the defendant dropped the sack with its contents.
+The clerk noticed nothing unusual about the defendant’s physical appearance, gait or speech. The defendant told the manager to let him go when he was stopped. He admitted taking the camera to the Phoenix policeman who came to investigate.
+The defendant testified that he was an epileptic of several years and a chronic alcoholic, and that he had been drinking on the. date in question, hut the extent thereof was never stated at the trial. On direct examination of the defendant, he testified as follows:
+“Q No, do you recall the incidents which happened on the 15th of July which you heard testimony on here, yesterday?
+“A No, sir, not all of it, I do not.
+“Q Would you describe to us just what you do remember concerning that day?
+“A Weli, sir, there was two witnesses—
+“Q No, what you remember yourself, not what was said here yesterday, but what you recall as what happened on that day, or your own memory.
+“A There was — sir, there was a camera, a camera store. I am guilty,
+I am the one.
+“Q Yes, I realize — ■
+“A That’s— ■
+“Q ■ — that you took the camera from the stand. Now, tell us if you remember anything else besides just merely taking the camera from the stand?
+“A No, sir.”
+However, on cross examination he testified as follows:
+“Q Well, do you recall just a few minutes ago saying that you remember taking the camera from the shelf?
+“A No.
+“Q You don’t recall that? Did you . say that, sir?
+“A No, sir.
+“Q You didn’t say that. Did you say you were guilty, do you recall saying that you were guilty — T am guilty, I am the one ?’
+“A No, sir, I do not recall that.”
+No evidence whatsoever was introduced by the defendant claiming that he actually had an epileptic seizure of any kind on or about the time of the theft, and although he gave on cross examination the symptoms immediately prior to a seizure and those immediately following, he at no time testified to having any of those symptoms on the day in question; and the only other testimony with respect thereto was the hospital records which showed an epileptic seizure about eight days before the day in question, plus some others at more remote times.
+The defendant appealed on three grounds.
+The first ground of appeal is based on the contention that Section 13-673, A.R.S. in the supplement, the same being the shoplifting statute, repeals by implication the crime of petty theft. However, of necessity, the question is actually much broader because shoplifting which is a misdemeanor has no value limits, and therefore if the shoplifting statute impliedly repeals the petty theft statute as to all matters covered by the shoplifting statute, then it repeals by implication not only the crime of petty theft but of grand theft with respect to all acts covered by the shoplifting statute.
+The case of State v. Morf, 80 Ariz. 220, 295 P.2d 842 (1956), states the general rule that repeals by implication are not favored and that repeal by implication will be determined only if the elements of the crime set forth in the later statute are substantially the same as that of a previous general penal statute and are not merely accumulative or auxiliary to the previous statute. Therefore, the first question is whether or not the elements in the crime of shoplifting are substantially the same as the elements in the crime of theft, within the places covered by the shoplifting statute. Said statute reads:
+“A person who wilfully takes possession of any goods, wares or merchandise offered for sale by any wholesale or retail store or other mercantile establishment without the knowledge or consent of the seller, with the intention of converting such goods, wares or merchandise to his own use without having paid the purchase price thereof, is guilty of shoplifting or wilful concealment, punishable upon conviction by a fine of not more than two hundred dollars, imprisonment for not more than thirty days, or by both such fine and imprisonment.” Section 13-673, A.R. S. Supplement.
+The first element in the shoplifting crime is that of wilfully taking possession of any goods, wares or merchandise offered for sale by any wholesale or retail store or mercantile establishment, while the first element in the crime of theft is that of wilful taking. Are these elements substantially the same? In 52 C.J.S. Larceny § 6, page 801, we read:
+“ * * * in order to constitute a taking the prospective thief must have obtained at some particular moment the complete, independent, and absolute possession and control of the thing desired adverse to the rights of the owner therein.”
+From the foregoing it clearly appears to us that the first element of each crime is essentially the same with neither being broader than the other. Both crimes require that it be without the consent of the owner. Also, the case of Davis v. State, 41 Ariz. 12 at pages 15 and 16, 15 P.2d 242 at pages 243, 244 (1932), is the authority for the proposition that there can be a taking without an asportation of the goods taken. Theft requires a taking plus an asportation. We quote from this case as follows:
+“In order to constitute the crime of larceny, a felonious taking alone is not sufficient. It must be followed by an asportation or carrying away sufficient to supersede the possession of the owner for an appreciable time. Hence the crime is not complete until there has been an asportation.”
+The shoplifting statute clearly leaves out the element of asportation. In view of our opinion that the taking possession required in shoplifting is essentially the same as the taking required in theft and is no broader, it is not necessary to the determination of this case to decide whether or not the remaining elements of theft are essentially the same as those of shoplifting. We, therefore, hold that the shoplifting statute did not repeal by implication, any part of the theft statute. Most certainly the legislature did not intend to set up a shoplifting statute with such a limited penalty and to repeal the theft statute within the areas covered by shoplifting regardless of the value of the property taken.
+The second ground of appeal is the contention that the court erred in failing to give defendant’s requested instruction No. 2, having to do with whether or not the defendant was conscious of his acts at the time due to some pre-existing condition. In this connection, defendant cites People v. Freeman (1943), 61 Cal.2d 110, 142 P.2d 435. In that case the defendant testified concerning symptoms he had prior to getting into his automobile, and then expert witnesses were called to testify by hypothetical questions based upon those symptoms, together with the defendant’s previous history of epilepsy. That case is easily distinguishable from the case at bar because here at no time did the defendant testify to any symptoms at any time on the day in question referable to signs of the coming on of such a seizure or of the after effects of such a seizure, although he did state under cross examination what he claimed some of those symptoms were. At no time did he testify that he had an epileptic seizure on the day in question. The foregoing, coupled with his admissions made on direct examination and the testimony with regard to his condition by the state’s witnesses, makes it apparent that the defendant is attempting to rely on a previous history of epilepsy for such a defense. This previous history from the medical record bears out only an occasional seizure the gravity of which is unknown from the evidence, plus medicinal treatment, and the last seizure being at least eight days before the day in question. Defendant claimed he had been subject to epilepsy for several years.
+This court is therefore of the opinion that the lower court properly refused defendant’s requested Instruction No. 2, because an instruction must be based not on a theory but upon something which is backed by some substantial evidence introduced in the case, and such evidence was lacking in this case. State v. Randall, 94 Ariz. 417, 419-20, 385 P.2d 709, 710 (1963).
+In this connection, the lower court instructed the jury in relation to the evidence bearing on the mental and nervous condition of the defendant and told them that they could take it into consideration in connection with their determination as to the existence or non-existence of the intent necessary to be proved in the crime of theft.
+The third ground of appeal alleges prejudicial error on the part of the prosecutor in the arguments to the jury. The first alleged error has to do with the county attorney’s statement: “This is an accomplished thief.” However, in studying the transcript, it appears that the county attorney was referring to the various things which the defendant did while in the store and at the time of his arrest, and with reference to these things made the statement, “This is an accomplished thief.” Thereafter he continued mentioning certain things which the defendant did as revealed by the evidence.
+Although perhaps the term “accomplished thief” should not have been used, still in view of the context in which it was used, this court feels that it was not prejudicial error, especially in view of the wide latitude given to attorneys in their arguments, particularly in discussing the evidence, the possible facts the jury may find, and the reasonable inferences that may be drawn therefrom, State v. Hilliard, 89 Ariz. 129, 359 P.2d 66 (1961); and also in view of the fact that the jury was specifically told by the prosecuting attorney at the start of his argument that what he said “is not evidence, it is argument. It is the evidence as I see it and as I construe it.” Then after the arguments the court specifically instructed the jury with respect to the arguments of counsel: “As they have advised you, their arguments are not evidence.”
+It is, therefore, the opinion of the court that there was no prejudicial error committed with respect to this argument. With respect to the other complaints concerning the County Attorney’s arguments, we only state that they were not prejudicial but were in the area of the latitude given to attorneys in making their argument to the jury; and, a part of which were necessary in responding to the arguments of the defense counsel. For instance, defense counsel told the jury that they could consider the question of epilepsy from their own experience, and then complains of the state’s counsel doing much the same thing by way of reply.
+We, therefore, hold that no prejudicial error was committed by the prosecuting attorney’s arguments to the jury in this case.
+The verdict of the jury and the judgment of the lower court is therefore affirmed.
+CAMERON and DONOFRIO, JJ., concurring.
+NOTE: HENRY S. STEVENS, C. J., having requested that he be relieved from consideration of this matter, Judge MEL-VYN T. SHELLEY was called to sit in his stead and participate in the determination of this decision.
