@@ -1,0 +1,63 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 697"
+decided: "1972-06-29"
+citations: ["17 Ariz. App. 454", "498 P.2d 528"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CASE and DONOFRIO, JJ., concur-"]
+parties: ["Mary R. GLOVER, Petitioner, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Semcor Division of Components, Respondent Employer, American Motorists Insurance Company, Respondent Carrier."]
+source_url: "https://static.case.law/ariz-app/17/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1228533
+---
+
+# Glover v. Industrial Commission
+
+## Majority (STEVENS, Presiding Judge.)
+
+STEVENS, Presiding Judge.
+The basic question before the Court is whether there was an abuse of discretion on the part of the hearing officer when he denied a motion to continue the hearing for the purpose of securing the testimony of a psychiatrist who had only recently examined the petitioner.
+Mary R. Glover, herein referred to as the petitioner, sustained an industrial related injury to her left elbow and to her back when she slipped and fell on 24 November 1969. From time to time thereafter she attempted to return to her employment. She urged that pain prevented her from performing the employment responsibilities which she had performed prior to her injury. A number of medical doctors examined her and they could not find the presence of any physical functional residuals. She came under the care of Sam C. Colachis, Jr., M. D., a specialist in physical medicine and rehabilitation.
+Without setting forth the detail of the procedural steps, it was on 10 February 1971 that the petitioner filed a formal request for a hearing naming in the request as the doctors she desired to have subpoenaed Thomas E. Cosmas, M. D., Joel D. Fisler, M. D., and Freeman P. Fountain, M. D. This request was signed by Mr. Jack Levine of the law firm of Langerman, Begam and Lewis. A copy of the request was mailed to the respondent employer and to the respondent carrier on 17 February 1971. The hearing date was set for 11 May 1971 and notice thereof was given on 26 February 1971.
+By letter dated 31 March 1971 the hearing officer advised petitioner’s counsel that the requested subpoenas would not be issued for the doctors since no statement had been presented setting forth the substance of their testimony. This is a discretionary decision granted to the hearing officer by Industrial Commission Rule 41(a). All references to rules in this opinion are to the Rules of The Industrial Commission. Petitioner’s counsel raised no objection to this determination and then requested a subpoena for Dr. Colachis, and later two reports by Dr. Colachis were filed. The subpoena was issued.
+On 11 May, the date scheduled for the hearing, upon a verbal request of the carrier’s counsel, the hearing was rescheduled for 27 May. On the 13th the carrier’s counsel wrote to the hearing officer stating that he had “received the file from the defendant insurance company on this date” and he forwarded with the letter reports from James D. Alway, M. D., dated 2 July 1970; from Leo L. Tuveson, M. D., dated 2 December 1970; from Thomas E. Cosmas, M. D., dated 30 September 1970; and from Joel D. Fisler, M. D., dated 27 July 1970. The letter requested that subpoenas be issued for Drs. Alway, Tuveson and Cosmas. The hearing officer received the letter on 14 May and it is marked “rush” in longhand. The subpoenas were issued. Rule 41 states in part:
+“Rule 41. Witnesses; Requests for
+“(a) Any party desiring issuance of a subpoena to compel the appearance of a witness at a hearing shall make such request in writing to the presiding hearing officer * * *. If the witness is an expert medical witness, the request shall be filed at least twenty (20) days prior to the date of the scheduled hearing. If requested by the presiding hearing officer, the party requesting that the subpoena be issued shall present a written statement stating the substance of the testimony expected of the witness. If such testimony appears to be material and necessary, the presiding hearing officer shall issue the subpoena requested.
+“(b) There shall be no right to a continued hearing on the failure of a subpoenaed witness to appear unless timely request for subpoena has been made in accordance with the provisions of subsection (a) hereof. The presiding hearing officer may, however, in his discretion grant a continued hearing based upon failure of the subpoenaed witness to appear on good cause shown.”
+Rule 55 (a) is as follows:
+“Rule 55. Reports Filed; Right to Cross-Examine
+“(a) All documents, reports, instruments and other written matters upon which a party wishes to rely shall be filed with the Commission at least fifteen (15) days prior to the date of a scheduled hearing. Copies shall be sent to all other interested parties and their authorized rep res entati ves.”
+The file is silent as to any objection by the petitioner to the resetting.
+The hearing was held on Thursday, 27 May 1971, the petitioner being represented at the hearing by Mr. Frank Lewis of the same law firm. Drs. Colachis, Tuveson and Alway testified. They all agreed that there were no physical functional residuals which would prevent the petitioner from returning to her employment. Dr. Colachis expressed the opinion that the petitioner was suffering from a functional overlay which prevented her gainful employment. He was unable to express a medical opinion as to the causal relationship between her functional overlay and the industrial episode of 24 November 1969 or as to whether the functional overlay was consciously or unconsciously ’ motivated. There were indications that there was a causal relationship present. Dr. Tuveson expressed the opinion that the petitioner’s problems were probably emotional problems rather than organic problems and that functional overlay problems were not within his practice. Dr. Alway testified that the petitioner’s complaints could possibly be of the functional overlay variety, but he did not believe that the petitioner needed the help of a psychiatrist.
+We quote a portion of the petitioner’s testimony as follows:
+“BY MR. LEWIS:
+“Q Have you seen any doctor in the last week or so ?
+“A I saw Dr. Haeussler.
+“Q Who suggested that you see Dr. Haeussler ?
+“A Mr. Levy.
+"Q Also Dr. Colachis ?
+“A Dr. Colachis also.
+“Q And that was on Saturday, the 22nd?
+“A The 22nd, yes.”
+The hearing was being conducted on Thursday the 27th of May. Petitioner’s counsel had not received a report from Dr. Haeuss-ler, if one had been prepared, and he could not avow as to the substance of the testimony which could be expected from the doctor. He did avow that he had attempted to obtain the doctor’s presence at the hearing but the doctor’s schedule would not permit his attendance. There is no indication of a purposeful delay in securing the psychiatric examination.
+At the conclusion of the presentation of the evidence the petitioner sought a continuation of the hearing for a week or two to secure -the testimony of Dr. Haeussler. In his request for the continuance of the hearing, counsel stated that he had not sought the continuance of the entire hearing prior to the commencement thereof for to do so would have upset the schedules of the doctors who were already under subpoena. The carrier objected to a continuance and advised that if there was to be a continuance of the hearing for the testimony of Dr. Haeussler, the carrier then desired to secure an independent psychiatric examination. The petitioner did not comment one way or the other with reference to this statement. The hearing officer referred to Rule 56 which is as follows:
+“Rule 56. Continuance of Hearing
+“(a) The granting of a continuance of a hearing shall be discretionary with the presiding hearing officer.
+“(b) If at the conclusion of a hearing held before a hearing officer, any interested party desires a further hearing for the purpose of introducing further evidence, the party shall state specifically and in detail the nature and substance of the evidence desired to be produced, the names and addresses of the witnesses and the reason why the party was unable to produce such evidence and such witnesses at the time of the hearing. If it appears to the presiding hearing officer that with the exercise of due diligence, such evidence or witness could have been produced, or that such evidence or testimony would be cumulative, immaterial or unnecessary, he may deny the request for a continued hearing. He may, on his own motion, continue a hearing and order such further examinations or investigations as, in his discretion, appear warranted.”
+The hearing officer was critical of petitioner’s counsel, urging a lack of preparation. The record is silent as to when it finally became apparent that a psychiatric evaluation was essential to the full presentation of the petitioner’s situation. The 27 May 1971 hearing ended with the motion for a continuance being taken under advisement.
+On 14 June the hearing officer denied the motion for a continuance and on 16 June he entered his award which found no physical or mental residuals causally related to the industrial episode.
+The petitioner sought a Commission review and the Commission affirmed the hearing officer. The matter was brought to this Court by a timely petition.
+There is no provision for making a record in support of the petitioner’s position that the hearing officer abused his discretion. Once the hearing has ended, new evidence may not be presented. Rule 60(a) provides :
+“(a) Within the thirty (30) days after entry of an award, whether or not any Motion for Reconsideration has been filed as provided in Rule 59, and whether or not the Motion for Reconsideration has been denied, a hearing officer shall have the authority to amend, rescind or alter the award.”
+But there is no provision for a method to be used to persuade the hearing officer to take these steps. Rule 59 in relation to reconsideration by the hearing officer does not permit new evidence.
+Under the circumstances this Court has no way of knowing what Dr. Haeussler’s report would be or what testimony could be anticipated. We suggest that in the future, under similar circumstances a report should be secured, it should be served on opposing counsel and it should be filed with the hearing officer not for the purpose of being considered as evidence but to enable hearing officers to better exercise the discretion granted by Rule 60(a) and to enable this Court to better assess the situation.
+In our opinion the relaxation of the rules in favor of the carrier calls for some concessions to the petitioner under the circumstances which have been herein set forth. In our opinion the hearing officer abused his discretion in not granting a continuance to the petitioner even with the privilege of a psychiatric examination on behalf of the carrier. We quote A.R. S. § 23-941, subsec. F:
+“F. Except as otherwise provided in this" section and rules of procedure established-by the commission, the hearing officer is-not bound by common law or statutory' rules of evidence or by technical or for-' mal rules of procedure and may conduct' the hearing in any manner that will achieve substantial justice.” (Emphasis added.)
+Before concluding this opinion there is a matter which does not go to the merits of the case but to the completeness of the record which we believe deserves comment. When Dr. Alway concluded his testimony the carrier’s attorney, without further identification of the subject matter, stated:
+“I would like to offer his report info evidence.”
+The hearing officer indicated that the document had been marked for identification but we do not find it in the file. Apparently the document was a report of Dr. A1--way’s 19 May 1971 examination of the' petitioner. The objection to the report being-received in evidence was sustained. The' hearing officer and counsel knew that to' which they were referring. This Court does not know. The record should be more precise.
+By reason of the hearing officer’s abuse of discretion in failing to allow a reasonable continuance relative to the possible receipt of the testimony of the examining psychiatrist, it is our opinion substantial' justice was not done and the award of the hearing officer as well as the award of the Commission are hereby set aside.
+CASE and DONOFRIO, JJ., concur-
+. The Court assumes that the name “Mr. Levy” is an error in transcription and that the witness stated “Mr. Levine.”
