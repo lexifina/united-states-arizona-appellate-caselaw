@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1440"
+decided: "1971-07-29"
+citations: ["15 Ariz. App. 181", "487 P.2d 402"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, P. J., and EUBANK, J., concur."]
+parties: ["Charles Allen OWENS, Appellant, v. ALLIED MUTUAL INSURANCE COMPANY, Appellee."]
+source_url: "https://static.case.law/ariz-app/15/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1223186
+cites_cases: ["104 Ariz. 544", "15 Ariz.App. 42", "206 So.2d 244", "216 So.2d 875", "238 So.2d 673", "266 N.E.2d 146"]
+---
+
+# Owens v. Allied Mutual Insurance
+
+## Majority (HAIRE, Judge.)
+
+HAIRE, Judge.
+On this appeal from the trial court’s granting of the defendant insurance company’s motion for summary judgment, the only question raised by the plaintiff-appellant concerns the validity of a policy provision relating to uninsured motorist coverage.
+The admitted facts show that while plaintiff was driving his uninsured 1962 Studebaker automobile, he was injured in a collision with an automobile driven by an uninsured motorist. At the time plaintiff received his injuries, he owned not only the uninsured 1962 Studebaker, but also a 1963 Chevrolet which was covered by a motor vehicle liability policy issued by the defendant-appellee insurance company. It was stipulated that the 1962 Studebaker was not an insured automobile under this policy. The policy covering the 1963 Chevrolet did contain provisions for protection against uninsured motorists, and plaintiff claims that this protection extends to and covers him not only when he might be driving the admittedly insured 1963 Chevrolet, but also when driving his uninsured 1962 Studebaker. The defendant insurance company relies upon an exclusion contained in the policy which expressly provides that the uninsured motorist protection afforded by the policy does not apply “to bodily injury to an insured while occupying an automobile (other than the insured automobile) owned by the insured”. Plaintiff admits that if the above-quoted exclusionary provision is valid, then there is no coverage and the trial court correctly entered judgment for the defendant insurance company. Plaintiff’s sole contention is that the exclusion is not valid because A.R.S. § 20-259.01 mandates uninsured motorist coverage for the named insured even though he might he driving an unin-, sured self-owned automobile.
+Plaintiff has not cited any decision, nor has this Court discovered any which would support plaintiff in this contention. The decision of Division 2 of this Court in Farmers Insurance Exchange v. Smith, 15 Ariz.App. 42, 485 P.2d 866 (filed June 15, 1971) involves a practically identical fact situation, and coverage there was denied.
+However, that decision is of little help in our consideration of plaintiff’s contention because in that case both the parties and the Court ápparently assumed, without discussion, that' the statute did not require coverage unless the second owned automobile‘could somehow achieve the status of an insured-vehicle under the policy covering the other automobile.
+Several other jurisdictions have considered the contention urged by plaintiff, and under practically identical statutory provisions have held that their statutes did not mandate cóveragé when the named insured was, at the time of injury, driving a self-owned uninsured vehicle. See Rushing v. Allstate Insurance Co., 216 So.2d 875 (La.App.1968); National Union Indemnity Co. v. Hodges, 238 So.2d 673 (Fla.Dist.Ct. App.1970); McElyea v. Safeway Insurance Co., 266 N.E.2d 146 (Ill.App.1970). We concur with the result reached in these decisions. We can see nothing in the statute which requires an insurer to extend uninsured motorist protection under one policy to a policyholder who has elected not to insure another vehicle owned by him, so as to give coverage at such times as he might be driving that uninsured vehicle. Any other interpretation would allow an insured to purchase one liability policy on one owned vehicle and claim uninsured motorist coverage thereunder for himself and others while driving any number of other uninsured automobiles also owned by him.
+“On and after January 1, 1966, no automobile liability or motor vehicle liability policy insuring against loss resulting from liability imposed by law for bodily injury or death suffered by any person arising out of the ownership, maintenance or use of a motor vehicle, shall be delivered or issued for delivery' in,this state, with respect to any motor vehicle registered or principally garaged in this state, unless coverage is providéd therein or supplemental thereto, in limits for bodily injury or death set forth in ■ § 28-1142, under provisions filed with and approved by the insurance director, for the protection of persons-insured thereunder who are legally entitled to recover damages from owners or. operators of uninsured motor vehicles because of bodily injury, sickness or disease, including death, resulting therefrom.”
+The exclusionary clause as applied to the facts here involved is reasonable and has been filed with and approved by the Insurance Director as required by A.R.S. § 20-259.01. Plaintiff urges that an affirmance of the trial court’s judgment would result in excluding uninsured' motorist coverage for a named insured, for example, when the named insured was not driving any motor vehicle but ráther was injured by an-uninsured motorist while walking down the street. We express no opinion as to-whether the statute mandates coverage under such circumstances, but .we do wish to emphasize that our opinion here is limited to the fact situation before the Court and the particular policy considerations inherent in that fact situation.
+The trial court’s judgment is affirmed.
+JACOBSON, P. J., and EUBANK, J., concur.
+. In pertinent part, A.R.S. § 20-259.01 provides, as. follows :
+. Cf. Travelers Indem. Co. v. Powell, 206 So.2d 244 (Fla.Dist.Ct.App.1968).
+. See New York Underwriters Ins. Co. v. Superior Court, 104 Ariz. 544, 456 P.2914 (1969). In that case the purchaser of a policy attempted, as did plaintiff in this litigation, to argue that an exclusion against his own recovery for bodily injury was void. The Arizona Supreme Court held:
+“In light of that stated purpose, the question is whether or .not the statute is intended to restrict the privilege of an individual to contract with his insurance carrier to exclude his own personal recovcry under the policy- terms in the event of his own injury. We read nothing in the statute which states such a restrict tion nor do we find ourselves compelled by public policy to so construe this statute.” 104 Ariz. at 545, 456 P.2d at 915.
