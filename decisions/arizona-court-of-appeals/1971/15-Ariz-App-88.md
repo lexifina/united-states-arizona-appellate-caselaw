@@ -1,0 +1,27 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1216"
+decided: "1971-06-24"
+citations: ["15 Ariz. App. 88", "486 P.2d 200"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JACOBSON, P. J., and HAIRE, J., concur."]
+parties: ["Joseph E. TARNOFF, Appellant, v. Jack C. JONES, Appellee."]
+source_url: "https://static.case.law/ariz-app/15/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1223160
+cites_cases: ["10 Ariz.App. 203", "320 F.2d 90", "38 A.L.R.2d 377", "90 Ariz. 42"]
+---
+
+# Tarnoff v. Jones
+
+## Majority (EUBANK, Judge.)
+
+EUBANK, Judge.
+This is an appeal from the trial court’s denial of appellant-defendant’s Rule 60(c), 16 A.R.S. motion to vacate a default judgment entered against appellant-defendant in the trial court. It was appellant’s contention in both the trial court and in this Court that the default judgment was void for the reason, among others, that the judgment, differed in kind or exceeded in amount that prayed for in the complaint’s demand for judgment, and thus was in violation of Rule 54(d). However, in view of matters belatedly brought to our attention by appellant in his reply brief, we do not find it necessary to rule upon the contentions urged by appellant, since in our opinion this Court is without jurisdiction and must dismiss the appeal.
+In appellant’s reply brief, in connection with appellant’s argument concerning the possible res judicata effect of an Illinois hearing and judgment based upon the prior Arizona default judgment which is the subject matter of this appeal, it was first brought to this Court’s. attention that the appeal from the default judgment was not a final judgment for the reason that the action involved another defendant whose liability had not been disposed of at the time of the entry of the default judgment against the appellant, nor was there any subsequent disposition of the: claim against this other defendant prior to the initiation of this appeal. Under the provisions of Rule 54(b), Rules of Ciyil Procedure, in order that a judgment rendered under such circumstances might have that degree of finality necessary to support an appeal, there must be an express determination by the trial court that there is no just reason for delay and an express direction for the entry of judgment. Here, neither the record nor the judgment contains such a determination and direction. There can be no question but that Rule 54(b) applies to default judgments. See Stevens v. Mehagian’s Home Furnishings, Inc., 90 Ariz. 42, 365 P.2d 208 (1961); Stevenson v. Celaya, 10 Ariz.App. 203, 457 P.2d 743 (1969) ; Davis v. National Mortgage Co., (2nd Cir. 1963), 320 F.2d 90. See also Anno. 38 A.L.R.2d 377, (Operation and Effect of F.C.P. Rule 54(b)) and the recent cases cited in A.L.R.2d Later Case Service.
+In view of the time which has passed and the expense involved in presenting this appeal to this Court, we are somewhat reluctant to dismiss the appeal without a consideration of the merits, but we are of the opinion that under the circumstances where our lack of jurisdiction is so clearly presented, we have no other alternative. Accordingly, the appeal is dismissed. If after remand of this matter to the Superior Court, proper application is made to the Superior Court, and that Court, in its discretion, makes the express determination and direction contemplated by Rule 54(b) and a new judgment is then entered, or some other action is taken by the parties which vests the judgment here involved with that degree of finality required in order to make it appealable, then upon a timely appeal thereafter taken, the new appeal may be heard upon the abstract of record, the present record, with proper supplementation, and upon the present briefs, if the parties are so minded. In contemplation of the possibility that the parties may desire to proceed as above indicated, we are instructing the Clerk of this Court to retain the record on this appeal for a period of 120 days subsequent to the time that the mandate of this Court issues. However, nothing we. say here should be deemed as a limitation on the trial''court ‘or.the parties to proceed at their discretion, under the applicable rules and law. At the expiration of said 120-day period, the record will be returned to the Superior Court unless there has been filed with this Court notice or motion to the effect that the parties desire to proceed as indicated above.
+The appeal is dismissed.
+JACOBSON, P. J., and HAIRE, J., concur.
+. “54(b) Judgment upon multiple claims or involving multiple parties. When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party-claim, or when multiple parties are involved, the court may direct the entry of final judgment as to one or more but fewer than all of the claims or parties only upon an express determination that there is no just reason for delay and upon an express direction for the entry of judgment. In the absence of such determination and direction, any order or other form of decision, however designated, which adjudicates fewer than all the claims or the rights and liabilities of fewer than all the parties shall not terminate the action as to any of the claims or parties, and the order or other form of decision is subject to revision at any time before the entry of judgment adjudicating all the claims and the rights and liabilities of all the parties.”
