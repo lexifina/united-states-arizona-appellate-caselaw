@@ -1,0 +1,34 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 619"
+decided: "1969-01-23"
+citations: ["9 Ariz. App. 94", "449 P.2d 628"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam THOMAS, Appellant, v. Leonard J. LUNDGREN and Edward Maurer, co-partners, dba Lundgren & Maurer, Appellees."]
+source_url: "https://static.case.law/ariz-app/9/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204041
+---
+
+# Thomas v. Lundgren
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+Defendant appeals from judgment rendered in plaintiffs’ favor in an action based on a promissory note. The trial was to the court sitting without a jury.
+Plaintiffs are an architectural partnership with its offices in Austin, Texas, and which was licensed to practice architecture in twelve states. Plaintiffs were not licensed to practice architecture in the State of Arizona, nor have they ever been licensed to do so. Prior to February of 1963, plaintiffs entered into an agreement with Arizona Innkeepers, Inc., and by its terms plaintiffs were to provide drawings and specifications for the construction of a motel in Flagstaff, Arizona. Under this agreement, plaintiffs were to provide construction supervision of this job. After a time it became apparent that Arizona Innkeepers would not be able to obtain the necessary financing for building the motel, and it was eventually agreed that plaintiffs would be paid $8,000 as compensation for their services. $4,000 of this had been paid by Arizona Innkeepers as of February, 1963, and it was during that month that an agreement was made between plaintiffs and defendant Thomas. This agreement provided that defendant Thomas was to receive from plaintiffs the drawings and specifications which had been prepared for Arizona Innkeepers, and which were then in existence, and the plaintiffs’ consideration for this transfer was to be $4,000. Defendant executed a note to plaintiffs in that amount, and $1,500 thereunder has been paid. Plaintiffs’ suit was for the $2,500 balance.
+The defense interposed by defendant Thomas was that the plaintiffs, in performance of their contract, had engaged in the illegal practice of architecture in the State of Arizona, and that therefore plaintiffs could not maintain an action to recover compensation for their unlawful activities. The trial court found that the contract between plaintiffs and defendant Thomas was not one calling for plaintiffs to perform architectural services in that the agreement between these parties merely called for the delivery of an existing set of plans at a certain price. The record clearly sustains this version of the agreement, and it is shown that, unlike the agreement with Arizona Innkeepers, plaintiffs were not to engage in any post-delivery construction supervision under their agreement with Thomas.
+The issues before this court are:
+(1) Was the sale of the existing plans and specifications to Thomas sufficient to bring plaintiffs within A.R.S. § 32-101, subsection (2), 10 A.R.S., so as to make the sale illegal unless plaintiffs were holders of a certificate of registration from the Arizona Board of Technical Registration ?
+(2) If the answer to (1) is yes, then does the failure of plaintiffs to procure such a certificate preclude their recovery on an obligation, the consideration for which was the delivery of the aforesaid plans and specifications ?
+Our legislature has defined “architectural practice” as:
+“* * * [A]ny service or creative work requiring architectural education, training and experience, and the application of the mathematical and physical sciences and the principles of architecture and architectural engineering to such professional services or creative work as consultation, evaluation, planning, design and supervision of construction for the purpose of assuring compliance with specifications and design, in connection with any building, or site development. A person shall be deemed to practice or offer to practice architecture who in any manner represents himself to be an architect, or holds himself out as able to perform any architectural service or other services recognized by educational authorities as architecture.” A.R.S. § 32-101, subsection (2), 10 A.R.S. (as amended).
+One who desires to practice the profession of architecture must first secure a certificate of registration, A.R.S. § 32-121, and one who offers to practice, or practices, or holds himself out as qualified to practice architecture without being the holder of a certificate of registration is guilty of a misdemeanor. A.R.S. § 32-145.
+It may be that plaintiffs’ original contract with Arizona Innkeepers was an agreement made illegal by the provisions of the foregoing licensing statutes, but such a determination will not be necessary in this appeal. The subject matter of this cause is the agreement between plaintiffs and defendant, and before defendant may assert illegality in his behalf it must be that this agreement was one requiring plaintiffs to engage in illegal conduct. By their agreement with defendant, plaintiffs agreed to deliver an existing set of plans and specifications for the construction of a motel in Flagstaff, Arizona. The defendant had seen these plans and it was his understanding that the plaintiffs were to deliver these plans and to do nothing more in connection with the construction of this motel. Plaintiffs likewise understood that the agreement was to deliver plans which had already been drawn, and that no further work on this project was to be performed by them.
+Consequently, we are of the opinion that plaintiffs’ performance under the terms of their agreement with defendant Thomas was not one calling for architectural services, within the meaning of A.R.S. § 32-101, subsection (2), supra. The contract did not involve any “service or creative work”, or the “application of the mathematical and physical sciences and the principles of architecture”, nor did it involve “consultation, evaluation, planning, design and supervision of construction.” Plaintiffs instead agreed only to deliver plans which had been already drawn for another.
+It is not the intention of this court that our holding today shall be interpreted as an endorsement of any subterfuge created for the purpose of avoiding the Technical Registration laws of our State. We find not a scintilla in the record to indicate otherwise than that the transactions in the instant case were bona fide agreements to accomplish their purported purposes.
+Having found no error in the disposition and result in the trial court, the judgment shall be affirmed.
+MOLLOY, C. J., and HATHAWAY, J., concur.
+NOTE: This cause was decided by the Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
