@@ -1,0 +1,52 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 1"
+decided: "1965-03-02"
+citations: ["1 Ariz. App. 73", "399 P.2d 694"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS, C. J., and DONOFRIO, J., concur."]
+parties: ["Major MEAD, Petitioner, v. AMERICAN SMELTING & REFINING COMPANY, Respondent-Employer, and The Industrial Commission of Arizona, Respondent Insurance Carrier."]
+source_url: "https://static.case.law/ariz-app/1/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1234452
+cites_cases: ["1 Ariz.App. 12", "209 Tenn. 106", "377 S.W.2d 947", "43 Ariz. 50", "73 Ariz. 86", "89 Ariz. 244", "90 Ariz. 32", "96 Ariz. 88"]
+---
+
+# Mead v. American Smelting & Refining Co.
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+Petitioner, Major Mead, seeks, by certiorari, to set aside the Industrial Commission’s “Second Amended . Findings and Award for’ Non-Compensable1 Claim”, dated 31 January, 1963. The facts, so far as they are pertinent to this matter, are as follows:
+Petitioner was hired by the respondent, American Smelting and Refining Company in January, 1955. At that time, he was given a physical examination including x-rays which were negative as far as any chest problems were concerned. In January, 1956, he experienced some coughing on the job and was seen by a doctor and returned to the job. In March of 1956, he was seen by Doctor Goss at the Tucson Clinic. Petitioner Mead’s testimony indicated that Dr. Goss told him he had emphysema of the lung and bronchial asthma. Petitioner’s exhibit #6 is a slip from Dr. Goss as follows:
+"TUCSON CLINIC
+;Jí jJi ?|s sjr ;¡<
+For Major Mead Address Silverbell,
+Arizona ■ Date 3/19/56
+Due to the fact that Major Mead has an acute Bronchitis which is aggravating his asthma, I believe it would be better if he were given a job not associated with dust and moisture until he recovers from the acute phase of his illness.
+H. Goss M.D.”
+In any event, his condition was not at that time considered disabling and he was transferred by the respondent to another job with presumably less dust. Despite the transfer, he “passed out” while at work on 14 April, 1956, and was taken to the Veterans Hospital in Tucson, where he remained for about two weeks. His condition was diagnosed by the Veterans Hospital Doctor as “episodal bronchial asthma and anxiety reaction.” He was advised that occupations that “involve inhaling certain fumes or dust clouds probably will at times cause recurrence of these two type symptoms.” There was no indication by the doctors of emphysema at this time.
+■ Once again petitioner returned to work. During this period he was given a re-check examination by a company physician who stated that petitioner had “acute asthma made worse by dust.” This examination, including x-rays, was made 17 July, 1956.
+In June, 1957, he was hospitalized for “bronchial asthma and emphysema.”
+In July, 1957, he returned to work on the labor gang outside the mill and was constantly under the care of a doctor until January, 1958, when his job terminated for inability to carry on his work.
+On 29 April, 1958, petitioner filed his claim for compensation which was denied. Timely protest was made and in July, 1961r the Supreme Court of Arizona issued its opinion setting aside the award, Mead v. American Smelting And Refining Company, 90 Ariz. 32, 363 P.2d 930 (1961). The-Arizona Supreme Court stated in this case, at page 37, 363 P.2d at page 933, as follows r
+“that the employment setting was definitely a' causative factor in producing-petitioner’s condition, compels the conclusion that there existed the requisite-legal causal relationship between the illness and the conditions under which petitioner performed his work.”
+From 17 July, 1961, until January, 1963, the Industrial Commission failed to act on this matter. Finally on 24 January, 1963, petitioner filed in the Arizona Supreme Court his “Petition to Require Obedience to-Mandate.” On 31 January, 1963, the Industrial Commission of Arizona filed its “Second Amended Findings and Award for Non-Compensable Claim.” The award' denied coverage on three grounds: (1) that the emphysema was not covered by the Arizona Occupational Disease Disability Law, (2) that the claimant did not sustain a personal injury by accident as defined by A.R.S. § 23-901 of the Workmen’s Compensation Law, and (3) thát the petitioner did not file his claim within one year after the date upon which his rights accrued thereto.
+It is admitted that petitioner’s emphysema is not covered by the Arizona Occupational Disease Disability Law, A.R.S. § 23-1101 et seq. It is not one of the “Occupational Diseases” listed in § 23-1102 A.R.S., and for that reason there can be no award under that law.
+This brings us to the next question of whether or not the petitioner sustained an injury by accident arising out of and in the course of his employment within the meaning of the Arizona Workmen’s Compensation Act, Sec. 23-901 et seq., A.R.S.
+The Arizona Supreme Court in Mead v. American Smelting And Refining ■Company, op. cit., has determined that there was causation in this matter. We are not therefore concerned with determining the time and place of the injury, though we would be in other cases of “Gradual Injury” or diseases covered by the “repeated impact” or “inhalation” theory, Central Motor Expressway v. Burney, Tenn., 377 S.W.2d 947 (1964). This court has very recently discussed the matter of work-connected emphysema as follows:
+“From the reading of these cases, we find that the law in Arizona is that when a condition has developed, not instantaneously, but gradually, over a period of time, resulting in a definite though unexpected injury or disease, which injury or disease is definitely work-connected, then said injury or disease is the result of an ‘accident’ within the terms of our Workmen’s Compensation Act, and is compensable.” Reilly v. Industrial Commission, 1 Ariz.App. 12, 398 P.2d 920 (1965).
+In the instant case, we believe that petitioner Mead’s emphysema is the result of an accident within the meaning and the terms of the Arizona Workmen’s Compensation Act.
+This brings us to the third question and that is whether or not the petitioner filed his claim in time. One of the problems in the “Gradual Injury” cases is in determining the time at which a person must make his claim for disability. The very liberal view is stated by the Tennessee Court as follows:
+The very liberal view supported by the Tennessee Court is that it is the date at which the disability makes a man unable to work which marks the time when his claim is available. Brown Shoe v. Reed, 209 Tenn. 106, 350 S.W.2d 65 (1961); Central Motor Expressway v. Burney, supra.
+Our court has not gone this far, but has stated that the time starts to run when the injury becomes manifest or when the claimant knows or in the exercise of reasonable diligence should have known that he had sustained a compensable injury, McGee v. San Manuel Copper Corp., 89 Ariz. 244, 360 P.2d 1024 (1961), McCormick v. Industrial Commission, 96 Ariz. 88, 392 P.2d 299 (1964).
+The Arizona Supreme Court discussed that matter at length in the case of English v. Industrial Commission, 73 Ariz. 86, 237 P.2d 815 (1951). In that case, petitioner left his employment thinking he was suffering from tuberculosis. Five years later he discovered that his condition was the result of inhaling gas fumes while on the job. Our Supreme Court states, at page 89, 237 P.2d at page 817, as follows:
+“Where there is a doubt as to the construction, that construction should be adopted which will best effect its purpose of compensating the injured [person] for his loss of earning power.” English v. Industrial Commission, supra,
+and at page 90, 237 P.2d at page 817,
+“The Court adopted the modern rule as follows [Hartford Acc., etc., Co. v. Industrial Comm.,] (43 Ariz. 50, 29 P. 2d [142] 144): ‘* * * We still hold that the claim must be filed within one year after the date of the injury if the injury is of sufficient magnitude to be compensable. But, if it is slight or trivial at the time and noncompensable and later on develops unexpected results for which the employee ■could not have been expected to make a claim and receive compensation, then the statute runs, not from the date of the accident, but from the date the results of the injury became manifest and compensable.’ ” English v. Industrial Commission, supra.
+The record in this case does not indicate that either the petitioner or the medical doctors who examined him found any emphysema of sufficient magnitude to be compensable or disabling prior to June, 1957. The testimony of the petitioner indicates that he was told in March of 1956, by Dr. Goss, that he, the petitioner, had emphysema. Dr. Goss did not consider it of sufficient importance to put this in his note to the respondent company on 19 March, 1956. The company doctor gave him a reexamination physical in July, 1956, which included chest x-rays, and found only “acute asthma made worse by dust.” It was not until June of 1957, when he was ■hospitalized for “bronchial asthma and emphysema” that the petitioner had sufficient knowledge of his condition that a claim was in order and that the time might start running. In our opinion, the Arizona Workmen’s Compensation Law does not place upon the employee the duty of knowing the nature of his disability and its relation to his employment before these things .are reasonably ascertainable by the medical profession. We will not expect the employee to act contrary to diagnosis and ■directions of his physician.
+The determination of when the result of an injury becomes manifest is •exclusively the province of the Industrial '.Commission and this court is limited in its review to a determination of whether or not there is evidence in the record which would justify the findings of the Commission, McGee v. San Manuel Copper Corp., supra. We find nothing in the record which justifies the Commission in finding that the petitioner knew or in the exercise of reasonable diligence should have known that he had sustained a compensable injury prior to one year before the date of filing his claim with the Commission.
+It is ordered that the “Second Amended Findings and Award for Non-Compensable Claim” be set aside.
+STEVENS, C. J., and DONOFRIO, J., concur.
