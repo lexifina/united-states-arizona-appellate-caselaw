@@ -1,0 +1,35 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1224"
+decided: "1973-03-20"
+citations: ["19 Ariz. App. 377", "507 P.2d 989"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and HOWARD, J., concur."]
+parties: ["Ernest Ray POWELL, Appellant, v. The STATE of Arizona and Frank A. Eyman, former Warden, Arizona State Prison, Appellee."]
+source_url: "https://static.case.law/ariz-app/19/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1218148
+cites_cases: ["1 Ariz.App. 280", "1 Ariz.App. 593", "134 Mont. 235", "157 Conn. 403", "17 Ariz.App. 297", "188 Misc. 307", "2 Ariz.App. 431", "254 A.2d 556", "271 App.Div. 951", "6 Ariz. App. 563", "64 N.Y.S.2d 337", "67 N.Y.S.2d 708", "84 Okl.Cr. 159", "9 Ariz.App. 440", "95 Ariz. 292"]
+---
+
+# Powell v. State
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+This is an appeal from a denial of a petition for a writ of habeas corpus.
+On August 1, 1971, petitioner, while in the custody of Texas authorities, was questioned about a robbery of a 7-11 convenience market in El Paso, Texas. Shortly after this interrogation, petitioner was released to Arizona authorities for trial on a pending Arizona charge; he was subsequently convicted and sentenced to a term of imprisonment in the Arizona State Prison. On November 11, 1971, while petitioner was serving his sentence, an indictment charging him with the crime for which he had been interrogated in Texas (robbery with a firearm) was filed in the 34th District Court in El Paso County, Texas. Texas initiated extradition proceedings, with the Governor of Texas issuing a Governor’s warrant commanding the arrest and return of petitioner to Texas. The Governor’s extradition hearing was held on March 22, 1972, following which a recommendation of extradition was made. Petitioner was present at this hearing, appearing without counsel. The Governor’s warrant was issued on March 23, 1972, and was stayed as a result of the petition for a writ of habeas corpus. This petition alleged, inter alia, that “he [petitioner] was in the City of Lakeland, State of Florida, during the period prior and subsequent to the date of said robbery.”
+On March 28, 1972, a hearing was held on the habeas corpus petition with petitioner present, although not represented by counsel. The State presented (1) a copy of the indictment and warrant from the State of Texas, (2) a copy of the Governor’s warrant of extradition, (3) a copy of the Executive Agreement from the State of Texas to the State of Arizona, and (4) a copy of the Agent’s commission from the State of Texas. Such documents were found sufficient at both the extradition and habeas corpus proceedings, thus habeas corpus relief was denied.
+On appeal, petitioner initially contends that the extradition hearing did not afford him due process in that he was not appointed counsel at a critical stage of his prosecution. This contention is without merit. A Governor’s hearing, such as the one held on March 22, 1972, is not a statutory mandate. It is a mere factual determination that the person demanded is charged with a crime and is a fugitive from justice. It is based upon the demanding state’s submitted requisition papers, State v. Flowers, 9 Ariz.App. 440, 453 P.2d 536 (1969), and is not an adversary proceeding. One is not entitled to have counsel appointed at this stage. Applications of Oppenheimer, 95 Ariz. 292, 389 P.2d 696 (1964); State v. Bost, 2 Ariz.App. 431, 409 P.2d 590 (1966) ; Rugg v. Burr, 1 Ariz.App. 280, 402 P.2d 28 (1965).
+Petitioner next urges a violation of his right to counsel at the habeas corpus hearing held on March 28, 1972. This contention also lacks merit for a proceeding on a writ of habeas corpus is not a criminal prosecution but a civil proceeding to test the legality of and correctness of detention. Application of Anderson, 6 Ariz. App. 563, 435 P.2d 70 (1967); Leonard v. Eyman, 1 Ariz.App. 593, 405 P.2d 903 (1965). There is no right to appointment of counsel in a civil proceeding in the State of Arizona. Leonard v. Eyman, supra.
+Petitioner’s final contention is that the superior court erred in denying the writ without inquiring into his allegations of non-presence in the demanding state at the time the crime was allegedly committed and that the demanding state, Texas, relinquished jurisdiction of the petitioner by releasing him to the Arizona authorities in August of 1971. These allegations bring into view the purpose of a writ of habeas corpus proceeding. As stated in Applications of Oppenheimer, supra:
+“In Arizona, the writ of habeas corpus may be used only to review matters affecting a court’s jurisdiction.” 389 P.2d at 700.
+The court is thus under a duty, in deciding whether the demanding state has jurisdiction, to determine:
+“(1) That the complaint issued out of the demanding state was made on an affidavit (2) that it substantially charges an offense (3) that it is made to appear that the accused is a fugitive from justice.” 389 P.2d at 700.
+Evidentiary facts, however, which go to a defendant’s guilt or innocence, are not a proper matter for consideration except insofar as they may be necessary in identifying the petitioner as the person charged with the crime. Application of Dugger, 17 Ariz.App. 297, 497 P.2d 413 (1972). In the present case it is uncontroverted that the petitioner was the person charged with the crime. His contention that “he was in the City of Lakeland, State of Florida, during the period prior and subsequent to the date of said robbery” is an apparent attempt to allege an alibi defense. It is well settled that in a habeas corpus proceeding a court will not pass on matters of defense. Ross v. Hegstrom, 157 Conn. 403, 254 A.2d 556 (1969); State v. Booth, 134 Mont. 235, 328 P.2d 1104 (1958); Levine v. Warden of Women’s Prison, 188 Misc. 307, 64 N.Y.S.2d 337 (1946), aff’d 271 App.Div. 951, 67 N.Y.S.2d 708. The court will consider the merits of this defense only where the evidence of alibi is such as to disprove that .accused is a fugitive from justice. 39 C. J.S. Habeas Corpus § 39(h). When a petitioner raises such a contention, he must show by conclusive proof that he was not In the demanding state at the time the crime was committed. Ex parte Chase, 84 Okl.Cr. 159, 180 P.2d 199 (1947). Assuming petitioner, in the case sub judice, was attempting to show he was not a fugitive from justice, his proof is far from conclusive.
+Petitioner further argues that Texas waived its jurisdiction over him by relinquishing him to the Arizona authorities. This question we do not consider for it was never raised below. With limited exceptions, not present here, propositions not raised in the court below in a habeas corpus proceeding will not be considered on appeal. See, 39 C.J.S. Habeas Corpus § 113.
+For the foregoing reasons, we affirm.
+HATHAWAY, C. J., and HOWARD, J., concur.
+. It is uncontroverted that petitioner was indigent and could not afford to retain counsel.
