@@ -1,0 +1,33 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 862"
+decided: "1974-04-09"
+citations: ["21 Ariz. App. 526", "521 P.2d 157"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["OGG and STEVENS, JJ., concur."]
+parties: ["Fred MORGAN, Petitioner, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Town and Country Chrysler Plymouth, Respondent Employer, Continental Casualty Company (CNA Insurance), Respondent Carrier."]
+source_url: "https://static.case.law/ariz-app/21/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1251064
+cites_cases: ["100 Ariz. 317", "107 Ariz. 542", "12 Ariz.App. 162", "14 Ariz.App. 175", "16 Ariz.App. 491", "78 Ariz. 264", "89 Ariz. 114", "91 Ariz. 14"]
+---
+
+# Morgan v. Industrial Commission
+
+## Majority (DONOFRIO, Presiding Judge.)
+
+OPINION
+DONOFRIO, Presiding Judge.
+This Court is faced with the question of whether to apply the Ronquillo presumption. That presumption, which if unrebutted converts a scheduled award into an unscheduled one, indicates that if a prior injury was non-industrially related and would have been classified as a scheduled injury, there is a rebuttable presumption that the prior injury had an effect on the earning capacity of the workman at the time of the second injury.
+Prior to his industrial injury on March 3, 1970 petitioner Morgan was employed by Town and Country Chrysler Plymouth primarily as an air-conditioning man for approximately 10 years. On October 30, 1969 surgery (non-industrial) for internal derangement of the left knee was performed by Dr. William Hunter, an orthopedic surgeon, on petitioner’s left knee. On November 30, 1969 petitioner returned to his normal and regular occupation of mechanic and refrigeration man. Subsequently petitioner had additional surgery (non-industrial) on his right knee in January of 1970. Following the January 1970 surgery petitioner returned to work for two to three weeks preceding' the occurrence of the March 3, 1970 industrial surgery to his right knee. Petitioner continued to work after the industrial episode until the first part of August 1970 when under Dr. Hunter’s orders he terminated his employment. Petitioner was paid on a percentage basis, i. e., there being a definite correlation between the time consumed in completing a job and the amount of money earned.
+From the facts, the question becomes one of whether the petitioner’s preexisting non-industrial physical injury did, in fact or law, produce a loss of earning capacity at the time of the industrial injury. Petitioner has relied upon the Ronquillo presumption to show loss of earning capacity. In order for Ronquillo to be applicable, the prior non-industrial injury would have had to have been scheduled had it been industrially related. A scheduled injury must be a permanent injury, Gallardo v. Industrial Commission, 16 Ariz.App. 491, 494 P.2d 391 (1972), and a permanent injury presupposes a stationary condition. Aragon v. Industrial Commission, 14 Ariz.App. 175, 481 P.2d 545 (1971). There is substantial evidence to show that petitioner’s condition was not stationary at the time of the subsequent injury. However, no finding has been made and the record is unclear as to whether petitioner’s condition was stationary at the time of the hearing. This Court is not without cognizance of the long line of cases standing for the principle re-enunciated in Hurley v. Industrial Commission, 12 Ariz.App. 162, 468 P.2d 613 (1970):
+“Our Supreme Court has stated: 'This Court has on many occasions interpreted A.R.S. § 23-1044, subds. C, D, and E, supra. (citations omitted) All of these cases bear out the Commission’s position, i. e., they require the Commission to take into consideration a previous disability as it exists at the time of a subsequent injury, and if any disability results from the subsequent injury, whether scheduled or unscheduled, or both, the Commission must treat the disabilities as general or unscheduled in nature, and base its award on loss of earning capacity only, as derived from the facts of the case. * * Woods v. Industrial Commission, 91 Ariz. 14, 16, 368 P.2d 758, 759 (1962). (emphasis ours)” 12 Ariz.App. at 163, 468 P.2d at 614.
+None of these cases, however, considers whether or not the prior non-industrially related injury, which would have been scheduled had it been industrially related, must be stationary at the time of the subsequent injury. E. g. Goodyear Aircraft v. Industrial Commission, 89 Ariz. 114, 358 P.2d 715 (1961) (petitioner admitting that he was not aware of any preexisting condition, there thus being no previous disability making A.R.S. § 23-1044(E) inapplicable); Wollum v. Industrial Commission, 100 Ariz. 317, 414 P.2d 137 (1966) (at the time of the injury to petitioner’s leg he was not suffering any loss of earning capacity due to the lack of a distal phalanx of his left index finger); McKinney v. Industrial Commission, 78 Ariz. 264, 278 P.2d 887 (1955) (petitioner had prior loss of leg before industrial accident).
+The above line of cases concerns itself primarily with the issue of when at the time of the subsequent injury a determination can be made which shows that there was an earning capacity loss from the prior injury.
+In the instant case we are concerned with the issue of when the prior non-industrial injury need become stationary in order to have utilization of the Ronquillo presumption. We find that it need become stationary by the time of the hearing and not by the time of the subsequent injury. Looking back from the point in time of the hearing, it would be possible to determine whether the injury would have been scheduled as required .in Ronquillo. If it is stationary, determination can be made as to whether it is permanent. If it is not permanent, it would not be scheduled and Ronquillo would not apply. In such case petitioner would have the burden of showing loss of earning capacity between the time of the prior non-industrial injury and the industrial injury. If it is permanent, then petitioner would be entitled to the Ronquillo presumption.
+Because the record fails to establish whether the prior non-industrial injury to petitioner’s left knee had become stationary at the time of the hearing, it is impossible for us to determine whether the Ronquillo presumption should or should not be afforded the petitioner.
+Accordingly, the award must be set aside.
+OGG and STEVENS, JJ., concur.
+. Ronquillo v. Industrial Commission, 107 Ariz. 542, 490 P.2d 423 (1971).
