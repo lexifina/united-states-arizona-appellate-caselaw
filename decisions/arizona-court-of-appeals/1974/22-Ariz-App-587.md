@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 2160"
+decided: "1974-12-12"
+citations: ["22 Ariz. App. 587", "529 P.2d 741"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAIRE, P. J., and EUBANK, J., concur."]
+parties: ["Jack CHOISSER, Appellant, v. Dale EYMAN, Sr., and Elizabeth Eerebout, Co-Trustees, Appellees."]
+source_url: "https://static.case.law/ariz-app/22/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1232101
+cites_cases: ["19 Ariz.App. 49", "2 Ariz.App. 379", "20 Ariz.App. 581", "94 Ariz. 358"]
+---
+
+# Choisser v. Eyman
+
+## Majority (JACOBSON, Chief Judge.)
+
+OPINION
+JACOBSON, Chief Judge.
+The dispositive question of this case on appeal is whether the refund rights under a water extension agreement passed to the buyer of the property serviced by the water agreement.
+In 1964, Choisser, the appellant, undertook to build an apartment building on his property. As there was no water on this property, he entered into an agreement with Deer Valley Utilities, a water supplier, in April of 1964 whereby Deer Valley agreed to extend its distribution facilities to serve appellant’s property; in turn, appellant agreed to post a $4,000 refundable deposit. The agreement provided that Deer Valley would repay this $4,000 deposit to appellant under certain terms and conditions.
+On June 21, 1968, appellant sold the real property to which the water service had been extended and this property was ultimately conveyed to the appellees as trustees. Both the appellant and the appellees claim to be entitled to the refunds which are due and which will become due under the water extension agreement. Deer Valley interpleaded the amount claimed to be due at the time this action was commenced and the court ultimately awarded this amount and all rights to future refunds as they become due under the agreement to appellees.
+Following the denial of appellant’s post judgment motion, he perfected an appeal to this court. Deer Valley is not a party to this appeal.
+On June 21, 1968 the appellant and appellees’ predecessor-in-title entered into a sale agreement. Pursuant to this agreement, the appellees’ predecessor-in-title was to receive various listed assets and assume specified liabilities of the appellant-seller in the apartment building. The water extension agreement with Deer Valley was not one of the listed assets, although a payment due the utility was a listed liability. That same day appellant also conveyed by a warranty deed his interest in the real property.
+Following these transactions the appellees received a copy of the extension agreement from appellant’s managing agent. This agent later notified Deer Valley to make further refunds to appellees although appellant denied knowing of this act.
+The extension agreement between appellant and Deer Valley provides :
+“6. This Extension Agreement shall be binding upon and inure to the benefit of the successors and assigns of each of the parties hereto; provided, however, that no assignment or other transfer of this Agreement by Choisser shall be binding upon the Utility or create any rights in the assignee until such assignment or other transfer is approved and accepted in writing by the Utility.
+“7. All payments of refunds due Choisser pursuant to the terms hereof shall be payable to him until such time as this Agreement has been assigned or transferred by him in writing and such assignment or transfer has been accepted and approved by the Utility as aforesaid.”
+By its very terms this refund right is not assignable without the utility’s approval. Despite this language in the agreement, appellant himself still had the power to assign his rights to appellee absent Deer Valley’s approval. Hanigan v. Wheeler, 19 Ariz.App. 49, 52, 504 P.2d 972, 975 (1972). However, the record discloses no such assignment, either orally or in writing. The mere receipt of a copy of the water service agreement by appellees from the appellant’s managing agent did not operate as an assignment of the appellant’s refund rights. Nor do the circumstances surrounding the sale of this property evidence an intention on the part of the appellant to make an equitable assignment of his refund rights. Morton v. Rogers, 20 Ariz.App. 581, 514 P.2d 752 (1973).
+Appellees contend, however, that even if there was no assignment of these refund rights, the water extension agreement itself constitutes a covenant which runs with the land and argue that they are entitled to all refund monies from the time they purchased the property until the forfeiture to appellant in December of 1972 for default in payments.
+To create a covenant at law, four prerequisites must be met: (1) there must be a writing which satisfies the Statute of Frauds; (2) the parties must intend that the covenant run with the land; (3) the covenant must touch and concern the land, i. e. make the land itself more useful or valuable to the benefited party; and (4) privity of estate must exist between the original grantor and the grantee at the time the covenant is made. C. Smith and R. Boyer, Survey of the Law of Property, 356 (2d Ed. 1971). In determining whether the entire agreement, including the rights to refunds, runs with the land, it is important to differentiate between the agreement to supply water and the consideration given to effectuate that supply.
+In the situation presented here, the agreement of Deer Valley to supply water to the property is, in our opinion, capable of running with the land. Restatement of Property § 548 (1944). There is no doubt that this portion of the agreement to supply water, taken as a whole, touches and concerns the land, as the value of the property would be substantially decreased if it were without water services. However, the right to receive the refunds, the subject of this appeal, does not touch and concern the land. By Clause 7 itself, the right to receive the refunds is a personal right enforceable by appellant alone. Restatement of Property § 544 (1944). Being a personal right, it cannot, by definition, be a covenant running with the land. Even if the right to the refunds were not such a personal right, we would still have to hold that the right to refunds did not run with the land because of the manifest intention of the contracting parties. City of Glendale v. Barclay, 94 Ariz. 358, 385 P.2d 230 (1963). In examining the agreement itself to determine whether the right to receive the refunds was intended to attach to the land and inure to the benefit of the appellees, City of Glendale v. Arizona S & L Ass’n, 2 Ariz.App. 379, 409 P.2d 299 (1965), it is clear that any transfer of the refund rights had to be approved by Deer Valley; this negates any intention that the refund rights would run with the land. In conclusion, the contracting document shows that it was not the intention of the covenanting parties that the refund rights run with the land.
+The sale of the underlying real property did not operate to transfer the refund rights of appellant under this extension agreement. As we find no evidence of an initial assignment, it is not necessary to reach appellant’s argument that the assignment of this chose in action would have to be in writing or that it would be violative of the Statute of Frauds.
+Appellant is entitled to the accrued refund rights as well as to any future amounts due from Deer Valley under this agreement. The decision of the Superior Court is reversed and the trial court is directed to enter judgment in favor of appellants as to the refund monies issue.
+HAIRE, P. J., and EUBANK, J., concur.
