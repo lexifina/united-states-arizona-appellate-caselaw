@@ -1,0 +1,47 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 497"
+decided: "1971-09-23"
+citations: ["15 Ariz. App. 420", "489 P.2d 83"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS, P. J., and CASE, J., concur."]
+parties: ["RESERVE LIFE INSURANCE COMPANY, Petitioner-Employer, Employers Mutual Liability Insurance Company, Petitioner-Carrier, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Nelson W. Payne, Respondent Employee."]
+source_url: "https://static.case.law/ariz-app/15/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1223247
+cites_cases: ["84 Ariz. 356", "96 Ariz. 34"]
+---
+
+# Reserve Life Insurance v. Industrial Commission
+
+## Majority (DONOFRIO, Judge.)
+
+DONOFRIO, Judge.
+This case is before the Court by writ of certiorari to review the lawfulness of an award and findings of The Industrial Commission of Arizona.
+To determine the lawfulness of the award, these questions are presented for our determination: (1) whether respondent Nelson W. Payne, claimant herein, was an employee of Reserve Life Insurance Company, petitioner herein, within the terms of the Workmen’s Compensation Law, and if he is found to be an employee then, (2) whether the claimant was acting within the course and scope of his employment at the time of the accident.
+At the outset we should discuss one procedural question. Claimant contends that petitioner is precluded from arguing the question as to whether claimant was an employee or an independent contractor on this appeal because of a stipulation between the parties that only matters pertaining to the scope of employment would be gone into at the hearing. We believe this position is not well taken. From the beginning petitioner denies that the accident occurred within the course and scope of employment, and the stipulation referred to merely excluded hearing on the medical aspect of the case. In this connection, we quote the stipulation as it appears in the record:
+“MR. MacLEAN:
+* * * [W]e have a kind of stipulation, I might say. We thought at this time we would present no medical evidence in that it’s a coverage question and, of course, if we lose the thing here there wouldn’t be any need to present medical evidence and if we win we thought we would just submit the regular hospital hills, et cetera, and he could contest them at that time if they were unreasonable.
+Is that basically correct?
+MR. GILLENWATER: Yes.
+MR. MacLEAN: There will be no doctors or anything at this hearing.
+THE REFEREE: I understand.
+MR. GILLENWATER: So the record shows it, we reserve the right to have the hearing on the medical.
+MR. MacLEAN: That’s correct.”
+We shall briefly state the pertinent facts. Claimant began working with petitioner on February 15, 1969, as a salesman selling insurance on a commission and renewal, basis. Claimant was to furnish his own transportation at his own expense. The petitioner exercised no control over the method or manner in which claimant operated any vehicle he might use. On the first of April 1969 he was made an assistant training manager at a $200.00 a month salary, plus commission and renewals. His duties were to help train new men. His work with them was mostly in the field except when a new man first came in claimant did some work with him at the office.
+The day before the accident, which occurred on April 23, 1969, claimant purchased a Honda motorcycle which was delivered to his house around 4:30 p. m., April 23rd, approximately fifteen minutes prior to the accident. After the motorcycle was delivered claimant went into the house for a few minutes and then came out to ride the motorcycle to a 5 :00 p. m. appointment to see an insurance lead the office had given him that day. He drove the motorcycle out of his driveway and started to turn right when the accident happened. He testified that as he turned off the “embankment thing” which was described as the rounded curb, something happened which caused the vehicle to rear up and' throw him to the pavement. From there he was taken to the hospital by his father who was in the house at the time. When the father put claimant into his car, he picked up at the scene the insurance folder claimant was carrying.
+Regarding the first question as to whether claimant was an employee, we have no difficulty in finding that claimant has made a prima facie case that he was. He fully filled out Form C-407 under the penalties of law, claiming to be an employee at a salary of $200.00 a month. The petitioner, in filing its employer’s first report, did not seem to take issue with this in stating that claimant was hired as an assistant training manager and stating it hired claimant on April 1, 1969, at a wage status of $200.00 a month (lines 11, 14 and 18 of their report, Form C-401). It is to be noted also that in describing how the injury occurred the employer stated in the report (Line 24) that claimant was,
+“At home, after hours and while engaging in personal and private recreational pastime of motorcycle riding, while stunting he was injured. Stunting involved is aka ‘wheelies’. ” (emphasis ours)
+On the reverse side of the form dealing with additional wage information under the heading “REMARKS”, petitioner mentioned that claimant as an independent contractor had an agency contract whereby he stood to earn commissions.
+To refute claimant’s contention and evidence that he was an employee within the act, we find petitioner cross-examining claimant’s case in only a negative fashion, that is, it brought out answers to the effect that the company does not control claimant in certain respects, and particularly in the method of transportation which is required by the company to be furnished by claimant. The evidence given by Mr. Moore, petitioner’s representative, is susceptible of the interpretation that the company exercises some control over the work that is handed the agents. In substance he testified that the salesmen were given leads originating with the company and not with the employees and that the appointments •were actually made by the company and the salesmen were sent out on these leads and told where to meet the prospective clients, and at what time. He stated that the company had no control over “agent activities in the field other than the work we hand them.” Mr. Moore was the assistant training manager in charge of the Phoenix office.
+In the face of this evidence, the petitioner not having put on more evidence regarding the terms of employment, the hearing officer could not assume claimant was acting as an independent contractor. The finding deciding the affirmative of the question is reasonably supported by the evidence.
+We next turn to the remaining question of whether claimant was acting in the course and scope of his employment.
+First let us say we are unable to find any evidence in the record, except that which is speculative, that claimant was engaging in a private recreational pastime of riding and stunting at the time of the accident.
+In addition to the facts already stated, a few additional facts should be noted. The evidence showed that much of the work selling insurance is done in the evenings after 5:00 p. m. and that claimant was not limited to the hours between 8:00 a. m. and 5:00 p. m.
+In the morning of the date of the accident, April 23rd, claimant was issued two office-generated leads. A lead for insurance is where the office calls the party and fixes the time for the agent to call upon him. One of these was for claimant to call on a person at 11:00 a. m. and the other was to call on another person at 5 :00 p. m. Claimant called on the morning appointment and did not find him at home. He then called upon some policy-holder leads and went home about 4:00 p. m. because he knew he had an appointment at 5:00 p. m., plus the fact that the motorcycle was being delivered to him at his residence at 4:30 p. m.
+An examination of the lead or prospect slip for the S :00 p. m. appointment shows that it is an office copy. Many notations appear on it, which corroborates the claimant’s testimony. It was prepared by an office girl, and on the line headed “Covenient Date and Hour to Contact” appears the notation “Wed. 5:00”, and under it on the line reading “Above information obtained by” were the initials “P.C.” who was identified as the phone girl in the office. On the slip is a notation “Moore called” and under it was the wording “Reset 4-23- 5 P.M.” with an arrow to the convenient date “Wed. 5:00” . notation. Claimant also testified that he was dressed in dress pants which he wore a lot of times on these leads and that he had his insurance folder and rate book with him. The folder was found at the scene by the father at the time of the accident.
+When there are several reasonable inferences to be drawn from the evidence, the drawing of such inferences is exclusively within the Commission’s province and its conclusion will not be disturbed on appeal. Graver Tank & Manufacturing Co. v. Industrial Commission, 96 Ariz. 34, 391 P.2d 589 (1964) ; Harrington v. Industrial Commission, 84 Ariz. 356, 328 P.2d 311 (1958). We hold the finding that claimant sustained his injuries by accident arising out of and in the course of his employment is reasonably supported by the record.
+Affirmed.
+STEVENS, P. J., and CASE, J., concur.
