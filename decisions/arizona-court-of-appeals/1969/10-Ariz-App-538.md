@@ -1,0 +1,40 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 847"
+decided: "1969-11-06"
+citations: ["10 Ariz. App. 538", "460 P.2d 644"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John RAMSEY and Frances W. Ramsey, Appellants, v. ARIZONA TITLE INSURANCE AND TRUST COMPANY, a corporation, and Zee Realty and Trust Co., a corporation, Appellees."]
+source_url: "https://static.case.law/ariz-app/10/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208280
+cites_cases: ["100 Ariz. 206", "117 S.W.2d 1033", "273 Ky. 838", "59 Ariz. 138", "87 Ariz. 103"]
+---
+
+# Ramsey v. Arizona Title Insurance & Trust Co.
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+This is an appeal from a summary judgment entered by the Superior Court of Maricopa County against plaintiffs-appellants, John and Frances Ramsey. We are-called upon to determine whether as a matter of law the descriptions of certain real property contained in a deed and in some escrow instructions describe the same property.
+The facts are not in dispute and are as-follows. Prior to 21 February 1967 the appellants owned real property in Maricopa. County, Arizona. Appellants had listed the property for sale with the appellee, Zee-Realty and Trust Company. The property description as contained in the listing for sale read as follows:
+“That part of Section 32, township 1 north range 3 east, that part of the-Northwest quarter of the Northeast quarter beginning at a point on quarter section line which bears South 0 degrees 6 minutes East 659.10 feet from North quarter corner of said section; thence South 89 degrees 56 minutes east 406.5 feet parallel to the North line of the Northwest quarter of the Northeast quarter; thence South 0 degrees 6 minutes East 94.65 feet parallel to the West line of the Northwest quarter of the Northeast quarter to a point being 10 feet from the edge of the San Francisco Canal; thence South 75 degrees 13 minutes West 420.22 feet parallel to and 10 feet North of the North edge of said canal to the West line of the Northwest quarter of the Northeast quarter; thence North 0 degrees 6 minutes West 202.35 feet along said west line of said Northwest quarter of the Northeast quarter of the place of beginning, except Road.”
+Evidently a sale was negotiated for part ■of the above described property and appel-lee, Zee Realty and Trust Company, opened an escrow with the appellee, Arizona Title Insurance and Trust Company. The escrow instructions signed by the owners contained the following description:
+“The property herein referred to is situated in Maricopa County, Arizona, and is described as follows, to-wit: That part of Section 32, TIN, R3E of the following described property: The West 160 feet of That part of Section 32, TIN, R3E, of the following described property:
+“That part of Northwest quarter of NE beginning at a point on quarter section line which bears South 0 degrees 6 minutes East 659.10 feet from North quarter corner of said section; thence South 89 degrees 56' East 406.-50 feet parrallel (sic) to the North line of the Northwest quarter of the Northeast quarter thence South 0 degrees 6' East 94.65 feet parrallel (sic) to the West line of the NW 54 of NE 54 to a point being 10 feet from the •edge of the San Francisco Canal thence South 75 degrees 13' West 420.-22 feet parrallel (sic) to and 10 feet North of the North edge of said canal to the West line of the NW 54 of the NE 54 to the point of beginning EXCEPT ROAD.” (emphasis ours)
+A deed was drafted by Arizona Title Insurance and Trust Company containing the following description of the property to be conveyed:
+“The West 160 feet of the following described property as measured at right angles from the Easterly right of way line of Central Avenue:
+“That part of the Northwest quarter of the Northeast quarter of Section Thirty-two (32), Township One (1) North, Range Three (3) East of the Gila and Salt River Base and Meridian, Maricopa County, Arizona, described as follows:
+“BEGINNING at a point on the quarter Section line, which bears South 0 degrees 06 minutes East 659.10 feet from the North quarter corner of said Section; thence South 89 degrees 56 minutes East 406.50 feet, parallel to the North line of said Northwest quarter of the Northeast quarter; thence South 0 degrees 06 minutes East 94.65 feet, more or less, parallel to the West line of said Northwest quarter of the Northeast quarter, to a point being 10 feet from the edge of San Francisco Canal; thence South 75 degrees 13 minutes West 420.22 feet, more or less parallel to and 10 feet North of the North edge of said San Francisco Canal, to the West line of said Northwest quarter of the Northeast quarter; thence North 0 degrees 06 minutes West 202.35 feet, more or less, along said West line of said Northwest quarter of the Northeast quarter, to the place of beginning; EXCEPT any portion thereof lying within Central Avenue.” (emphasis ours)
+It is agreed that the property described in the listing and in the portions indented above of the escrow instructions and the deed describe the same property, that is, the whole parcel from which the west 160 feet was to be carved.
+In LeBaron v. Crismon, 100 Ariz. 206, 412 P.2d 705 (1966), it was said:
+“ * * * An interpretation of the instruments is a question of law to be determined by this court independent of the trial court’s findings. Daily Mines Co. v. Control Mines, Inc., 59 Ariz. 138, 124 P.2d 324.” 100 Ariz. at 208, 412 P.2d at 706.
+And:
+“ * * * The description in a deed of the property conveyed thereby is considered ambiguous and subject to construction only if it is not possible to relate the description to the land without inconsistency. * * *” McNeil v. Attaway, 87 Ariz. 103, 109, 348 P.2d 301, 305 (1959).
+Although the grantor must be careful to convey only the property that he actually owns, descriptions of property may at the outset encompass other property for the purpose of accuracy in fixing the location .of the property to be conveyed. In the instant case the center of Central Avenue being on the quarter section line, it was much easier to describe the property from the center of Central Avenue and .then except Central Avenue from the property to be conveyed. The property could well have been described either as “the West 160 feet of the following described whole parcel except the road”, or “the west 160 feet of the property actually owned and possessed by grantor which said property is described as follows”.
+In the instant case the description in the escrow instructions states that appellants conveyed the “West 160 feet * * * of the following described property. * * (emphasis ours) The “following described property” is the parcel actually owned by the plaintiffs described from the center of Central Avenue and then excepting Central Avenue from the property. An exception operates on a description of the property and withdraws from the description the excepted property. Moore v. Davis, 273 Ky. 838, 117 S.W.2d 1033 (1938). Excepting Central Avenue from the property described in the escrow instruction, the west 160 feet of the property measured back from the east side of Central Avenue is the property to be conveyed.
+The description in the deed, we believe, conveys the same property as described in the escrow instructions. The one additional phrase “as measured at right angles from the Easterly right of way line of Central Avenue” did not add anything except sow the seed of litigation to the property intended to be conveyed. Even though the phrase “as measured at right angles from the Easterly right of way line of Central Avenue” is first, the “following described property:” is the same original parcel of land with the same exception at the end of the description. The trial court took the position that the property described in the escrow instructions and the deed was the same. We agree.
+Judgment affirmed.
+DONOFRIO, P. J., and STEVENS, J., concur.
