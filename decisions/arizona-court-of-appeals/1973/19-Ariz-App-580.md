@@ -1,0 +1,42 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1896"
+decided: "1973-05-08"
+citations: ["19 Ariz. App. 580", "509 P.2d 652"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DONOFRIO, P. J., and STEVENS, J., concur."]
+parties: ["SECURITY NATIONAL LIFE INSURANCE COMPANY, a Utah corporation, Appellant, v. PRE-NEED CAMELBACK PLAN, INC., an Arizona corporation, Chandler O. Hassett and M. M. Hassett, Appellees."]
+source_url: "https://static.case.law/ariz-app/19/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1218313
+cites_cases: ["6 Ariz.App. 52", "61 Ariz. 329", "7 Ariz.App. 72"]
+---
+
+# Security National Life Insurance v. Pre-Need Camelback Plan, Inc.
+
+## Majority (OGG, Judge.)
+
+OGG, Judge.
+The appellant, Security National Life Insurance Company, instituted an action in Maricopa County Superior Court requesting a declaratory judgment relative to the respective rights and obligations of the parties herein under a written agreement. The trial court heard motions for summary' judgment filed by both parties and Security National Life Insurance Company now' appeals the denial of its motion and the granting of the appellees’ motion for summary judgment. For ease of reading in this decision, we will refer to the appellant as Security National and to the appellees as Hassett.
+The material facts in this case are undisputed. On May 22, 1969 Hassett entered into an agreement with Security National whereby Security National was to purchase from Hassett an insurance company known' as Pre-Need Camelback Plan, Inc., an Arizona corporation, together with certain' parcels of land. An escrow was opened which was scheduled to close June 10, 1969. Prior to that closing, and as condi- • tions precedent thereto, the agreement required each party, among other things, to obtain the consent and approval of certain regulatory agencies and to deposit in escrow certain items. The closing date by mutual consent was later extended ten days to June 20, 1969.
+In this appeal the pertinent parts of the agreement are paragraphs 14 and 15(f). Paragraph 15(f) required Hassett to deliver to Security National, before the closing of escrow, a statement of disclosures setting forth certain information about the insurance company which constituted exceptions to Hassett’s general warranties contained in other parts of paragraph 15. Paragraph 15(f) required Security National to notify Transamerica Title Insurance Company, the escrow agent, in writing that it had received the disclosures from Has-sett and had approved their contents. The giving of that written notice of approval was made a specific condition precedent to the closing of the escrow.
+Paragraph 14 provided that if the agreement and escrow did not close by June 10, 1969 (as extended, June 20, 1969), then the agreement and escrow would be “. void and of no force and effect and the parties shall be discharges [sic] and released of any liabilities one to the other under its terms.”
+Approximately a week before the closing date of the escrow Hassett submitted a written statement of disclosures as required by the contract. Among the matters set forth in the disclosures were that the warranties in the agreement were incorrect in the following respects: Has-sett’s company owed $3,000.00 in unpaid Federal taxes; Hassett’s company only had title policies on three of its five real estate parcels to be sold; Hassett’s company had an outstanding debt of $31,500.00, without reserves to cover said debt. Security National has never disputed that these disclosures were not complete and accurate in all respects.
+Upon the receipt of these disclosures, Security National refused to accept them and did not deliver the notice of receipt and approval of the disclosures to the escrow agent. Because of this failure of this condition precedent to closing, the escrow could not and did not close on the deadline closing date of June 20, 1969. When the disclosures were not approved, Hassett did nothing further under the contract; the escrow agent closed the escrow and returned the papers and money belonging to Security National.
+.Security National then instituted a declaratory judgment action seeking a determination of the rights and obligations of the parties under the written contract. Security National took the legal position that Hassett prevented the completion of the agreement and that he cannot now rely on the failure of a condition precedent to defeat the agreement.
+All parties agree with the general principle of law wherein if one prevents fulfillment of a condition precedent one cannot thereafter rely on such failure of the condition to defeat the agreement. The Arizona courts have followed the Restatement of Contracts relative to this problem of contract prevention. The Restatement of Contracts, § 295, states:
+"§ 295. Excuse of Condition by Prevention or Hindrance.
+If a promisor prevents or hinders the occurrence of a condition, or the performance of a return promise, and the condition would have occurred or the performance of the return promise been rendered except for such prevention or hindrance, the condition is excused, and the actual or threatened nonperformance of the return promise does not dicharge the promisor’s duty, unless
+(a) the prevention or hindrance by the promisor is caused or justified by the conduct or pecuniary circumstances of the other party; or
+(b) the terms of the contract are such that the risk of such prevention or hindrance as occurs is assumed by the other party.”
+See Tyson v. Tyson, 61 Ariz. 329, 149 P.2d 674 (1944) ; Fowler v. Dana, 7 Ariz.App. 72, 436 P.2d 166 (1968); Arizona Land Title & Trust Company v. Safeway Stores, Inc., 6 Ariz.App. 52, 429 P.2d 686 (1967).
+In discussing the doctrine of prevention, the court stated in the Arizona Land Title case, supra, at page 59, 429 P.2d at page 693:
+“ * * * However, this principle of law pertains to prevention or hindrance of the performance of a condition not to be performed by the promisor, when the promisor has no right under the contract to hinder or interfere with such performance. (Citations)”
+See also 5 Williston on Contracts, § 677 (3rd Ed.) ; 3A Corbin on Contracts, § 767.
+It appears — under the law of Arizona — that in order for Hassett’s conduct to be considered prevention of a type which would prevent him from using the provisions of paragraph 14 of the agreement, it must somehow be unjustified, wrongful and not authorized under the terms of the agreement. Under the law and facts of this case, we do not find that Hassett’s conduct was unjustified under the terms of the agreement or that he prevented the final consummation of the agreement.
+We must always look to the intent of the parties in such a case. Any fair appraisal of this complicated transaction and attempted sale agreement shows that the successful completion of this whole transaction was dependent upon numerous contingent factors whose status was uncertain at the time the agreement was executed. For example, before any contemplated sale could be completed, approval of both the Arizona and Utah Insurance Commissioners needed to be obtained. Each party to this agreement knew there would be a calculated risk that some of these contingencies would fail and the escrow could not close. The parties recognized in paragraph 14 of the agreement that the failure of the escrow to close could be caused by one or both and it was the expressed intent that there be no liability on either party if the sale could not be completed.
+When Security National found the disclosures as submitted to be unacceptable, it had the right — as it did — to refuse to go on with the escrow. Hassett was required to make these disclosures under the terms of the agreement; his conduct was neither wrongful nor a hindrance to the closing of the agreement and does not legally constitute prevention of the contract. This was simply an agreement to make a binding, consummated contract in the event numerous conditions precedent could be cleared. The parties were unable to clear them to their mutual satisfaction and under the terms of paragraph 14 the agreement .was cancelled and all parties were released without liability.
+The judgment of the trial court is affirmed.
+DONOFRIO, P. J., and STEVENS, J., concur.
