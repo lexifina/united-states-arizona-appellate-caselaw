@@ -1,0 +1,70 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 569"
+decided: "1969-03-06"
+citations: ["9 Ariz. App. 249", "451 P.2d 329"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. Everett COFFEE, Appellant, v. NATIONAL EQUIPMENT RENTAL, LTD., Appellee."]
+source_url: "https://static.case.law/ariz-app/9/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204071
+cites_cases: ["205 U.S. 141", "27 S.Ct. 434", "274 N.Y.S.2d 280", "28 U.S.C. § 1738", "311 U.S. 457", "312 U.S. 712", "323 U.S. 77", "327 U.S. 220", "5 Ariz.App. 286", "5 Ariz.App. 550", "51 Misc.2d 999", "61 S.Ct. 548", "63 Ariz. 187", "7 Ariz.App. 551", "8 Ariz.App. 166", "84 U.S. 521", "85 L.Ed. 1143", "85 U.S. 457", "95 U.S. 714"]
+---
+
+# Coffee v. National Equipment Rental, Ltd.
+
+## Majority (CAMERON, Judge.)
+
+CAMERON, Judge.
+The defendant, M. Everett Coffee, appeals from a summary judgment granted in favor of the plaintiff, National Equipment Rental, Ltd., hereinafter referred to as National. The complaint filed in the Marico-pa County Superior Court against Coffee was based on a judgment obtained by National against Coffee on 11 April 1966 in the Supreme Court of the State of New York, County of Nassau. Both parties moved for summary judgment and Nation-aPs, motion was granted and Coffee’s denied.
+We are called upon to determine whether the New York court had jurisdiction to enter the judgment. In viewing the evidence most favorably to the person against whom the summary judgment was granted, Mermis v. Weeden & Co., 8 Ariz.App. 166, 444 P.2d 524 (1968), the following facts are necessary for a determination of this matter on appeal.
+National and Coffee entered into an equipment lease agreement on 27 March 1963 whereby Coffee was to lease certain equipment from National. The lease agreement, a printed document, consisted of two pages of fine print containing 19 separate clauses which covered the terms of the lease. Paragraph 19 provided:
+“19. This agreement shall be deemed to have been made in Nassau County, New York, regardless of the order in which the signatures of the parties shall be affixed hereto, and shall be interpreted, and the rights and liabilities, of the parties here determined, in accordance with the laws of the State of New York, and as a part of the consideration for the Lessors executing this lease, Lessee hereby agrees that all actions or proceedings arising directly or indirectly from this lease shall be litigated only in courts having situs within the State of New York, and Lessee hereby consents to the jurisdiction of any local, State or Federal court located within the State of New York, and zvaives the personal service of any and all process upon the Lessee herein, and consents that all such service of process may be made by certified or registered mail, return receipt requested, directed to the Lessee at the address hereinabove indicated that the equipment leased hereunder is to be kept; and service so made shall be complete tzvo (2) days after the same shall have been posted as aforesaid.” (emphasis ours)
+Thereafter on 26 November 1965 National instituted an action in the Supreme Court of the State of New York, County of Nassau, against Coffee and Mullen-Form Corporation (not a party to this action). On 11 April 1966 the Supreme Court of the State of New York, County of Nassau, rendered the judgment in favor of National and against Coffee in the sum of $3,487.13 with interest, plus costs of $40. The judgment in that action recited:
+“The summons and complaint in the above entitled action having been personally served upon the defendants M. Everett Coffee and Mullen-Form Corporation on the 26th day of November 1965 and the time for defendants to appear, answer or raise an objection to the complaint and point of law having expired and said defendants not having appeared, answered or raised an objection to the complaint in point of law,
+“NOW, upon the summons and complaint, proof of service thereof, the affidavit of Harry M. Weisberg sworn to the 7th day of April 1966 and upon motion of Harry M. Weisberg, 1 Plainfield Ave., Elmont, N. Y., attorney for the plaintiff it is,
+“ADJUDGED that the plaintiff, National Equipment Rental Ltd. of 1 Plainfield Ave., Elmont, N. Y. do recover of the defendant M. Everett Coffee, 233 .E. Cam-elback, Phoenix, Arizona, the sum of $3,487.13, the amount claimed with interest and that the plaintiff have execution therefore (sic), * * (emphasis ours)
+. On 27 June 1966 National instituted an action in the Maricopa County Superior Court based on the New York judgment. The defendant in his answer alleged that the New York court was without jurisdiction over the subject matter and over the defendant by reason of insufficient service of process. Defendant’s affidavit in opposition to National’s motion for summary judgment stated:
+“EVERETT M. COFFEE, upon oath, deposes and says:
+“1. That he has been a continuous resident of the State of Arizona for the past five years.
+“2. That the lease attached to Plaintiff’s Motion for Summary Judgment was executed by him in Phoenix, Arizona.
+“3. That' at no time since the execution of said lease has this affiant been in the State of New York.
+“4. That affiant has never been served with a copy of the Summons and/or Complaint in the matter of NATIONAL EQUIPMENT RENTAL, LTD. vs. M. EVERETT COFFEE, et al, cause No. 14406/65, Superior Court of the State of New York, County of Nassau, either in person or by mail of any nature.
+“5. That affiant never received notice, of any nature, that an action had been commenced against him in the State of New York prior to the Complaint filed herein.
+“6. That affiant was not receiving any mail at 1311 East Camelback Road, Phoenix, Arizona, on or about November 29, 1965; that said address was an address used by a corporation, to-wit; MULLEN-FORM CORPORATION, however, said address had been abandoned by the corporation prior to November 29, 1965.”
+Article IV, Section 1, of the Constitution of the United States provides:
+“Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State.”
+Congress has implemented the full faith and credit clause by 28 U.S.C. § 1738 which provides for the mode of attestation and authentication of the records of courts in one state to entitle them to recognition in the courts of another state. A judgment of a court of general jurisdiction of a sister state duly authenticated is prima facie evidence of the jurisdiction of the court to render it and of the right which it purports to adjudicate. Barber v. Barber, 323 U.S. 77, 65 S.Ct. 137, 89 L.Ed. 82 (1944).
+A defendant is not without some rights, however, and generally a suit upon a foreign judgment may be attacked on the following grounds:
+A. Lack of jurisdiction over
+1. the person
+2. the subj ect matter
+Milliken v. Meyer, 311 U.S. 457, 61 S. Ct. 339, 85 L.Ed. 278 (1940), rehearing denied 312 U.S. 712, 61 S.Ct. 548, 85 L.Ed. 1143 (1941).
+B. Lack of due process.
+Griffin v. Griffin, 327 U.S. 220, 66 S. Ct. 556, 90 L.Ed. 635 (1946), Wetmore v. Karrick, 205 U.S. 141, 27 S.Ct. 434, 51 L.Ed. 745 (1907).
+C. Incompetency of foreign court.
+Thompson v. Whitman, 85 U.S. 457, 18 Wall 457, 21 L.Ed. 897 (1873).
+D. Extrinsic fraud.
+Stephens v. Thomasson, 63 Ariz. 187, 160 P.2d 338 (1945).
+E. Invalid or unenforceable judgment.
+Public Works v. Columbia College, 84 U.S. 521, 17 Wall 521, 21 L.Ed. 687 (1873), Article IV, § 1, United States Constitution.
+There appears to be no question as to the competency of the New York court, of extrinsic fraud, or that the judgment was invalid or unenforceable in New York, this latter point not being raised in the Arizona court. The question before this Court is whether the New York court had personal jurisdiction over the defendant. It is the opinion of this Court that the New York court lacked jurisdiction over the person of the defendant because of (1) lack of personal service and (2) the failure of National to follow the provisions of the contract in the attempted service of the summons and complaint.
+PERSONAL SERVICE
+The contract itself states that the defendant “waives the personal service of any and all process upon the lessee herein and consents that all such service of process may be made by certified or registered mail, return receipt requested * * *.” It would thus appear that under the contract the New York court could obtain jurisdiction by (1) personal service or (2) by certified or registered mail, return receipt requested. The judgment sued upon shows clearly that the court relied upon personal service. The judgment recites that the summons and complaint was “personally served upon the defendant M. Everett Coffee”. It may well be that by following the terms of the contract plaintiff could have obtained personal jurisdiction over the defendant and a personal judgment. And the law seems to be clear that a party may contract away his rights in this regard, National Equipment Rental, Ltd. v. Dec-Wood Corporation, 51 Misc.2d 999, 274 N.Y.S.2d 280 (1966).
+“ ‘It is not contrary to natural justice that a man who has agreed to receive a particular mode of notification of legal proceedings should be bound by judgment in which that particular mode of notification has been followed, even though he may not have actual notice of them.’ ” Pennoyer v. Neff, 95 U.S. 714, 24 L.Ed. 565 (1877).
+But neither by the laws of New York nor Arizona can we construe the service in this to have been “personal service” as recited in the judgment in question
+WAS THE CONTRACT FOLLOWED?
+Even assuming that the provision of the contract “waiving personal service” makes this recitation in the judgment meaningless, we do not believe that the procedure followed by National followed due process of law. The plaintiff, having elected to rely upon the provisions in the contract to confer jurisdiction upon the court, must strictly adhere to these provisions. The affidavits which were filed in support of plaintiff’s motion for summary judgment do not contain facts sufficient to show compliance with the contract regarding service. The attorney’s statement reads in part:
+“That on November 29, 1965 I caused to be sent to M. Everett Coffee a summons and complaint in this action as shown by the copy of the letter to Mr. Coffee annexed hereto and marked Exhibit B.
+“That annexed hereto and marked Exhibit C is the affidavit of my secretary, Faye Friedkin, that she «mailed the summons and verified complaint to M. Everett Coffee at 1311 East Camelback Rd., Phoenix, Arizona.
+“That M. Everett Coffee was served in accordance with the agreement as is shown by the annexed exhibits and the aforementioned facts.”
+The affidavit of the secretary reads as follows:
+“Faye Friedkin being duly sworn, deposes and says that deponent is not party to the action, is over 18 years of age and resides at Elmont, N. Y. That on the 29th day of November 1965 deponent served the within summons and verified complaint upon M. Everett Coffee, defendant in this action at 1311 East Cam-elback Rd., Phoenix, Arizona, the address designated by said defendant for that purpose by depositing a true copy of same enclosed in a postpaid properly addressed wrapper in a post office under the exclusive care and custody of the United States post office department within the State of New York.” (It is noted that this affidavit as filed in the trial court and contained in the record on appeal is not executed by the said Faye Friedkin.)
+Although the contract states that the defendant “consents that all such service of process may be made by certified or registered mail, return receipt requested” neither the affidavit of the attorney or his secretary indicates that the summons and complaint were mailed to the lessee by certified or registered mail, return receipt requested. Nowhere in the file do we have an original or a copy of any return receipt which would indicate that this was done. There is, it is true, in answers to interrogatories by Milton Brahms, Treasurer of National, the statement that the “summons was mailed to the defendant by certified mail, return receipt requested, on November 29, 1965, and service was complete two days thereafter.” The answer, however, does not show affirmatively that Brahms was competent to so testify. Rule 56(e), Rules of Civil Procedure, 16 A.R.S.
+“Testimony of a witness, even under oath, has no probative value if it merely asserts or denies allegations, or relates only to a conclusion of the witness, or is in the realm of pure speculation, or states an immaterial or irrelevant fact. Absent statements of fact under oath as to the existence of material facts, the allegations in the pleadings and the arguments and legal memoranda in support of a party’s position can carry no weight whatsoever in determining the merits of a motion for summary judgment.” Hensley v. A. J. Bayless Stores, Inc., 5 Ariz.App. 550, 552, 429 P.2d 1, 3 (1967). See also Biondo v. General Motors Corporation, 5 Ariz.App. 286, 425 P.2d 856 (1967).
+Under these circumstances we do not believe that National has shown that the defendant Coffee received notice of the action as contemplated in the contract or that the requirements of due process have been satisfied.
+National, the party moving for summary judgment, had the burden of showing a lack of any genuine issue of material fact and where, as here, the service by mail as provided in the contract is disputed and the plaintiff is unwilling or unable to present anything which could compel the Court to the conclusion that the summons and complaint were in fact mailed in the manner specified in the contract, we do not believe the motion for summary judgment should have been granted. Rule 56(c) & (e), Rules of Civil Procedure, 16 A.R.S., State v. Crawford, 7 Ariz.App. 551, 441 P.2d 586 (1968).
+Judgment reversed and remanded for further proceedings consistent with this opinion.
+DONOFRIO, C. J., and STEVENS, J., concur.
