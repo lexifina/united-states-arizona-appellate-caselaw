@@ -1,0 +1,33 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 99"
+decided: "1968-02-13"
+citations: ["7 Ariz. App. 155", "436 P.2d 933"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and KRUCKER, J., concur."]
+parties: ["The STATE of Arizona, Appellee, v. Carl Edward GREER and Adam Delano Hollinger, Appellants."]
+source_url: "https://static.case.law/ariz-app/7/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1233139
+cites_cases: ["2 Ariz. App. 242", "2 Ariz.App. 314", "5 Ariz.App. 498", "66 Ariz. 145", "91 Ariz. 211", "95 Ariz. 353"]
+---
+
+# State v. Greer
+
+## Majority (MOLLOY, Judge.)
+
+MOLLOY, Judge.
+This is an appeal from a conviction of the crime of grand theft. The appellants were sentenced to serve ten to eleven years in the State Prison for stealing some 640 pounds of copper wire and brass fittings. Appellants appear together in propriae personae, and the thrust of their appeal is that damaging evidence was obtained by means of an illegal search and seizure, that appellants were not informed against and tried within certain procedural time limits, and that the county attorney, in his closing argument, made improper comment on the failure of the appellants to take the stand.
+In the late evening of July 20, 1966, a car driven by appellant Greer, and in which appellant Hollinger and one Letha Davis were passengers, was observed by a Maricopa County deputy sheriff to be proceeding on a public street in an erratic manner. The sheriff had “ * * * suspicions as to the sobriety of the driver,” and stopped the car. The car, a station wagon, was observed to be “ * * * sitting low on the ground.” The sheriff asked Greer about the load and was told the car contained “fishing equipment.” The sheriff, using a flashlight, observed through the car window a “ * * * large amount of electrical wire * * * ” which was partially covered by blankets. It was determined none of the three occupants of the car had a driver’s license. Greer was arrested for “ * * * driving on a revoked driver’s license,” and Hollinger was arrested on “ * * * a vagrancy charge.” There is no evidence that Letha Davis was arrested.
+The sheriff caused the vehicle to be impounded “ * * * while further investigation was made.” On the evening of July 21, 1966, the Pinal County Sheriff received a complaint that a quantity of copper had been taken from a fenced enclosure near Apache Junction belonging to a water company. An investigator of the sheriff’s office contacted the water company’s manager, a Mr. Cain, who identified the copper in the rear of the impounded vehicle to be that which belonged to the water company. This identification was made by looking through the car windows.
+A search warrant was obtained on July 22, 1966, and the copper removed from the car. On this same day, a warrant for the arrest of the appellants for grand theft was issued by a Pinal County magistrate. On July 27, 1966, appellants were brought before the magistrate, at which time they waived a preliminary hearing and were bound over for trial. On August 15, 1966, an information charging appellants with the crime of grand theft was filed. On September 6, 1966, appellants appeared before the court, with counsel, and requested the matter be remanded to justice court for a preliminary hearing. This request was granted and a preliminary hearing was had on September 16, 1966. At the close of the preliminary hearing, appellants were bound over again for trial. The defendants question the timeliness of the filing of a second information.
+It is the law of this jurisdiction that an information must be filed within 30 days after a person is held to answer, Rule 80, R.Crim.P., 17 A.R.S. The filing of the second information in this action on October 19, 1965, after being bound over on September 16, 1965, constituted a. three-day violation of Rule 80. However, appellants raise this procedural defect for the first time on appeal. The appellants made no motion to dismiss the information prior to being “brought to trial” and in so doing, waived the objection now posed. State v. Heisler, 95 Ariz. 353, 356, 390 P.2d 846, 848 (1964); and see Sheridan v. Superior Court, 91 Ariz. 211, 370 P.2d 949 (1962); State v. Sheppard, 2 Ariz. App. 242, 407 P.2d 783 (1965); and State v. Cuzick, 5 Ariz.App. 498, 428 P.2d 443 (1967).
+Trial was had on the 23d day of December, 1966, 65 days after the filing of the second information. The appellants point out that this is in excess of the 60 days allowed by Rule 236, R.Crim.P., 17 A.R.S. The right to a speedy trial constitutes a benefit to the defendants, and the defendants may waive this right if it may be relinquished without detriment to the community at large. Westover v. State, 66 Ariz. 145, 148, 185 P.2d 315, 317 (1947).
+Here, the trial date was timely set for December 7, 1966, but by stipulation, joined in by defendants’ counsel, was vacated and set at the later date. We hold this to be a waiver of the 60-day provision of Rule 236.
+The appellants next complain of the manner in which they were arrested, and in which the car was searched and the copper wire seized. Appellants contend they were initially arrested without probable cause, and on “mere suspicion.” The initial arrests, for a traffic offense and vagrancy, are not before us. To these charges the appellants pleaded guilty and no appeal has been taken. That there was probable cause to issue the arrest warrants for grand theft of the copper wire is amply supported by the record. The wire was seen in the appellants’ car and positively identified as being stolen. A complaint was signed and the warrants issued. We see nothing wrong with this procedure.
+That possibly stolen material may be viewed through the windows of a car by a peace officer was determined by State v. Taylor, 2 Ariz.App. 314, 408 P.2d 418 (1965). We feel this dispositive of appellants’ contention that the “search” of the car was illegal. The car was not opened until a search warrant was obtained, and then the wire was removed from the car. The seizure of the wire being made pursuant to a properly issued search warrant, appellants’ contention that the seizure was unlawful is without merit.
+Appellants finally contend that the county attorney, in his closing argument, commented on the fact that the appellants did not testify in their own behalf. We have read the record of that argument and it fails to disclose material supportive of such allegation.
+Judgment affirmed.
+HATHAWAY, C. J., and KRUCKER, J., concur.
