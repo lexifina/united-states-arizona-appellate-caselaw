@@ -1,0 +1,40 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1751"
+decided: "1972-06-13"
+citations: ["17 Ariz. App. 348", "498 P.2d 160"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER, C. J., and HATHAWAY, J., concur."]
+parties: ["Ruby M. LOWRY et al., Appellants, v. TUCSON DIESEL, INC., an Arizona corporation, Appellee."]
+source_url: "https://static.case.law/ariz-app/17/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1228489
+cites_cases: ["10 L.Ed.2d 124", "104 Ariz. 73", "107 Ariz. 291", "13 Ariz.App. 541", "372 U.S. 704", "83 S.Ct. 1018", "92 Ariz. 91"]
+---
+
+# Lowry v. Tucson Diesel, Inc.
+
+## Majority (HOWARD, Judge.)
+
+HOWARD, Judge.
+Appellee, Tucson Diesel, Inc., filed a “Petition for Special Action, Proceeding in Quo Warranto and Petition for Declaratory Judgment” in superior court requesting that the appellants, Ruby M. Lowry, the Arizona Highway Department and the State of Arizona be enjoined from revoking the registration of any vehicle owned by Tucson Diesel and that a declaratory judgment be entered to the effect that Tucson Diesel has fully complied with A. R.S. § 28-324. The parties subsequently submitted an Agreed Statement of Facts and further stipulated, at the hearing on the Order to Show Cause, that two questions would be decided by the court:
+“1. Is the purchase of insurance by a lessee in a lease contract a sufficient procurement of the coverage required by A.R.S. § 28-324?
+2. Does A.R.S. § 28-324 violate Article II, Section 25 of the Arizona Constitution regarding the impairment of the obligation of a contract?”
+Following judgment that Tucson Diesel, by requiring its lessees to purchase liability insurance coverage, had satisfied the requirement of A.R.S. § 28-324 and that A.R.S. § 28-324 does not violate Article II, Section 25 of the Arizona Constitution, A. R.S., defendants below brought this appeal questioning only that portion of the judgment which held that Tucson Diesel had “procured public liability insurance within the meaning of A.R.S. § 28-324.”
+The Agreed Statement of Facts reveals that Tucson Diesel entered into agreements with M. M. Sundt Construction Company and Tucson Warehouse & Storage whereby these companies leased from Tucson Diesel a total of seven Diamond Reo trucks. Each of the lease agreements entered into by the parties provided that:
+“10. Liability and Physical Damage Insurance, for bodily injury and property damage to others and damage to or loss of vehicle, by collision, fire, theft or otherwise, from the time title to each vehicle is taken in the name of Lessor until the vehicle is returned to the Lessor at the termination of this lease, shall be purchased and maintained by Lessee.”
+The agreements further set forth the minimum coverages required by lessor and provided that “all insurance policies shall name Lessor, its Successors and/or Assigns as additional insured.”
+Having complied with the above terms lessees transmitted to lessor certificates of insurance which lessor in turn transmitted to the Arizona Highway Department, Motor Vehicle Division, purporting to show that Tucson Diesel was an insured under the liability insurance coverage thereby satisfying the requirements of A.R.S. § 28-324. That section provides, in pertinent part:
+“A. No owner engaged in the business of renting, or who intends to rent, a motor vehicle without a driver, shall be permitted to register the motor vehicle until he has procured public liability insurance with an insurance company approved by the insurancé department of this state insuring the renter thereof against liability arising from his negligence in the operation of the rented vehicle . . . .”
+Mrs. Ruby M. Lowry, Supervisor, Motor Vehicle Dealer Service, informed Tucson Diesel by letter that “Arizona does not accept any lessee’s insurance coverage for leased or rented vehicles. Proof of liability insurance coverage is required from the registered owner, showing the coverage of Tucson Diesel, Inc., applying to any and all vehicles which are leased or rented to any lessee for registration in Arizona.” Various communications between Tucson Diesel and Mrs. Lowry culminated in a telephone call from Mrs. Lowry to Gene I. Wendt, president of Tucson Diesel, whereby she informed him that the registration for the leased vehicles would be cancelled in ten days. At that time Tucson Diesel brought this action.
+At the hearing on the Order to Show Cause it was stipulated that “blanket liability insurance coverage on all vehicles of petitioner [as required by the letter from Mrs. Lowry to Tucson Diesel] is not required by A.R.S. § 28-324 as respects petitioner only.”
+We are thus faced with the narrow question of whether a lessor may satisfy the requirement of A.R.S. § 28-324 by requiring the lessee to purchase public liability insurance rather than the lessor himself purchasing same.
+The specific wording of A.R.S. § 28-324 subsec. A with which we are concerned provides that “[n]o owner . . . shall be permitted to register the motor vehicle until he has procured public liability insurance . . .” (Emphasis added.) Appellants contend that the above language is clear and unambiguous and can therefore only be interpreted to mean that the owner himself must purchase the insurance. Ap-pellee maintains that the word “procure” .should not be given such a narrow interpretation because, although he has not himself purchased the insurance, the owner has caused the insurance to be purchased and therefore the purpose and intent of the statute have been satisfied.
+As is pointed out in appellants’ brief, “the word, ‘procure’, has several meanings, including both of those which appellant and the appellee argue are the intended meanings . . . .” Where an ambiguity exists the court will give a statute a construction which will carry out the purpose and intent of the legislature, Industrial Commission v. Harbor Ins. Co., 104 Ariz. 73, 449 P.2d 1 (1968), with special consideration being given to the evil which the statute was designed to remedy. City of Mesa v. Salt River Project Agr. Imp. & Power Dist., 92 Ariz. 91, 373 P.2d 722 (1962), appeal dismissed, 372 U.S. 704, 83 S.Ct. 1018, 10 L.Ed.2d 124 (1963).
+The legislature, by enacting A. R.S. § 28-324, clearly sought to protect the public from the possible economic hardship which may result from injury, death, or damage to property caused by that class of persons driving rented vehicles, whose minimum financial assets may consist merely of the amount necessary to satisfy the rental agreement. See National Union Fire Ins. Co. v. Truck Ins. Exchange, 13 Ariz.App. 541, 479 P.2d 189, vacated on other grounds, 107 Ariz. 291, 486 P.2d 773 (1971). To remedy this evil the legislature requires that, before any vehicle which is to be rented or leased without a driver can be registered, proof of public liability insurance covering the vehicle must be shown. So long as such proof is provided showing that the vehicle is covered and that the owner is a named insured, the purpose and intent of the statute is satisfied and the public is protected. To require the owner himself to contract for the insurance and pay the premium, in order to satisfy administrative convenience, goes beyond the dictates of the statute, and we will not read such a requirement into it. The policy of insurance clearly protects the public in every way so long as the owner is a named insured and we therefore hold that, under the facts of this case, Tucson Diesel “procured” public liability insurance within the meaning of the statute.
+Affirmed.
+KRUCKER, C. J., and HATHAWAY, J., concur.
+NOTE: This cause was decided by the Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
+. At oral argument the attorney for appellants admitted that the only reason the certificates of insurance provided by ap-pellee were rejected was because it was easier to keep track of vehicles if a “blanket policy” was provided.
