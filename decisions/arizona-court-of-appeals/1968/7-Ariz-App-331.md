@@ -1,0 +1,59 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 544"
+decided: "1968-04-01"
+citations: ["7 Ariz. App. 331", "439 P.2d 303"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and MOLLOY, J.,. concur."]
+parties: ["EXECUTIVE TOWERS, an Arizona corporation, Appellant, v. Margaret S. LEONARD, Appellee."]
+source_url: "https://static.case.law/ariz-app/7/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1233135
+cites_cases: ["194 Cal. 243", "228 P. 25", "4 Ariz.App. 599", "61 Ariz. 405", "79 Ariz. 168", "90 Ariz. 361"]
+---
+
+# Executive Towers v. Leonard
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+Executive Towers, appellant (plaintiff below), instituted an action as landlord for rent claimed to be due and owing by the tenant, appellee herein (defendant below), Margaret S. Leonard. Defendant counterclaimed for return of advance rent and deposit paid.
+The facts briefly stated are as follows. Defendant Margaret S. Leonard entered into a written lease for a period of five years with the plaintiff Executive Towers on the 17th day of March, 1965 for the rental of apartment 6-C in said Executive Towers for a monthly rental of $285. Ex-excutive Towers agreed to buy out defendant’s old lease at another location by paying the rental due on the old lease. Mrs. Leonard went to inspect apartment 6-C and heard a dog barking in the adjoining apartment. She went to the manager stating that she was allergic to dogs, whereupon the manager suggested that she take apartment 8-B instead, to which suggestion she orally agreed. 8-B was a more expensive f apartment but was given to the defendant at the same rate as called for in her old t apartment, 6-C. Defendant contends that: the management had told her that there were no pets in the building, which fact is denied by the management, but because there was a pet on the sixth floor, they transferred her to a more expensive apartment at the same rate. Defendant subsequently refused to occupy the premises and pay the rent, which resulted in the suit for $970.36.
+Defendant counter-claimed with a general denial and separate defenses to the effect that the manager represented that there were to be no pets in the building; that she did not accept possession of the premises and notified plaintiff in writing that she rescinded and cancelled the lease as a result of the misrepresentation.
+The court entered a judgment on November 9, 1966 granting defendant’s Motion for a Summary Judgment on the plaintiff’s complaint, and granting Motion for Summary Judgment in favor of the defendant on her counter-claim in the sum of $377. From this judgment, plaintiff appeals.
+In its brief, appellee relies entirely on the statute of frauds, contending that the plaintiff’s claim is unenforceable under the Arizona Statute of Frauds, A.R.S. § 44-101, subsec. 6 and that the oral agreement for the occupancy of apartment 8-B was unenforceable as not having been signed by the parties to be bound thereby. Appellant contends that the record discloses a valid oral modification of a written lease and that the terms of said lease as modified are enforceable in equity, and that if said lease is held to be without validity, defendant is still liable to plaintiff for the rent accrued under the original, written, lease, the validity of which is not in question.
+We agree that there can be no enforcement of the oral agreement to renf apartment 8-B because the agreement was for a lease longer than one year and so is required by A.R.S. § 44-101, subsec. 6 to be evidenced by a writing.
+“* * * the broad general doctrine as announced by most authorities is that a contract required by the statute of frauds to be in writing cannot be validly changed or modified as to any material condition therein by subsequent oral agreement so as to make the original written agreement as modified by the oral one an enforceable obligation. To state the rule differently, where an original agreement comes within provisions of the statute of frauds requiring certain agreements to be in writing, the statute of frauds renders invalid and ineffectual a subsequent oral agreement changing the terms of the written contract.” 49 Am.Jur., Statute of Frauds, § 301, at 609. (Emphasis supplied.)
+An exact description of the lease premises is essential to the contract and required by the statute of frauds. See Durham v. Dodd, 79 Ariz. 168, 285 P.2d 747 (1955). Certainly we could not enforce a contract to rent apartment 8-B when we have before us in evidence only a contract to rent apartment 6-C.
+We now consider the obligations of the parties in the face of an ineffective attempt to change a written agreement. Plaintiff styles the change an “oral modification” of the original written contract, while defendant claims that the second, oral, agreement “superceded”, and “abrogated” the written agreement.
+The distinction is germane because parties can orally rescind a contract required by the statute of frauds to be in writing.
+“ * * * a distinction is to be drawn between an attempt to modify the written agreement by a subsequent oral one and an oral agreement rescinding or abrogating a written contract within the statute of frauds. While an oral modification of a contract coming within the statute is ordinarily regarded as invalidated by the statute, the trend of modern authority seems toward the view that an oral rescission of an executory contract is valid notwithstanding the contract rescinded was one required by the statute of frauds to be in writing. * * * ” 49 Am.Jur., Statute of Frauds, § 310, at 625.
+(Emphasis supplied.)
+But if they merely attempt to modify the contract, and the attempt is ineffective, the original contract is not thereby rescinded and remains in effect. Restatement of Contracts § 223(2). See also Restatement of Contracts § 408.
+We do not think that the pleadings in the deposition of the apartment manager disclosed the intent of the parties with sufficient clarity to permit the trial court to hold that there are no issues of material fact to be left for trial. Litigants are entitled to the right of trial where there is the slightest doubt as to the facts. Cress v. Switzer, 61 Ariz. 405, 150 P.2d 86 (1944).
+“A motion for summary judgment should not be granted when there is a genuine issue of material fact and it is not a substitute for trial [citations omitted]. * * * In resolving the question as to whether summary judgment should be granted, the trial court does not weigh the evidence, nor do we; but the pleadings, affidavits, depositions and admissions, if any, must be viewed in the most favorable aspect they will bear in support of the right of the party opposing the motion to a trial of the issues.” Peterson v. Valley National Bank of Phoenix, 90 Ariz. 361, 368 P.2d 317 (1962).
+Even though the basic facts are not in dispute, summary judgment is not proper where possible inferences to be drawn from the circumstances are conflicting. The choice is for the jury. State v. Ashton Co., 4 Ariz.App. 599, 422 P.2d 727 (1967).
+Here we think there is a real question as to the intent of the parties. Plaintiff’s complaint reads in pertinent part:
+“Defendant is indebted to plaintiff under the terms of a written lease agreement to and including the date hereof in the sum of $970.36.”
+It is true that the deposition of the apartment manager and the plaintiff’s answers: to defendant’s interrogatories show that the plaintiff’s case was geared to collecting the-rent it considered due for apartment 8-B, but these acts could merely be considered as attempts to enforce the unenforceable contract. There is no showing of an abandonment of any attempt by plaintiff to hold, defendant obligated on a lease agreement.
+Summary judgment for defendant can-only lie if there was in fact rescission of the original contract but intent to rescind is a question of fact, to be resolved by the-jury upon presentation of proof.
+Since we hold that there remains a material issue of fact unanswered by the-pleadings and deposition below, we hold' that summary judgment was wrongfully granted and is therefore reversed. Reversed and remanded.
+HATHAWAY, C. J., and MOLLOY, J.,. concur.
+NOTE: This cause was decided by the-Judges of Division Two as authorized by A.R.S. § 12-120, subsec. E.
+. “§ 44-101. Statute of frauds.
+“No action shall be brought in any court iu the following cases unless the promise or agreement upon which the action is brought, or some memorandum thereof, is in writing and signed by the party to be charged, or by some person by him thereunto lawfully authorized:
+* * * * *
+“6. Upon an agreement for leasing for a longer period than one year * * 5? >•
+. “§ 223. Effect of an Unenforceable Contract to Vary a Prior Contract as a Rescission of the Prior Contract.
+“(1) For the determination of the question whether a contract to vary a prior contract is within the Statute, the second contract is regarded as creating a new single contract consisting of so many of the terms of the prior contract as the parties have not agreed to change, and in addition the new terms on which they have agreed.
+“(2) If a contract to vary a prior contract or to substitute mother contract in its stead is unenforceable because of failure to satisfy the requirements of the Statute, the prior contract is not thereby rescinded, or except as stated in § 224, varied. (Emphasis supplied.)
+“§ 408. Discharge of Duty Under an Earlier Contract by a Subsequent Inconsistent Contract.
+“A contract containing a term inconsistent with a term of an earlier contract between tbe same parties is interpreted as including an agreement to rescind the inconsistent term in tbe earlier contract. The parties may or may not at the same time agree to rescind all the other provisions of the earlier contract. Whether they do this is a question of interpretation, except as this rule is qualified by the rule stated in § 223. (Emphasis supplied.)
+s * * * *
+Comment :
+“b. If the second contract is voidable it discharges the original contract until avoidance of the second, but on avoidance of the second the original contract again comes into effect. If the second contract is unenforceable because of a Statute of Frauds it does not discharge the original contract. So to hold would be to treat the second as enforceable (see § 223). It is indeed possible to make an effectual agreement to rescind and then as a separate transaction enter into a voidable or unenforceable contract, but in and of itself a voidable or unenforceable contract has no more effect on the original contract than has just been stated.
+Illustrations:
+“3. A enters into a contract with B to employ him for two months beginning July 1, 1928. Before that date A and B contract orally that the employment shall continue for two years from that date. The second contract being unenforceable the original contract is not rescinded.”
+. “A parol agreement to abandon or rescind a written contract may be inferred from the acts of the parties. [Citations omitted] A-Vliether or not the whole conduct of the respondent * * * tended to contradict or to support the evidence of plaintiff that there was an abandonment and rescission of his contract of employment * * * was an issue of fact for the jury to decide. All of the-circumstances under which the employment of respondent by the appellants was-arranged were placed before the jury in extenso. * * * Whether or not, in view of the situation of the parties and their relation to the entire transaction, it was likely or probable that they contracted in the manner claimed by respondent, was the peculiar province of the jury to determine. * * * ” (Emphasis supplied.) Treadwell v. Nickel, 194 Cal. 243, 228 P. 25 (1924)
