@@ -1,0 +1,57 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CR 119"
+decided: "1968-12-10"
+citations: ["9 Ariz. App. 19", "448 P.2d 891"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The STATE of Arizona, Appellee, v. W. W. RODERICK, Appellant."]
+source_url: "https://static.case.law/ariz-app/9/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204050
+cites_cases: ["101 Ariz. 164", "102 Ariz. 468", "103 Ariz. 393", "137 N.W.2d 101", "15 L.Ed.2d 359", "171 Kan. 116", "231 La. 1048", "28 Wis.2d 412", "3 Ariz.App. 70", "342 F.2d 697", "365 P.2d 569", "373 S.W.2d 241", "378 S.W.2d 853", "382 U.S. 954", "53 Ariz. 93", "7 Ariz.App. 307", "7 Ariz.App. 576", "70 S.D. 203", "8 Ariz.App. 205", "86 S.Ct. 426", "88 Ariz. 364", "89 Ariz. 403", "95 Ariz. 366"]
+---
+
+# State v. Roderick
+
+## Majority (KRUCKER, Judge.)
+
+KRUCKER, Judge.
+The defendant, convicted of two counts of grant theft, challenges his convictions on.the following grounds: (1) Lack of jurisdiction of the offenses charged; (2) The State’s failure to prove the offenses charged, thus requiring direction of a verdict of acquittal; (3) Error in instructions; and (4) Erroneous admission of evidence.
+The evidence presented by the prosecution consisted of the following. In September, 1965, the defendant was hired by the Hamilton Aircraft Company. During the entire period of his employment, from September, 1965 to March, 1966, he was on a straight salary basis. The defendant’s employment was primarily that of a salesman, i. e., most of his efforts were directed to sales of either complete aircraft or modification kits that improve aircraft. The owner of Hamilton Aircraft had arranged for the sale of three airplanes to the country of Chile, which were to be purchased from a company in Oklahoma. After making these initial arrangements, he turned over the responsibility of executing the transactions to the defendant in October, 1965.
+The events surrounding the purchase of planes from the Oklahoma company gave rise to the grand theft charges.
+The first airplane purchased was paid for through a letter of credit arrangement sometime in February, 1966. At approximately the same time, radio equipment for this airplane was purchased through another separate letter of credit arrangement. Shortly thereafter, during the same month, the defendant telephoned Mr. Goode, president and general manager of the Oklahoma Aircraft Company, at his place of business and asked him for the ten percent dealer’s discount customarily allowed in transactions such as these. Mr. Goode testified:
+“Q. Now, what did Mr. Roderick say concerning where and how to send these funds?
+A. He said to send it in care of Western Union, that he would pick it up. Mr. Hamilton was out of town. He said, ‘Make it to my attention.’
+Q. Now, was this done?
+A. That was done.”
+Mr. Goode made arrangements to pay the discount and instructed his bank in Oklahoma to send the money by way of Western Union with defendant as payee. The bank, in accordance with Goode’s instructions, took approximately $1500 from Goode’s funds on deposit with it and wired the money to the Western Union office in Tucson, Arizona. Mr. Goode further testified:
+“Q. Why did you instruct the bank to send the money to Mr. Roderick in Tucson?
+A. That was my instructions (sic) from Mr. Roderick that he wanted it sent to him via Western Union and I was out of town and was going to be out of town and I left word for the bank to take care of it.
+Q. You said that you were informed that Mr. Hamilton was out of town at the time. Did Mr. Roderick personally tell you this on the phone?
+A. Yes.
+Q. This was the reason you gave for sending him the money.
+A. He was handling the transaction for Hamilton Aircraft and—
+Q. Had he been handling this transac-all along?
+A. Yes.”
+A similar request for a dealer’s discount as to the radio equipment in the amount of $450 was handled in exactly the same way. The respective money orders were picked up by the defendant at the Western Union office in Tucson, Arizona; the $1500 one on February 10, 1966, and the one for $450 a month later. Mr. Hamilton testified that the defendant never volunteered any information concerning these discounts and never turned the money over to the compa-any. Mr. Hamilton learned of the discounts from Mr. Goode after payment of same.
+The defendant contends that the State of Arizona had no jurisdiction since the offense was committed outside of its territorial limits. We have recently held, however, that if the requisite elements of a crime are committed in different jurisdictions, any state in which an essential part of the crime is committed may take jurisdiction. State v. Scofield, 7 Ariz.App. 307, 438 P.2d 776 (1968); see also, A.R.S. § 13-112. If, as we shall subsequently discuss, the defendant committed theft by embezzlement, then the state in which he had a duty to account, namely Arizona, had jurisdiction. State v. Hoffman, 171 Kan. 116, 229 P.2d 768 (1951); Williams v. State of Oklahoma, 365 P.2d 569 (Okl.Cr.App., 1961); State v. Douglas, 70 S.D. 203, 16 N.W.2d 489 (1944); 22 C.J.S. Criminal Law § 185(11).
+The information accused the defendant of two counts of grand theft in that on or about a specific date, the defendant:
+“ * * * stole from HAMILTON AIRCRAFT COMPANY money of a sum exceeding $100.00, all in violation of A.R. S. § 13-661, § 13-662, § 13-663, as amended, and § 13-671. * * * ”
+The defendant contends that the trial court should have granted his motion for a directed verdict of acquittal since the State failed to prove the elements of larceny. We have recently had occasion to consider these very same contentions in the case of State v. McCormick, 7 Ariz.App. 576, 442 P.2d 134 (1968), and held therein that, assuming the requisite elements of the specific offense are proven, proof of either embezzlement, larceny, or false pretenses' will sustain- a conviction of theft. We pointed out that the prosecuting attorney is not required to elect, in advance of the proof, the theory upon which the' prosecution will proceed and that if the evidence would support a conviction of grand theft by embezzlement-, failure to prove the elements of larceny was not -fatal to the State’s casé.
+A person is guilty of theft by embezzlement who:
+“Is entrusted with * * * property for the use of any other person, and fraudulently appropriates to any use qr purpose not in the due and lawful' execution of his trust the property which he has in his possession * * * by virtue of his trust, or secretes it with a fraudulent intent to appropriate it to such use or purpose.” A.R.S. § 13-682, subsec. 1, as amended.
+The record clearly shows that the discount money was sent to Roderick, i. e., entrusted to him, for Hamilton Aircraft, his employer. When he acquired such possession under color of authority (claiming to be Hamilton’s agent in procuring the discount), the money,' so far as Roderick was concerned, became the property of Hamilton Aircraft. Drake v. State, 53 Ariz. 93, 85 P.2d 984 (1939). The jury •could reasonably have found that Roderick was entrusted with money belonging to his employer, that he secreted it, and that his conduct evidenced a fraudulent intent to appropriate the money to a use “not in the due and lawful execution of his trust.”
+The defendant contends that the trial court erred in instructing the jury:
+“That one who comes lawfully into possession of property, either with intent at the time to unlawfully and permanently deprive the owner of possession, or who arrived at that intention after coming into- possession of the property, may be guilty of the crime of theft.”
+This challenged instruction states the law as laid down by this court in State v. Bradley, 3 Ariz.App. 70, 412 P.2d 67 (1966). Under the circumstances of this case, we find no error in the- instruction.
+The State was permitted to introduce evidence to show that the defendant failed to appear at the time originally set for his trial, that a bench warrant was issued for his arrest for failure to so appear, and that extradition proceedings' were initiated in the State of Washington. A wéll-recognized exception, in this jurisdiction, to exclusion of evidence tending to show .the commission of a crime distinct and independent of that for which the defendant is bn trial, is that of proof of a defendant’s flight or attempted flight after the commission of the offense: State v. Loftis, 89 Ariz. 403, 363 P.2d 585 (1961); State v. White, 101 Ariz. 164, 416 P.2d 597 (1966). Flight is admissible as conduct evidencing a consciousness of guilt. State v. White, supra; Udall, Arizona Law of Evidence § 178, at 385; 1 Wharton’s Criminal Evidence § 139. It is immaterial whether the flight occurs before formal charges are preferred against the defendant, before his arrest, after arrest and admission to bail, or after arrest and escape from jail or from the custody of an officer. State v. Neal, 231 La. 1048, 93 So.2d 554 (1957); Dominguiz v. State, 373 S.W.2d 241 (Tex.Crim.App.1963); 1 Wharton’s Criminal Evidence § 205. The evidence presented by the State was properly admitted as tending to show the fact of flight. Gauthier v. State, 28 Wis.2d 412, 137 N.W.2d 101 (1965); Guajardo v. State, 378 S.W.2d 853 (Tex.Crim.App.1964); U. S. v. Accardi, 342 F.2d 697 (2d Cir. 1965), cert. denied, 382 U.S. 954, 86 S.Ct. 426, 15 L.Ed.2d 359 (1965).
+Interwoven with defendant’s argument regarding the admissibility of this evidence is an attack on the giving of a “flight” instruction. The instruction was objected to in the trial court on the stated grounds:
+“ * * * there was no evidence of flight in this case or if there was evidence of any flight it was improperly admitted into evidence. * * * ”
+We confine our review to the objections urged in the trial court. State v. George, 95 Ariz. 366, 390 P.2d 899 (1964); State v. Evans, 88 Ariz. 364, 356 P.2d 1106 (1960).
+The latter part of the objection we have already disposed of. The evidence presented by the State would support an inference that the defendant was concealing himself from prosecution. Such concealment being evidence of flight, there was no error in giving the challenged instruction. State v. Garcia, 102 Ariz. 468, 433 P.2d 18 (1967) ; see also, State v. Rodgers, 103 Ariz. 393, 442 P.2d 840 (1968).
+Finding no error in the proceedings and the evidence sufficient to sustain the convictions, the judgment is affirmed.
+HATHAWAY, C. J., and LAWRENCE HOWARD, Superior Court Judge, concur. NOTE: Judge JOHN F. MOLLOY having requested that he be relieved from consideration of this matter, Judge LAWRENCE HOWARD was called to sit in his stead and participate in the determination of this decision.
+. The defendant waived preliminary examination and the order holding him to answer to superior court recites that there was sufficient cause to believe the defendant guilty of grand theft in that he stole from Hamilton Aircraft money of a sum exceeding $100, all in violation of A.R.S. -§ 13-661, subsec. A; § 13-663, as amended; § 13-682, as amended; § 13-683; § 13-684; and § 13-688.
+. It would not be inappropriate for. us to decline to consider any challenged instructions in view of the lack of compliance with Rule 5(b) (10), Rules of the Supreme Court, 17 A.R.S. State v. Gri-jalva, 8 Ariz.App. 205, 445 P.2d 88 (1968).
