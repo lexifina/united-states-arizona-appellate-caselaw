@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 1191"
+decided: "1973-01-16"
+citations: ["19 Ariz. App. 87", "504 P.2d 1310"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and KRUCKER, /., concur."]
+parties: ["Thomas P. DOUGLAS and Jane Doe Douglas, husband and wife, Appellants, v. LEASE INVESTORS, INC., an Arizona corporation, Appellee."]
+source_url: "https://static.case.law/ariz-app/19/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1218060
+cites_cases: ["107 Ariz. 510", "15 Ariz.App. 366", "16 Ariz.App. 398", "2 Ariz.App. 35", "3 Ariz.App. 469", "76 Ariz. 54", "83 Ariz. 117"]
+---
+
+# Douglas v. Lease Investors, Inc.
+
+## Majority (HOWARD, Judge.)
+
+HOWARD, Judge.
+This appeal challenges an adverse ruling on appellants’ motion to set aside an entry of default and default judgment. They concede that such matters are committed to the trial court’s discretion but contend that such discretion was abused in this case.
+The procedural chronology is as follows. On July 29, 1970, appellee (plaintiff below) filed suit against appellants (defendants below). Copies of the complaint and summons were served on defendants on August 26, 1970, and their default was entered on September 22, 1970. In January, 1971, plaintiff’s attorneys received a letter from defendants’ attorney advising them that he had been retained by the defendants to represent them in the lawsuit. The letter also stated:
+“I have been instructed to file an answer on this some time ago, but Douglas thought he could talk the people out of the lawsuit. I checked today and find the lawsuit had not been dismissed, and was wondering what the status is.
+We have an agreement from Lease Investors, Inc. relieving Douglas from all future payments on the lease. We would appreciate it if you would dismiss the lawsuit with prejudice. If you will not, please let me know, and I’ll file an answer and a motion to dismiss.”
+Upon receipt, of this letter, the plaintiff’s, attorney 'telephoned defendants’ attorney and advised him that a default had been entered sometime before. On January 21, 1971, he responded to the foregoing letter by a return letter acknowledging its receipt and indicating that the release mentioned by defendants’ attorney related only to the vehicle which was the subject of Count I of the complaint. He pointed out, however, that Count II of the complaint referred to another vehicle:
+“ . . . this particular item has never been taken care of or released on the part of Lease Investors and, therefore, we are not willing to dismiss this particular Count of the plaintiff’s complaint.
+Please review this matter with your client and if there is some way that we can reach a settlement as to this particular truck, we will be more than glad to discuss it with you.
+At any rate, I would appreciate being advised of your position in regard to this matter and I will, of course, keep you advised prior to the entry of any judgment.”
+On March 17, 1971, a responsive pleading was filed by defendants. On November 4, 1971, a notice of application for default judgment was filed by plaintiff’s attorney and a copy thereof delivered to defendants’ attorneys. The notice recited that the plaintiff would make application for judgment by default on November 9, 1971. The application was heard on November 10th and the defendants appeared neither in person nor through counsel. Plaintiff was awarded judgment for the sums requested in Count II of its complaint. Judgment was entered on November 10, 1971.
+The following day, November 11th, a writ of garnishment issued against defendants’ attorney. On November 16, 1971, said attorney filed an answer in garnishment denying indebtedness to the defendants and on November 18,1971, the subject motion to set aside judgment and default was filed. Appended to the motion were two affidavits, one executed by Mr. Douglas and the other by his attorney. Both affidavits recited the fact that a copy of the summons and complaint had been delivered to the attorney in August, 1970. The motion to set aside stated that the defendants’ failure to answer was caused by excusable neglect and that defendants had a meritorious defense. To support the “meritorious defense” requirement, Douglas’ affidavit recited that when he turned over the summons and complaint to his attorney he advised him “ . . . that I had a written release from the plaintiffs, which is attached hereto and incorporated by reference.” This “release” was in the form of a letter directed to State Farm Mutual Insurance Company, dated April 1, 1970, and signed by Lease Investors, Inc. as lessor and Thomas Douglas as lessee. It recited :
+“This letter is to authorize State Farm Mutual Insurance Company to settle the ■claim against one 1969 Dodge D-500 truck with van body, serial number 4586-006637, direct with Lease Investors, Inc., the sole owner of the aforementioned vehicle. This settlement will hereby relieve Thomas Doulgas [sic] dba Southern Arizona Oil Company from all future payments on lease number 1130, and thereby cancel said lease completely.”
+'The record reflects that lease No. 1130 ■covered two 1969 Dodge vehicles, the one ■described in the foregoing letter and another bearing serial No. 1581-876175. Count I of the complaint concerned the vehicle described in the letter whereas Count II, as to which default judgment was awarded, referred to the vehicle which was not mentioned in the letter. Thus it would .appear that the letter “release” is ambiguous as to its scope. In other words, was Douglas relieved of his obligation as to both vehicles or only the one specifically described in the letter ?
+It is well settled that in order to secure setting aside of a default judgment, the party in default must show both excusable neglect and a meritorious defense. Arizona State Tax Commission v. Catalina Savings and Loan Association, 16 Ariz.App. 398, 493 P.2d 944 (1972). Assuming ar-guendo that defendants made the requisite showing of a meritorious defense, the lower court apparently concluded that the concomitant requirement of a showing of excusable neglect was lacking.
+We defer to the trial court’s ruling on a motion to vacate a default judgment in the absence of a showing of an abuse of discretion. Smith v. Monroe, 15 Ariz.App. 366, 488 P.2d 1003 (1971). Here the record reflects that defendants’ attorney knew that default had been entered approximately ten months prior to the application for default judgment. No attempt was made to have such default set aside. No showing was made of conduct on the part of plaintiff’s counsel which prevented this. Allusions to negotiations and conferences do not suffice. In fact, the record reflects that plaintiff’s counsel fully intended to pursue the lawsuit to judgment if negotiations bogged down. Defendants’ attorney was given notice of the application for default judgment and did not avail himself of the opportunity to appear at the hearing thereon.
+The courts of this state have relieved litigants from judgments because of excusable neglect of counsel. See e. g., Walker v. Kendig, 107 Ariz. 510, 489 P.2d 849 (1971) ; Coconino Pulp and Paper Company v. Marvin, 83 Ariz. 117, 317 P.2d 550 (1957) ; Kohlbeck v. Handley, 3 Ariz.App. 469, 415 P.2d 483 (1966). The circumstances of this case, however, did not warrant relief. Carelessness is not synonymous with “excusable neglect”. Prell v. Amado, 2 Ariz.App. 35, 406 P.2d 237 (1965); Thomas v. Goettl Bros. Metal Products, Inc., 76 Ariz. 54, 258 P.2d 816 (1953).
+Finding no abuse of discretion, the order is affirmed.
+HATHAWAY, C. J., and KRUCKER, /., concur.
