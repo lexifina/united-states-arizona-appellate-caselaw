@@ -1,0 +1,41 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 414"
+decided: "1967-11-16"
+citations: ["6 Ariz. App. 462", "433 P.2d 642"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HATHAWAY, C. J., and JOHN A. Mc-GUIRE, Superior Court Judge, concur."]
+parties: ["UNITED BONDING INSURANCE CO., d/b/a Abe Salcido Bail Bond, Abe Salcido, Agent, Appellant, v. CITY COURT OF the CITY OF TUCSON, Pima County, Arizona, Appellee."]
+source_url: "https://static.case.law/ariz-app/6/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1237936
+cites_cases: ["11 Terry 497", "122 P.2d 55", "135 A.2d 137", "165 Neb. 494", "2 Ariz.App. 257", "2 L.Ed.2d 539", "218 Cal.App.2d 846", "227 F.Supp. 596", "229 Ark. 441", "306 F.2d 325", "32 Cal.Rptr. 569", "355 U.S. 965", "50 Del. 497", "59 Ariz. 55", "78 S.Ct. 555", "96 Ariz. 229"]
+---
+
+# United Bonding Insurance v. City Court
+
+## Majority (MOLLOY, Judge.)
+
+MOLLOY, Judge.
+In this appeal, the appellant-surety company seeks review of a superior court order denying its motion to set aside a judgment forfeiting a bail bond.
+One Edward Davis, charged with defrauding an innkeeper, was released from custody by the city court upon the posting of a bail bond in the principal sum of $300, with the appellant as his surety. The time set for his trial was July 15, 1966, at 3 p. m. The defendant failed to appear at the time set for trial and as a result thereof the bond was declared forfeited. On November 21, 1966, a formal, signed order forfeiting the bond was entered in city court, and subsequently on November 25, 1966, a certified copy of the order was filed in the superior court. Pursuant to Rules 74 and 75, R.Crim. P., 17 A.R.S., the appellant-surety filed in superior court a motion to set aside the forfeiture and exonerate the bond. As grounds for remission of the forfeiture, the surety stated:
+“ * * * that the City court, at the time of forfeiture, wrongfully failed and refused to issue warrants for the arrest of the defendants who had jumped bail, thus preventing the bondsman from securing the arrest of the defendants and their return to custody; and further, that the City Court is using the bail forfeiture procedure as a form and means of punish^ ment in derogation and contravention of the policies in this state of using bail for the sole purpose of securing the attendance in court of the defendant when required.”
+Submitted with the motion and in support thereof, were affidavits of two agents of the bonding company. Both affidavits admitted the fact of the defendant’s nonappearance at the time set for trial and the forfeiture of the bond. In addition, reference was made to a conversation with the chief city magistrate some five days later about the possibility of procuring a warrant for the arrest of the defendant in California. The surety purported to know the defendant’s whereabouts in California and was desirous of apprehending him there but 'felt that it could not do so without a warrant for his arrest. The surety was informed that it did not need a warrant in order to apprehend the defendant and that no warrant would issue.
+Since a motion for remission of forfeiture is addressed to the discretion of the trial court, United Benefit Fire Ins. Co. of Omaha, Neb. v. United States, 306 F.2d 325 (9th Cir.1962), United States v. D’Argento, D.C., 227 F.Supp. 596 (1964), People v. Durbin, 218 Cal.App.2d 846, 32 Cal.Rptr. 569 (1963), 8 C.J.S. Bail § 91 (1962), the sole question presented in this appeal is whether the trial court abused its discretion in denying the appellant’s motion for relief.
+The mainstay of appellant’s argument that it was .entitled to remission of forfeiture was that the city court, subsequent to forfeiture of the bond, refused to issue a warrant for the defendant’s arrest. We find no .merit in. appellant’s argument.
+The appellant, in becoming surety On the bail bond, assumed the risk of the defendant’s failure to appear. Bowling v. State, 229 Ark. 441, 316 S.W.2d 343 (1958); State v. Honey, 165 Neb. 494, 86 N.W.2d 187 (1957). Wehave.no statutory provision affording.relief to a surety from forfeiture if the surety, surrenders the principal after forfeiture. Therefore, had the appellant sucessf.ully apprehended the defendant and surrendered .him, either in pursuance of a warrant issued by the court or otherwise, such post-forfeiture surrender would not necesarily have entitled the surety to remission of the. 'forfeiture. Rule 74, supra, limits the scope of the,trial court’s discrer tionary power to set aside a judgment of forfeiture oiily “for reasonable cause shown.” “Reasonable cause,” within the contemplation of the Rule, means reasonable cause-for the nonappearance of the defendant. State ex rel. Ronan v. Superior Court, 96 Ariz. 229, 233, 393 P.2d 919 (1964); State ex rel. Corbin v. Superior Court, 2 Ariz.App. 257, 407 P.2d 938 (1965). Here there was no cause shown whatsoever for the nonappearance of the defendant. The following statement in Ronan, supra, is applicable :
+“There being no reasonable cause shown, within the contemplation of Rule 74, the superior court was without jurisdiction to vacate, modify or suspend the judgment of forfeiture. Until such a showing was made the court was powerless to exercise its discretion(Emphasis added)
+96 Ariz. at 233, 393 P.2d at 921.
+Appellant further contends that the city magistrate’s refusal to issue a warrant for the defendant’s arrest five days after his nonappearance for trial, constitutes an “abandonment” of the prosecution, thereby requiring exoneration of the bond. The appellant, by its undertaking, bound itself to produce the defendant at the time set for trial. A termination of the prosecution before forfeiture of the bond would have terminated the surety’s liability on the bond. 8 Am.Jur.2d Bail and Recognizance § 120 (1964). Surrender of the defendant before there was a breach of the undertaking would likewise have exonerated the appellant. Rules 61, 62, R.Crim.P. Neither of these situations existed here.
+• [9,10] Nothing appearing to the contrary, it is presumed that the prosecutor appeared at the time set for trial, ready to proceed in the cause. The surety has not shown any abandonment of the prosecution prior to the defendant’s default. The very purpose of this bond was to assure the defendant’s presence at the time of trial. We know of no law requiring the magistrate to issue a bench warrant under these circumstances, but, if this were his duty, we conceive that the proper remedy would be to compel the issuance of such a warrant by special writ application to a higher court, not to relieve the bonding company from its obligations on its bond.
+Judgment affirmed.
+HATHAWAY, C. J., and JOHN A. Mc-GUIRE, Superior Court Judge, concur.
+NOTE: Judge HERBERT F. KRUCKER having requested that he be relieved from consideration of this matter, Judge JOHN A. McGUIRE was called to sit in his stead and participate in the determination of this decision.
+. Rule 74:
+“After the entry of judgment on the undertaking as provided in Rule 73, the court directing the forfeiture may for reasonable cause shown within twenty days set aside the judgment wholly or in part upon such terms as are just, and shall set aside the forfeiture if it appears that there was no breach of the undertaking.” (Emphasis added)
+Rule 75, in pertinent part:
+“Application to set aside or modify the judgment shall be made within twenty days from the entry of judgment, shall be accompanied by affidavits setting forth the facts on which it is founded, and shall be upon at least ten days notice to the county attorney.”
+. From the time the certified copy of the order of forfeiture was filed with the clerk of superior court, the superior court had exclusive jurisdiction to set aside the judgment of forfeiture. State ex rel. Ronan v. Superior Court, 96 Ariz. 229, 232, 393 P.2d 919 (1964).
+. That this may be the law, see State v. Stanton, 59 Ariz. 55, 122 P.2d 55 (1942); 8 Am.Jur.2d Bail and Recognizance § 119 (1904), even though the bails ed defendant, is in another state, Golla v. State, 11 Terry 497, 50 Del. 497, 135 A.2d 137 (1957), cert. denied 355 U.S. 965, 78 S.Ct. 555, 2 L.Ed.2d 539 (1958).
