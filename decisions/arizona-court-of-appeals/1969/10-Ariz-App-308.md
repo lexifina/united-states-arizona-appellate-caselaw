@@ -1,0 +1,40 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 1007"
+decided: "1969-09-16"
+citations: ["10 Ariz. App. 308", "458 P.2d 512"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah Bailey EARLEY, Appellant, v. Harold L. EARLEY, Jr., Appellee."]
+source_url: "https://static.case.law/ariz-app/10/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208143
+cites_cases: ["100 Ariz. 269", "102 Ariz. 352", "228 Cal.App.2d 217", "3 Ariz.App. 274", "39 Cal.Rptr. 243", "400 P.2d 105", "83 Ariz. 257", "88 Ariz. 130", "88 Ariz. 358", "90 Ariz. 190", "94 Ariz. 187", "97 Ariz. 302"]
+---
+
+# Earley v. Earley
+
+## Majority (EUBANK, Presiding Judge.)
+
+EUBANK, Presiding Judge.
+The parties to this action were divorced on January 29, 1962, by decree which awarded custody of their two minor children to Sarah Bailey Earley, hereinafter referred to as Plaintiff, and reasonable visitation privileges to Harold L. Earley, Jr., hereinafter referred to as the Defendant. On February 11, 1963, the trial court modified the decree, authorizing the Defendant to have the children one day each week during the daylight hours, within the City of Tucson, by giving the Plaintiff two days advance notice of the visit.
+On July 24, 1968, Defendant filed his petition to further modify the decree of divorce by defining and enlarging his visitation rights. A hearing was held on August 14, 1968, and on August 22 the trial court executed and filed its judgment, again modifying the original decree by defining and enlarging Defendant’s visitation rights with his children. His new rights included authority for his taking his son on a trip to the State of Virginia to visit his family home, visitorial rights of both children on alternative weekends, commencing September 14, 1968, from 9 A. M. on Saturday until 6 P. M. on Sunday, and vistation with the children one afternoon each week after school. It also provided that the children would spend alternative holidays with the parents, except that Mother’s Day would be spent with the Plaintiff and Father’s Day with the Defendant.
+Plaintiff filed her notice of appeal on the same day that the judgment was filed. In her brief, Plaintiff raises one question for review:
+“Did the Trial Court exercise sound judicial discretion in entering his order modifying the prior order of the court, based on the evidence adduced at the Hearing ?”
+The law governing modification of custody or visitation rights is well settled in Arizona. A clear statement of that law is contained in Borg v. Borg, 3 Ariz.App. 274, 276, 413 P.2d 784 (1966), in these terms:
+“There can be no doubt that A.R.S. § 25-321 provides continuing jurisdiction to amend, change or alter the provisions of a decree relating to the custody of minor children. Andro v. Andro, 97 Ariz. 302, 400 P.2d 105 (1965); Smith v. Smith, 90 Ariz. 190, 367 P.2d 230 (1961); Galbraith v. Galbraith, 88 Ariz. 358, 356 P.2d 1023 (1960). However, as noted in Andro v. Andro, 97 Ariz. at 305, 400 P.2d at 107-108:
+“ ‘It is, * * * the rule that as a condition to modification of custodial provisions of the original divorce decree there must be shown á change of circumstances materially affecting the welfare of the children. (Citing case.). In such matters pertaining to custody the best interest of the child is the primary consideration of the court; so where a change of custody is sought, it must be shown that the welfare of the child will be advanced by the change. (Citing cases.) The trial court is in the best position to judge what will be in the best interest of the child and this Court will not disturb that judgment on appeal unless it clearly appears the trial court has abused its discretion. (Citing case.) But if the record shows an abuse of sound judicial discretion this Court will not hesitate to reverse or modify. (Citing cases.)’
+“In the recent case of Rodgers v. De Arman, 100 Ariz. 269, 413 P.2d 744 (filed April 27, 1966), the Arizona Supreme Court stated:
+“ ‘A.R.S. § 25-321 concerns itself with the welfare of the child. Change of circumstances is merely another form of evidence which the court in its discretion may consider. In re Walker, 228 Cal.App.2d 217, 39 Cal.Rptr. 243, but the only question of consequence is whether the change of circumstances better serve the general welfare and best interests of the child. Galbraith v. Galbraith, 88 Ariz. 358, 356 P.2d 1023.
+“ ‘Since the primary, paramount, and controlling consideration is the welfare of the child, Galbraith v. Galbraith, supra; Clifford v. Woodford, 83 Ariz. 257, 320 P.2d 452, that question is directed to the discretion of the trial court and in making its determination the court has a broad latitude. Andro v. Andro, 97 Ariz. 302, 400 P.2d 105.’ ”
+Plaintiff argues in her brief that “There is nothing in the record of the instant case which would reflect such changed circumstances as to justify the far-reaching modification which the trial [court] effected by this order. * * * ” If this is so, the judgment would require reversal. The Borg case, supra, at page 277, 413 P.2d at page 787, quoting from the case of Fought v. Fought, 94 Ariz. 187, 188, 382 P.2d 667, 668 (1963), provides the test for the exercise of judicial discretion:
+“To determine that there has been an abuse of discretion, as appellant claims, the record must be devoid of competent evidence to support the decision of the trial court. Further, in testing the sufficiency of the evidence it must be taken in the strongest manner in favor of the appellee and in support of the court’s findings, and a judgment will not be disturbed when there is any reasonable evidence to support it.” (Citing case.)
+The trial court had before it the complete record in this matter from its inception in June, 1960. At the hearing the evidence established that the son was 10 years old in July, 1968, and the daughter 8 years old in May, 1968; that at the time of the last modification of the decree on February 11, 1963, the Plaintiff was attending law college in Tucson and the Defendant lived in Phoenix, while at the time of the hearing, Plaintiff resided in Phoenix, Arizona, with the children, and Defendant resided at Chandler; that both the Plaintiff and Defendant are interested in the welfare of the children and that their attitude toward the children is “good”; that the children have a right and a need to have a relationship with both parents; that the children’s attitude toward both Plaintiff and Defendant was “good”; that the Plaintiff has given the children excellent care and attention; and that neither party has attempted to alienate the children against the other party.
+At the time of the divorce, the children were babies; at the time of this last hearing, the boy was 10 and the daughter was 8. It is the declared policy of this state- that the age of a minor child is a significant consideration for the Court in its determination of custody. Dunbar v. Dunbar, 102 Ariz. 352, 354, 429 P.2d 949 (1967); Ward v. Ward, 88 Ariz. 130, 137, 353 P.2d 895 (1960); A.R.S. § 14-846, sub-sec. B. The same policy certainly applies, to visitation rights and to the facts in this case. The trial court was saying just that in its judgment:
+“3. That from the Court’s own experience, it is recognized that an association with the boy of the age of Harold, Jr. with the father is desirable and in the best interest of said minor child.
+“4. It is now necessary, due to the age of these children, that further visitation rights be set forth for the guidance of the Plaintiff and Defendant.”
+The age of the children, the changed geographical location of the parties, the best interest and welfare of the children, their good opinion of their parents and their need to know their father were certainly considerations of the trial court.
+After reviewing the record, it is our opinion that the trial court exercised sound discretion and that the record supports its determination.
+Judgment is affirmed.
+■HAIRE and JACOBSON, JJ„ concur.
