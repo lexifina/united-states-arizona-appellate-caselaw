@@ -1,0 +1,38 @@
+---
+court: "Arizona Court of Appeals"
+docket: "2 CA-CIV 2032"
+decided: "1976-03-25"
+citations: ["26 Ariz. App. 243", "547 P.2d 514"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KRUCKER and HATHAWAY, JJ., concur."]
+parties: ["Dante SILVESTRI and Barbara Silvestri, husband and wife, Appellants, v. James P. HURLBURT, Appellee."]
+source_url: "https://static.case.law/ariz-app/26/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1238888
+cites_cases: ["106 Ariz. 26", "19 Ariz. App. 247", "80 Ariz. 166", "82 Ariz. 33", "90 Ariz. 120"]
+---
+
+# Silvestri v. Hurlburt
+
+## Majority (HOWARD, Chief Judge.)
+
+OPINION
+HOWARD, Chief Judge.
+This appeal arises out of a suit for personal injuries sustained by appellants in a car accident. The case was tried to a jury which returned a defense verdict and the sole questions on appeal are directed to jury instructions. A detailed recitation of the evidence is unnecessary and we shall refer to evidentiary matters only insofar as they bear upon the questions raised.
+The court instructed the jury that since appellants were husband and wife at the time of the accident, if it should find the husband was negligent and that such negligence contributed as a proximate cause of the accident, then the negligence of the husband was imputed to the wife notwithstanding the wife’s innocence of any negligent conduct. Appellants claim this was error since they were divorced following the accident and prior to trial, and that the divorce decree specifically provided that all right, title to, and interest in Mrs. Sil-vestri’s claim for personal injuries would be her separate property.
+It is well settled in this jurisdiction that since damages in a personal injury action by a spouse are community property, the negligence of one spouse is imputed to the other. Tinker v. Hobbs, 80 Ariz. 166, 294 P.2d 659 (1956); Heimke v. Munoz, 106 Ariz. 26, 470 P.2d 107 (1970). Appellants concede that the rationale for the rule is to prevent a wrongdoer from profiting from his wrong. They argue, however, that the reason for the rule does not apply here because Mr. Silvestri had divested himself of any interest in Mrs. Silvestri’s recovery for injuries sustained by her.
+The record here reflects no evidence whatsoever as to the spouses’ agreement relating to the personal injury claim which purportedly was incorporated in the divorce decree. The decree was neither offered as evidence nor was the trial court asked to take judicial notice of the judgment in the divorce proceedings. The only evidence presented below was the fact that the parties had been divorced prior to the lawsuit. On this state of the record, the court did not err in its instruction to the jury concerning imputation of the husband’s negligence to the wife. Tinker v. Hobbs, supra.
+Appellants claim that the lower court erred in instructing the jury as to A.R.S. Sec. 28-726, Sec. 28-727 and Sec. 28-730. We agree with appellants that it is error to give an instruction when there is no evidentiary support for it. As to A.R.S. Sec. 28-730, the record reflects no objection and we therefore do not consider it on appeal. Rule 51(A), Rules of Civil Procedure, 16 A.R.S.
+As to A.R.S. Secs. 28-726 and 28-727, the record reflects sufficient evidentiary support. The Silvestri vehicle was traveling behind the Hurlburt vehicle pulling a trailer on a highway which was a single lane, downhill grade. The uphill grade highway in the opposite direction was a double lane. Contrary to appellants’ contentions, there was evidence that the highway on their side was marked with a solid yellow line indicating it was a no-passing zone. Mr. Silvestri testified that the yellow line was plainly visible and he recognized it as a no-passing zone. Mrs. Silvestri also testified that she knew it was a no-passing zone.
+According to appellants, they observed Mr. Hurlburt’s brake lights flash intermittently and he began to slow down. As they approached an intersection on the right side, they saw Mr. Hurlburt’s right-turn signal flash and he started pulling over to the right. When Mr. Silvestri saw the trailer moving to the' right he “cautiously moved over a little bit to the left.” According to him, he would have passed the Hurlburts without going over the yellow line because he figured Mr. Hurlburt was pulling to the right and staying on the right side of the road.
+Mrs. Silvestri testified that she had seen signs warning of the intersection ahead. She too thought they would be able to go around the Hurlburts when they appeared to be going off to the right. Then, according to them, they saw the front end of Mr. Hurlburt’s car coming around towards the left and Mrs. Silvestri told her her husband “we will probably go around him.”
+Mr. Hurlburt testified that he had been traveling in the center of the highway and didn’t go off the pavement on the right. According to Mr. Silvestri, when he realized that Mr. Hurlburt was going to make a left turn, the front end of his car was a few feet past the rear of the trailer. Mr. Silvestri had to apply his brakes to avoid a collision and his car overturned coming to rest on the other side of the yellow line.
+We agree with appellants that there was no direct evidence that they had crossed the yellow line prior to the accident. However, from the foregoing circumstances, the jury could logically infer that they had done so in an attempt to pass the Hurlburts because they thought it was turning right at the intersection.
+Appellants’ final contention is that the court’s instruction that violations of certain statutes constituted negligence per se is violative of the constitutional mandate that contributory negligence is a question of fact for the jury. A like contention was advanced in Terzis v. Miles, 90 Ariz. 120, 366 P.2d 683 (1961) wherein the court instructed the jury that the plaintiff in walking across the intersection against the red light was guilty of negligence as a matter of law. Our Supreme Court rejected the argument, stating:
+“The instruction does not take the fact of contributory negligence from the jury. We have many times held that the court should declare the law on contributory negligence to the jury and let it decide whether such fact exists. We have also held that the court might properly hypothetically instruct the jury as to what amounts to common-law negligence. Wolfswinkel v. Southern Pacific Company, 82 Ariz. 33, 307 P.2d 1040. There is neither reason nor logic in preventing the court from telling the jury that it is negligence per se to violate the safety law herein involved and leave it tp the jury to decide whether such violation amounted to contributory negligence.” 90 Ariz. at 122.
+Finding no basis for reversal, we affirm.
+KRUCKER and HATHAWAY, JJ., concur.
+. Appellants’ brief does not comport with the requirements of Rule 5(b), Rules of the Supreme Court, in that the instructions of which they complain are not set forth in haec verba in the appendix to the brief. Although this failure permits us to decline to consider the issues raised, appellee has had no problem responding and since we affirm, appellee suffered no disadvantage from our consideration of the merits. See, Falcher v. St. Luke’s Hospital Medical Center, 19 Ariz. App. 247, 506 P.2d 287 (1973).
+. We note parenthetically that the only objection to the instruction was that the parties were divorced. The lower court was never afforded an opportunity to consider the effect of the husband’s relinquishment of any interest in the wife’s recovery.
