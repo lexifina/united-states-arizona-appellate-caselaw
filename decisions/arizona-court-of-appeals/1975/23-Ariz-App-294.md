@@ -1,0 +1,37 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-IC 1071"
+decided: "1975-03-18"
+citations: ["23 Ariz. App. 294", "532 P.2d 869"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NELSON, P. J., and WREN, J., concur."]
+parties: ["CONTINENTAL CASUALTY COMPANY c/o Pan American Underwriters and Bodine Produce Company, Petitioners, v. The INDUSTRIAL COMMISSION of Arizona, Respondent, Clemente Leon, Respondent Employee."]
+source_url: "https://static.case.law/ariz-app/23/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1240762
+cites_cases: ["109 Ariz. 383", "14 Ariz.App. 175", "23 Ariz.App. 90", "46 Ariz. 176"]
+---
+
+# Continental Casualty Co. v. Industrial Commission
+
+## Majority (STEVENS, Judge.)
+
+OPINION
+STEVENS, Judge.
+The Court must determine whether the hearing officer’s findings and award are reasonably supported by the evidence. In particular, we must determine if the evidence supports the finding that the respondent employee’s condition was not stationary as of May, 1972; the finding of entitlement to total loss of earnings from 16 May 1972 through 18 July 1973; and the finding of continuing disability.
+Clemente Leon, the respondent employee (employee), sustained an industrial injury when the tractor he was driving rolled over and a wheel struck his chest and left knee. His claim was accepted for compensation. On 6 September 1972, the petitioner insurance carrier issued a Notice of Claim Status terminating temporary compensation and medical benefits as of 24 August 1972. The employee timely protested this notice and formal hearings were held. In his Decision Upon Hearing and Findings and Award for Temporary Disability, the hearing officer found the employee’s condition to be stationary and that he suffered no permanent disability. Both sides requested review of the decision. The petitioners for the purpose of having the decision designate the specific benefits to be awarded to the employee and the employee for the purpose of having The Industrial Commission find a permanent disability. The Industrial Commission remanded the case for a hearing de novo due to some procedural irregularities. An affidavit for a change of hearing officer was filed (A.R.S. § 23-941(1) ) and on 23 July 1973, a different hearing officer presided over the new hearings. On 27 July 1973, the Decision Upon Hearing and Findings and Award for Continuing Benefits was filed. The hearing officer found that the employee’s condition was not stationary; that the employee was entitled to temporary partial disability compensation benefits from 16 May 1972 to 18 July 1973 and that the employee “is entitled to temporary total and/or temporary partial disability compensation benefits” from and after 19 July 1973. The petitioners requested review of this decision and upon its affirmance, brought the case before the Court upon a writ of certiorari.
+First, we must determine whether the evidence supports a finding that the employee’s condition was not stationary. The Courts have had problems formulating a working definition of “stationary condition.” For a thorough discussion of the problem see Home Insurance Company v. The Industrial Commission of Arizona, 23 Ariz.App. 90, 530 P.2d 1123 (1975). In Aragon v. Industrial Commission of Arizona, 14 Ariz.App. 175, 481 P.2d 545 (1971), we said:
+“the term ‘stationary’ refers to that time when the physical condition of the emT ployee resulting from the industrial injury has reached a relatively stable status so that nothing further in the way of medical treatment is indicated to improve that condition.” 14 Ariz.App. at 176, 481 P.2d at 546.
+The thrust of the inquiry then is to determine whether the employee’s condition has reached a “relatively stable status.” This does not mean that the employee no longer needs medical treatment but that the treatment he may need be of a supportive nature intended to maintain that “relatively stable status,” rather than to improve the employee’s physical condition.
+The hearing officer found that “there is no evidence applicant’s condition was as yet medically stationary at time of applicant’s last examination and/or treatment by Dr. Kanefield on July 18, 1973, immediately preceding said hearing date.” Donald G. Kanefield, M.D. treated the employee since 28 March 1972, shortly after his industrial injury. At the hearing of 23 July 1973, the hearing officer asked:
+“Fron a physical standpoint and from your findings and examinations and so on, has there been any significant change in Mr. Leon’s condition since these examinations in May of ’72?”
+Dr. Kanefield replied:
+“His whole clinical course has been one of a changing pattern of pain, low periods of pain and high periods of pain, so he’s changing with respect to the intensity of the pain. Physical findings have been relatively constant. It is the pain that I call him back for in periods of more frequent visits to try to control. So, pain, yes has been waxing and waning. Physical findings have been relatively consistent except for the straight-leg-raising which is related to the pain.”
+In Home Insurance Co., supra, the Court said:
+“This [relatively stable] status may be reached even though the workman’s physical condition may involve a continuing need for medical benefits. On the other hand, it cannot be said that the need for continuing medical benefits is completely immaterial, if the evidence indicates that the need is directed toward a recovery from the physical condition resulting from the injury as compared to merely maintaining the status quo.” (Emphasis original, footnote omitted).
+Dr. Kanefield’s testimony indicates that the frequency of treatment bears a direct relationship to the amount of pain the employee experiences. The underlying condition causing the pain is stable but the intensity of the pain is not. Dr. Kanefield’s treatment, according to his testimony, is analgesics of one type or another for the pain that has been “waxing and waning.” Dr. Kanefield was of the opinion that there were some permanent residuals as a result of the accident and that these caused the pain, but this is an indication of a stationary condition rather than a nonstationary condition.
+It is axiomatic that where the evidence is in conflict,' The Industrial Commission has the responsibility of resolving the conflict and we will not disturb its findings. In the present case, we believe there is no conflict of evidence as to the employee’s stationary condition. We believe that the essence of Dr. Kanefield’s testimony is fairly set forth in the quoted excerpt from the hearings. The conflict we see, as did the hearing officer, is whether the industrial accident aggravated a preexisting osteoarthritic condition. The conflict has little to do with the question of whether the employee’s condition is stationary. When an injured workman’s condition becomes stationary, he is no longer entitled to temporary disability benefits but is entitled to permanent disability benefits if he can show an entitlement to permanent disability benefits. Ossic v. Verde Central Mines, 46 Ariz. 176, 49 P.2d 396 (1935); Employers Mutual Liability Ins. Co. of Wis. v. Contreras, 109 Ariz. 383, 509 P.2d 1030 (1973). In view of our holding, we do not need to answer the other questions presented.
+Award set aside.
+NELSON, P. J., and WREN, J., concur.
