@@ -1,0 +1,46 @@
+---
+court: "Arizona Court of Appeals"
+docket: "1 CA-CIV 830"
+decided: "1969-09-16"
+citations: ["10 Ariz. App. 318", "458 P.2d 522"]
+reporter: "ariz-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen C. SHEELEY, Appellant, v. William F. SHEELEY, Appellee."]
+source_url: "https://static.case.law/ariz-app/10/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1208225
+cites_cases: ["101 Ariz. 444", "198 Or. 151", "94 Ariz. 187"]
+---
+
+# Sheeley v. Sheeley
+
+## Majority (JACOBSON, Judge.)
+
+JACOBSON, Judge.
+The Appellant-plaintiff appeals from a judgment of the Superior Court of Mari-copa County denying her application to that court for an increase in alimony payments to cover the cost of physiotherapy treatments administered to her and to cover these costs in the future.
+The Hon. Charles L. Hardy, sitting without a jury found there were insufficient changed circumstances to justify a modification of the decree by increasing the alimony payments. We are asked to determine whether or not there was sufficient evidence to sustain this finding.
+We are favored with a written opinion in this matter, for which we commend the trial court, and adopt the statement of facts therefrom as modified by him.
+“The parties were divorced on January 25, 1967. The decree of divorce required the defendant to pay to the plaintiff as alimony the sum of $400.00 per month and to pay to her $200.00 per month for the support and maintenance of two minor children of the parties * * *.
+“A property settlement agreement between the parties dated December 16, 1966, * * stated that the parties agreed :
+‘Each of the parties is fully and completely informed of the financial and personal status of the other, the husband avowing that his only source of income as of the date of this agreement is his salary from the State of Arizona as Administrator of the Arizona State Hospital, which salary is in the gross sum of $23,000.00.’
+“The property settlement agreement further recited:
+‘The Husband recognizes that his Wife is presently suffering from the disease of multiple schlerosis (sic) and that although at the present time there are no extra-ordinary medical or hospital expenses, there is the likelihood that at some future time her illness may cause there to be incurred doctor, hospital, nursing and other medical expenses.’
+“On October 17, 1967, plaintiff filed her petition to modify the divorce decree, praying that the decree be modified to order the defendant to pay for the cost of physiotherapy treatments administered to the plaintiff
+“For a number of years the plaintiff has been afflicted with multiple schlerosis, (sic) a progressive, incurable disease of the nervous system. When the parties moved to Arizona from Washington, D. C. in 1965, she consulted with Doctor Alvin D. Sidell, a neurologist, who recommended that she consult a physiatrist for physiotherapy. (In October, 1966, plaintiff was referred to Dr. Bjorklund by Dr. Sidell and made six visits to his office over a 12-week period to receive physiotherapy treatments. ) These treatments were not intended to alleviate the plaintiff’s affliction * * *.
+“Dr. Sidell saw the plaintiff on six different occasions, four before the divorce and two after. During most of the period of time since October, 1965, her condition was stationary. However, between the visits of August, 1966, and April, 1967, he noted some deterioration in her physical condition. He testified specifically that it was not a marked deterioration.
+“Shortly after the divorce the plaintiff began to receive physiotherapy treatments from Jean Hoffman, a qualified physiotherapist in Scottsdale. The cost of each treatment was $10.00. For awhile plaintiff went to Miss Hoffman three times a week and at the time of the hearing was going about two times a week. Doctor Sidell testified that two physiotherapy treatments a week would be sufficient and that more than that would not be justified.
+“ * * * There is no known cure for multiple schlerosis. (sic) However, the treatments did make the plaintiff feel better — Dr. Sidell testified that they were as much for her mental and emotional health as for her physical condition.”
+The changed conditions urged upon this court to justify the increase in alimony are:
+1. The plaintiff having taken physiotherapy treatments prior to the divorce and having rejected them as being unsatisfactory, her subsequent resumption of these treatments after the divorce and property settlement agreement and the now satisfactory results experienced by her constitute a changed condition.
+2. The fact that the defendant’s salary has increased from $23,000 to $35,000 a year resulted in a changed financial condition of the defendant.
+The Arizona Supreme Court in the recent case of Norton v. Norton, 101 Ariz. 444, 420 P.2d 578 (1966) has treated exhaustively the law in Arizona and elsewhere as to what must be taken into consideration in modifying a decree of divorce insofar as the same concerns alimony. The controlling factors enumerated in Norton are that the court, in making a determination as to whether a decree for support and maintenance should be modified, is governed by the same factors as are required in determining the reasonableness of an award for support and maintenance at the time of the original decree and in determining these questions should consider any change in the circumstances of the parties since the original decree.
+Counsel in this case agree that in order to modify the original decree there must be such a change of circumstances as to indicate to the court that the provisions of the original decree which are presumed to have been reasonable are no longer reasonable.
+The trial court after a careful examination of the facts set forth above and the provision of the property settlement agreement concerning the plaintiff’s ailment concluded that the resumption of physiotherapy treatments for which the plaintiff requests payment does not fall within the category of extraordinary expenses as contemplated by the property settlement agreement but such treatments “are * * * a continuance of ‘ordinary’ treatment which was indicated for at least a year before the divorce” and concluded there was not sufficient change of circumstances to justify a modification. With this conclusion we agree. However, we do not base our opinion on this ground alone. To this court, the important factor upon which we are urged to find a change of circumstances, is the type of change occurring here.
+There is no dispute that physiotherapy treatments were recommended to the plaintiff some time prior to the divorce ; that plaintiff tried these treatments and found them unsatisfactory; that, unfortunately, the particular disease from which the plaintiff suffers is not capable of cure and her prognosis is one of continued deterioration; that the treatments that she receives do not relieve her physical condition but are recommended to her by her doctor primarily for her mental well being; and that the treatments received prior to the divorce did not make her feel better, but that the treatments now received do make her feel better. In essence, the type of change of circumstances relied upon by the plaintiff to justify the modification of the original divorce decree are primarily subjective in nature. This court, in rather exhaustive research, has been unable to find any authority to support the proposition that a change in circumstances which are purely subjective in nature are sufficient to justify a modification. Upon analysis, the lack of authority for this proposition is obvious. To open the door to modification of alimony where the circumstances surrounding that modification are not capable of disproof or are subject to the whim of the parties involved would subject the courts and parties to harrassment by unscrupulous ex-spouses. We therefore hold that such subjective change of circumstances is not sufficient to justify a modification of a divorce decree granting alimony.
+We are aware that a change in the financial circumstances of the parties involved are one of the totality of circumstances which should be considered by the trial court in considering a modification of a divorce decree. Norton v. Norton, supra. An increase in the earning capacity of the husband after the divorce, standing alone, however, is not sufficient. A former wife has no continuing right to share in future accumulations of wealth by her divorced husband. Feves v. Feves, 198 Or. 151, 254 P.2d 694 (1953).
+While this court may have arrived at a different conclusion than the trial court, we are not permitted to substitute our discretion for that of the trial court, if the record contains any competent evidence to support the decision of the trier of facts. Fought v. Fought, 94 Ariz. 187, 382 P.2d 667 (1963).
+The judgment of the trial court denying Plaintiff’s petition for modification of the divorce decree is affirmed.
+EUBANK, P. J., and HAIRE, J., concur.
+. The parenthetical material is this court’s language setting forth the trial court’s opinion as modified.
+. The plaintiff voluntarily gave up these treatments (our language).
